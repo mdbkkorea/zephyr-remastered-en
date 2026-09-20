@@ -17,12 +17,13 @@ public partial class MainWindow : Window
   var steam=Registry.GetValue(@"HKEY_CURRENT_USER\Software\Valve\Steam","SteamPath",null) as string;
   if(steam==null)return null;var roots=new List<string>{steam};var file=Path.Combine(steam,"steamapps","libraryfolders.vdf");
   if(File.Exists(file))foreach(Match m in Regex.Matches(File.ReadAllText(file),"\"path\"\\s+\"([^\"]+)\""))roots.Add(m.Groups[1].Value.Replace(@"\\",@"\"));
-  return roots.Select(r=>Path.Combine(r,"steamapps","common","The Rhapsody of Zephyr Remastered")).FirstOrDefault(p=>File.Exists(Path.Combine(p,"ZephyrRemastered.exe")));
+  return roots.Select(r=>GamePaths.Normalize(Path.Combine(r,"steamapps","common","The Rhapsody of Zephyr Remastered"))).FirstOrDefault(p=>File.Exists(Path.Combine(p,"ZephyrRemastered.exe")));
  }
  void OnClosing(object? sender,CancelEventArgs e){if(busy){e.Cancel=true;MessageBox.Show(this,"正在处理游戏文件，请等待完成后再关闭。","请稍候");}}
  void SetBusy(bool value){busy=value;GamePath.IsEnabled=!value;InstallButton.IsEnabled=false;RestoreButton.IsEnabled=false;RecoverButton.IsEnabled=!value;Progress.Visibility=value?Visibility.Visible:Visibility.Collapsed;}
  async Task<JsonElement> RunEngine(string action)
  {
+  GamePath.Text=GamePaths.Normalize(GamePath.Text);
   var start=new ProcessStartInfo(Path.Combine(AppContext.BaseDirectory,"tools","ZephyrPatchEngine","ZephyrPatchEngine.exe")){UseShellExecute=false,CreateNoWindow=true,RedirectStandardOutput=true,RedirectStandardError=true,StandardOutputEncoding=System.Text.Encoding.UTF8,StandardErrorEncoding=System.Text.Encoding.UTF8};
   start.ArgumentList.Add(action);start.ArgumentList.Add("--game");start.ArgumentList.Add(GamePath.Text.Trim());start.ArgumentList.Add("--payload");start.ArgumentList.Add(Path.Combine(AppContext.BaseDirectory,"payload"));
   using var process=new Process{StartInfo=start};process.ErrorDataReceived+=(_,e)=>{if(!string.IsNullOrWhiteSpace(e.Data))Dispatcher.BeginInvoke(()=>ProgressText.Text=e.Data);};
@@ -59,7 +60,7 @@ public partial class MainWindow : Window
   catch(Exception ex){StateTitle.Text="操作未完成";StateDetail.Text=ex.Message;MessageBox.Show(this,ex.Message,"操作提示");}
   finally{busy=false;GamePath.IsEnabled=true;Progress.Visibility=Visibility.Collapsed;await Refresh();}
  }
- async void BrowseClick(object sender,RoutedEventArgs e){if(busy)return;var dialog=new OpenFolderDialog{Title="选择包含 ZephyrRemastered.exe 的游戏文件夹"};if(dialog.ShowDialog(this)==true){GamePath.Text=dialog.FolderName;await Refresh();}}
+ async void BrowseClick(object sender,RoutedEventArgs e){if(busy)return;var dialog=new OpenFolderDialog{Title="选择包含 ZephyrRemastered.exe 的游戏文件夹"};if(dialog.ShowDialog(this)==true){GamePath.Text=GamePaths.Normalize(dialog.FolderName);await Refresh();}}
  async void PathChanged(object sender,System.Windows.Controls.TextChangedEventArgs e){if(!initialized||busy)return;int ticket=++generation;await Task.Delay(600);if(ticket==generation)await Refresh();}
  async void InstallClick(object sender,RoutedEventArgs e)=>await Operate("install");
  async void RestoreClick(object sender,RoutedEventArgs e){if(MessageBox.Show(this,"恢复原版游戏文件？存档不会改动。","恢复原版",MessageBoxButton.YesNo)==MessageBoxResult.Yes)await Operate("restore");}

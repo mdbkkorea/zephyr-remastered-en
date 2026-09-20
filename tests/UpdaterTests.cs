@@ -16,3 +16,9 @@ Assert(rejected);metadata[2]^=1;rejected=false;
 try{Updates.VerifyMetadata(metadata,signature,"v0.1.0-beta.2",key.ExportSubjectPublicKeyInfoPem());}catch(CryptographicException){rejected=true;}
 Assert(rejected);
 Console.WriteLine("PASS: semantic versions, valid signature, tag mismatch, tampered metadata");
+if(OperatingSystem.IsWindows()) {
+ Assert(GamePaths.Normalize(@"d:/games/steam\steamapps\common\The Rhapsody of Zephyr Remastered")==@"D:\games\steam\steamapps\common\The Rhapsody of Zephyr Remastered");
+ Assert(GamePaths.Normalize("  \"D:/Games/游戏/\"  ")==@"D:\Games\游戏");
+ Assert(GamePaths.Normalize(@"\\server\share\game\")==@"\\server\share\game");
+ Console.WriteLine("PASS: mixed separators, quoted Unicode path, UNC path");
+}
