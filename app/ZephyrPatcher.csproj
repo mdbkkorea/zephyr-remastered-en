@@ -2,7 +2,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework>
     <UseWPF>true</UseWPF><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings>
-    <AssemblyName>ZephyrChinesePatcher</AssemblyName><Version>0.1.0</Version>
+    <AssemblyName>ZephyrChinesePatcher</AssemblyName><Version>0.1.0-beta.2</Version><FileVersion>0.1.0.2</FileVersion>
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
 </Project>

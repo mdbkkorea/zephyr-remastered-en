@@ -44,8 +44,8 @@ public partial class MainWindow : Window
  {
   string state=r.GetProperty("status").GetString()??"";
   (StateTitle.Text,StateDetail.Text)=state switch{
-   "original"=>("原版游戏 · 可以安装汉化","安装前自动备份。恢复后可通过游戏或 Steam 选择韩语／英文。"),
-   "installed"=>("已安装最新汉化","使用韩语语言选项加载中文。朱雀仿宋已启用，原版花体菜单保留；视频字幕暂未汉化。"),
+   "original"=>("原版游戏 · 可以安装汉化","安装前自动备份。恢复原版会还原安装前的韩语游戏文件，不改动存档。"),
+   "installed"=>("已安装最新汉化","直接启动游戏即可。朱雀仿宋已启用，原版花体菜单保留；视频字幕暂未汉化。"),
    "update_available"=>("已有汉化 · 可以更新","将基于已保存的原版备份更新，保留存档。"),
    "recovery_required"=>("上次操作未完成","请关闭游戏，点击“恢复上次操作”后再继续。"),
    "unmanaged_localization"=>("检测到已有汉化","当前版本正确，但本工具没有原版备份。请先用原备份恢复或通过 Steam 验证文件，再使用本工具安装。"),

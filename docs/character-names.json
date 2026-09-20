@@ -1,0 +1,307 @@
+{
+  "scope": "32 curated main and supplementary names; not every NPC",
+  "checked_on": "2026-09-20",
+  "entries": [
+    {
+      "korean": "시라노 번스타인",
+      "legacy_chinese": "希罗尼·班史顿",
+      "current_chinese": "西拉诺·伯恩斯坦",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "메르세데스 보르자",
+      "legacy_chinese": "梅尔西迪斯·伯尔嘉",
+      "current_chinese": "梅尔塞德斯·博尔吉亚",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "P"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "체사레 보르자",
+      "legacy_chinese": "蔡斯尔·伯尔嘉",
+      "current_chinese": "切萨雷·博尔吉亚",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "로베르토 데 메디치",
+      "legacy_chinese": "罗伯特·荻·梅迪西",
+      "current_chinese": "罗伯托·德·梅迪西",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "클라우제비츠",
+      "legacy_chinese": "克勒杰比",
+      "current_chinese": "克劳塞维茨",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "카나 밀라노비치",
+      "legacy_chinese": "迦娜·密罗尼比琪",
+      "current_chinese": "卡娜·米拉诺维奇",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "이자벨 리피네",
+      "legacy_chinese": "伊莎贝·利比尼",
+      "current_chinese": "伊莎贝尔·利普内茨",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "리델 하트",
+      "legacy_chinese": "力德哈特／吕得·哈德",
+      "current_chinese": "里德尔·哈特",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1",
+        "P"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "캡틴 실버",
+      "legacy_chinese": "狮头船长",
+      "current_chinese": "希尔弗船长",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "샤른호스트",
+      "legacy_chinese": "莎伦·哈斯特／沙伦沪斯特",
+      "current_chinese": "沙恩霍斯特",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "에스메랄다",
+      "legacy_chinese": "爱斯美若达",
+      "current_chinese": "埃斯梅拉达",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "크리스",
+      "legacy_chinese": "克丽丝／克莉丝",
+      "current_chinese": "克里斯",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1",
+        "S2"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "크리스티나",
+      "legacy_chinese": "完整姓名旧译待核",
+      "current_chinese": "克里斯蒂娜",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "이올린 팬드래건",
+      "legacy_chinese": "伊吴莲·番迪来建",
+      "current_chinese": "伊奥琳·潘德拉根",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "P"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "데이모스",
+      "legacy_chinese": "狄慕斯",
+      "current_chinese": "戴莫斯",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "P",
+        "S2"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "루이 셰페르",
+      "legacy_chinese": "待核",
+      "current_chinese": "路易·舍费尔",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "보르스 앙드레아",
+      "legacy_chinese": "待核",
+      "current_chinese": "博尔斯·安德烈亚",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "루벤",
+      "legacy_chinese": "罗宾",
+      "current_chinese": "鲁本",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "알프레드 프레데릭",
+      "legacy_chinese": "阿富瑞得·富瑞得利",
+      "current_chinese": "阿尔弗雷德·弗雷德里克",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "마키아벨리",
+      "legacy_chinese": "玛其亚贝利／马基雅维里",
+      "current_chinese": "马基雅维利",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "이스카리옷",
+      "legacy_chinese": "伊思卡利忒／伊斯葛利欧",
+      "current_chinese": "伊斯卡里奥特",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "에스테 도데",
+      "legacy_chinese": "爱思德·朵丽",
+      "current_chinese": "埃斯特·多德",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "카타리나",
+      "legacy_chinese": "卡特琳娜／佧他丽娜",
+      "current_chinese": "卡塔莉娜",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S1"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "이루스",
+      "legacy_chinese": "伊鲁斯",
+      "current_chinese": "伊鲁斯",
+      "legacy_status": "SECONDARY_REFERENCE_NOT_ORIGINAL_SCREENSHOT",
+      "legacy_sources": [
+        "S4"
+      ],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "조세핀",
+      "legacy_chinese": "待核",
+      "current_chinese": "约瑟芬",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "디아블로",
+      "legacy_chinese": "待核",
+      "current_chinese": "迪亚布罗",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "라몬",
+      "legacy_chinese": "待核",
+      "current_chinese": "拉蒙",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "게리슨",
+      "legacy_chinese": "待核",
+      "current_chinese": "盖里森",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "라시드 3세",
+      "legacy_chinese": "待核",
+      "current_chinese": "拉希德三世",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "루크 번스타인",
+      "legacy_chinese": "待核",
+      "current_chinese": "卢克·伯恩斯坦",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "빈센트 번스타인",
+      "legacy_chinese": "待核",
+      "current_chinese": "文森特·伯恩斯坦",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    },
+    {
+      "korean": "밀레",
+      "legacy_chinese": "待核",
+      "current_chinese": "米勒",
+      "legacy_status": "UNVERIFIED",
+      "legacy_sources": [],
+      "current_name_status": "EXISTING_ACCEPTED_TERM"
+    }
+  ]
+}

@@ -23,7 +23,7 @@ pwsh -File scripts/build.ps1 -OutputDirectory C:\Build\zephyr-release-001
 
 新译文版本需从维护者私有的原版／候选工作副本重新导出叶字段操作和许可字体字形块，重新检查所有原版哈希、最终输出 SHA、Unity 原生 CRC、catalog。将原版字形转换为本地复制引用，新字形须有逐块许可来源证明。不要把压缩 bundle 的粗粒度二进制差分当成“没有官方资源”的证明。内部游戏素材和生成工具工作区不应加入仓库。
 
-升级游戏支持版本需要独立重建和回归，不能修改旧版哈希冒充兼容。版本号同步修改 `engine/main.py`、`app/Updates.cs`、项目版本及 UI 显示；payload 的版本也应对应。
+升级游戏支持版本需要独立重建和回归，不能修改旧版哈希冒充兼容。工具版本由 `app/Updates.cs`、项目版本与 UI 显示同步维护；资源数据版本由 `engine/main.py` 和 payload 对应维护。beta.2 仅修正文档与界面提示，资源数据保持 beta.1，已安装的同一数据无需再次回填。
 
 ## 发布签名
 
