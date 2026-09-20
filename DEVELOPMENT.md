@@ -9,7 +9,7 @@ python -m pip install -r requirements.txt
 pwsh -File scripts/build.ps1 -OutputDirectory C:\Build\zephyr-release-001
 ```
 
-构建输出必须在仓库之外。`app/bin`、`app/obj` 是临时编译结果，不提交、不打进源码审阅包。发行目录中的 .NET 和 Python 运行依赖应完整保留。第一版尚未承诺不同 SDK/传递依赖下的逐字节可重复 EXE 构建。
+构建输出必须在仓库之外。`app/bin`、`app/obj` 是临时编译结果，不提交、不打进源码审阅包。主程序通过 .NET 原生 PublishSingleFile 与 IncludeNativeLibrariesForSelfExtract 将托管和原生运行库打包，保留 zh-Hans 资源，不做 WPF 裁剪；无需引入 Fody。Python 引擎仍放在 tools 内，payload 与许可证必须完整保留。图标为本项目原创几何羽笔，可用 scripts/create-icon.ps1 重建。第一版尚未承诺不同 SDK/传递依赖下的逐字节可重复 EXE 构建。
 
 ## 测试
 
@@ -36,3 +36,5 @@ pwsh -File scripts/sign-release.ps1 -Archive C:\Build\Zephyr-Chinese-Patcher-0.1
 GitHub tag 使用 `v` 前缀；该 tag 的 Release 附上程序 ZIP、`release.json`、`release.sig`、SHA-256 清单。程序从固定仓库读取发布记录，用 RSA-PSS/SHA-256 核验元数据再提示更新。程序不自动执行下载内容；用户需按发布清单核对手动下载的 ZIP。元数据签名不等于对 EXE 的 Authenticode 签名。
 
 发布前扫描仓库及 ZIP，排除官方资源、原文全集、私钥、令牌、游戏备份、存档和个人路径；核对字体和所有运行依赖许可证。Release 不上传测试 fixture。
+
+当前 beta.3 调整发行布局、原创程序图标和 README 截图，资源数据仍为 beta.1。

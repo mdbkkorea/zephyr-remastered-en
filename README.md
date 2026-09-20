@@ -3,7 +3,7 @@
 # 西风狂诗曲
 ### 重制版 · 简体中文重译计划
 
-**让记忆里的故事，重新说一遍。**
+**让记忆里的冒险再次启程。**
 
 为爱发电的非官方汉化 · 朱雀仿宋 · 保留原作美术字
 
@@ -21,6 +21,23 @@
 
 > [!IMPORTANT]
 > **当前重制版官方仅支持韩语，没有英文版。** 汉化后直接启动游戏即可，无需寻找语言切换选项。“恢复原版”会还原安装前的韩语游戏文件。语言支持信息以 [Steam 官方商店](https://store.steampowered.com/app/5099430/) 为准（核对于 2026-09-20）。
+
+## 汉化实机预览
+
+以下为玩家提供的实际游戏截图，点击可查看原图。游戏画面版权归原权利方所有，仅用于展示汉化效果。
+
+| 角色与技能 | 探索对白 |
+| :---: | :---: |
+| [![角色与技能](docs/screenshots/character.png)](docs/screenshots/character.png) | [![探索对白](docs/screenshots/dialogue.png)](docs/screenshots/dialogue.png) |
+| 战斗界面 | 剧情对话 |
+| [![战斗界面](docs/screenshots/battle.png)](docs/screenshots/battle.png) | [![剧情对话](docs/screenshots/story.png)](docs/screenshots/story.png) |
+
+## 运行环境
+
+- **Windows 10 / 11，64 位（x64）。** 需要已安装的正版游戏及受支持的游戏版本。
+- 官方发行 ZIP 已包含 **.NET 10 运行时和 Python 引擎依赖**，玩家无需另外下载 .NET、Python 或 Unity；开发者编译要求见 [开发说明](DEVELOPMENT.md)。
+- 主程序采用 .NET 原生单文件发布，依赖整合到 EXE；首次启动会在本机临时目录解压必要的原生运行库。
+- 请完整解压发行 ZIP。`tools`、`payload` 和许可文件仍需保留，不能只复制主程序 EXE。旧版的 `es`、`fr`、`it`、`ja`、`ko` 等目录是运行库的语言资源，不是额外游戏翻译；新版不再将它们散放在程序目录。
 
 ## 开始游玩
 
