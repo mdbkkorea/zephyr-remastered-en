@@ -1,0 +1,16 @@
+name: 汉化或工具问题
+description: 报告漏译、显示问题或安装恢复错误
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: 工具版本与游戏版本
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 发生位置与复现步骤
+      description: 可附必要截图；请勿上传游戏资源、完整存档、账号信息或个人路径。
+    validations:
+      required: true

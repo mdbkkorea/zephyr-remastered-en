@@ -1,0 +1,195 @@
+[
+  {
+    "name": "UnityPy",
+    "version": "1.25.3",
+    "license": "MIT License",
+    "notices": [
+      "unitypy-1.25.3.dist-info__licenses__LICENSE"
+    ]
+  },
+  {
+    "name": "numpy",
+    "version": "2.5.3",
+    "license": "BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0",
+    "notices": [
+      "numpy__ma__LICENSE",
+      "numpy__random__LICENSE.md",
+      "numpy___core__include__numpy__random__LICENSE.txt",
+      "numpy-2.5.3.dist-info__licenses__LICENSE.txt",
+      "numpy-2.5.3.dist-info__licenses__numpy__fft__pocketfft__LICENSE.md",
+      "numpy-2.5.3.dist-info__licenses__numpy__linalg__lapack_lite__LICENSE.txt",
+      "numpy-2.5.3.dist-info__licenses__numpy__ma__LICENSE",
+      "numpy-2.5.3.dist-info__licenses__numpy__random__LICENSE.md",
+      "numpy-2.5.3.dist-info__licenses__numpy__random__src__distributions__LICENSE.md",
+      "numpy-2.5.3.dist-info__licenses__numpy__random__src__mt19937__LICENSE.md",
+      "numpy-2.5.3.dist-info__licenses__numpy__random__src__pcg64__LICENSE.md",
+      "numpy-2.5.3.dist-info__licenses__numpy__random__src__philox__LICENSE.md",
+      "numpy-2.5.3.dist-info__licenses__numpy__random__src__sfc64__LICENSE.md",
+      "numpy-2.5.3.dist-info__licenses__numpy__random__src__splitmix64__LICENSE.md",
+      "numpy-2.5.3.dist-info__licenses__numpy___core__include__numpy__libdivide__LICENSE.txt",
+      "numpy-2.5.3.dist-info__licenses__numpy___core__src__common__pythoncapi-compat__COPYING",
+      "numpy-2.5.3.dist-info__licenses__numpy___core__src__highway__LICENSE",
+      "numpy-2.5.3.dist-info__licenses__numpy___core__src__multiarray__dragon4_LICENSE.txt",
+      "numpy-2.5.3.dist-info__licenses__numpy___core__src__npysort__x86-simd-sort__LICENSE.md",
+      "numpy-2.5.3.dist-info__licenses__numpy___core__src__umath__svml__LICENSE"
+    ]
+  },
+  {
+    "name": "spooky",
+    "version": "2.0.0",
+    "license": "MIT License",
+    "notices": []
+  },
+  {
+    "name": "pillow",
+    "version": "12.3.0",
+    "license": "MIT-CMU",
+    "notices": [
+      "pillow-12.3.0.dist-info__licenses__LICENSE"
+    ]
+  },
+  {
+    "name": "lz4",
+    "version": "4.4.5",
+    "license": "",
+    "notices": [
+      "lz4-4.4.5.dist-info__licenses__LICENSE"
+    ]
+  },
+  {
+    "name": "brotli",
+    "version": "1.2.0",
+    "license": "MIT",
+    "notices": [
+      "brotli-1.2.0.dist-info__licenses__LICENSE"
+    ]
+  },
+  {
+    "name": "texture2ddecoder",
+    "version": "1.0.6",
+    "license": "MIT License",
+    "notices": [
+      "texture2ddecoder-1.0.6.dist-info__LICENSE"
+    ]
+  },
+  {
+    "name": "etcpak",
+    "version": "0.9.15",
+    "license": "MIT License",
+    "notices": [
+      "etcpak-0.9.15.dist-info__LICENSE"
+    ]
+  },
+  {
+    "name": "astc-encoder-py",
+    "version": "0.1.12",
+    "license": "MIT License",
+    "notices": [
+      "astc_encoder_py-0.1.12.dist-info__LICENSE"
+    ]
+  },
+  {
+    "name": "fmod_toolkit",
+    "version": "0.1.3",
+    "license": "MIT License",
+    "notices": [
+      "fmod_toolkit-0.1.3.dist-info__LICENSE"
+    ]
+  },
+  {
+    "name": "fsspec",
+    "version": "2026.9.0",
+    "license": "BSD-3-Clause",
+    "notices": [
+      "fsspec-2026.9.0.dist-info__licenses__LICENSE"
+    ]
+  },
+  {
+    "name": "attrs",
+    "version": "26.1.0",
+    "license": "MIT",
+    "notices": [
+      "attrs-26.1.0.dist-info__licenses__LICENSE"
+    ]
+  },
+  {
+    "name": "tpk_ar",
+    "version": "0.2.4",
+    "license": "MIT License",
+    "notices": [
+      "tpk_ar-0.2.4.dist-info__licenses__LICENSE"
+    ]
+  },
+  {
+    "name": "archspec",
+    "version": "0.2.6",
+    "license": "Apache-2.0 OR MIT",
+    "notices": [
+      "archspec-0.2.6.dist-info__LICENSE-APACHE",
+      "archspec-0.2.6.dist-info__LICENSE-MIT",
+      "archspec-0.2.6.dist-info__NOTICE",
+      "archspec__json__LICENSE-APACHE",
+      "archspec__json__LICENSE-MIT",
+      "archspec__json__NOTICE",
+      "archspec__vendor__cpuid__LICENSE"
+    ]
+  },
+  {
+    "name": "pyfmodex",
+    "version": "0.7.2",
+    "license": "MIT",
+    "notices": [
+      "pyfmodex-0.7.2.dist-info__LICENSE"
+    ]
+  },
+  {
+    "name": "setuptools",
+    "version": "84.0.0",
+    "license": "MIT",
+    "notices": [
+      "setuptools-84.0.0.dist-info__licenses__LICENSE",
+      "setuptools___vendor__autocommand-2.2.2.dist-info__LICENSE",
+      "setuptools___vendor__backports.tarfile-1.2.0.dist-info__LICENSE",
+      "setuptools___vendor__importlib_metadata-8.7.1.dist-info__licenses__LICENSE",
+      "setuptools___vendor__jaraco.text-4.0.0.dist-info__LICENSE",
+      "setuptools___vendor__jaraco_context-6.1.0.dist-info__licenses__LICENSE",
+      "setuptools___vendor__jaraco_functools-4.4.0.dist-info__licenses__LICENSE",
+      "setuptools___vendor__more_itertools-10.8.0.dist-info__licenses__LICENSE",
+      "setuptools___vendor__packaging-26.0.dist-info__licenses__LICENSE",
+      "setuptools___vendor__packaging-26.0.dist-info__licenses__LICENSE.APACHE",
+      "setuptools___vendor__packaging-26.0.dist-info__licenses__LICENSE.BSD",
+      "setuptools___vendor__platformdirs-4.4.0.dist-info__licenses__LICENSE",
+      "setuptools___vendor__tomli-2.4.0.dist-info__licenses__LICENSE",
+      "setuptools___vendor__wheel-0.46.3.dist-info__licenses__LICENSE.txt",
+      "setuptools___vendor__zipp-3.23.0.dist-info__licenses__LICENSE",
+      "setuptools__config__NOTICE",
+      "setuptools__config___validate_pyproject__NOTICE"
+    ]
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "license": "Apache-2.0 OR BSD-2-Clause",
+    "notices": [
+      "packaging-26.3.dist-info__licenses__LICENSE",
+      "packaging-26.3.dist-info__licenses__LICENSE.APACHE",
+      "packaging-26.3.dist-info__licenses__LICENSE.BSD"
+    ]
+  },
+  {
+    "name": "pyinstaller",
+    "version": "6.22.3",
+    "license": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)",
+    "notices": [
+      "pyinstaller-6.22.3.dist-info__licenses__COPYING.txt"
+    ]
+  },
+  {
+    "name": "pyinstaller-hooks-contrib",
+    "version": "2026.7",
+    "license": "",
+    "notices": [
+      "pyinstaller_hooks_contrib-2026.7.dist-info__licenses__LICENSE"
+    ]
+  }
+]

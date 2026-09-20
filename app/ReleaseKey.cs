@@ -1,0 +1,11 @@
+namespace ZephyrPatcher; public static class ReleaseKey { public const string PublicPem = @"-----BEGIN PUBLIC KEY-----
+MIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEA4eJvP0TtpcAfnFk5/Vns
+0AUkBxp1rUXIPJNiWfpAcOF+oRYmBnkvW4ocRy9jUB8rcnUEOxsLdpNP7QgzV+hk
+3ib8NXSZnKInayqn6VbRsxxGspW2B5EYKeUGpLvqoxSf1RNheCWNVlm+LQy5OCT9
+N33mb8tNzhfWvsUnlgZ6uLiTvGlzJftEfo/4kUQp4B2XP4cYC1ND36ihp1fV9gS3
+L3Ho9wjImShMcBvw+LX7BUtipf4zPyxA0Y8Ji0LbWIcxSmiWLOwEe25n1+gj8o88
+te51hYLhlovi6T7sx1HRAEv8uNZ47QiT6iUS5jQpVy5/CCotbAu3zuHJt+tl+LNg
+/KL9lMqcXWfEHo8bOYKewGRVuDfozdYOuGzsWABritAcMOKDHMysKzYZ4/Oi0vUV
+Ry5itTmiYryy2lGH/94Kz+qyubDnz0Ali2W91fhhyTXZ9SqbvlSsXnyXxiAK7pgL
+n2a5dh7SWs7DiCDmOFxNGOiR1XnAs31lv26TxI09gzK5AgMBAAE=
+-----END PUBLIC KEY-----"; }
