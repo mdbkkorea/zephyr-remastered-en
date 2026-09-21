@@ -1,208 +1,74 @@
-<div align="center">
+# The Rhapsody of Zephyr Remastered — English Translation
+# 서풍의 광시곡 리마스터 — 영어 번역
 
-# 西风狂诗曲
-### 重制版 · 简体中文重译计划
+[English](#english) · [한국어](#한국어)
 
-**让记忆里的冒险再次启程。**
+## English
 
-为爱发电的非官方汉化 · 朱雀仿宋 · 保留原作美术字
+An unofficial English translation project for **The Rhapsody of Zephyr Remastered**, based on the **original Korean game text**.
 
-[**下载汉化工具**](https://github.com/wanjizheng/zephyr-remastered-zh-cn/releases)　｜　[人物译名对照](#人物译名对照)　｜　[反馈问题](https://github.com/wanjizheng/zephyr-remastered-zh-cn/issues)　｜　[支持正版](https://store.steampowered.com/app/5099430/)
+### Where this fork comes from
 
-</div>
+This repository is a fork of [wanjizheng/zephyr-remastered-zh-cn](https://github.com/wanjizheng/zephyr-remastered-zh-cn), a Chinese localization project. Credit for the upstream Chinese translation and patching tools belongs to its contributors.
 
----
+The first English drafts in this fork were translated from the upstream Chinese text. The project then moved to translating **directly from the original Korean**. Korean is authoritative whenever the sources differ; Chinese is used only as supporting context. The earlier Chinese-derived drafts are kept separately and should not be mistaken for the current Korean-based translation.
 
-## 写在前面
+### What has changed after review
 
-小时候，我特别喜欢《西风狂诗曲》。1998 年的原作，以及后来陪伴我们的老中文版，留下了很多难忘的回忆。如今重制版来了，我想再走一遍那段旅程，也希望更多中文玩家能读懂这个故事，于是有了这个免费的汉化项目。
+Translation review and gameplay screenshots have led to corrections to character and place names, religious terminology, attack names, and interface wording. Examples include **Gaysir, Cyrups, Ruben, Gishne, Deimos, High Church, High God**, and **Ricochet Blade**. Korean 주신 is checked in context: it can refer to a deity or be part of an ordinary expression meaning “given/provided.”
 
-但对旧中文版的部分译名和对白，我一直有些遗憾：有些人名拗口，同一个人物在不同资料中有不同叫法，一些剧情表达也读得不够顺畅。**这次我以重制版韩文资源为基础重新翻译，优化对白和术语，并对部分人物姓名重新定译。** 熟悉的故事还在，希望读起来更清楚，也更贴近人物当时的处境。
+Long labels have also been shortened where the game interface clips or overlaps text. Compact attack labels include **W.Slash**, **S.Slash**, and **Ricochet**. Names and wording that have not been confirmed remain provisional, and review is ongoing.
 
-> [!IMPORTANT]
-> **当前重制版官方仅支持韩语，没有英文版。** 汉化后直接启动游戏即可，无需寻找语言切换选项。“恢复原版”会还原安装前的韩语游戏文件。语言支持信息以 [Steam 官方商店](https://store.steampowered.com/app/5099430/) 为准（核对于 2026-09-20）。
+### Current status
 
-## 汉化实机预览
+The local working catalog contains **22,403 translated resource entries and 30 hard-coded text edits**. An English playtest build has been tested in selected gameplay screens, and further review is in progress. These counts describe the translated catalog, not a guarantee that every possible screen, image, or story branch has been verified.
 
-以下为玩家提供的实际游戏截图，点击可查看原图。游戏画面版权归原权利方所有，仅用于展示汉化效果。
+A standalone Windows English patcher build kit has been prepared locally. **This README update is not an English installer release.** The local translation and build work may be ahead of the files currently published on GitHub. The inherited Chinese installer and Chinese releases do not install this English translation.
 
-| 角色与技能 | 探索对白 |
-| :---: | :---: |
-| [![角色与技能](docs/screenshots/character.png)](docs/screenshots/character.png) | [![探索对白](docs/screenshots/dialogue.png)](docs/screenshots/dialogue.png) |
-| 战斗界面 | 剧情对话 |
-| [![战斗界面](docs/screenshots/battle.png)](docs/screenshots/battle.png) | [![剧情对话](docs/screenshots/story.png)](docs/screenshots/story.png) |
+Please use a legitimate copy of the game. Original game assets and full extracted source catalogs are not included as part of this English documentation update. Existing saves may retain Korean character names and job titles; translating those saved display fields is separate from patching game resources.
 
-## 运行环境
+### Feedback and credits
 
-- **Windows 10 / 11，64 位（x64）。** 需要已安装的正版游戏及受支持的游戏版本。
-- 官方发行 ZIP 已包含 **.NET 10 运行时和 Python 引擎依赖**，玩家无需另外下载 .NET、Python 或 Unity；开发者编译要求见 [开发说明](DEVELOPMENT.md)。
-- 主程序采用 .NET 原生单文件发布，MaterialDesignThemes 5.3.2、MaterialDesignColors 和 XAML Behaviors 一起整合到 EXE；Python 引擎也以单文件发布。首次启动会在本机临时目录解压必要的运行库，无需另外安装 .NET 或 Python。
-- 发行 ZIP 仅包含运行必需的主程序、`tools/` 引擎、`payload/` 汉化数据，以及 `LICENSE`、`THIRD_PARTY_NOTICES.md`、`licenses/` 许可声明。文档与截图仅在仓库提供。请完整解压发行 ZIP。`tools`、`payload` 和许可文件仍需保留，不能只复制主程序 EXE。旧版的 `es`、`fr`、`it`、`ja`、`ko` 等目录是运行库的语言资源，不是额外游戏翻译；新版不再将它们散放在程序目录。
+When reporting a translation issue, include the Korean text or a screenshot, the scene/menu, and your suggested English wording. If you have a review sheet, include its review number.
 
-## 开始游玩
+- [Report an issue in this English fork](https://github.com/mdbkkorea/zephyr-remastered-en/issues)
+- [Original Chinese localization project](https://github.com/wanjizheng/zephyr-remastered-zh-cn)
+- [Game on Steam](https://store.steampowered.com/app/5099430/)
 
-| 下载 | 安装 | 恢复 |
-| :--- | :--- | :--- |
-| 在 [Releases](https://github.com/wanjizheng/zephyr-remastered-zh-cn/releases) 下载程序 ZIP | 退出游戏，选择游戏目录，点击 **安装汉化** | 退出游戏，点击 **恢复原版** |
-| 完整解压，不要只取出 EXE | 等待校验完成，再自行启动游戏 | 恢复韩语原版，不改动存档 |
-
-1. 下载 `Zephyr-Chinese-Patcher-*.zip`，**不要把 Source code 当作安装包**。
-2. 完整解压到可写文件夹，运行 `ZephyrChinesePatcher.exe`。无需另装 Python、.NET 或 Unity。
-3. 工具会尝试识别 Steam 目录；也可手动选择包含 `ZephyrRemastered.exe` 的文件夹。
-4. 保存并正常退出游戏，再安装汉化。处理期间请勿启动游戏、验证 Steam 文件或强行关闭工具。
-
-<details>
-<summary><strong>查看程序界面</strong></summary>
-
-<p align="center"><img src="docs/interface-preview.png" alt="汉化工具：选择游戏目录、安装汉化、恢复原版和检查更新" width="640"></p>
-
-</details>
-
-## 这次重译，改了什么？
-
-| 重点 | 本次处理 |
-| :--- | :--- |
-| **人名与术语** | 对照韩文姓名及资源内的拉丁拼写统一定译；正文、称呼和界面尽量一致，保留新旧译名对照方便查攻略。 |
-| **剧情表达** | 结合说话人、上下文和事件分支梳理句意，减少直译腔；区分指控与事实、推测与确认，避免因译法改变剧情含义。 |
-| **人物语气** | 注意身份、关系和情绪，让不同人物说话有所区别；不把所有对白写成现代口语，也不一律套用“在下／阁下”。 |
-| **阅读观感** | 主要中文字体采用朱雀仿宋；保留标题 Logo、花体主菜单等原有美术效果，不用普通汉字强行覆盖。 |
-
-目标是尽量做到**信、达、雅**。制作过程中使用了 AI 辅助、术语统一和分批复核，仍在通过实际游玩持续修订；这不是“全稿已经逐句独立人工验收”的承诺。发现不自然的台词、漏译或排版问题，欢迎带着上下文来反馈。
-
-## 人物译名对照
-
-读老攻略时，看到“希罗尼”“迦娜”“狮头船长”，可以用下表找到本项目中的对应称呼。**这里只对照姓名，不展开人物关系与结局，尽量避免剧透。**
-
-“老中文版／旧资料译名”收录老攻略和玩家对照资料中的常见写法，**不表示它们全部出自同一地区、同一发行版本**，也未逐项完成原版截图核验。“待核”表示缺少可靠的旧名对应，并非该人物尚未汉化。来源及逐项记录见 [人物对照说明](docs/character-names.md)。
-
-| 韩语原名 | 老中文版／旧资料译名 | 本项目新版译名 |
-| :--- | :--- | :--- |
-| 시라노 번스타인 | 希罗尼·班史顿 | **西拉诺·伯恩斯坦** |
-| 메르세데스 보르자 | 梅尔西迪斯·伯尔嘉 | **梅尔塞德斯·博尔吉亚** |
-| 체사레 보르자 | 蔡斯尔·伯尔嘉 | **切萨雷·博尔吉亚** |
-| 로베르토 데 메디치 | 罗伯特·荻·梅迪西 | **罗伯托·德·梅迪西** |
-| 클라우제비츠 | 克勒杰比 | **克劳塞维茨** |
-| 카나 밀라노비치 | 迦娜·密罗尼比琪 | **卡娜·米拉诺维奇** |
-| 이자벨 리피네 | 伊莎贝·利比尼 | **伊莎贝尔·利普内茨** |
-| 리델 하트 | 力德哈特／吕得·哈德 | **里德尔·哈特** |
-| 캡틴 실버 | 狮头船长 | **希尔弗船长** |
-| 샤른호스트 | 莎伦·哈斯特／沙伦沪斯特 | **沙恩霍斯特** |
-| 에스메랄다 | 爱斯美若达 | **埃斯梅拉达** |
-| 크리스 | 克丽丝／克莉丝 | **克里斯** |
-| 크리스티나 | 完整姓名旧译待核 | **克里斯蒂娜** |
-| 이올린 팬드래건 | 伊吴莲·番迪来建 | **伊奥琳·潘德拉根** |
-| 데이모스 | 狄慕斯 | **戴莫斯** |
-| 루이 셰페르 | 待核 | **路易·舍费尔** |
-| 보르스 앙드레아 | 待核 | **博尔斯·安德烈亚** |
-
-<details>
-<summary><strong>展开其他已统一的人物姓名（15 项）</strong></summary>
-
-| 韩语原名 | 老中文版／旧资料译名 | 本项目新版译名 |
-| :--- | :--- | :--- |
-| 루벤 | 罗宾 | 鲁本 |
-| 알프레드 프레데릭 | 阿富瑞得·富瑞得利 | 阿尔弗雷德·弗雷德里克 |
-| 마키아벨리 | 玛其亚贝利／马基雅维里 | 马基雅维利 |
-| 이스카리옷 | 伊思卡利忒／伊斯葛利欧 | 伊斯卡里奥特 |
-| 에스테 도데 | 爱思德·朵丽 | 埃斯特·多德 |
-| 카타리나 | 卡特琳娜／佧他丽娜 | 卡塔莉娜 |
-| 이루스 | 伊鲁斯 | 伊鲁斯 |
-| 조세핀 | 待核 | 约瑟芬 |
-| 디아블로 | 待核 | 迪亚布罗 |
-| 라몬 | 待核 | 拉蒙 |
-| 게리슨 | 待核 | 盖里森 |
-| 라시드 3세 | 待核 | 拉希德三世 |
-| 루크 번스타인 | 待核 | 卢克·伯恩斯坦 |
-| 빈센트 번스타인 | 待核 | 文森特·伯恩斯坦 |
-| 밀레 | 待核 | 米勒 |
-
-</details>
-
-表内共 32 项，覆盖本次已整理的主要人物及补充姓名，不冒充全部路人 NPC 名录。原文使用短称时，译文也保留短称，例如“西拉诺”“梅迪西”，不会每次都补全名。伊莎贝尔的姓氏按资源拉丁名 `Lipnetz` 定为“利普内茨”。称号与姓名分别处理，例如原文明确带称号时才写“圣女埃斯梅拉达”。
-
-## 当前版本与内容范围
-
-### 当前正式版本：v0.2.0
-
-- **v0.2.0 是当前正式发布版本**，已通过本地汉化、恢复原版，以及 Steam 验证完成后的状态刷新测试。
-- 工具采用全新 Material Design 界面，显示游戏 Build ID、支持版本和备份状态。
-- 版本不匹配时会暂停汉化并提示检查更新；恢复仍可通过 Steam 验证或二次确认后的旧备份强制恢复进行。
-- Steam 验证后会自动重新检测资源并刷新界面状态。
-- 修复原版模式切换提示、姓名与字形纵向位置；重制版对话人物名轻度加粗。
-- 主程序与处理引擎均为单文件发布，依赖已经整合，无需另装 .NET 或 Python。
-
-下载请使用 [v0.2.0 正式版](https://github.com/wanjizheng/zephyr-remastered-zh-cn/releases/tag/v0.2.0)。完整变更见 [CHANGELOG](CHANGELOG.md)；从旧版升级时请完整解压新包运行，避免混用旧引擎或旧数据。
-
-| 项目 | 说明 |
-| :--- | :--- |
-| 工具版本 | **v0.2.0** · 当前正式版 |
-| 支持游戏 | Steam App `5099430`，已验证 Build `25418345` 的精确资源版本 |
-| 系统 | Windows x64；开发验证环境为 Windows 11 |
-| 已纳入 | 已整理的主线与可选剧情、普通界面、存档／游戏时长、动画“跳过”，以及原版模式提示窗口修复 |
-| 字体与美术 | 主要中文使用朱雀仿宋；Logo、花体菜单等刻意保留原作样式 |
-| 暂未处理 | **视频内字幕** |
-| 游玩反馈 | 欢迎报告漏译、语义与布局问题；不宣称全部分支已完成人工验收 |
-
-> [!NOTE]
-> 游戏更新或其他 MOD 改动相关文件后，工具会暂停汉化并提示检查更新，但仍提供恢复入口。优先选择 **通过 Steam 验证完整性**，恢复当前 Steam 版本资源；若存在校验通过的原版备份，也可在二次确认后 **强制从旧备份恢复**。旧备份可能与新版 EXE 不匹配，恢复后仍建议 Steam 验证。验证仍无法解决时，请备份存档后卸载并重装游戏，再等待兼容的汉化版本。
-
-界面显示当前 Steam Build ID、汉化包支持的 Build ID 和汉化包版本。当前版本从所选安装目录对应的 Steam appmanifest 读取；读取不到时显示“未识别”，不会冒用工具版本。
-
-通过工具请求 Steam 验证后，每 15 秒自动校验一次游戏资源，返回工具窗口时也会触发检测。确认资源已恢复原版后，自动更新状态及安装按钮。Steam 仍忙时保持等待；15 分钟仍无法确认则暂停自动检测，并保留“重新检测”入口。读取的仅是本地安装清单及资源，不使用 Steam Cookie、登录令牌或账号认证信息。
-
-## 更新与常见问题
-
-<details>
-<summary><strong>如何检查和安装更新？</strong></summary>
-
-启动工具后自动检查 GitHub Releases，也可点击“检查更新”。有新版本时提示并打开经过签名元数据验证的发布页面。下载、完整解压新版程序，再运行即可。不会静默安装，也不会在游戏运行时替换资源；网络不可用不影响本地安装与恢复。
-
-</details>
-
-<details>
-<summary><strong>备份在哪里？会影响存档吗？</strong></summary>
-
-备份和事务记录位于 `%LOCALAPPDATA%\ZephyrChinesePatcher\`，按游戏目录区分。需要恢复时请勿删除。安装前后都会核对文件哈希；存档不在修改清单中，恢复原版不回退进度。
-
-若操作中断，重新打开工具并点击“恢复上次操作”。如果资源又被其他工具修改，会停止而非覆盖未知文件。第一版保留备份和中间文件，尚未提供自动清理功能。
-
-</details>
-
-<details>
-<summary><strong>已有手动汉化，或 Steam 验证文件后该怎么办？</strong></summary>
-
-工具无法为手动安装的汉化凭空补出原版备份。请先用当时的原备份恢复，或通过 Steam 验证游戏文件，再使用本工具。Steam 更新或验证完整性可能移除汉化，之后需要安装相应兼容版本。
-
-</details>
-
-<details>
-<summary><strong>磁盘空间、权限和 Windows 下载提示</strong></summary>
-
-首次安装需要临时重建资源，建议系统盘与游戏所在磁盘均预留至少 5 GB。默认使用普通权限，游戏目录无写权限时才需要调整权限或使用管理员身份。
-
-程序尚未进行 Windows Authenticode 签名，可能出现信誉提示。请只从本仓库 Releases 下载并核对 SHA-256，不要关闭杀毒软件。更新元数据签名与 Windows 程序签名是不同的机制。
-
-</details>
-
-## 一起把它打磨好
-
-在 [Issues](https://github.com/wanjizheng/zephyr-remastered-zh-cn/issues) 告诉我：**工具版本、游戏版本、发生地点、复现步骤与必要截图**。对白问题请附前后语境；显示问题请说明分辨率和缩放。也欢迎提供旧版人名截图，补齐“待核”。请勿上传完整游戏资源、存档、账号信息或含个人路径的整份日志。
-
-感谢原作与重制团队留下这个世界，也感谢字体作者与所有提供反馈的玩家。**如果你也喜欢它，请购买并支持 [Steam 正版](https://store.steampowered.com/app/5099430/)。**
+The upstream license and contributor credits remain in place. The tool license does not grant rights to the game, artwork, or story; those belong to their respective rights holders. This is an unofficial fan project.
 
 ---
 
-<details>
-<summary><strong>非官方声明、公开内容与许可证</strong></summary>
+## 한국어
 
-本项目免费、非官方，与游戏开发商、发行商没有隶属或授权关系，不提供游戏本体、破解或绕过购买验证的功能。
+**서풍의 광시곡 리마스터의 한국어 원문을 기준으로 진행하는 비공식 영어 번역 프로젝트**입니다.
 
-仓库和发行包只包含工具、中文改动数据、许可字形及开源运行依赖，不包含原版或汉化后的完整游戏资源、音乐、视频或存档。不变的资源和原始字形从玩家自己的游戏文件读取，重建结果留在本机。工具不上传游戏文件或个人信息，也不要求玩家登录 GitHub。
+### 포크의 출처와 번역 방식
 
-自有工具代码采用 [MIT](LICENSE)；字体和依赖见 [第三方声明](THIRD_PARTY_NOTICES.md)。该许可证不授予原作、商标或剧情的权利。免费和补丁形式不等于官方授权；权利人可通过仓库联系维护者。目前只链接官方商店，不转载未经许可的官方宣传图。
+이 저장소는 중국어 번역 프로젝트인 [wanjizheng/zephyr-remastered-zh-cn](https://github.com/wanjizheng/zephyr-remastered-zh-cn)을 포크했습니다. 원본 프로젝트의 중국어 번역과 패치 도구를 제작한 기여자들에게 감사를 표합니다.
 
-</details>
+이 포크에서 처음 작성한 영어 초안은 원본 프로젝트의 중국어 번역문을 바탕으로 했습니다. 이후 **게임의 한국어 원문을 직접 영어로 번역하는 방식**으로 전환했습니다. 두 언어의 내용이 다르면 한국어를 우선하며, 중국어는 문맥을 확인하는 보조 자료로만 사용합니다. 초기의 중국어 기반 초안은 별도로 보관하며, 현재의 한국어 기반 번역과 구분합니다.
 
-<p align="center">
-<a href="DEVELOPMENT.md">开发与发行</a> · <a href="DATA_PROVENANCE.md">数据来源</a> · <a href="VALIDATION.md">验证记录</a> · <a href="docs/character-names.md">译名来源说明</a>
-</p>
+### 검토 후 반영한 수정
+
+번역 검토와 실제 플레이 스크린샷을 바탕으로 인명·지명, 종교 관련 용어, 공격 이름, UI 문구를 수정했습니다. 대표적인 표기는 **Gaysir, Cyrups, Ruben, Gishne, Deimos, High Church, High God, Ricochet Blade**입니다. 특히 ‘주신’은 신을 가리키는 명사인지, ‘주신 물건’처럼 동사의 활용형인지 문맥과 중국어 보조 자료를 함께 확인합니다.
+
+게임 화면에서 긴 문구가 잘리거나 겹치는 경우에는 의미를 유지하면서 짧게 다듬었습니다. 공격 선택창에서는 **W.Slash**, **S.Slash**, **Ricochet** 같은 축약 표기를 사용합니다. 아직 확인되지 않은 고유명사와 표현은 잠정 번역이며, 검토를 계속하고 있습니다.
+
+### 현재 진행 상황
+
+로컬 작업본에는 **리소스 항목 22,403개와 하드코딩된 텍스트 수정 30개**가 포함되어 있습니다. 영어 플레이테스트 빌드의 일부 실제 게임 화면을 확인했으며, 추가 검토를 진행 중입니다. 이 수치는 번역 카탈로그의 범위를 나타내며, 모든 화면·이미지·스토리 분기를 검증했다는 뜻은 아닙니다.
+
+독립 실행형 Windows 영어 패치를 만들기 위한 빌드 키트도 로컬에서 준비했습니다. **이번 README 갱신은 영어 설치 프로그램의 정식 배포가 아닙니다.** 로컬의 번역 및 빌드 작업이 GitHub에 공개된 파일보다 앞서 있을 수 있습니다. 기존 중국어 설치 프로그램이나 원본 프로젝트의 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
+
+정품 게임을 사용해 주세요. 이번 영어 프로젝트 문서 갱신에는 게임 원본 에셋이나 추출한 전체 원문 카탈로그를 포함하지 않습니다. 기존 저장 파일에는 한국어 캐릭터 이름이나 직업명이 남아 있을 수 있으며, 저장된 표시용 문자열의 변환은 게임 리소스 패치와 별도입니다.
+
+### 의견 보내기 및 크레딧
+
+번역 수정을 제안할 때는 한국어 원문 또는 스크린샷, 해당 장면이나 메뉴, 제안하는 영어 표현을 함께 알려 주세요. 검토용 파일을 사용한다면 검토 번호도 적어 주세요.
+
+- [영어 포크에 이슈 남기기](https://github.com/mdbkkorea/zephyr-remastered-en/issues)
+- [원본 중국어 번역 프로젝트](https://github.com/wanjizheng/zephyr-remastered-zh-cn)
+- [Steam 게임 페이지](https://store.steampowered.com/app/5099430/)
+
+원본 프로젝트의 라이선스와 기여자 표기는 유지합니다. 도구의 라이선스가 게임·그림·스토리에 대한 권리를 부여하는 것은 아니며, 해당 권리는 각 권리자에게 있습니다. 이 프로젝트는 비공식 팬 프로젝트입니다.
