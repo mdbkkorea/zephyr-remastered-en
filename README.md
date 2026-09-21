@@ -27,6 +27,26 @@ A standalone Windows English patcher build kit has been prepared locally. **This
 
 Please use a legitimate copy of the game. Original game assets and full extracted source catalogs are not included as part of this English documentation update. Existing saves may retain Korean character names and job titles; translating those saved display fields is separate from patching game resources.
 
+### Testing environments
+
+| Status | Computer | Environment |
+| --- | --- | --- |
+| Tested | Mac mini, Apple M4, 32 GB RAM | macOS 26.5.2; CrossOver 26.3; Windows Steam inside CrossOver |
+| Tested | Samsung Galaxy Book Pro2 360, Intel Core i5-1240P | Windows 11; Steam |
+| To be tested | Same Samsung Galaxy Book Pro2 360, Intel Core i5-1240P | Fedora 44 Linux; Steam / Proton testing planned |
+
+These are the maintainer's test environments, not minimum system requirements or a guarantee of a complete playthrough. CrossOver gameplay screenshots confirm English text in selected screens. Windows patcher testing includes installation and restoration on a separate game copy. New patcher builds and further gameplay still need testing; Linux has not yet been validated.
+
+### Finding the game folder on Windows
+
+The usual Steam game folder is:
+
+```text
+C:\Program Files (x86)\Steam\steamapps\common\The Rhapsody of Zephyr Remastered
+```
+
+If you installed the game elsewhere, in Steam right-click the game → **Manage → Browse local files**. Copy the folder address into the patcher, or select it with **Browse**. Choose the folder containing `ZephyrRemastered.exe`. Close the game, select **Check Files**, then **Install English** and confirm the folder. For initial testing, use a separate game copy.
+
 ### Feedback and credits
 
 When reporting a translation issue, include the Korean text or a screenshot, the scene/menu, and your suggested English wording. If you have a review sheet, include its review number.
@@ -62,6 +82,26 @@ The upstream license and contributor credits remain in place. The tool license d
 독립 실행형 Windows 영어 패치를 만들기 위한 빌드 키트도 로컬에서 준비했습니다. **이번 README 갱신은 영어 설치 프로그램의 정식 배포가 아닙니다.** 로컬의 번역 및 빌드 작업이 GitHub에 공개된 파일보다 앞서 있을 수 있습니다. 기존 중국어 설치 프로그램이나 원본 프로젝트의 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
 
 정품 게임을 사용해 주세요. 이번 영어 프로젝트 문서 갱신에는 게임 원본 에셋이나 추출한 전체 원문 카탈로그를 포함하지 않습니다. 기존 저장 파일에는 한국어 캐릭터 이름이나 직업명이 남아 있을 수 있으며, 저장된 표시용 문자열의 변환은 게임 리소스 패치와 별도입니다.
+
+### 테스트 환경
+
+| 상태 | 컴퓨터 | 실행 환경 |
+| --- | --- | --- |
+| 테스트 진행 | Mac mini, Apple M4, 메모리 32 GB | macOS 26.5.2; CrossOver 26.3; CrossOver 안의 Windows용 Steam |
+| 테스트 진행 | 삼성 갤럭시 북 Pro2 360, Intel Core i5-1240P | Windows 11; Steam |
+| 테스트 예정 | 동일한 삼성 갤럭시 북 Pro2 360, Intel Core i5-1240P | Fedora 44 Linux; Steam / Proton 테스트 예정 |
+
+위 목록은 제작자가 사용한 테스트 환경이며, 최소 사양이나 전체 플레이 검증을 의미하지 않습니다. CrossOver에서는 일부 실제 게임 화면에서 영어 표시를 확인했습니다. Windows 패치 프로그램은 별도로 복사한 게임 파일에 설치·복원하는 테스트를 진행했습니다. 새 패치 프로그램 빌드와 추가 플레이는 계속 확인해야 하며, Linux는 아직 검증하지 않았습니다.
+
+### Windows에서 게임 폴더 찾기
+
+Steam 기본 설치 경로를 사용했다면 보통 다음 폴더에 있습니다.
+
+```text
+C:\Program Files (x86)\Steam\steamapps\common\The Rhapsody of Zephyr Remastered
+```
+
+다른 위치에 설치했다면 Steam 라이브러리에서 게임을 우클릭하고 **관리 → 로컬 파일 탐색**을 선택하세요. 탐색기의 폴더 주소를 패치 프로그램에 붙여 넣거나 **Browse**로 선택하세요. `ZephyrRemastered.exe`가 들어 있는 폴더를 선택해야 합니다. 게임을 종료한 뒤 **Check Files → Install English** 순서로 누르고 대상 폴더를 확인하세요. 첫 테스트는 별도로 복사한 게임 폴더에서 진행하세요.
 
 ### 의견 보내기 및 크레딧
 
