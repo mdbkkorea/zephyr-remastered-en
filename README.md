@@ -37,7 +37,7 @@
 - **Windows 10 / 11，64 位（x64）。** 需要已安装的正版游戏及受支持的游戏版本。
 - 官方发行 ZIP 已包含 **.NET 10 运行时和 Python 引擎依赖**，玩家无需另外下载 .NET、Python 或 Unity；开发者编译要求见 [开发说明](DEVELOPMENT.md)。
 - 主程序采用 .NET 原生单文件发布，MaterialDesignThemes 5.3.2、MaterialDesignColors 和 XAML Behaviors 一起整合到 EXE；Python 引擎也以单文件发布。首次启动会在本机临时目录解压必要的运行库，无需另外安装 .NET 或 Python。
-- 请完整解压发行 ZIP。`tools`、`payload` 和许可文件仍需保留，不能只复制主程序 EXE。旧版的 `es`、`fr`、`it`、`ja`、`ko` 等目录是运行库的语言资源，不是额外游戏翻译；新版不再将它们散放在程序目录。
+- 发行 ZIP 仅包含运行必需的主程序、`tools/` 引擎、`payload/` 汉化数据，以及 `LICENSE`、`THIRD_PARTY_NOTICES.md`、`licenses/` 许可声明。文档与截图仅在仓库提供。请完整解压发行 ZIP。`tools`、`payload` 和许可文件仍需保留，不能只复制主程序 EXE。旧版的 `es`、`fr`、`it`、`ja`、`ko` 等目录是运行库的语言资源，不是额外游戏翻译；新版不再将它们散放在程序目录。
 
 ## 开始游玩
 

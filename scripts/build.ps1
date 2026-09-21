@@ -11,7 +11,7 @@ python -m PyInstaller --noconfirm --clean --onefile --name ZephyrPatchEngine --c
 if ($LASTEXITCODE -ne 0) { throw 'Engine build failed' }
 dotnet publish "$project/app/ZephyrPatcher.csproj" -c Release -r win-x64 --self-contained true -o $release --nologo
 if ($LASTEXITCODE -ne 0) { throw 'Application build failed' }
-Copy-Item -LiteralPath "$project/payload", "$project/licenses", "$project/docs" -Destination $release -Recurse
-Get-ChildItem -LiteralPath $project -Filter '*.md' | Copy-Item -Destination $release
-Copy-Item -LiteralPath "$project/LICENSE", "$project/release-public.pem", "$project/dependency-versions.json" -Destination $release
+Copy-Item -LiteralPath "$project/payload", "$project/licenses" -Destination $release -Recurse
+Copy-Item -LiteralPath "$project/THIRD_PARTY_NOTICES.md" -Destination $release
+Copy-Item -LiteralPath "$project/LICENSE" -Destination $release
 Write-Output "Built: $release"
