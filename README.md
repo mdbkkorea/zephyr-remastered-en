@@ -23,7 +23,7 @@ Long labels have also been shortened where the game interface clips or overlaps 
 
 The local working catalog contains **22,403 translated resource entries and 30 hard-coded text edits**. An English playtest build has been tested in selected gameplay screens, and further review is in progress. These counts describe the translated catalog, not a guarantee that every possible screen, image, or story branch has been verified.
 
-A standalone Windows English patcher build kit has been prepared locally. **This README update is not an English installer release.** The local translation and build work may be ahead of the files currently published on GitHub. The inherited Chinese installer and Chinese releases do not install this English translation.
+The Korean-based translation batches, [review sheets](docs/review/README.md), and shared [Windows/macOS/Linux patcher source](windows/) are published here. Standalone patcher build kits and an Apple Silicon app have been prepared locally. **This source update is not an English installer release.** Compiled English installers are not included in this commit. The inherited Chinese installer and Chinese releases do not install this English translation.
 
 Please use a legitimate copy of the game. Original game assets and full extracted source catalogs are not included as part of this English documentation update. Existing saves may retain Korean character names and job titles; translating those saved display fields is separate from patching game resources.
 
@@ -79,7 +79,7 @@ The upstream license and contributor credits remain in place. The tool license d
 
 로컬 작업본에는 **리소스 항목 22,403개와 하드코딩된 텍스트 수정 30개**가 포함되어 있습니다. 영어 플레이테스트 빌드의 일부 실제 게임 화면을 확인했으며, 추가 검토를 진행 중입니다. 이 수치는 번역 카탈로그의 범위를 나타내며, 모든 화면·이미지·스토리 분기를 검증했다는 뜻은 아닙니다.
 
-독립 실행형 Windows 영어 패치를 만들기 위한 빌드 키트도 로컬에서 준비했습니다. **이번 README 갱신은 영어 설치 프로그램의 정식 배포가 아닙니다.** 로컬의 번역 및 빌드 작업이 GitHub에 공개된 파일보다 앞서 있을 수 있습니다. 기존 중국어 설치 프로그램이나 원본 프로젝트의 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
+한국어 기반 번역 배치, [검토 문서](docs/review/README.md), [Windows/macOS/Linux 공용 패치 프로그램 소스](windows/)를 공개했습니다. 독립 실행형 빌드 키트와 Apple Silicon용 앱은 로컬에서 준비했습니다. **이번 소스 공개는 영어 설치 프로그램의 정식 배포가 아닙니다.** 이 커밋에는 컴파일된 영어 설치 프로그램이 포함되지 않습니다. 기존 중국어 설치 프로그램이나 원본 프로젝트의 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
 
 정품 게임을 사용해 주세요. 이번 영어 프로젝트 문서 갱신에는 게임 원본 에셋이나 추출한 전체 원문 카탈로그를 포함하지 않습니다. 기존 저장 파일에는 한국어 캐릭터 이름이나 직업명이 남아 있을 수 있으며, 저장된 표시용 문자열의 변환은 게임 리소스 패치와 별도입니다.
 

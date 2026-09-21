@@ -1,0 +1,482 @@
+[
+  {
+    "original": "플레이 타임 {0}",
+    "chinese_reference": "游戏时长： {0} ",
+    "target": "Play Time {0}",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 720164,
+      "byte_length": 20,
+      "original_sha256": "e75c2e6e38b5a97110266765c7955090d3233b8fbb9cb82bde1de0b33ad6b93a"
+    },
+    "notes": [
+      "Fixed-length IL2CPP string slot: builder must pad with ASCII spaces, never move offsets. Classic Mode terminology provisional."
+    ]
+  },
+  {
+    "original": "넘김",
+    "chinese_reference": "跳过",
+    "target": "Skip",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719088,
+      "byte_length": 6,
+      "original_sha256": "ec058fc45edb314c1903dc7a2818c80b033ceba7cdf8eddcbf24b52072f4a392"
+    },
+    "notes": [
+      "Fixed-length IL2CPP string slot: builder must pad with ASCII spaces, never move offsets. Classic Mode terminology provisional."
+    ]
+  },
+  {
+    "original": "복각판 모드로 전환합니다./n복각판 모드에서는 게임을 종료하고 다시 실행하여/n리마스터 모드로 돌아올 수 있습니다.",
+    "chinese_reference": "即将切换至原版模式。/n原版模式将会使用1998年发行的原版游戏内容。/n若要返回重制版模式，请退出游戏并重新启动。",
+    "target": "Switching to Classic Mode./nTo return to Remastered Mode,/nquit and restart the game.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719247,
+      "byte_length": 158,
+      "original_sha256": "f95b98c016b9f47b49fa0a8b2f8cbe5e5e8e24716eae718a8c5de6f7d2259f10"
+    },
+    "notes": [
+      "Fixed-length IL2CPP string slot: builder must pad with ASCII spaces, never move offsets. Classic Mode terminology provisional."
+    ]
+  },
+  {
+    "original": "취소",
+    "chinese_reference": "取消",
+    "target": "Cancel",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 720137,
+      "byte_length": 6,
+      "original_sha256": "be876433993ab7ba221512b5703b32060626f390aa50d7ed464a847a34539a6c"
+    },
+    "notes": [
+      "Fixed-length IL2CPP string slot: builder must pad with ASCII spaces, never move offsets. Classic Mode terminology provisional."
+    ]
+  },
+  {
+    "original": "확인",
+    "chinese_reference": "确认",
+    "target": "OK",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 720184,
+      "byte_length": 6,
+      "original_sha256": "1aacb54c499242964cc07e606bd5b1d628a56b6dd22267ae14202fbd35884fc4"
+    },
+    "notes": [
+      "Fixed-length IL2CPP string slot: builder must pad with ASCII spaces, never move offsets. Classic Mode terminology provisional."
+    ]
+  },
+  {
+    "original": "복각판 플레이 제한 안내",
+    "chinese_reference": "原版模式游玩限制说明：",
+    "target": "Classic Mode limitations",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 575799,
+      "byte_length": 33,
+      "original_sha256": "e9bfc523bdd61248bdf9a5d79f07b628074427d7183aa9a8cffc3f547190b334"
+    },
+    "notes": [
+      "Fixed-length IL2CPP string slot: builder must pad with ASCII spaces, never move offsets. Classic Mode terminology provisional."
+    ]
+  },
+  {
+    "original": "현재 원작의 재현이 미흡한 장면이 있어",
+    "chinese_reference": "目前部分场景对98年原作还原尚不完善。",
+    "target": "Some scenes do not yet fully match the original.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 575834,
+      "byte_length": 53,
+      "original_sha256": "1a4b0f8be53c5b727369750b05f690e9a76fdc9758d2a910377f54a0b080a91f"
+    },
+    "notes": [
+      "Fixed-length IL2CPP string slot: builder must pad with ASCII spaces, never move offsets. Classic Mode terminology provisional."
+    ]
+  },
+  {
+    "original": "복각판은 초반부까지만 진행이 가능합니다.",
+    "chinese_reference": "原版模式目前仅能游玩至1998版的游戏前期。",
+    "target": "Classic Mode currently ends after the opening section.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 575889,
+      "byte_length": 58,
+      "original_sha256": "d86a823f28794f83ab8d98d9f847c60db3a5c98f798252d8688a9a27b0a5968c"
+    },
+    "notes": [
+      "Fixed-length IL2CPP string slot: builder must pad with ASCII spaces, never move offsets. Classic Mode terminology provisional."
+    ]
+  },
+  {
+    "original": "조속히 업데이트를 준비하여 이후 내용을 제공해 드릴 예정입니다.",
+    "chinese_reference": "我们会尽快完善98版内容，并在之后提供其余游戏内容，敬请期待。",
+    "target": "We plan to provide the remaining content in an update as soon as possible.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 575949,
+      "byte_length": 89,
+      "original_sha256": "8788343da8c3d04429b3e3e71e34190de547b313e52ffb30f862fcde2fcf832d"
+    },
+    "notes": [
+      "Fixed-length IL2CPP string slot: builder must pad with ASCII spaces, never move offsets. Classic Mode terminology provisional."
+    ]
+  },
+  {
+    "original": " <color=#C8AE9F>선택중",
+    "chinese_reference": null,
+    "target": " <color=#C8AE9F>Selected",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 88870,
+      "byte_length": 25,
+      "original_sha256": "ec8bbd9a1a4ede5b36a0c1a0a5e0807a14ed4b4f5af53e4428ed4bc9a6b7a512"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "Steam 클라이언트가 실행 중이지 않거나 연동에 실패했습니다.\nSteam 클라이언트의 상태를 확인하고 게임을 다시 실행해 주세요.",
+    "chinese_reference": null,
+    "target": "Steam is not running or could not be connected.\nCheck Steam and restart the game.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 432113,
+      "byte_length": 167,
+      "original_sha256": "21fef453f0be0b522364e818afc5873c3e5b46f8d31bc07ae9a29eb05b316cbe"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "게임 설정",
+    "chinese_reference": null,
+    "target": "Settings",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 718995,
+      "byte_length": 13,
+      "original_sha256": "dd2a120755437572468c140b7a49c78bf76e26d9a0401187ed6d2985528b7275"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "게임을 종료합니다.",
+    "chinese_reference": null,
+    "target": "Quit the game.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719008,
+      "byte_length": 26,
+      "original_sha256": "bee63d7d07ef6d0f6226c3aff0aeffc55821975b1f7103d361be363bf4cbcd36"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "년",
+    "chinese_reference": null,
+    "target": "yr",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719094,
+      "byte_length": 3,
+      "original_sha256": "e23df8834a583975acd6211b467ad76c25a41bf4421ec3bb39ef556748700f54"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "복각판 시작하기",
+    "chinese_reference": null,
+    "target": "Start Classic Mode",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719405,
+      "byte_length": 22,
+      "original_sha256": "f09ff92bb7336ee7d8aafdab42f7eaf5ca7d2c19bc2849ef8580979d89a993a9"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "분",
+    "chinese_reference": null,
+    "target": "min",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719427,
+      "byte_length": 3,
+      "original_sha256": "ca4a187881dbf529d05eb168ececcc3eaea6a98a08fa96011760842aea4c04d3"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "시",
+    "chinese_reference": null,
+    "target": "hr",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719475,
+      "byte_length": 3,
+      "original_sha256": "bfa42cf6a12e912330383a28e28d31dbf769281307df1f2ea3b22541c5c71697"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "아니오",
+    "chinese_reference": null,
+    "target": "No",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719478,
+      "byte_length": 9,
+      "original_sha256": "4c490f1ca1d756f81cf65bd67d61f01ca8c68fb5fb1edbc9c0de5ee7e6c50611"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "예",
+    "chinese_reference": null,
+    "target": "Yes",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719517,
+      "byte_length": 3,
+      "original_sha256": "2eb73fba696e2fe4ea0a206ed3d21758e35c7594905d6181d9c34ff19556b17a"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "월",
+    "chinese_reference": null,
+    "target": "mo",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719535,
+      "byte_length": 3,
+      "original_sha256": "ed8a406d02b187b85782da65937796100f2514b5c66e30bbdc760370421dda93"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "이전 클리어 정보({0}회 클리어)를 이어받아/n새 게임을 시작하겠습니까?",
+    "chinese_reference": null,
+    "target": "Carry over previous clear data ({0} clears)/nand start a new game?",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719568,
+      "byte_length": 95,
+      "original_sha256": "d3a3d15c932c6765b156a61249eaf48d12911989ae128ebc8a260ad27fa374bb"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "이전 클리어 정보를 이어받지 않고/n새 게임을 시작합니다.",
+    "chinese_reference": null,
+    "target": "Start a new game/nwithout previous clear data.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719663,
+      "byte_length": 78,
+      "original_sha256": "5c3ba6349ddb726a6f0e78aadc32649a0022f8a0dfc66f019261b0ec7586ebe5"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "일",
+    "chinese_reference": null,
+    "target": "day",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719741,
+      "byte_length": 3,
+      "original_sha256": "dfc76879e2f5c3ead09186ff1c6b635624f96b7adbd71d94c37566429ca5df6f"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "저장된 ELD, 아이템, 장비 정보를 이어받아/n새 게임을 시작합니다.",
+    "chinese_reference": null,
+    "target": "Start a new game with your saved/nELD, items, and equipment.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719744,
+      "byte_length": 87,
+      "original_sha256": "d7767cb6bf54f22bc8895b2b53ca7465452a4ef64adc54ac3abe158fc1446f9f"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "제피르팰컨 공로비 확인",
+    "chinese_reference": null,
+    "target": "View Zephyr Falcon Memorial",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719876,
+      "byte_length": 32,
+      "original_sha256": "0386a56a7cd282bd7e49f2eb4bb9548561c73c2667daa348382c74a59aa68220"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "창세기전 외전: 서풍의 광시곡 리마스터",
+    "chinese_reference": null,
+    "target": "The Rhapsody of Zephyr Remastered",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 719974,
+      "byte_length": 53,
+      "original_sha256": "97fbe5b60d8f39f8064ab3e99d0e3b199437b8f3c80f47bb73cc70953f3b0676"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "처음부터 게임을 시작합니다.",
+    "chinese_reference": null,
+    "target": "Start a new game.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 720027,
+      "byte_length": 39,
+      "original_sha256": "07c4564fa8f0658a609164e33ea717c6462b05187227a1cb9db7e36b03572842"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "초",
+    "chinese_reference": null,
+    "target": "sec",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 720078,
+      "byte_length": 3,
+      "original_sha256": "1fd639e1ec96a7eafc7f497ce250b3f07469307c74d3ec8633a7363681df4937"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "최근 저장된 지점부터 이어서 진행합니다.",
+    "chinese_reference": null,
+    "target": "Continue from your most recent save.",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 720081,
+      "byte_length": 56,
+      "original_sha256": "a64d5ac9449f4f48366a4bebf0ee8ae03f5ce7a0c055659d152030a31b4fdb7a"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  },
+  {
+    "original": "후원자 확인",
+    "chinese_reference": null,
+    "target": "View Supporters",
+    "status": "draft",
+    "translation_basis": "original Korean",
+    "reference": {
+      "file": "ZephyrRemastered_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "offset": 720196,
+      "byte_length": 16,
+      "original_sha256": "97f8fc4c5199e46251e8d3f69138d13309103c0aff28a1e961a65875c09a983c"
+    },
+    "notes": [
+      "Additional hard-coded UI literal absent from Chinese payload. Fixed-byte replacement padded with ASCII spaces; offsets and internal animation/particle identifiers preserved."
+    ]
+  }
+]

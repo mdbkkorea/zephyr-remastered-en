@@ -19,3 +19,7 @@ private/
 *.key
 *-private.pem
 release-private.pem
+work/
+localization/en-US/catalog.jsonl
+
+.DS_Store

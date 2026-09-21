@@ -1,0 +1,80 @@
+{
+  "binary_file": "GameAssembly.dll",
+  "binary_sha256": "ccdcca011a443114da40968ae486b3530efd9657cd41989667af052fb4a024a9",
+  "method_rva": "0x80fa10",
+  "initializer_rva": "0x80fd40",
+  "decision": "Omit grammatical particle markers in English; preserve all formatting placeholders and other control codes.",
+  "evidence_document": "docs/PARTICLE_REVIEW.md",
+  "rows": [
+    {
+      "id": "262e138f48dbf5cd864f0b95bc83021b6b81baebe54be3b1b27b963c4fe4ec72",
+      "original_sha256": "ec0dfb61e93de5cb32fa41ca6873a1a0f4602bfc76a34c534cbeb35dacf501e3",
+      "target_sha256": "a6cf1c230636deeb128b6db2c51fa1fdec80eab655be5a84a4fdb10b93d57655"
+    },
+    {
+      "id": "328f9ce94a7dab8782d1c7331cc27e382105683821ce08aa10808ab002dc8e1a",
+      "original_sha256": "dd1b605da4f4246090c578381a4bf1eecbc08cef5f7b8ca62eeaf2e1f36bf1f8",
+      "target_sha256": "d81103620b56fd476e7b8a90a6a2247ecc10cebc5a0e3934ab38086b4747b906"
+    },
+    {
+      "id": "4a74cb63ec098db86fe1aba32c8275df45ef2771dc17de1aa483f9ae8b5b842a",
+      "original_sha256": "d3ae57b5f56f8de75ba44adaec0a3ee5ca12c96288c4df5c6dc90eba41747ec1",
+      "target_sha256": "7c5814834800e034fea441dba20b6582eeb831abd85e00c96a809c5f0a23e38f"
+    },
+    {
+      "id": "5d9588e2282eb892547cac7d48014c62daf80f7b24d0bf23a4768f6bfb823f0c",
+      "original_sha256": "c62f3453a889b38c3a37b6d632497246a483dbb71e4ecfb75369c952acdce25f",
+      "target_sha256": "0986c7cf0e5c90fb75cc39be26623d57e32bb0164e1311da2988b0fce3fb6465"
+    },
+    {
+      "id": "5cffb6ebbf704ba1b0d959aed88cf09639be223864c2ce1b337e25f7e9e3760d",
+      "original_sha256": "dd1b605da4f4246090c578381a4bf1eecbc08cef5f7b8ca62eeaf2e1f36bf1f8",
+      "target_sha256": "d81103620b56fd476e7b8a90a6a2247ecc10cebc5a0e3934ab38086b4747b906"
+    },
+    {
+      "id": "cf21e65fa18710a206614bac92ad8619e94bf625ac4c952a8bd4ead785fd68cf",
+      "original_sha256": "9a695af4c46c524d854f03e8af1f0c81dd62584068a22f915508301938249217",
+      "target_sha256": "bb10af6c0b17793cc93949fed99d69fb50fe4dccf484e929db0c456e8773f988"
+    },
+    {
+      "id": "0685a60420251a69ebdf21ca27af5c93efa1eb09fd4aaae64c04d01f28a96463",
+      "original_sha256": "6303c9c40274bf38eed9f28fc15695f482560413b33de13a30baf85dc4dde541",
+      "target_sha256": "cce28b756f97921aac67657fd8df49c22a2334070a22ac1eb0fa08e95cdc33e4"
+    },
+    {
+      "id": "d8da1e55d456ac2dfe6896beab938735391c1cc5a6f2196c29bd44a406dd0f07",
+      "original_sha256": "0445e0545b29fe94c8c7f66069e8fc8460376833f7012704026203b625454f5d",
+      "target_sha256": "34dd263d35e3d3d768b8d8bc8e645744b4e210bd6f16dacf3aa4a4b569176def"
+    },
+    {
+      "id": "e91944ae77544f034ef86b3f1476f77269c6bde1869418f387b5bb0a64ab975b",
+      "original_sha256": "188b9e1f4a51da2166986e58115ca68ac7771c132ee966b9531c69475b7dd674",
+      "target_sha256": "568873405b7ff060f94752eb557f7bc80abf7f633c38880f6cb8396b5252f5aa"
+    },
+    {
+      "id": "79bfdd60aa5c99183edbb3da2fe3d47985017365a055dc92683b9e66b6cd8351",
+      "original_sha256": "138ece9e7e636bc79d8b6720753ada0456f500bec7e6f55ef77948ca98720f31",
+      "target_sha256": "d81103620b56fd476e7b8a90a6a2247ecc10cebc5a0e3934ab38086b4747b906"
+    },
+    {
+      "id": "8f238c53545f1efb2c02fd8ab31182e5cfeea8ced7eb44a6516f20c964481281",
+      "original_sha256": "b725c2abb675b1258af68b4e893ff2df84589aa3105a6a76634d1f3041f12620",
+      "target_sha256": "7c5814834800e034fea441dba20b6582eeb831abd85e00c96a809c5f0a23e38f"
+    },
+    {
+      "id": "5bee4510f66635164b4afcb6731fb1a2cf14338fdc12d8b607a11211256f7dd4",
+      "original_sha256": "468f3fab3d16dacaf1f7b9a5b23215267a320e0564a0ed545c7f806b56ae6efa",
+      "target_sha256": "0986c7cf0e5c90fb75cc39be26623d57e32bb0164e1311da2988b0fce3fb6465"
+    },
+    {
+      "id": "568ab6c37f5341d4b207e21e4ff214cfcc2ca7668f4bfba35ce929cca2b2bfab",
+      "original_sha256": "138ece9e7e636bc79d8b6720753ada0456f500bec7e6f55ef77948ca98720f31",
+      "target_sha256": "d81103620b56fd476e7b8a90a6a2247ecc10cebc5a0e3934ab38086b4747b906"
+    },
+    {
+      "id": "0225d64c8d6b8b23fdf7d2388c234233be85da26f6d71cd02464c2efa36e7041",
+      "original_sha256": "9931117d8e12cca6b7eec9f457630bd6168faf6c7e06dfab2d0fad47fe3c772b",
+      "target_sha256": "bb10af6c0b17793cc93949fed99d69fb50fe4dccf484e929db0c456e8773f988"
+    }
+  ]
+}
