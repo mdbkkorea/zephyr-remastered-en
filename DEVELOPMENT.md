@@ -23,7 +23,11 @@ pwsh -File scripts/build.ps1 -OutputDirectory C:\Build\zephyr-release-001
 
 新译文版本需从维护者私有的原版／候选工作副本重新导出叶字段操作和许可字体字形块，重新检查所有原版哈希、最终输出 SHA、Unity 原生 CRC、catalog。将原版字形转换为本地复制引用，新字形须有逐块许可来源证明。不要把压缩 bundle 的粗粒度二进制差分当成“没有官方资源”的证明。内部游戏素材和生成工具工作区不应加入仓库。
 
-升级游戏支持版本需要独立重建和回归，不能修改旧版哈希冒充兼容。工具版本由 `app/Updates.cs`、项目版本与 UI 显示同步维护；资源数据版本由 `engine/main.py` 和 payload 对应维护。beta.2 仅修正文档与界面提示，资源数据保持 beta.1，已安装的同一数据无需再次回填。
+升级游戏支持版本需要独立重建和回归，不能修改旧版哈希冒充兼容。工具版本由 `app/Updates.cs`、项目版本与 UI 显示同步维护；资源数据版本由 `engine/main.py` 和 payload 对应维护。本地 0.2.0-local.1 含 19 个目标资源，原版 bitmap 字体采用原图本地复制与许可 alpha 字形叠加重建；所有输出必须与已接受候选逐字节相同。
+
+本地 0.2.0 使用 MaterialDesignThemes/Colors 5.3.2 与 Microsoft.Xaml.Behaviors.Wpf 1.1.77；WPF 依赖整合入自包含 EXE。Python 引擎采用 PyInstaller onefile，位于 tools/ZephyrPatchEngine.exe；首启解压有少量耗时。保留 payload、许可证及 tools 目录。不会把测试游戏、官方资源、签名私钥放入发行包。
+
+恢复流程区分正常恢复与强制旧备份恢复。强制恢复必须传入 --confirm-old-backup；仅写入校验通过的备份记录，事务支持恢复缺失文件和失败回滚。游戏 EXE 与 Steam appmanifest 不由工具改写。Steam 恢复通过 steam://validate/5099430 交由 Steam 处理，工具不能预先宣称其完成。
 
 ## 发布签名
 

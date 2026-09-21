@@ -1,1 +1,6 @@
-<Application x:Class="ZephyrPatcher.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"><Application.Resources/></Application>
+<Application x:Class="ZephyrPatcher.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes">
+ <Application.Resources><ResourceDictionary><ResourceDictionary.MergedDictionaries>
+  <md:CustomColorTheme BaseTheme="Light" PrimaryColor="#35486C" SecondaryColor="#AD874D"/>
+  <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesign3.Defaults.xaml"/>
+ </ResourceDictionary.MergedDictionaries></ResourceDictionary></Application.Resources>
+</Application>

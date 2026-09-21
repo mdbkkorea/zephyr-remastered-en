@@ -25,6 +25,19 @@ def apply_ops(tree,ops):
   else:raise ValueError('Unsupported edit operation')
  return tree
 def texture_pixels(original,width,height,recipe,payload):
+ if recipe.get('format')=='rgba32_overlay':
+  out=bytearray(width*height*4);ow=recipe['original_width'];oh=recipe['original_height']
+  assert len(original)==ow*oh*4 and ow<=width and oh<=height
+  for y in range(oh):out[y*width*4:y*width*4+ow*4]=original[y*ow*4:(y+1)*ow*4]
+  for tile in recipe['tiles']:
+   assert tile['kind']=='licensed'
+   x,y,w,h=tile['to'];assert 0<=x and x+w<=width and 0<=y and y+h<=height
+   name=tile['sha256']+'.z';blob=(payload/'glyphs'/name).read_bytes() if (payload/'glyphs').exists() else glyph_archive(str(payload/'glyphs.zip')).read(name)
+   raw=zlib.decompress(blob);assert digest(raw)==tile['sha256'] and len(raw)==w*h
+   for i in range(h):
+    row=bytearray(b'\xff'*(w*4));row[3::4]=raw[i*w:(i+1)*w];start=((y+i)*width+x)*4;out[start:start+w*4]=row
+  assert digest(out)==recipe['pixel_sha256'],'RGBA font reconstruction mismatch'
+  return bytes(out)
  out=bytearray(width*height)
  for tile in recipe['tiles']:
   x,y,w,h=tile['to'];kind=tile['kind']

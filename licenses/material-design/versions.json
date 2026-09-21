@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MaterialDesignThemes",
+    "version": "5.3.2",
+    "license": "MIT"
+  },
+  {
+    "name": "MaterialDesignColors",
+    "version": "5.3.2",
+    "license": "MIT"
+  },
+  {
+    "name": "Microsoft.Xaml.Behaviors.Wpf",
+    "version": "1.1.77",
+    "license": "MIT"
+  }
+]

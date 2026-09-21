@@ -7,6 +7,7 @@
 - **UnityPy**，K0lb3，MIT。https://github.com/K0lb3/UnityPy
 - **Python**，Python Software Foundation 及各上游贡献者，PSF License 与附带组件许可。
 - **.NET / WPF**，.NET Foundation、Microsoft 及贡献者，MIT 与随附第三方声明。
+- **MaterialDesignThemes 5.3.2 / MaterialDesignColors 5.3.2**，James Willock 及贡献者，MIT；**Microsoft.Xaml.Behaviors.Wpf 1.1.77**，Microsoft 及贡献者，MIT。许可文本见 `licenses/material-design/`。主题库与其依赖随主程序单文件发布。
 - **PyInstaller**，GPL 与允许封装应用发行的 bootloader exception；本应用源码不因此改用 GPL。完整例外见对应许可。
 - Python 依赖包括 NumPy、Pillow、lz4、Brotli、texture2ddecoder、etcpak、astc-encoder-py、fmod_toolkit、fsspec、attrs、tpk_ar、archspec、pyfmodex、Spooky、setuptools、packaging；各自及内嵌压缩／纹理解码库的版权和许可见 `licenses/python/` 与打包运行时附带声明。
 

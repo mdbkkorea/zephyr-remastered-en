@@ -51,6 +51,37 @@ def run(fixture,work):
  except ValueError:pass
  else:raise AssertionError('tampered payload accepted')
  checks.append('tampered payload rejected')
+ # A modified game must keep a verified backup recovery route, even when its
+ # executable or streaming dependencies belong to a newer Steam version.
+ target=safe(game,first);original_bytes=target.read_bytes();target.write_bytes(original_bytes+b'edited')
+ exe=game/'ZephyrRemastered.exe';exe_bytes=exe.read_bytes();exe.write_bytes(exe_bytes+b'new Steam version')
+ assert p.status()['status']=='unsupported_or_modified' and p.status()['can_force_restore']
+ try:p.force_restore()
+ except ValueError:pass
+ else:raise AssertionError('force restore did not require explicit confirmation')
+ assert target.read_bytes()==original_bytes+b'edited';checks.append('force restore requires explicit confirmation')
+ r=p.force_restore(confirmed=True)
+ assert r['force_restored_files']==len(p.files) and p.actual()==baseline
+ assert exe.read_bytes()==exe_bytes+b'new Steam version'
+ assert r['status']=='unsupported_or_modified' and r['steam_verification_recommended']
+ exe.write_bytes(exe_bytes);checks.append('force restore works with updated EXE without overwriting EXE or claiming compatibility')
+ target.unlink();assert p.status()['can_force_restore']
+ p.force_restore(confirmed=True);assert p.actual()==baseline
+ checks.append('force restore recreates missing target files')
+ # Failure recovery must restore the exact modified baseline, including absence.
+ target.unlink();missing_baseline=p.actual()
+ try:p.transaction(p.original,baseline,dict(version=None,installed_files={}),fail_after=3)
+ except RuntimeError:pass
+ else:raise AssertionError('force-restore interruption fixture did not fail')
+ assert p.actual()==missing_baseline and not target.exists()
+ target.write_bytes(original_bytes);checks.append('interrupted recovery preserves missing-file pre-operation state')
+ saved_game=p.game;fake=work/'steamapps/common/TestGame';fake.mkdir(parents=True)
+ manifest=work/'steamapps/appmanifest_5099430.acf'
+ manifest.write_text('"appid" "5099430" "installdir" "TestGame" "buildid" "999999"',encoding='utf8')
+ p.game=fake;assert p.installed_build()=='999999'
+ manifest.write_text('"appid" "5099430" "installdir" "OtherGame" "buildid" "999999"',encoding='utf8')
+ assert p.installed_build() is None;p.game=saved_game
+ checks.append('Steam build detection validates app id and selected installation')
  assert save.read_bytes()==b'untouched save sentinel';checks.append('save sentinel untouched')
  report=dict(passed=True,checks=checks,files=len(p.files),original_hashes=baseline,installed_hashes=installed)
  write(work/'report.json',report);print(json.dumps(dict(passed=True,checks=checks),indent=2))
