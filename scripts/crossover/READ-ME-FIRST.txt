@@ -1,0 +1,36 @@
+ZephyrPassives English — CrossOver Steam (Apple Silicon Mac)
+
+1. Copy ZephyrPassives-CrossOver-Scripts-012.zip to your Mac and unzip it.
+2. Keep all extracted files together. No Python installation is needed.
+3. Install the author's ZephyrPassives 2.4.3 mod in the game folder first.
+   Its loading in CrossOver must already be configured. The translation script
+   does not install the mod or change Wine DLL overrides.
+4. Close Zephyr Remastered. Double-click Apply-English-ZephyrPassives.command.
+5. Check the displayed game folder. Type APPLY and press Return.
+6. After success, launch the game normally from Steam in CrossOver.
+
+Default folder:
+~/Library/Application Support/CrossOver/Bottles/Steam/drive_c/Program Files (x86)/Steam/steamapps/common/The Rhapsody of Zephyr Remastered
+
+This applies the complete English translation, including Aura Slash, Geyshir,
+compact battle commands and the ZephyrPassives default-setting descriptions.
+It automatically backs up verified original game files. It does not change
+active saves or mod files. A previous installation managed by this patcher can
+be updated. An older manual/unmanaged patch must first be restored with its
+original tool; unknown files are never overwritten.
+
+Undo: double-click Restore-English-ZephyrPassives.command and type RESTORE.
+Restore before removing or updating ZephyrPassives: version checks still apply.
+Backups: ~/Library/Application Support/ZephyrEnglishPatcher
+Do not delete that folder if you may want to restore the original translation.
+
+Different bottle or Steam library (Terminal):
+./Apply-English-ZephyrPassives.command --game "/full/path/to/game"
+Read-only check:
+./Apply-English-ZephyrPassives.command --check
+
+The bundled app is locally signed, not Apple-notarized. If macOS blocks opening
+it, retain the displayed error for troubleshooting. Do not disable system security.
+
+Apply/restore was verified against a separate resource-only game copy. Actual
+mod gameplay and CrossOver compatibility remain to be tested. See MOD-GUIDE.md.

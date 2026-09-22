@@ -38,7 +38,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8983](../../localization/en-US/korean-batch-031.jsonl#L30) |  / ["m_text"] | 음성 | Voice |
 | [R8984](../../localization/en-US/korean-batch-031.jsonl#L31) |  / ["m_text"] | 공격1 | Attack 1 |
 | [R8985](../../localization/en-US/korean-batch-031.jsonl#L32) |  / ["m_text"] | 게임의 시스템 옵션을 설정 할 수 있습니다. | Adjust the game's system settings. |
-| [R8986](../../localization/en-US/korean-batch-031.jsonl#L33) |  / ["m_text"] | 플레이 / 조작 | Gameplay / Controls |
+| [R8986](../../localization/en-US/korean-batch-031.jsonl#L33) |  / ["m_text"] | 플레이 / 조작 | Gameplay |
 | [R8987](../../localization/en-US/korean-batch-031.jsonl#L34) |  / ["m_text"] | 서장 - 인페르노 습격 작전 | Prologue - Assault on Inferno |
 | [R8988](../../localization/en-US/korean-batch-031.jsonl#L35) |  / ["m_text"] | 무기이름이름무기이름 | WeaponNameNameWeaponName |
 | [R8989](../../localization/en-US/korean-batch-031.jsonl#L36) |  / ["m_text"] | 기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명 | SkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescription |
@@ -84,7 +84,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9029](../../localization/en-US/korean-batch-031.jsonl#L76) |  / ["m_text"] | 메인퀘스트메인퀘스트 | MainQuestMainQuest |
 | [R9030](../../localization/en-US/korean-batch-031.jsonl#L77) |  / ["m_text"] | 인카운터 | Encounters |
 | [R9031](../../localization/en-US/korean-batch-031.jsonl#L78) |  / ["m_text"] | 대화창 크기 변경 | Dialogue Window Size |
-| [R9032](../../localization/en-US/korean-batch-031.jsonl#L79) |  / ["m_text"] | 매우 잦게 | Very Frequent |
+| [R9032](../../localization/en-US/korean-batch-031.jsonl#L79) |  / ["m_text"] | 매우 잦게 | Very High |
 | [R9033](../../localization/en-US/korean-batch-031.jsonl#L80) |  / ["m_text"] | 이름이름이름이름 | NameNameNameName |
 | [R9034](../../localization/en-US/korean-batch-031.jsonl#L81) |  / ["m_text"] | 진형 | Formation |
 | [R9035](../../localization/en-US/korean-batch-031.jsonl#L82) |  / ["m_text"] | 무기<br> | Weapons<br> |
@@ -93,7 +93,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9038](../../localization/en-US/korean-batch-031.jsonl#L85) |  / ["m_text"] | 원작 | Original |
 | [R9039](../../localization/en-US/korean-batch-031.jsonl#L86) |  / ["m_text"] | 비어있음 | Empty |
 | [R9040](../../localization/en-US/korean-batch-031.jsonl#L87) |  / ["m_text"] | 죄수 | Prisoner |
-| [R9041](../../localization/en-US/korean-batch-031.jsonl#L88) |  / ["m_text"] | 전투중 배속 고정 | Lock Speed During Battle |
+| [R9041](../../localization/en-US/korean-batch-031.jsonl#L88) |  / ["m_text"] | 전투중 배속 고정 | Lock Battle Speed |
 | [R9042](../../localization/en-US/korean-batch-031.jsonl#L89) |  / ["m_text"] | 모던 | Modern |
 | [R9043](../../localization/en-US/korean-batch-031.jsonl#L90) |  / ["m_text"] | 퀘스트 내용을 확인 할 수 있습니다. | View quest details. |
 | [R9044](../../localization/en-US/korean-batch-031.jsonl#L91) |  / ["m_text"] | 4배 | 4x |
@@ -114,7 +114,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9059](../../localization/en-US/korean-batch-031.jsonl#L106) |  / ["m_text"] | 구입 | Buy |
 | [R9060](../../localization/en-US/korean-batch-031.jsonl#L107) |  / ["m_text"] | 현재까지의 게임을 저장합니다. | Save your current progress. |
 | [R9061](../../localization/en-US/korean-batch-031.jsonl#L108) |  / ["m_text"] | 무기이름이름무기이름 | WeaponNameNameWeaponName |
-| [R9062](../../localization/en-US/korean-batch-031.jsonl#L109) |  / ["m_text"] | 사운드 / 진동 | Sound / Vibration |
+| [R9062](../../localization/en-US/korean-batch-031.jsonl#L109) |  / ["m_text"] | 사운드 / 진동 | Audio |
 | [R9063](../../localization/en-US/korean-batch-031.jsonl#L110) |  / ["m_text"] | 자동 설정 | Auto-Configure |
 | [R9064](../../localization/en-US/korean-batch-031.jsonl#L111) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogue |
 | [R9065](../../localization/en-US/korean-batch-031.jsonl#L112) |  / ["m_text"] | 스테이터스 | Stats |
@@ -146,7 +146,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9091](../../localization/en-US/korean-batch-031.jsonl#L138) |  / ["m_text"] | 이름이름 | NameName |
 | [R9092](../../localization/en-US/korean-batch-031.jsonl#L139) |  / ["m_text"] | 여관주인 | Innkeeper |
 | [R9093](../../localization/en-US/korean-batch-031.jsonl#L140) |  / ["m_text"] | 보유 ELD | ELD Held |
-| [R9094](../../localization/en-US/korean-batch-031.jsonl#L141) |  / ["m_text"] | 버튼으로만 상호작용 | Interact with Buttons Only |
+| [R9094](../../localization/en-US/korean-batch-031.jsonl#L141) |  / ["m_text"] | 버튼으로만 상호작용 | Buttons Only |
 | [R9095](../../localization/en-US/korean-batch-031.jsonl#L142) |  / ["m_text"] | - 판매할 아이템이 없습니다 - | - No items to sell - |
 | [R9096](../../localization/en-US/korean-batch-031.jsonl#L143) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogue |
 | [R9097](../../localization/en-US/korean-batch-031.jsonl#L144) |  / ["m_text"] | 저장된 게임을 불러옵니다. | Load a saved game. |
@@ -170,7 +170,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9115](../../localization/en-US/korean-batch-031.jsonl#L162) |  / ["m_text"] | 파티원의 전투 위치를 변경 할 수 있습니다. | Change party members' battle positions. |
 | [R9116](../../localization/en-US/korean-batch-031.jsonl#L163) |  / ["m_text"] | 4배 | 4x |
 | [R9117](../../localization/en-US/korean-batch-031.jsonl#L164) |  / ["m_text"] | 캐릭터 | Characters |
-| [R9118](../../localization/en-US/korean-batch-031.jsonl#L165) |  / ["m_text"] | 무기 내구도 적용 | Enable Weapon Durability |
+| [R9118](../../localization/en-US/korean-batch-031.jsonl#L165) |  / ["m_text"] | 무기 내구도 적용 | Weapon Durability |
 | [R9119](../../localization/en-US/korean-batch-031.jsonl#L166) |  / ["m_text"] | 기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명 | SkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescription |
 | [R9120](../../localization/en-US/korean-batch-031.jsonl#L167) |  / ["m_text"] | 앤 아주머니 | Aunt Anne |
 | [R9121](../../localization/en-US/korean-batch-031.jsonl#L168) |  / ["m_text"] | 명중률 | Accuracy |
@@ -220,10 +220,10 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9165](../../localization/en-US/korean-batch-031.jsonl#L212) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogue |
 | [R9166](../../localization/en-US/korean-batch-031.jsonl#L213) |  / ["m_text"] | 무기<br> | Weapons<br> |
 | [R9167](../../localization/en-US/korean-batch-031.jsonl#L214) |  / ["m_text"] | 창4 | The War of Genesis IV |
-| [R9168](../../localization/en-US/korean-batch-031.jsonl#L215) |  / ["m_text"] | 퇴각시 항상 성공 | Retreat Always Succeeds |
+| [R9168](../../localization/en-US/korean-batch-031.jsonl#L215) |  / ["m_text"] | 퇴각시 항상 성공 | Always Escape |
 | [R9169](../../localization/en-US/korean-batch-031.jsonl#L216) |  / ["m_text"] | 회복 우선 | Heal First |
 | [R9170](../../localization/en-US/korean-batch-031.jsonl#L217) |  / ["m_text"] | 기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명 | SkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescription |
-| [R9171](../../localization/en-US/korean-batch-031.jsonl#L218) |  / ["m_text"] | 인카운터 빈도 | Encounter Frequency |
+| [R9171](../../localization/en-US/korean-batch-031.jsonl#L218) |  / ["m_text"] | 인카운터 빈도 | Encounter Rate |
 | [R9172](../../localization/en-US/korean-batch-031.jsonl#L219) |  / ["m_text"] | 빠르게 | Fast |
 | [R9173](../../localization/en-US/korean-batch-031.jsonl#L220) |  / ["m_text"] | 한번에 | Instant |
 | [R9174](../../localization/en-US/korean-batch-031.jsonl#L221) |  / ["m_text"] | 제피르팰컨 약 보급창 | Zephyr Falcon Medical Supplies |
@@ -286,7 +286,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9231](../../localization/en-US/korean-batch-031.jsonl#L278) |  / ["m_text"] | 2배 | 2x |
 | [R9232](../../localization/en-US/korean-batch-031.jsonl#L279) |  / ["m_text"] | 죄수 | Prisoner |
 | [R9233](../../localization/en-US/korean-batch-031.jsonl#L280) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogue |
-| [R9234](../../localization/en-US/korean-batch-031.jsonl#L281) |  / ["m_text"] | 드물게 | Rare |
+| [R9234](../../localization/en-US/korean-batch-031.jsonl#L281) |  / ["m_text"] | 드물게 | Low |
 | [R9235](../../localization/en-US/korean-batch-031.jsonl#L282) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogue |
 | [R9236](../../localization/en-US/korean-batch-031.jsonl#L283) |  / ["m_text"] | 무기이름이름무기이름 | WeaponNameNameWeaponName |
 | [R9237](../../localization/en-US/korean-batch-031.jsonl#L284) |  / ["m_text"] | 수리 | Repair |
@@ -294,7 +294,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9239](../../localization/en-US/korean-batch-031.jsonl#L286) |  / ["m_text"] | 플레이 타임 00:00:00 | Play Time 00:00:00 |
 | [R9240](../../localization/en-US/korean-batch-031.jsonl#L287) |  / ["m_text"] | 이름이름 | NameName |
 | [R9241](../../localization/en-US/korean-batch-031.jsonl#L288) |  / ["m_text"] | 저장하기 | Save |
-| [R9242](../../localization/en-US/korean-batch-031.jsonl#L289) |  / ["m_text"] | 잦게 | Frequent |
+| [R9242](../../localization/en-US/korean-batch-031.jsonl#L289) |  / ["m_text"] | 잦게 | High |
 | [R9243](../../localization/en-US/korean-batch-031.jsonl#L290) |  / ["m_text"] | 서브 퀘스트 | Side Quests |
 | [R9244](../../localization/en-US/korean-batch-031.jsonl#L291) |  / ["m_text"] | 피격 대미지 배수 | Damage Taken Multiplier |
 | [R9245](../../localization/en-US/korean-batch-031.jsonl#L292) |  / ["m_text"] | 설정 | Settings |
@@ -344,7 +344,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9289](../../localization/en-US/korean-batch-031.jsonl#L336) |  / ["m_text"] | 시스템 | System |
 | [R9290](../../localization/en-US/korean-batch-031.jsonl#L337) |  / ["m_text"] | 지하감옥어딘가 | SomewhereInTheDungeon |
 | [R9291](../../localization/en-US/korean-batch-031.jsonl#L338) |  / ["m_text"] | 전투 승리! | Victory! |
-| [R9292](../../localization/en-US/korean-batch-031.jsonl#L339) |  / ["m_text"] | 버튼으로만 상호작용 | Interact with Buttons Only |
+| [R9292](../../localization/en-US/korean-batch-031.jsonl#L339) |  / ["m_text"] | 버튼으로만 상호작용 | Buttons Only |
 | [R9293](../../localization/en-US/korean-batch-031.jsonl#L340) |  / ["m_text"] | 이름이름이름이름이름 | NameNameNameNameName |
 | [R9294](../../localization/en-US/korean-batch-031.jsonl#L341) |  / ["m_text"] | 이름이름 | NameName |
 | [R9295](../../localization/en-US/korean-batch-031.jsonl#L342) |  / ["m_text"] | 빠르게 | Fast |
@@ -424,7 +424,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9369](../../localization/en-US/korean-batch-031.jsonl#L416) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사대사 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogue |
 | [R9370](../../localization/en-US/korean-batch-031.jsonl#L417) |  / ["m_text"] | 파티원의 전투 위치를 변경 할 수 있습니다. | Change party members' battle positions. |
 | [R9371](../../localization/en-US/korean-batch-031.jsonl#L418) |  / ["m_text"] | 이름이름이름이름 | NameNameNameName |
-| [R9372](../../localization/en-US/korean-batch-031.jsonl#L419) |  / ["m_text"] | 매우 잦게 | Very Frequent |
+| [R9372](../../localization/en-US/korean-batch-031.jsonl#L419) |  / ["m_text"] | 매우 잦게 | Very High |
 | [R9373](../../localization/en-US/korean-batch-031.jsonl#L420) |  / ["m_text"] | 데이모스, 루크 번스타인<br> | Deimos, Luke Bernstein<br> |
 | [R9374](../../localization/en-US/korean-batch-031.jsonl#L421) |  / ["m_text"] | 자동 설정 | Auto-Configure |
 | [R9375](../../localization/en-US/korean-batch-031.jsonl#L422) |  / ["m_text"] | 피격 대미지 배수 | Damage Taken Multiplier |
@@ -448,7 +448,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9393](../../localization/en-US/korean-batch-031.jsonl#L440) |  / ["m_text"] | 퀘스트명퀘스트명 | QuestNameQuestName |
 | [R9394](../../localization/en-US/korean-batch-031.jsonl#L441) |  / ["m_text"] | 명중률 | Accuracy |
 | [R9395](../../localization/en-US/korean-batch-031.jsonl#L442) |  / ["m_text"] | 텍스트 표시 방식 | Text Display Style |
-| [R9396](../../localization/en-US/korean-batch-031.jsonl#L443) |  / ["m_text"] | 잦게 | Frequent |
+| [R9396](../../localization/en-US/korean-batch-031.jsonl#L443) |  / ["m_text"] | 잦게 | High |
 | [R9397](../../localization/en-US/korean-batch-031.jsonl#L444) |  / ["m_text"] | 방어력 | Defense |
 | [R9398](../../localization/en-US/korean-batch-031.jsonl#L445) |  / ["m_text"] | 2000/00/00 오후 00:00:00 | 2000/00/00 PM 00:00:00 |
 | [R9399](../../localization/en-US/korean-batch-031.jsonl#L446) |  / ["m_text"] | 스테이터스 | Stats |
@@ -467,7 +467,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9412](../../localization/en-US/korean-batch-031.jsonl#L459) |  / ["m_text"] | 원작 | Original |
 | [R9413](../../localization/en-US/korean-batch-031.jsonl#L460) |  / ["m_text"] | 안녕하세요 | Hello |
 | [R9414](../../localization/en-US/korean-batch-031.jsonl#L461) |  / ["m_text"] | 캐릭터 일러스트 선택 | Character Artwork |
-| [R9415](../../localization/en-US/korean-batch-031.jsonl#L462) |  / ["m_text"] | 플레이 / 조작 | Gameplay / Controls |
+| [R9415](../../localization/en-US/korean-batch-031.jsonl#L462) |  / ["m_text"] | 플레이 / 조작 | Gameplay |
 | [R9416](../../localization/en-US/korean-batch-031.jsonl#L463) |  / ["m_text"] | 플레이 타임 00:00:00 | Play Time 00:00:00 |
 | [R9417](../../localization/en-US/korean-batch-031.jsonl#L464) |  / ["m_text"] | 안녕하세요<br> | Hello<br> |
 | [R9418](../../localization/en-US/korean-batch-031.jsonl#L465) |  / ["m_text"] | 마법 사용 | Use Magic |
@@ -537,7 +537,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9482](../../localization/en-US/korean-batch-031.jsonl#L529) |  / ["m_text"] | &lt;sprite=20&gt; 인카운터 OFF | &lt;sprite=20&gt; Encounters OFF |
 | [R9483](../../localization/en-US/korean-batch-031.jsonl#L530) |  / ["m_text"] | 무기를 장착할 수 있습니다. | Equip weapons. |
 | [R9484](../../localization/en-US/korean-batch-031.jsonl#L531) |  / ["m_text"] | 인카운터 | Encounters |
-| [R9485](../../localization/en-US/korean-batch-031.jsonl#L532) |  / ["m_text"] | 퇴각시 항상 성공 | Retreat Always Succeeds |
+| [R9485](../../localization/en-US/korean-batch-031.jsonl#L532) |  / ["m_text"] | 퇴각시 항상 성공 | Always Escape |
 | [R9486](../../localization/en-US/korean-batch-031.jsonl#L533) |  / ["m_text"] | 아이템이름이름이름 | ItemNameNameName |
 | [R9487](../../localization/en-US/korean-batch-031.jsonl#L534) |  / ["m_text"] | 질문질문질문질문질문질문질문질문 | QuestionQuestionQuestionQuestionQuestionQuestionQuestionQuestion |
 | [R9488](../../localization/en-US/korean-batch-031.jsonl#L535) |  / ["m_text"] | 공격2 | Attack 2 |
@@ -550,10 +550,10 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9495](../../localization/en-US/korean-batch-031.jsonl#L542) |  / ["m_text"] | 서브퀘스트서브퀘스트 | SideQuestSideQuest |
 | [R9496](../../localization/en-US/korean-batch-031.jsonl#L543) |  / ["m_text"] | 캐릭터이름이름 | CharacterNameName |
 | [R9497](../../localization/en-US/korean-batch-031.jsonl#L544) |  / ["m_text"] | 지하감옥어딘가 | SomewhereInTheDungeon |
-| [R9498](../../localization/en-US/korean-batch-031.jsonl#L545) |  / ["m_text"] | 무기 내구도 적용 | Enable Weapon Durability |
+| [R9498](../../localization/en-US/korean-batch-031.jsonl#L545) |  / ["m_text"] | 무기 내구도 적용 | Weapon Durability |
 | [R9499](../../localization/en-US/korean-batch-031.jsonl#L546) |  / ["m_text"] | 앤 아주머니 | Aunt Anne |
 | [R9500](../../localization/en-US/korean-batch-031.jsonl#L547) |  / ["m_text"] | 팔콤판 | Falcom Version |
-| [R9501](../../localization/en-US/korean-batch-031.jsonl#L548) |  / ["m_text"] | 드물게 | Rare |
+| [R9501](../../localization/en-US/korean-batch-031.jsonl#L548) |  / ["m_text"] | 드물게 | Low |
 | [R9502](../../localization/en-US/korean-batch-031.jsonl#L549) |  / ["m_text"] | 공격3 | Attack 3 |
 | [R9503](../../localization/en-US/korean-batch-031.jsonl#L550) |  / ["m_text"] | 기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명 | SkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescription |
 | [R9504](../../localization/en-US/korean-batch-031.jsonl#L551) |  / ["m_text"] | 제피르팰컨 약 보급창 | Zephyr Falcon Medical Supplies |
@@ -585,8 +585,8 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9530](../../localization/en-US/korean-batch-031.jsonl#L577) |  / ["m_text"] | 기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명 | SkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescription |
 | [R9531](../../localization/en-US/korean-batch-031.jsonl#L578) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사대 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDia |
 | [R9532](../../localization/en-US/korean-batch-031.jsonl#L579) |  / ["m_text"] | 캐릭터 | Characters |
-| [R9533](../../localization/en-US/korean-batch-031.jsonl#L580) |  / ["m_text"] | 퇴각시 항상 성공 | Retreat Always Succeeds |
-| [R9534](../../localization/en-US/korean-batch-031.jsonl#L581) |  / ["m_text"] | 인카운터 빈도 | Encounter Frequency |
+| [R9533](../../localization/en-US/korean-batch-031.jsonl#L580) |  / ["m_text"] | 퇴각시 항상 성공 | Always Escape |
+| [R9534](../../localization/en-US/korean-batch-031.jsonl#L581) |  / ["m_text"] | 인카운터 빈도 | Encounter Rate |
 | [R9535](../../localization/en-US/korean-batch-031.jsonl#L582) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사대 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDia |
 | [R9536](../../localization/en-US/korean-batch-031.jsonl#L583) |  / ["m_text"] | 자동 전투 설정을 할 수 있습니다.  | Adjust auto-battle settings.  |
 | [R9537](../../localization/en-US/korean-batch-031.jsonl#L584) |  / ["m_text"] | 합계 | Total |
@@ -656,7 +656,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9601](../../localization/en-US/korean-batch-031.jsonl#L648) |  / ["m_text"] | 공격1 | Attack 1 |
 | [R9602](../../localization/en-US/korean-batch-031.jsonl#L649) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사대 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDia |
 | [R9603](../../localization/en-US/korean-batch-031.jsonl#L650) |  / ["m_text"] | 보조1 | Secondary 1 |
-| [R9604](../../localization/en-US/korean-batch-031.jsonl#L651) |  / ["m_text"] | 버튼으로만 상호작용 | Interact with Buttons Only |
+| [R9604](../../localization/en-US/korean-batch-031.jsonl#L651) |  / ["m_text"] | 버튼으로만 상호작용 | Buttons Only |
 | [R9605](../../localization/en-US/korean-batch-031.jsonl#L652) |  / ["m_text"] | 설명 | Description |
 | [R9606](../../localization/en-US/korean-batch-031.jsonl#L653) |  / ["m_text"] | 공격3 | Attack 3 |
 | [R9607](../../localization/en-US/korean-batch-031.jsonl#L654) |  / ["m_text"] | 이름이름 | NameName |
@@ -701,7 +701,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9646](../../localization/en-US/korean-batch-031.jsonl#L693) |  / ["m_text"] | 공격1 | Attack 1 |
 | [R9647](../../localization/en-US/korean-batch-031.jsonl#L694) |  / ["m_text"] | 비어있음 | Empty |
 | [R9648](../../localization/en-US/korean-batch-031.jsonl#L695) |  / ["m_text"] | 끄기 | Off |
-| [R9649](../../localization/en-US/korean-batch-031.jsonl#L696) |  / ["m_text"] | 매우 잦게 | Very Frequent |
+| [R9649](../../localization/en-US/korean-batch-031.jsonl#L696) |  / ["m_text"] | 매우 잦게 | Very High |
 | [R9650](../../localization/en-US/korean-batch-031.jsonl#L697) |  / ["m_text"] | 지하감옥어딘가 | SomewhereInTheDungeon |
 | [R9651](../../localization/en-US/korean-batch-031.jsonl#L698) |  / ["m_text"] | 무기이름이름이름 | WeaponNameNameName |
 | [R9652](../../localization/en-US/korean-batch-031.jsonl#L699) |  / ["m_text"] | 죄수 | Prisoner |
@@ -734,7 +734,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9679](../../localization/en-US/korean-batch-031.jsonl#L726) |  / ["m_text"] | 판매 | Sell |
 | [R9680](../../localization/en-US/korean-batch-031.jsonl#L727) |  / ["m_text"] | 2배 | 2x |
 | [R9681](../../localization/en-US/korean-batch-031.jsonl#L728) |  / ["m_text"] | 기본 | Default |
-| [R9682](../../localization/en-US/korean-batch-031.jsonl#L729) |  / ["m_text"] | 인카운터 빈도 | Encounter Frequency |
+| [R9682](../../localization/en-US/korean-batch-031.jsonl#L729) |  / ["m_text"] | 인카운터 빈도 | Encounter Rate |
 | [R9683](../../localization/en-US/korean-batch-031.jsonl#L730) |  / ["m_text"] | 공격2 | Attack 2 |
 | [R9684](../../localization/en-US/korean-batch-031.jsonl#L731) |  / ["m_text"] | 서장 - 인페르노 습격 작전 | Prologue - Assault on Inferno |
 | [R9685](../../localization/en-US/korean-batch-031.jsonl#L732) |  / ["m_text"] | UX/UI, 어셋 | UX/UI, Assets |
@@ -748,7 +748,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9693](../../localization/en-US/korean-batch-031.jsonl#L740) |  / ["m_text"] | &lt;sprite index=23&gt; 에스메랄다로 모두 회복 | &lt;sprite index=23&gt; Heal All with Esmeralda |
 | [R9694](../../localization/en-US/korean-batch-031.jsonl#L741) |  / ["m_text"] | 퀘스트 목록 표시 | Show Quest List |
 | [R9695](../../localization/en-US/korean-batch-031.jsonl#L742) |  / ["m_text"] | 처음부터 게임을 시작합니다. | Start the game from the beginning. |
-| [R9696](../../localization/en-US/korean-batch-031.jsonl#L743) |  / ["m_text"] | 무기 내구도 적용 | Enable Weapon Durability |
+| [R9696](../../localization/en-US/korean-batch-031.jsonl#L743) |  / ["m_text"] | 무기 내구도 적용 | Weapon Durability |
 | [R9697](../../localization/en-US/korean-batch-031.jsonl#L744) |  / ["m_text"] | 회복 우선 | Heal First |
 | [R9698](../../localization/en-US/korean-batch-031.jsonl#L745) |  / ["m_text"] | 공격2 | Attack 2 |
 | [R9699](../../localization/en-US/korean-batch-031.jsonl#L746) |  / ["m_text"] | 탄약 | Ammo |
@@ -831,7 +831,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9776](../../localization/en-US/korean-batch-031.jsonl#L823) |  / ["m_text"] | 무기이름이름무기이름 | WeaponNameNameWeaponName |
 | [R9777](../../localization/en-US/korean-batch-031.jsonl#L824) |  / ["m_text"] | 기본 | Default |
 | [R9778](../../localization/en-US/korean-batch-031.jsonl#L825) |  / ["m_text"] | 테스터<br> | Testers<br> |
-| [R9779](../../localization/en-US/korean-batch-031.jsonl#L826) |  / ["m_text"] | 잦게 | Frequent |
+| [R9779](../../localization/en-US/korean-batch-031.jsonl#L826) |  / ["m_text"] | 잦게 | High |
 | [R9780](../../localization/en-US/korean-batch-031.jsonl#L827) |  / ["m_text"] | 자동 전투 | Auto-Battle |
 | [R9781](../../localization/en-US/korean-batch-031.jsonl#L828) |  / ["m_text"] | 4배 | 4x |
 | [R9782](../../localization/en-US/korean-batch-031.jsonl#L829) |  / ["m_text"] | 무기<br> | Weapons<br> |
@@ -907,7 +907,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9852](../../localization/en-US/korean-batch-031.jsonl#L899) |  / ["m_text"] | 기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명기술설명 | SkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescriptionSkillDescription |
 | [R9853](../../localization/en-US/korean-batch-031.jsonl#L900) |  / ["m_text"] | 챕터제목챕터제목챕터제목챕터제목챕터제목 | ChapterTitleChapterTitleChapterTitleChapterTitleChapterTitle |
 | [R9854](../../localization/en-US/korean-batch-031.jsonl#L901) |  / ["m_text"] | 클래식 | Classic |
-| [R9855](../../localization/en-US/korean-batch-031.jsonl#L902) |  / ["m_text"] | 사운드 / 진동 | Sound / Vibration |
+| [R9855](../../localization/en-US/korean-batch-031.jsonl#L902) |  / ["m_text"] | 사운드 / 진동 | Audio |
 | [R9856](../../localization/en-US/korean-batch-031.jsonl#L903) |  / ["m_text"] | 대사대사대사대사대사대사대사대사대사대사 | DialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogueDialogue |
 | [R9857](../../localization/en-US/korean-batch-031.jsonl#L904) |  / ["m_text"] | 판매 | Sell |
 | [R9858](../../localization/en-US/korean-batch-031.jsonl#L905) |  / ["m_text"] | 대화창 크기 변경 | Dialogue Window Size |
@@ -916,7 +916,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9861](../../localization/en-US/korean-batch-031.jsonl#L908) |  / ["m_text"] | - 수리할 아이템이 없습니다 - | - No items to repair - |
 | [R9862](../../localization/en-US/korean-batch-031.jsonl#L909) |  / ["m_text"] | 0.5배 | 0.5x |
 | [R9863](../../localization/en-US/korean-batch-031.jsonl#L910) |  / ["m_text"] | 무기 | Weapons |
-| [R9864](../../localization/en-US/korean-batch-031.jsonl#L911) |  / ["m_text"] | 플레이 / 조작 | Gameplay / Controls |
+| [R9864](../../localization/en-US/korean-batch-031.jsonl#L911) |  / ["m_text"] | 플레이 / 조작 | Gameplay |
 | [R9865](../../localization/en-US/korean-batch-031.jsonl#L912) |  / ["m_text"] | 저장하기 | Save |
 | [R9866](../../localization/en-US/korean-batch-031.jsonl#L913) |  / ["m_text"] | 효과음 | Sound Effects |
 | [R9867](../../localization/en-US/korean-batch-031.jsonl#L914) |  / ["m_text"] | 현재까지의 게임을 저장합니다. | Save your current progress. |
@@ -969,7 +969,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R9914](../../localization/en-US/korean-batch-031.jsonl#L961) |  / ["m_text"] | 2배 | 2x |
 | [R9915](../../localization/en-US/korean-batch-031.jsonl#L962) |  / ["m_text"] | 제피르팰컨 약 보급창 | Zephyr Falcon Medical Supplies |
 | [R9916](../../localization/en-US/korean-batch-031.jsonl#L963) |  / ["m_text"] | 필살기 사용 | Use Special |
-| [R9917](../../localization/en-US/korean-batch-031.jsonl#L964) |  / ["m_text"] | 전투중 배속 고정 | Lock Speed During Battle |
+| [R9917](../../localization/en-US/korean-batch-031.jsonl#L964) |  / ["m_text"] | 전투중 배속 고정 | Lock Battle Speed |
 | [R9918](../../localization/en-US/korean-batch-031.jsonl#L965) |  / ["m_text"] | 한계력 | Power Limit |
 | [R9919](../../localization/en-US/korean-batch-031.jsonl#L966) |  / ["m_text"] | 불러오기 | Load |
 | [R9920](../../localization/en-US/korean-batch-031.jsonl#L967) |  / ["m_text"] | 공격력 | Attack |
@@ -1108,7 +1108,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R10053](../../localization/en-US/korean-batch-031.jsonl#L1100) |  / ["m_text"] | 제피르팰컨 약 보급창 | Zephyr Falcon Medical Supplies |
 | [R10054](../../localization/en-US/korean-batch-031.jsonl#L1101) |  / ["m_text"] | 공격1 | Attack 1 |
 | [R10055](../../localization/en-US/korean-batch-031.jsonl#L1102) |  / ["m_text"] | 자동 설정 | Auto-Configure |
-| [R10056](../../localization/en-US/korean-batch-031.jsonl#L1103) |  / ["m_text"] | 전투중 배속 고정 | Lock Speed During Battle |
+| [R10056](../../localization/en-US/korean-batch-031.jsonl#L1103) |  / ["m_text"] | 전투중 배속 고정 | Lock Battle Speed |
 | [R10057](../../localization/en-US/korean-batch-031.jsonl#L1104) |  / ["m_text"] | 이름이름이름이름 | NameNameNameName |
 | [R10058](../../localization/en-US/korean-batch-031.jsonl#L1105) |  / ["m_text"] | 2000/00/00 오후 00:00:00 | 2000/00/00 PM 00:00:00 |
 | [R10059](../../localization/en-US/korean-batch-031.jsonl#L1106) |  / ["m_text"] | 4배 | 4x |
@@ -1173,7 +1173,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R10118](../../localization/en-US/korean-batch-031.jsonl#L1165) |  / ["m_text"] | 타이틀로 돌아가기 | Return to Title Screen |
 | [R10119](../../localization/en-US/korean-batch-031.jsonl#L1166) |  / ["m_text"] | (보유 00) | (Owned: 00) |
 | [R10120](../../localization/en-US/korean-batch-031.jsonl#L1167) |  / ["m_text"] | 공로자 검색하기 | Search Contributors |
-| [R10121](../../localization/en-US/korean-batch-031.jsonl#L1168) |  / ["m_text"] | 사운드 / 진동 | Sound / Vibration |
+| [R10121](../../localization/en-US/korean-batch-031.jsonl#L1168) |  / ["m_text"] | 사운드 / 진동 | Audio |
 | [R10122](../../localization/en-US/korean-batch-031.jsonl#L1169) |  / ["m_text"] | 이름이름이름이름이름 | NameNameNameNameName |
 | [R10123](../../localization/en-US/korean-batch-031.jsonl#L1170) |  / ["m_text"] | 모던 | Modern |
 | [R10124](../../localization/en-US/korean-batch-031.jsonl#L1171) |  / ["m_text"] | 보유 ELD | ELD Held |
@@ -1194,7 +1194,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R10139](../../localization/en-US/korean-batch-031.jsonl#L1186) |  / ["m_text"] | 공격 대미지 배수 | Damage Dealt Multiplier |
 | [R10140](../../localization/en-US/korean-batch-031.jsonl#L1187) |  / ["m_text"] | 서브퀘스트서브퀘스트 | SideQuestSideQuest |
 | [R10141](../../localization/en-US/korean-batch-031.jsonl#L1188) |  / ["m_text"] | 무기 | Weapons |
-| [R10142](../../localization/en-US/korean-batch-031.jsonl#L1189) |  / ["m_text"] | 드물게 | Rare |
+| [R10142](../../localization/en-US/korean-batch-031.jsonl#L1189) |  / ["m_text"] | 드물게 | Low |
 | [R10143](../../localization/en-US/korean-batch-031.jsonl#L1190) |  / ["m_text"] | &lt;color=#FFB309&gt;ELD 999,999&lt;/color&gt; 획득 | &lt;color=#FFB309&gt;ELD 999,999&lt;/color&gt; obtained |
 | [R10144](../../localization/en-US/korean-batch-031.jsonl#L1191) |  / ["m_text"] | 프로그램 | Programming |
 | [R10145](../../localization/en-US/korean-batch-031.jsonl#L1192) |  / ["m_text"] | 비어있음 | Empty |

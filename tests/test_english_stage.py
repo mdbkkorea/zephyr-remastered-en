@@ -16,6 +16,16 @@ def sample(source='안녕/10d/n친구', target='Hello/10d/nfriend'):
 
 
 class EnglishStageTests(unittest.TestCase):
+    def test_delay_does_not_separate_english_words(self):
+        original, draft = sample('한/20d여자', 'a/20dwoman')
+        self.assertTrue(any('word space' in e for e in audit([original], [draft])['errors']))
+        draft['target'] = 'a /20dwoman'
+        self.assertEqual(audit([original], [draft])['errors'], [])
+
+    def test_delay_after_newline_is_not_joined_text(self):
+        original, draft = sample('말/n/20d여자', 'Words/n/20dWoman')
+        self.assertEqual(audit([original], [draft])['errors'], [])
+
     def test_decorative_heading_translates_but_delimiters_and_tags_stay(self):
         original, draft = sample('<< 리브레빌 >>', '<< Libreville >>')
         self.assertEqual(audit([original], [draft])['errors'], [])

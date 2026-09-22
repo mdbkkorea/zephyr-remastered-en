@@ -3,8 +3,9 @@ import argparse,contextlib,gzip,hashlib,json,os,re,shutil,subprocess,sys,uuid
 from pathlib import Path
 from english_resources import rebuild,safe,sha,windows_long_path
 from english_trust import HASHES
+from english_mods import select_patch
 from english_platform import state_home as default_state_home, path_key, require_game_stopped, operation_lock
-VERSION='0.1.0-playtest3'
+VERSION='0.1.0-auto016'
 def read(p):return json.loads(p.read_text(encoding='utf8'))
 def write(p,value):
  p.parent.mkdir(parents=True,exist_ok=True);tmp=p.with_suffix(p.suffix+'.new');tmp.write_text(json.dumps(value,ensure_ascii=False,indent=2),encoding='utf8');os.replace(tmp,p)
@@ -14,13 +15,21 @@ class Patcher:
   self.game=Path(game).resolve();self.payload=Path(payload or payload_default()).resolve()
   for n,h in HASHES.items():
    if sha(self.payload/n)!=h:raise ValueError('Embedded English patch data failed verification.')
-  self.patch=json.loads((self.payload/'manifest.json').read_text(encoding='utf8'));self.files=self.patch['files'];self.names={r['path'] for r in self.files}
+  self.manifest=json.loads((self.payload/'manifest.json').read_text(encoding='utf8'));self.patch=self.manifest;self.files=self.patch['files'];self.names={r['path'] for r in self.files}
+  for mod in self.manifest.get('automatic_mods',[]):
+   if mod.get('translation'):self.names.add(mod['path'])
   for name in self.names:
-   if not name.startswith('ZephyrRemastered_Data/') or any(x in Path(name).parts for x in ['..']):raise ValueError('Invalid resource path.')
+   if (not name.startswith('ZephyrRemastered_Data/') and name!='BepInEx/plugins/ZephyrFullmap/ZephyrFullmap.dll') or any(x in Path(name).parts for x in ['..']):raise ValueError('Invalid resource path.')
    safe(self.game,name)
   key=hashlib.sha256(path_key(self.game).encode()).hexdigest()[:24]
   home=Path(state_home or default_state_home());self.home=windows_long_path(home.resolve()/key);self.original=self.home/'original';self.statefile=self.home/'state.json';self.journalfile=self.home/'transaction.json'
+ def refresh(self):
+  if self.manifest.get('automatic_mods'):
+   self.patch,self.mod_notices,self.mod_error=select_patch(self.game,self.manifest,self.state());self.files=self.patch['files']
+  else:self.mod_notices=[];self.mod_error=None
  def guard_game(self):
+  self.refresh()
+  if self.mod_error:raise ValueError(self.mod_error)
   exe=self.game/'ZephyrRemastered.exe'
   if not exe.is_file() or sha(exe)!=self.patch['exe_sha256']:raise ValueError('Select a supported original Zephyr Remastered game folder.')
   for r in self.patch['dependencies']:
@@ -48,6 +57,8 @@ class Patcher:
   except ValueError as ex:compatible=False;reason=str(ex)
   actual=self.actual();state=self.state();before={r['path']:r['before_sha256'] for r in self.files};after={r['path']:r['after_sha256'] for r in self.files}
   managed=(state or {}).get('installed_files',{})
+  optional={m['path'] for m in self.manifest.get('automatic_mods',[]) if m.get('translation')}
+  managed={k:v for k,v in managed.items() if k in actual or (k not in optional and safe(self.game,k).exists())}
   matches_managed=bool(managed) and all(actual.get(k)==v for k,v in managed.items()) and all(actual[k]==before[k] for k in actual.keys()-managed.keys())
   if self.journalfile.exists():kind='recovery_required'
   elif not compatible:kind='unsupported_or_modified'
@@ -57,7 +68,7 @@ class Patcher:
   elif actual==after:kind='unmanaged_localization'
   else:kind='unsupported_or_modified'
   backups=self.backup_rows()
-  return dict(status=kind,version=VERSION,installed_version=(state or {}).get('version'),game_build=self.patch['game_build'],installed_build=self.installed_build(),compatibility_reason=reason,can_install=kind in ['original','update_available','installed'],can_restore=bool(state) and len(backups)==len(self.files) and kind in ['installed','update_available'],can_force_restore=bool(backups) and kind!='recovery_required',backup_files=len(backups),backup_complete=len(backups)==len(self.files),backup_available=bool(backups))
+  return dict(detected_mods=self.mod_notices,translation_profile=self.patch.get('translation_profile','Standard game'),status=kind,version=VERSION,installed_version=(state or {}).get('version'),game_build=self.patch['game_build'],installed_build=self.installed_build(),compatibility_reason=reason,can_install=kind in ['original','update_available','installed'],can_restore=bool(state) and len(backups)==len(self.files) and kind in ['installed','update_available'],can_force_restore=bool(backups) and kind!='recovery_required',backup_files=len(backups),backup_complete=len(backups)==len(self.files),backup_available=bool(backups))
  def locked(self):return operation_lock(self.home)
  def copy_checked(self,source,target,expected):
   if sha(source)!=expected:raise ValueError('Staged file checksum failed.')
@@ -133,6 +144,11 @@ class Patcher:
      src=safe(self.game,r['path'])
      if not src.is_file() or sha(src)!=r['before_sha256']:raise ValueError('A newly patched resource lacks a verified original backup.')
      self.copy_checked(src,dst,r['before_sha256'])
+   # An optional mod profile can add a dependency to an existing backup.
+   # guard_game has verified its live hash; never replace an existing backup.
+   for r in self.patch['dependencies']:
+    dst=safe(self.original,r['path'])
+    if not dst.exists():self.copy_checked(safe(self.game,r['path']),dst,r['sha256'])
    self.verify_original();stage=self.home/'staging'/uuid.uuid4().hex;rebuild(self.original,stage,self.patch,self.payload)
    desired={r['path']:r['after_sha256'] for r in self.files};next_state=dict(version=VERSION,game_build=self.patch['game_build'],installed_files=desired)
    self.transaction(stage,desired,next_state)
@@ -152,7 +168,7 @@ class Patcher:
    self.stopped()
    if not (self.game/'ZephyrRemastered.exe').is_file():raise ValueError('Select the game folder.')
    if self.journalfile.exists():raise ValueError('Recover the previous operation first.')
-   rows=self.backup_rows()
+   self.refresh();rows=self.backup_rows()
    if not rows:raise ValueError('No verified original backup exists. Use Steam file verification.')
    desired=self.actual()
    for r in rows:desired[r['path']]=r['before_sha256']

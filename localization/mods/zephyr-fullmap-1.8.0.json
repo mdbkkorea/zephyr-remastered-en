@@ -1,0 +1,561 @@
+{
+  "name": "ZephyrFullmap 1.8.0 English",
+  "source_sha256": "9c891825ed28212df42a97512c2e6b522304009e2e7dca669a7615f30b199334",
+  "rows": [
+    {
+      "original": "게이시르 대성당",
+      "target": "Geyshir Cathedral",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "게이시르 대성당 내부",
+      "target": "Inside Geyshir Cathedral",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "게이시르 대성당 지하",
+      "target": "Geyshir Cathedral, Basement",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "게이시르 숲",
+      "target": "Geyshir Forest",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "게이시르 시티",
+      "target": "Geyshir City",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "게이시르마을",
+      "target": "Geyshir Village",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "게이시르숲",
+      "target": "Geyshir Forest",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "니코시아",
+      "target": "Nicosia",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "니코시아 교회 요새",
+      "target": "Nicosia Church Fortress",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "니코시아 교회 요새 앞",
+      "target": "Outside Nicosia Church Fortress",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "니코시아 마을",
+      "target": "Nicosia Village",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "니코시아 마을 동부",
+      "target": "Eastern Nicosia Village",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "다카마항",
+      "target": "Dakama Port",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "다카마항 부두",
+      "target": "Dakama Port Docks",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "드래건 브레스 동굴 입구",
+      "target": "Dragon Breath Cave Entrance",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "드래건 브레스 동굴 출구",
+      "target": "Dragon Breath Cave Exit",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "드래건 브레스 산 정상",
+      "target": "Dragon Breath Summit",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "드래건 브레스 산맥",
+      "target": "Dragon Breath Mountains",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "드래건 브레스 산맥 남부",
+      "target": "Southern Dragon Breath Mountains",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "드래건 브레스 산맥 동굴",
+      "target": "Dragon Breath Mountain Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "드래건 브레스 산맥 북부",
+      "target": "Northern Dragon Breath Mountains",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "드래곤브레스산맥",
+      "target": "Dragon Breath Mountains",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "드래곤스트라이크작전포인트",
+      "target": "Dragon Strike Operation Site",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "라몬 저택",
+      "target": "Ramon's Mansion",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "라몬 저택 1층",
+      "target": "Ramon's Mansion, 1F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "라몬 저택 지하",
+      "target": "Ramon's Mansion, Basement",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "로우엔",
+      "target": "Lowen",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "로우엔 동굴",
+      "target": "Lowen Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "로우엔 산 정상",
+      "target": "Mount Lowen Summit",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "로우엔 숲",
+      "target": "Lowen Forest",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "로우엔 시티",
+      "target": "Lowen City",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "로우엔 시티 서부",
+      "target": "Western Lowen City",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "로우엔산",
+      "target": "Mount Lowen",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "루벤 저택",
+      "target": "Ruben's Mansion",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "루벤 저택 1층",
+      "target": "Ruben's Mansion, 1F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "루벤 저택 2층",
+      "target": "Ruben's Mansion, 2F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "루벤 저택 앞",
+      "target": "Outside Ruben's Mansion",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "루벤 저택 지하수로",
+      "target": "Ruben's Mansion, Underground Waterway",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "리브레빌",
+      "target": "Libreville",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "리브레빌 주변",
+      "target": "Libreville Outskirts",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "마검의숲",
+      "target": "Forest of the Demonic Sword",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "망티고아 산 동부",
+      "target": "Eastern Mount Mantigoa",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "망티고아산",
+      "target": "Mount Mantigoa",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "메르세데스의 초대",
+      "target": "Mercedes's Invitation",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "멤피스",
+      "target": "Memphis",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "멤피스 영주 저택",
+      "target": "Lord of Memphis's Mansion",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "미로숲",
+      "target": "Maze Forest",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "반란군의 마을",
+      "target": "Rebel Village",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "번스타인가 저택 테라스",
+      "target": "Bernstein Mansion Terrace",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "보급로탈환포인트",
+      "target": "Supply Route Recovery Site",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "보르도",
+      "target": "Bordeaux",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "보르도 영주 저택",
+      "target": "Lord of Bordeaux's Mansion",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "보르도 영주 저택 내부",
+      "target": "Inside the Lord of Bordeaux's Mansion",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "분열하는 제피르 팰컨",
+      "target": "Zephyr Falcon Divided",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "불사조의동굴",
+      "target": "Phoenix Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "비프로스트국경",
+      "target": "Bifrost Border",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "비프로스트군 병참기지",
+      "target": "Bifrost Army Supply Base",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "사이럽스",
+      "target": "Cyrups",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "사이럽스 시티",
+      "target": "Cyrups City",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "새벽산정상",
+      "target": "Mountain Summit at Dawn",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "수중도시",
+      "target": "The Underwater City",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "수중도시 1층",
+      "target": "Underwater City, 1F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "수중도시 2층",
+      "target": "Underwater City, 2F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "수중도시 3층",
+      "target": "Underwater City, 3F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "수중도시 4층",
+      "target": "Underwater City, 4F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "수중도시 5층",
+      "target": "Underwater City, 5F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "수중도시 동굴",
+      "target": "Underwater City Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "수중도시 입구",
+      "target": "Underwater City Entrance",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "썬더메어의 동굴",
+      "target": "Thundermare Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "악마재판장",
+      "target": "Inquisition",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "안타나나리보 요새",
+      "target": "Antananarivo Fortress",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "안타나나리보 요새 앞",
+      "target": "Outside Antananarivo Fortress",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "안타나나리보산지",
+      "target": "Antananarivo Highlands",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "안타나나리보요새",
+      "target": "Antananarivo Fortress",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "에스테 저택 화원",
+      "target": "Este's Mansion Garden",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "유니콘의동굴",
+      "target": "Unicorn Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "유성검의동굴",
+      "target": "Meteor Sword Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "인페르노 내부 2층",
+      "target": "Inferno, second floor",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "인페르노감옥",
+      "target": "Inferno Prison",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "제피르 팰컨 기지 비밀던전",
+      "target": "Zephyr Falcon Base, Secret Dungeon",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "제피르 팰컨 작전회의실",
+      "target": "Zephyr Falcon War Room",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "제피르본부",
+      "target": "Zephyr Headquarters",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "집 내부",
+      "target": "Interior",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "추기경 집무실",
+      "target": "Cardinal's Office",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "카라카스 숲",
+      "target": "Caracas Forest",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "카라카스마을",
+      "target": "Caracas Village",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "카라카스숲",
+      "target": "Caracas Forest",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "트리시스 사막",
+      "target": "Trisis Desert",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "트리시스사막",
+      "target": "Trisis Desert",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "파로 마을",
+      "target": "Paro Village",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "팬드래건 연락선 선실",
+      "target": "Pendragon Ferry Cabin",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "폭풍도",
+      "target": "Storm Island",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "폭풍도 동굴",
+      "target": "Storm Island Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "폭풍도 동굴 입구",
+      "target": "Storm Island Cave Entrance",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "폭풍도 숲",
+      "target": "Storm Island Forest",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "폭풍도 정상",
+      "target": "Storm Island Summit",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "폭풍도 해안",
+      "target": "Storm Island Coast",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "프레데릭 저택 앞",
+      "target": "Outside Frederick's Mansion",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "프리토리아 영주 저택",
+      "target": "Lord of Pretoria's Mansion",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "프리토리아 영주 저택 1층",
+      "target": "Lord of Pretoria's Mansion, 1F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "프리토리아 영주 저택 2층",
+      "target": "Lord of Pretoria's Mansion, 2F",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "프리토리아마을",
+      "target": "Pretoria Village",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "프리토리아산",
+      "target": "Mount Pretoria",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "피닉스의 동굴",
+      "target": "Phoenix Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "해적 키드의 동굴",
+      "target": "Pirate Kidd's Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "해적선",
+      "target": "Pirate Ship",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "해적의동굴",
+      "target": "Pirate Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "화룡굴",
+      "target": "Fire Dragon Cave",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "화룡굴 입구",
+      "target": "Fire Dragon Cave Entrance",
+      "notes": "Fullmap 1.8.0 display label; follows the existing Korean-based game translation. Unapproved proper names remain provisional."
+    },
+    {
+      "original": "R스틱 이동   LT+R스틱 확대·축소   R3 내 위치",
+      "target": "R: Pan  LT+R: Zoom  R3: Center",
+      "notes": "Compact controller help; R means right stick. Keyboard mappings remain as documented by the mod."
+    },
+    {
+      "original": " 방면",
+      "target": "",
+      "notes": "Direction suffix omitted: the translated destination name already identifies the exit. Stored as spaces to preserve the managed string allocation."
+    }
+  ]
+}

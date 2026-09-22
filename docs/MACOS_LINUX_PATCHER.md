@@ -1,10 +1,12 @@
 # macOS / CrossOver and Linux / Proton patcher
 
-The same English playtest-3 payload now has a host-native patcher. It patches the Windows game's files; CrossOver or Proton still runs the game.
+The current Korean-based English payload has a host-native patcher. It patches the Windows game's files; CrossOver or Proton still runs the game.
+
+Latest packages and validation: [Build 014](RELEASE_014.md). A standalone Linux x86-64 executable is now available; the source-mode instructions below remain an alternative.
 
 ## macOS
 
-Local deliverable: `private/Zephyr-English-macOS-AppleSilicon-008.zip`.
+Local deliverable: `private/Zephyr-English-ZephyrPassives-macOS-014.zip`.
 
 Extract it and open **ZephyrEnglishPatcher.app**. This build is for Apple Silicon and includes Python 3.14.7/Tk 9; users do not need to install Python. It is locally ad-hoc signed, not Developer ID signed or notarized. Intel Macs need a separate native build and test.
 
@@ -14,7 +16,7 @@ Backups are under `~/Library/Application Support/ZephyrEnglishPatcher/`. The pat
 
 ## Fedora 44
 
-Transfer and extract `private/Zephyr-English-Desktop-Kit-008.zip` on the Fedora laptop. Open a terminal in the extracted folder:
+Transfer and extract `private/Zephyr-English-ZephyrPassives-Kit-014.zip` on the Fedora laptop. Open a terminal in the extracted folder:
 
 ```sh
 sudo dnf install python3 python3-pip python3-tkinter
@@ -48,3 +50,7 @@ Linux backups use `$XDG_STATE_HOME/zephyr-english-patcher/`, or `~/.local/state/
 On Fedora, record `uname -m`, `python3 --version`, `ldd --version`, whether Steam is native or Flatpak, the test result, and the install/restore result. Confirm the running-game write guard and inspect the English menus, story and battle labels in-game.
 
 The kit-008 Mac GUI shows the typical full CrossOver Steam path, explains alternate bottles and Shift+Command+G in the folder picker, and expands pasted `~` paths. Rebuilt app layout visually verified; signature and archive integrity passed.
+
+## Compatible user mods
+
+The installer lists **ZephyrFullmap 1.8.0** (Full Map) and **ZephyrPassives 2.4.3** (Passives). Install the mods separately. The Passives translation edition requires version 2.4.3 and describes its default settings. Fullmap English labels are a separate add-on; the resource installer does not install or translate the Fullmap DLL. The original mods have user-reported Windows/CrossOver success; the translated Fullmap add-on still awaits runtime confirmation. Other mod versions are not covered by this compatibility note.

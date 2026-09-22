@@ -279,6 +279,7 @@ def main():
     parser.add_argument('--game', type=Path)
     parser.add_argument('--output', type=Path)
     parser.add_argument('--report', type=Path)
+    parser.add_argument('--zephyr-passives', action='store_true', help='Describe ZephyrPassives 2.4.3 with default settings')
     parser.add_argument('--experimental-incomplete-stage', action='store_true',
                         help='Build non-installable private resources; preserve missing Korean and exclude particles')
     args = parser.parse_args()
@@ -291,7 +292,13 @@ def main():
         drafts += read_rows(supplemental)
     proof_path = ROOT / 'localization/en-US/particle-review.json'
     particle_review = json.loads(proof_path.read_text()) if proof_path.exists() else None
+    mod = None
+    if args.zephyr_passives:
+        from scripts.mod_profile import apply_profile
+        drafts, mod = apply_profile(drafts)
     report = audit(source, drafts, particle_review)
+    if mod:
+        report['mod_profile'] = mod
     if args.output:
         if not args.experimental_incomplete_stage or not args.game:
             parser.error('Only an explicit experimental stage with --game is supported; no installable build exists yet')

@@ -128,7 +128,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R12524](../../localization/en-US/korean-batch-047.jsonl#L120) | art_ko_fl13_s05 / ["TextList", 30, "Text"] | 정확한 내부구조와, 적의 주위를 돌릴 수 있는 지원부대가 있다면 제압하는 것은 그리 어려운 일이 아닙니다. | With precise knowledge of its interior and supporting troops to distract the enemy, taking it is not particularly difficult. |
 | [R12525](../../localization/en-US/korean-batch-047.jsonl#L121) | art_ko_fl13_s05 / ["TextList", 31, "Text"] | 다른 말 필요없다. 어서 집으로 돌아가거라. | Enough. Go home at once. |
 | [R12526](../../localization/en-US/korean-batch-047.jsonl#L122) | art_ko_fl13_s05 / ["TextList", 32, "Text"] | 아마도, 카나 씨가 제 몫만큼 더 열심히 해 주실거라 믿습니다. | I trust Kana will work hard enough for both of us. |
-| [R12527](../../localization/en-US/korean-batch-047.jsonl#L123) | art_ko_fl13_s02 / ["TextList", 0, "Text"] | /2c게이시르 대성당. 체사레의 집무실 | /2cGaysir Cathedral. Cesare's office. |
+| [R12527](../../localization/en-US/korean-batch-047.jsonl#L123) | art_ko_fl13_s02 / ["TextList", 0, "Text"] | /2c게이시르 대성당. 체사레의 집무실 | /2cGeyshir Cathedral. Cesare's office. |
 | [R12528](../../localization/en-US/korean-batch-047.jsonl#L124) | art_ko_fl13_s02 / ["TextList", 1, "Text"] | ....알겠습니다.  | ....Understood.  |
 | [R12529](../../localization/en-US/korean-batch-047.jsonl#L125) | art_ko_fl13_s02 / ["TextList", 2, "Text"] | 그점은 걱정하지 않으셔도 될겁니다. /n제가 알아서 하지요. | You need not worry about that. /nI will handle it. |
 | [R12530](../../localization/en-US/korean-batch-047.jsonl#L126) | art_ko_fl13_s02 / ["TextList", 3, "Text"] | 정보 주셔서 감사합니다. | Thank you for the information. |
@@ -283,7 +283,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R12679](../../localization/en-US/korean-batch-047.jsonl#L275) | art_fl13_s03 / ["TextList", 97, "Text"] | 맞습니다./30d PS-7은/30d 팬드래건의 제식검인/30d/n팬드래건 소드 시리즈의 최신형입니다. | Correct./30d The PS-7/30d is the latest model/30d/nin Pendragon's standard Pendragon Sword series. |
 | [R12680](../../localization/en-US/korean-batch-047.jsonl#L276) | art_fl13_s03 / ["TextList", 98, "Text"] | 위력도 위력이지만,/35d 무엇보다도 가볍고/20d 수리가 쉬워/25d/n유용하게 사용할 수 있겠지요. | Its power is impressive,/35d but more than that, it is light/20d and easily repaired./25d/nYou should find it very useful. |
 | [R12681](../../localization/en-US/korean-batch-047.jsonl#L277) | art_fl13_s03 / ["TextList", 99, "Text"] | 나도 마찬가지야. | I feel the same way. |
-| [R12682](../../localization/en-US/korean-batch-047.jsonl#L278) | art_fl13_s02 / ["TextList", 0, "Text"] | 게이시르 대성당, 추기경 집무실 | Gaysir Cathedral, The Cardinal's Office |
+| [R12682](../../localization/en-US/korean-batch-047.jsonl#L278) | art_fl13_s02 / ["TextList", 0, "Text"] | 게이시르 대성당, 추기경 집무실 | Geyshir Cathedral, The Cardinal's Office |
 | [R12683](../../localization/en-US/korean-batch-047.jsonl#L279) | art_fl13_s02 / ["TextList", 1, "Text"] | …/15d알겠습니다. | .../15dUnderstood. |
 | [R12684](../../localization/en-US/korean-batch-047.jsonl#L280) | art_fl13_s02 / ["TextList", 2, "Text"] | 그 점은 걱정하지 않으셔도 될 겁니다./60d/n제가 알아서 하지요. | You need not worry about that./60d/nI will handle it. |
 | [R12685](../../localization/en-US/korean-batch-047.jsonl#L281) | art_fl13_s02 / ["TextList", 3, "Text"] | 정보 감사합니다. | Thank you for the information. |

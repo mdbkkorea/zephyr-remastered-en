@@ -121,7 +121,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R15927](../../localization/en-US/korean-batch-063.jsonl#L113) | art_ko_fltka02 / ["TextList", 49, "Text"] | 아버지를 한번쯤은 보고 싶어요... | I'd like to see my father, just once... |
 | [R15928](../../localization/en-US/korean-batch-063.jsonl#L114) | art_ko_fltka02 / ["TextList", 50, "Text"] | 나의 아내는 팬드래건으로 떠났지. | My wife left for Pendragon. |
 | [R15929](../../localization/en-US/korean-batch-063.jsonl#L115) | art_ko_fltka02 / ["TextList", 59, "Text"] | .../10d 바./15d 보. | .../10d Id-/15d iot. |
-| [R15930](../../localization/en-US/korean-batch-063.jsonl#L116) | art_ko_fltka02 / ["TextList", 69, "Text"] | 게이시르 학술원 산하 검 연구회 상점 | Gaysir Academy Sword Research Society Shop |
+| [R15930](../../localization/en-US/korean-batch-063.jsonl#L116) | art_ko_fltka02 / ["TextList", 69, "Text"] | 게이시르 학술원 산하 검 연구회 상점 | Geyshir Academy Sword Research Society Shop |
 | [R15931](../../localization/en-US/korean-batch-063.jsonl#L117) | art_ko_fltka02 / ["TextList", 99, "Text"] | 그곳은 평범한 지역이 아니야... | That is no ordinary place... |
 | [R15932](../../localization/en-US/korean-batch-063.jsonl#L118) | art_ko_fltka02 / ["TextList", 102, "Text"] | 나의 부인은 팬드래건으로 떠났지. | My wife left for Pendragon. |
 | [R15933](../../localization/en-US/korean-batch-063.jsonl#L119) | art_ko_fltka02 / ["TextList", 106, "Text"] | ... 바.보.  | ... Id-iot.  |
@@ -156,7 +156,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R15962](../../localization/en-US/korean-batch-063.jsonl#L148) | art_ko_fltcy03 / ["TextList", 94, "Text"] | 지나친 자유는 사람을 바보로 만들거든. | Too much freedom makes people foolish. |
 | [R15963](../../localization/en-US/korean-batch-063.jsonl#L149) | art_ko_fltcy03 / ["TextList", 95, "Text"] | 나는 이 사이럽스의 현 시장인 샤를르다. | I am Charles, the current mayor of Cyrups. |
 | [R15964](../../localization/en-US/korean-batch-063.jsonl#L150) | art_ko_fltcy03 / ["TextList", 98, "Text"] | [ 시장 샤를르 ]/n그렇소만, 무슨 일인가? | [ Mayor Charles ]/nYes, I am. What is it? |
-| [R15965](../../localization/en-US/korean-batch-063.jsonl#L151) | art_ko_fltcy03 / ["TextList", 104, "Text"] | [ 루스 ]/n게이시르 제국의 부흥을 위해! | [ Ruth ]/nTo the revival of the Gaysir Empire! |
+| [R15965](../../localization/en-US/korean-batch-063.jsonl#L151) | art_ko_fltcy03 / ["TextList", 104, "Text"] | [ 루스 ]/n게이시르 제국의 부흥을 위해! | [ Ruth ]/nTo the revival of the Geyshir Empire! |
 | [R15966](../../localization/en-US/korean-batch-063.jsonl#L152) | art_ko_fltcy03 / ["TextList", 105, "Text"] | 저... 실례지만 루스라는 분을 아십니까? | Excuse me... Do you know someone named Ruth? |
 | [R15967](../../localization/en-US/korean-batch-063.jsonl#L153) | art_ko_fltcy03 / ["TextList", 107, "Text"] | 에? 당신이 루스...? | What? You're Ruth...? |
 | [R15968](../../localization/en-US/korean-batch-063.jsonl#L154) | art_ko_fltcy03 / ["TextList", 114, "Text"] | 그것은... | That is... |
@@ -181,7 +181,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R15987](../../localization/en-US/korean-batch-063.jsonl#L173) | art_ko_fltcy03 / ["TextList", 161, "Text"] | 나도 크면 그런 미인이 되야지. | I'm going to be just as beautiful when I grow up. |
 | [R15988](../../localization/en-US/korean-batch-063.jsonl#L174) | art_ko_fltcy03 / ["TextList", 164, "Text"] | 자지도 않을 거면 묻기는 왜 물어? | Why ask if you're not going to stay? |
 | [R15989](../../localization/en-US/korean-batch-063.jsonl#L175) | art_ko_flwka17a / ["TextList", 0, "Text"] | 이곳은 프리토리아 방향이 아니다. | This isn't the way to Pretoria. |
-| [R15990](../../localization/en-US/korean-batch-063.jsonl#L176) | art_ko_flwka17a / ["TextList", 2, "Text"] | 남 - 게이시르 시티 | South - Gaysir City |
+| [R15990](../../localization/en-US/korean-batch-063.jsonl#L176) | art_ko_flwka17a / ["TextList", 2, "Text"] | 남 - 게이시르 시티 | South - Geyshir City |
 | [R15991](../../localization/en-US/korean-batch-063.jsonl#L177) | art_ko_fldri12 / ["TextList", 0, "Text"] | 드디어,썬더메어의 본거지를 찾았다!!! | At last, we've found Thundermare's lair!!! |
 | [R15992](../../localization/en-US/korean-batch-063.jsonl#L178) | art_ko_fltni01 / ["TextList", 3, "Text"] | 남탱이바부 | Namtaeng is a dummy. |
 | [R15993](../../localization/en-US/korean-batch-063.jsonl#L179) | art_ko_fltni01 / ["TextList", 5, "Text"] | 이곳이 바로 니코시아인가? | Is this Nicosia? |
@@ -230,7 +230,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16036](../../localization/en-US/korean-batch-063.jsonl#L222) | art_flvsirus / ["TextList", 5, "Text"] | 잠깐!! | Wait!! |
 | [R16037](../../localization/en-US/korean-batch-063.jsonl#L223) | art_fltpr02 / ["TextList", 43, "Text"] | 손님, 그리로 들어오시면 안됩니다. | Sir, you can't come in that way. |
 | [R16038](../../localization/en-US/korean-batch-063.jsonl#L224) | art_fltpr02 / ["TextList", 81, "Text"] | 안녕히 가세요.  | Goodbye.  |
-| [R16039](../../localization/en-US/korean-batch-063.jsonl#L225) | art_flwka17a / ["TextList", 2, "Text"] | 남 - 게이시르 시티 | South - Gaysir City |
+| [R16039](../../localization/en-US/korean-batch-063.jsonl#L225) | art_flwka17a / ["TextList", 2, "Text"] | 남 - 게이시르 시티 | South - Geyshir City |
 | [R16040](../../localization/en-US/korean-batch-063.jsonl#L226) | art_fltri01 / ["TextList", 17, "Text"] | 사이럽스의 니카차라면 나도 알고 있어요. | I know of Nikacha in Cyrups, too. |
 | [R16041](../../localization/en-US/korean-batch-063.jsonl#L227) | art_fltri01 / ["TextList", 51, "Text"] | 이곳은 여관입니다. | This is an inn. |
 | [R16042](../../localization/en-US/korean-batch-063.jsonl#L228) | art_fltri01 / ["TextList", 109, "Text"] | 감사합니다. 편안한 밤 되세요. | Thank you. Have a restful night. |
@@ -316,7 +316,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16122](../../localization/en-US/korean-batch-063.jsonl#L308) | art_fltka02 / ["TextList", 47, "Text"] | 우리 어머니 상당히 젊지요? | My mother is quite young, isn't she? |
 | [R16123](../../localization/en-US/korean-batch-063.jsonl#L309) | art_fltka02 / ["TextList", 48, "Text"] | 아버지는 안 계세요. 저의 기억속에는 없답니다. | I don't have a father. I don't remember him at all. |
 | [R16124](../../localization/en-US/korean-batch-063.jsonl#L310) | art_fltka02 / ["TextList", 50, "Text"] | 나의 아내는 팬드래건으로 떠났지. | My wife left for Pendragon. |
-| [R16125](../../localization/en-US/korean-batch-063.jsonl#L311) | art_fltka02 / ["TextList", 69, "Text"] | 게이시르 학술원 산하 검 연구회 상점 | Gaysir Academy Sword Research Society Shop |
+| [R16125](../../localization/en-US/korean-batch-063.jsonl#L311) | art_fltka02 / ["TextList", 69, "Text"] | 게이시르 학술원 산하 검 연구회 상점 | Geyshir Academy Sword Research Society Shop |
 | [R16126](../../localization/en-US/korean-batch-063.jsonl#L312) | art_fltka02 / ["TextList", 102, "Text"] | 나의 부인은 팬드래건으로 떠났지. | My wife left for Pendragon. |
 | [R16127](../../localization/en-US/korean-batch-063.jsonl#L313) | art_fldri12 / ["TextList", 0, "Text"] | 드디어,썬더메어의 본거지를 찾았다!!! | At last, we've found Thundermare's lair!!! |
 | [R16128](../../localization/en-US/korean-batch-063.jsonl#L314) | art_fltcy03 / ["TextList", 3, "Text"] | 안녕하십니까, 날씨 참 좋지 않습니까? | Hello. Lovely weather, isn't it? |

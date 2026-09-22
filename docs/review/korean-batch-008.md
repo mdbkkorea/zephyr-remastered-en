@@ -42,7 +42,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R978](../../localization/en-US/korean-batch-008.jsonl#L34) | DataManagerAssetRE / ["fieldInfos", 3, "title"] | 인페르노 지하 감옥 | Inferno, dungeon |
 | [R979](../../localization/en-US/korean-batch-008.jsonl#L35) | DataManagerAssetRE / ["fieldInfos", 4, "title"] | 인페르노 외곽 | Outside Inferno |
 | [R980](../../localization/en-US/korean-batch-008.jsonl#L36) | DataManagerAssetRE / ["fieldInfos", 5, "title"] | 번스타인가 저택, 테라스 | Bernstein residence, terrace |
-| [R981](../../localization/en-US/korean-batch-008.jsonl#L37) | DataManagerAssetRE / ["fieldInfos", 8, "title"] | 게이시르 대광장 | Gaysir, grand square |
+| [R981](../../localization/en-US/korean-batch-008.jsonl#L37) | DataManagerAssetRE / ["fieldInfos", 8, "title"] | 게이시르 대광장 | Geyshir, grand square |
 | [R982](../../localization/en-US/korean-batch-008.jsonl#L38) | DataManagerAssetRE / ["fieldInfos", 853, "title"] | 인페르노 내부 2층 | Inferno, second floor |
 | [R983](../../localization/en-US/korean-batch-008.jsonl#L39) | DataManagerAssetRE / ["fieldQuests", 0, "QuestTitle"] | 인페르노 파옥 사건 | The Inferno Prison Break |
 | [R984](../../localization/en-US/korean-batch-008.jsonl#L40) | DataManagerAssetRE / ["chapterDatas", 0, "ChapterNumber"] | 프롤로그 | Prologue |

@@ -63,6 +63,19 @@ class WindowsPatcherTests(unittest.TestCase):
         with self.assertRaises(ValueError):self.p.install()
         self.assertEqual((self.game/self.files[0]['path']).read_bytes(),b'modified')
 
+    def test_mod_dependency_added_to_existing_backup(self):
+        self.p.install()
+        self.p.restore()
+        plugin=self.game/'BepInEx/plugins/example.dll'
+        plugin.parent.mkdir(parents=True)
+        plugin.write_bytes(b'fixture plugin')
+        dep=dict(path='BepInEx/plugins/example.dll',sha256=sha(plugin))
+        self.p.patch['dependencies'].append(dep)
+        self.assertEqual(self.p.install()['status'],'installed')
+        self.assertEqual(sha(self.p.original/dep['path']),dep['sha256'])
+        self.assertEqual(self.p.restore()['status'],'original')
+        self.assertEqual(plugin.read_bytes(),b'fixture plugin')
+
     def test_tampered_payload_rejected(self):
         (self.payload/'0.delta').write_bytes(b'tampered')
         with self.assertRaises(ValueError):PortablePatcher(self.game,self.payload,self.game.parent/'state')

@@ -37,7 +37,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16524](../../localization/en-US/korean-batch-065.jsonl#L29) | art_ko_fldes04 / ["TextList", 17, "Text"] | 그럼, 행운을 비네. 이 죽음의 사막에서. | Well, good luck in this desert of death. |
 | [R16525](../../localization/en-US/korean-batch-065.jsonl#L30) | art_ko_fltka01a / ["TextList", 0, "Text"] | 이곳은 카라카스 마을입니다. | This is Caracas Village. |
 | [R16526](../../localization/en-US/korean-batch-065.jsonl#L31) | art_ko_fltka01a / ["TextList", 1, "Text"] | 이곳은 숲으로 둘러쌓인 조용한 시골마을이죠. | It's a quiet country village surrounded by forest. |
-| [R16527](../../localization/en-US/korean-batch-065.jsonl#L32) | art_ko_fltka01a / ["TextList", 2, "Text"] | 이곳의 남쪽에는 게이시르 시티가 있다고 합니다. | They say Gaysir City lies to the south. |
+| [R16527](../../localization/en-US/korean-batch-065.jsonl#L32) | art_ko_fltka01a / ["TextList", 2, "Text"] | 이곳의 남쪽에는 게이시르 시티가 있다고 합니다. | They say Geyshir City lies to the south. |
 | [R16528](../../localization/en-US/korean-batch-065.jsonl#L33) | art_ko_fltka01a / ["TextList", 3, "Text"] | 여기가 어디여 | Where is this? |
 | [R16529](../../localization/en-US/korean-batch-065.jsonl#L34) | art_ko_fltka01a / ["TextList", 5, "Text"] | 안녕하 | Hel... |
 | [R16530](../../localization/en-US/korean-batch-065.jsonl#L35) | art_ko_fltka01a / ["TextList", 12, "Text"] | 제피르 팰컨을 숨겨준 데이빗놈이 멍청했던거지.  | That David was a fool to shelter Zephyr Falcon.  |
@@ -188,10 +188,10 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16675](../../localization/en-US/korean-batch-065.jsonl#L180) | art_ko_fltzy03 / ["TextList", 6, "Text"] | 제국과 인민의 발전을 위해! | For the prosperity of the Empire and its people! |
 | [R16676](../../localization/en-US/korean-batch-065.jsonl#L181) | art_ko_fltka01_ / ["TextList", 0, "Text"] | 이곳은 카라카스 마을입니다. | This is Caracas Village. |
 | [R16677](../../localization/en-US/korean-batch-065.jsonl#L182) | art_ko_fltka01_ / ["TextList", 1, "Text"] | 이곳은 숲으로 둘러쌓인 조용한 시골마을이죠. | It's a quiet country village surrounded by forest. |
-| [R16678](../../localization/en-US/korean-batch-065.jsonl#L183) | art_ko_fltka01_ / ["TextList", 2, "Text"] | 이곳의 남쪽에는 게이시르 시티가 있다고 합니다. | They say Gaysir City lies to the south. |
+| [R16678](../../localization/en-US/korean-batch-065.jsonl#L183) | art_ko_fltka01_ / ["TextList", 2, "Text"] | 이곳의 남쪽에는 게이시르 시티가 있다고 합니다. | They say Geyshir City lies to the south. |
 | [R16679](../../localization/en-US/korean-batch-065.jsonl#L184) | art_ko_fltka01_ / ["TextList", 3, "Text"] | 여기가 어디여 | Where is this? |
 | [R16680](../../localization/en-US/korean-batch-065.jsonl#L185) | art_ko_fltka01_ / ["TextList", 5, "Text"] | 안녕하 | Hel... |
-| [R16681](../../localization/en-US/korean-batch-065.jsonl#L186) | art_ko_fltga01b / ["TextList", 1, "Text"] | 우리는 게이시르 대성당을 공격해야 한다. | We must attack Gaysir Cathedral. |
+| [R16681](../../localization/en-US/korean-batch-065.jsonl#L186) | art_ko_fltga01b / ["TextList", 1, "Text"] | 우리는 게이시르 대성당을 공격해야 한다. | We must attack Geyshir Cathedral. |
 | [R16682](../../localization/en-US/korean-batch-065.jsonl#L187) | art_ko_flmma13a / ["TextList", 0, "Text"] | ...그런고로 이쪽은 부탁하네. | ...So I'll leave this to you. |
 | [R16683](../../localization/en-US/korean-batch-065.jsonl#L188) | art_ko_flmma13a / ["TextList", 3, "Text"] | 마키아벨리는..! | Where is Machiavelli...?! |
 | [R16684](../../localization/en-US/korean-batch-065.jsonl#L189) | art_ko_flmma13a / ["TextList", 4, "Text"] | 한 발 늦었군요. /n시라노 번스타인. | You're a step too late. /nCyrano Bernstein. |
@@ -396,7 +396,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16883](../../localization/en-US/korean-batch-065.jsonl#L388) | art_flmma14a / ["TextList", 4, "Text"] | 잘가라구, 개골 | Goodbye, ribbit. |
 | [R16884](../../localization/en-US/korean-batch-065.jsonl#L389) | art_flcni12 / ["TextList", 1, "Text"] | 제국 마장기/n아수라 Mk.II | Imperial Magical War Machine/nAsura Mk.II |
 | [R16885](../../localization/en-US/korean-batch-065.jsonl#L390) | art_fltka01a / ["TextList", 0, "Text"] | 이곳은 카라카스 마을입니다. | This is Caracas Village. |
-| [R16886](../../localization/en-US/korean-batch-065.jsonl#L391) | art_fltka01a / ["TextList", 2, "Text"] | 이곳의 남쪽에는 게이시르 시티가 있다고 합니다. | They say Gaysir City lies to the south. |
+| [R16886](../../localization/en-US/korean-batch-065.jsonl#L391) | art_fltka01a / ["TextList", 2, "Text"] | 이곳의 남쪽에는 게이시르 시티가 있다고 합니다. | They say Geyshir City lies to the south. |
 | [R16887](../../localization/en-US/korean-batch-065.jsonl#L392) | art_fltka01a / ["TextList", 3, "Text"] | 여기가 어디여 | Where is this? |
 | [R16888](../../localization/en-US/korean-batch-065.jsonl#L393) | art_fltka01a / ["TextList", 5, "Text"] | 안녕하 | Hel... |
 | [R16889](../../localization/en-US/korean-batch-065.jsonl#L394) | art_fltka01a / ["TextList", 21, "Text"] | 프리토리아에서 볼일이 있어서 이곳에 왔답니다. | I came here from Pretoria on business. |
@@ -408,6 +408,6 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16895](../../localization/en-US/korean-batch-065.jsonl#L400) | art_fldma20 / ["TextList", 19, "Text"] | 일각수의 뿔을 입수하였습니다. | Obtained the Unicorn Horn. |
 | [R16896](../../localization/en-US/korean-batch-065.jsonl#L401) | art_fltka01_ / ["TextList", 0, "Text"] | 이곳은 카라카스 마을입니다. | This is Caracas Village. |
 | [R16897](../../localization/en-US/korean-batch-065.jsonl#L402) | art_fltka01_ / ["TextList", 1, "Text"] | 이곳은 숲으로 둘러쌓인 조용한 시골마을이죠. | It's a quiet country village surrounded by forest. |
-| [R16898](../../localization/en-US/korean-batch-065.jsonl#L403) | art_fltka01_ / ["TextList", 2, "Text"] | 이곳의 남쪽에는 게이시르 시티가 있다고 합니다. | They say Gaysir City lies to the south. |
+| [R16898](../../localization/en-US/korean-batch-065.jsonl#L403) | art_fltka01_ / ["TextList", 2, "Text"] | 이곳의 남쪽에는 게이시르 시티가 있다고 합니다. | They say Geyshir City lies to the south. |
 | [R16899](../../localization/en-US/korean-batch-065.jsonl#L404) | art_fltka01_ / ["TextList", 3, "Text"] | 여기가 어디여 | Where is this? |
 | [R16900](../../localization/en-US/korean-batch-065.jsonl#L405) | art_fltka01_ / ["TextList", 5, "Text"] | 안녕하 | Hel... |

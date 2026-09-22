@@ -34,6 +34,10 @@ def check(rows, originals):
             continue
         if tokens(row['original']) != tokens(target):
             errors.append(f'{key}: formatting or dialogue controls differ')
+        # Delay controls disappear on screen; they do not separate words.
+        # Resolve explicit line breaks first so /n/20dHello is not a false hit.
+        if re.search(r'[A-Za-z0-9](?:/\d+d)+[A-Za-z0-9]', target.replace('/n', '\n')):
+            errors.append(f'{key}: missing word space around dialogue delay')
         if re.search(r'[\u3400-\u9fff\uac00-\ud7a3]', target):
             errors.append(f'{key}: Korean or Chinese remains in target')
         particle_codes = re.findall(r'\^p[a-z]', row['original'])

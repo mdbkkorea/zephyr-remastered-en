@@ -60,6 +60,13 @@ def main():
     for dep in manifest['dependencies']:
         if sha((args.game / dep['path']).read_bytes()) != dep['sha256']:
             raise ValueError('Dependency mismatch.')
+    if report.get('mod_profile'):
+        # The source game stays pristine. Require the separately installed mod
+        # when the exported patcher runs, never bundle or alter its DLL.
+        mod = report['mod_profile']
+        manifest['dependencies'].append(mod['dependency'])
+        manifest['translation_profile'] = mod['name']
+        shutil.copy2(ROOT/'docs/ZEPHYR_PASSIVES.md', output/'ZEPHYR_PASSIVES.md')
     (payload / 'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
     for path in (ROOT / 'windows').iterdir():
         if path.is_file(): shutil.copy2(path, output/path.name)

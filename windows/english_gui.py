@@ -21,14 +21,19 @@ def main():
     if sys.platform == 'darwin' and tk.TkVersion < 8.6:
         raise RuntimeError('macOS GUI requires Tk 8.6 or newer. Use a current python.org Python or the packaged Mac app.')
     root = tk.Tk()
-    root.title('Zephyr English Patcher — Playtest 3')
+    root.title('Zephyr English Patcher')
     show_folder_help = sys.platform in ('win32', 'darwin')
-    root.geometry('800x600' if show_folder_help else '730x440')
-    root.minsize(780,580) if show_folder_help else root.minsize(680,420)
+    root.geometry('820x740' if show_folder_help else '760x600')
+    root.minsize(800,720) if show_folder_help else root.minsize(740,580)
     box = ttk.Frame(root,padding=20)
     box.pack(fill='both',expand=True)
     ttk.Label(box,text='The Rhapsody of Zephyr Remastered',font=('TkDefaultFont',17,'bold')).pack(anchor='w')
     ttk.Label(box,text='English playtest patch • Offline • Original backups and restoration').pack(anchor='w',pady=(5,16))
+    compatibility = ttk.LabelFrame(box, text='Compatible user mods', padding=10)
+    compatibility.pack(fill='x',pady=(0,12))
+    ttk.Label(compatibility,text='Full Map: ZephyrFullmap 1.8.0  •  Passives: ZephyrPassives 2.4.3',wraplength=710,justify='left').pack(anchor='w')
+    manifest = json.loads((payload_default()/'manifest.json').read_text(encoding='utf8'))
+    ttk.Label(compatibility,text='Automatically selects standard or Passives descriptions and translates installed Fullmap labels.\nMods are optional and must be installed separately. Unsupported mod versions use standard translation; mod files are preserved.',wraplength=710,justify='left').pack(anchor='w',pady=(4,0))
     ttk.Label(box,text='Choose the folder containing ZephyrRemastered.exe. Close the game first.').pack(anchor='w')
     default_game = None
     if sys.platform == 'win32':
@@ -76,7 +81,7 @@ def main():
             patcher=Patcher(selected)
             result=getattr(patcher,action)()
             labels={'original':'Supported original files. Ready to install.','installed':'English patch installed and verified.','unmanaged_localization':'English files exist, but this patcher has no managed backup. Use an original game copy.','unsupported_or_modified':'Unsupported version or modified files. No files were changed.','recovery_required':'An interrupted operation needs recovery.','update_available':'A managed English installation can be updated.'}
-            return labels.get(result['status'],result['status'])+'\nBackup files: '+str(result.get('backup_files',0))+'\n'+str(result.get('compatibility_reason') or '')
+            return labels.get(result['status'],result['status'])+'\n'+result.get('translation_profile','')+' | '+'; '.join(result.get('detected_mods',[]))+'\nBackup files: '+str(result.get('backup_files',0))+'\n'+str(result.get('compatibility_reason') or '')
         start(work)
     for label,action in [('Check Files','status'),('Install English','install'),('Restore Original','restore'),('Recover','recover')]:
         b=ttk.Button(actions,text=label,command=lambda a=action:operation(a));b.pack(side='left',padx=(0,8));buttons.append(b)

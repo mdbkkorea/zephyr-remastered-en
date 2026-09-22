@@ -16,8 +16,9 @@ class PlatformTests(unittest.TestCase):
         self.assertFalse(platform.has_game_process('python english_engine.py status --game /games/Zephyr\n/usr/bin/wineserver'))
 
     def test_linux_state_and_case_sensitive_paths(self):
-        with patch.object(platform.sys,'platform','linux'),patch.dict(os.environ,{'XDG_STATE_HOME':'/tmp/zephyr-state-test'}):
-            self.assertEqual(platform.state_home(),Path('/tmp/zephyr-state-test/zephyr-english-patcher'))
+        absolute_state = Path(tempfile.gettempdir()).resolve()/'zephyr-state-test'
+        with patch.object(platform.sys,'platform','linux'),patch.dict(os.environ,{'XDG_STATE_HOME':str(absolute_state)}):
+            self.assertEqual(platform.state_home(),absolute_state/'zephyr-english-patcher')
             self.assertNotEqual(platform.path_key('/tmp/Game'),platform.path_key('/tmp/game'))
         with patch.object(platform.sys,'platform','linux'),patch.dict(os.environ,{'XDG_STATE_HOME':'relative'}):
             self.assertTrue(platform.state_home().is_absolute())

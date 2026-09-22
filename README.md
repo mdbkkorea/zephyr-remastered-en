@@ -15,17 +15,19 @@ The first English drafts in this fork were translated from the upstream Chinese 
 
 ### What has changed after review
 
-Translation review and gameplay screenshots have led to corrections to character and place names, religious terminology, attack names, and interface wording. Examples include **Gaysir, Cyrups, Ruben, Gishne, Deimos, High Church, High God**, and **Ricochet Blade**. Korean 주신 is checked in context: it can refer to a deity or be part of an ordinary expression meaning “given/provided.”
+Translation review and gameplay screenshots have led to corrections to character and place names, religious terminology, attack names, and interface wording. Examples include **Geyshir, Cyrups, Ruben, Gishne, Deimos, High Church, High God**, and **Aura Slash**. Korean 주신 is checked in context: it can refer to a deity or be part of an ordinary expression meaning “given/provided.”
 
-Long labels have also been shortened where the game interface clips or overlaps text. Compact attack labels include **W.Slash**, **S.Slash**, and **Ricochet**. Names and wording that have not been confirmed remain provisional, and review is ongoing.
+Long labels have also been shortened where the game interface clips or overlaps text. Compact attack labels include **W.Slash**, **S.Slash**, and **Aura.Slash**. Names and wording that have not been confirmed remain provisional, and review is ongoing.
 
 ### Current status
 
 The local working catalog contains **22,403 translated resource entries and 30 hard-coded text edits**. An English playtest build has been tested in selected gameplay screens, and further review is in progress. These counts describe the translated catalog, not a guarantee that every possible screen, image, or story branch has been verified.
 
-The Korean-based translation batches, [review sheets](docs/review/README.md), and shared [Windows/macOS/Linux patcher source](windows/) are published here. Standalone patcher build kits and an Apple Silicon app have been prepared locally. **This source update is not an English installer release.** Compiled English installers are not included in this commit. The inherited Chinese installer and Chinese releases do not install this English translation.
+The Korean-based translation batches, [review sheets](docs/review/README.md), and shared [Windows/macOS/Linux patcher source](windows/) are published here. Build 016 installers have been prepared and install/restore tested for Windows x64, macOS Apple Silicon, and Linux x64. **This source update is not an English installer release.** Compiled English installers are not included in this commit. The inherited Chinese installer and Chinese releases do not install this English translation.
 
 Please use a legitimate copy of the game. Original game assets and full extracted source catalogs are not included as part of this English documentation update. Existing saves may retain Korean character names and job titles; translating those saved display fields is separate from patching game resources.
+
+Build 016 automatically detects **ZephyrPassives 2.4.3** and **ZephyrFullmap 1.8.0**. Unsupported versions select standard translation and preserve all mod files. See [build 016 details](docs/RELEASE_016.md).
 
 ### Testing environments
 
@@ -35,7 +37,7 @@ Please use a legitimate copy of the game. Original game assets and full extracte
 | Tested | Samsung Galaxy Book Pro2 360, Intel Core i5-1240P | Windows 11; Steam |
 | To be tested | Same Samsung Galaxy Book Pro2 360, Intel Core i5-1240P | Fedora 44 Linux; Steam / Proton testing planned |
 
-These are the maintainer's test environments, not minimum system requirements or a guarantee of a complete playthrough. CrossOver gameplay screenshots confirm English text in selected screens. Windows patcher testing includes installation and restoration on a separate game copy. New patcher builds and further gameplay still need testing; Linux has not yet been validated.
+These are the maintainer's test environments, not minimum system requirements or a guarantee of a complete playthrough. CrossOver gameplay screenshots confirm English text in selected screens. Windows patcher testing includes installation and restoration on a separate game copy. Linux installer checks passed under Debian 12 x86-64 emulation; native Fedora 44 and Proton gameplay testing remain pending.
 
 ### Finding the game folder on Windows
 
@@ -71,17 +73,19 @@ The upstream license and contributor credits remain in place. The tool license d
 
 ### 검토 후 반영한 수정
 
-번역 검토와 실제 플레이 스크린샷을 바탕으로 인명·지명, 종교 관련 용어, 공격 이름, UI 문구를 수정했습니다. 대표적인 표기는 **Gaysir, Cyrups, Ruben, Gishne, Deimos, High Church, High God, Ricochet Blade**입니다. 특히 ‘주신’은 신을 가리키는 명사인지, ‘주신 물건’처럼 동사의 활용형인지 문맥과 중국어 보조 자료를 함께 확인합니다.
+번역 검토와 실제 플레이 스크린샷을 바탕으로 인명·지명, 종교 관련 용어, 공격 이름, UI 문구를 수정했습니다. 대표적인 표기는 **Geyshir, Cyrups, Ruben, Gishne, Deimos, High Church, High God, Aura Slash**입니다. 특히 ‘주신’은 신을 가리키는 명사인지, ‘주신 물건’처럼 동사의 활용형인지 문맥과 중국어 보조 자료를 함께 확인합니다.
 
-게임 화면에서 긴 문구가 잘리거나 겹치는 경우에는 의미를 유지하면서 짧게 다듬었습니다. 공격 선택창에서는 **W.Slash**, **S.Slash**, **Ricochet** 같은 축약 표기를 사용합니다. 아직 확인되지 않은 고유명사와 표현은 잠정 번역이며, 검토를 계속하고 있습니다.
+게임 화면에서 긴 문구가 잘리거나 겹치는 경우에는 의미를 유지하면서 짧게 다듬었습니다. 공격 선택창에서는 **W.Slash**, **S.Slash**, **Aura.Slash** 같은 축약 표기를 사용합니다. 아직 확인되지 않은 고유명사와 표현은 잠정 번역이며, 검토를 계속하고 있습니다.
 
 ### 현재 진행 상황
 
 로컬 작업본에는 **리소스 항목 22,403개와 하드코딩된 텍스트 수정 30개**가 포함되어 있습니다. 영어 플레이테스트 빌드의 일부 실제 게임 화면을 확인했으며, 추가 검토를 진행 중입니다. 이 수치는 번역 카탈로그의 범위를 나타내며, 모든 화면·이미지·스토리 분기를 검증했다는 뜻은 아닙니다.
 
-한국어 기반 번역 배치, [검토 문서](docs/review/README.md), [Windows/macOS/Linux 공용 패치 프로그램 소스](windows/)를 공개했습니다. 독립 실행형 빌드 키트와 Apple Silicon용 앱은 로컬에서 준비했습니다. **이번 소스 공개는 영어 설치 프로그램의 정식 배포가 아닙니다.** 이 커밋에는 컴파일된 영어 설치 프로그램이 포함되지 않습니다. 기존 중국어 설치 프로그램이나 원본 프로젝트의 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
+한국어 기반 번역 배치, [검토 문서](docs/review/README.md), [Windows/macOS/Linux 공용 패치 프로그램 소스](windows/)를 공개했습니다. 빌드 016은 Windows x64, macOS Apple Silicon, Linux x64용 설치 프로그램을 준비하고 설치·복원을 테스트했습니다. **이번 소스 공개는 영어 설치 프로그램의 정식 배포가 아닙니다.** 이 커밋에는 컴파일된 영어 설치 프로그램이 포함되지 않습니다. 기존 중국어 설치 프로그램이나 원본 프로젝트의 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
 
 정품 게임을 사용해 주세요. 이번 영어 프로젝트 문서 갱신에는 게임 원본 에셋이나 추출한 전체 원문 카탈로그를 포함하지 않습니다. 기존 저장 파일에는 한국어 캐릭터 이름이나 직업명이 남아 있을 수 있으며, 저장된 표시용 문자열의 변환은 게임 리소스 패치와 별도입니다.
+
+빌드 016은 **ZephyrPassives 2.4.3** 및 **ZephyrFullmap 1.8.0**을 자동 감지합니다. 지원하지 않는 버전이 있으면 일반 번역만 적용하고 모드 파일은 보존합니다. [빌드 016 안내](docs/RELEASE_016.md)를 참고하세요.
 
 ### 테스트 환경
 
@@ -91,7 +95,7 @@ The upstream license and contributor credits remain in place. The tool license d
 | 테스트 진행 | 삼성 갤럭시 북 Pro2 360, Intel Core i5-1240P | Windows 11; Steam |
 | 테스트 예정 | 동일한 삼성 갤럭시 북 Pro2 360, Intel Core i5-1240P | Fedora 44 Linux; Steam / Proton 테스트 예정 |
 
-위 목록은 제작자가 사용한 테스트 환경이며, 최소 사양이나 전체 플레이 검증을 의미하지 않습니다. CrossOver에서는 일부 실제 게임 화면에서 영어 표시를 확인했습니다. Windows 패치 프로그램은 별도로 복사한 게임 파일에 설치·복원하는 테스트를 진행했습니다. 새 패치 프로그램 빌드와 추가 플레이는 계속 확인해야 하며, Linux는 아직 검증하지 않았습니다.
+위 목록은 제작자가 사용한 테스트 환경이며, 최소 사양이나 전체 플레이 검증을 의미하지 않습니다. CrossOver에서는 일부 실제 게임 화면에서 영어 표시를 확인했습니다. Windows 패치 프로그램은 별도로 복사한 게임 파일에 설치·복원하는 테스트를 진행했습니다. Linux 설치 프로그램은 Debian 12 x86-64 에뮬레이션 환경에서 검증했으며, Fedora 44 실기기 및 Proton 플레이 테스트는 아직 예정입니다.
 
 ### Windows에서 게임 폴더 찾기
 
@@ -112,3 +116,9 @@ C:\Program Files (x86)\Steam\steamapps\common\The Rhapsody of Zephyr Remastered
 - [Steam 게임 페이지](https://store.steampowered.com/app/5099430/)
 
 원본 프로젝트의 라이선스와 기여자 표기는 유지합니다. 도구의 라이선스가 게임·그림·스토리에 대한 권리를 부여하는 것은 아니며, 해당 권리는 각 권리자에게 있습니다. 이 프로젝트는 비공식 팬 프로젝트입니다.
+
+### Geyshir naming note / 게이시르 표기 참고
+
+According to the naming history supplied by the user, the original games officially used **Gayshir**, and the company later changed it to **Geyshir** because the earlier spelling could be misleading. This project follows **Geyshir / Geyshir Empire**. The historical explanation is user-provided and has not been independently verified here.
+
+사용자가 제공한 표기 이력에 따르면, 원작에서는 **Gayshir**를 공식 표기로 사용했으나 오해의 소지가 있어 이후 회사가 **Geyshir**로 변경했다고 합니다. 이 프로젝트는 **Geyshir / Geyshir Empire**를 사용합니다. 해당 변경 경위는 사용자 제공 정보이며 별도로 검증하지 않았습니다.

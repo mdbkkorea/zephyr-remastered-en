@@ -7,7 +7,7 @@ User decisions, 2026-09-22. Apply to existing drafts and future translations. Ko
 | 주신교 | High Church | 主神敎 / 主神教; the religious organization |
 | 주신 | High God | 主神; only when referring to the deity |
 | 주신들 | High Gods | Plural deity reference; Korean determines plurality even when Chinese does not mark it |
-| 게이시르 | Gaysir | 盖西尔 in the checked references; user-approved spelling |
+| 게이시르 | Geyshir | 盖西尔 in the checked references; user-approved spelling |
 | 사이럽스 | Cyrups | User correction of Syrups |
 | 루벤 | Ruben | User correction of Reuben |
 | 학술원 | Academy | User approved at R421 |
@@ -32,6 +32,31 @@ The user recommends [Namu Wiki](https://namu.wiki/) for English character, city,
 - 베기: Slash.
 - 약베기: Weak Slash; compact attack selector suffix **W.Slash**.
 - 강베기: Strong Slash; compact attack selector suffix **S.Slash**.
-- 탄검: Ricochet Blade (user correction); compact suffix **Ricochet**. Replaces Sword Bolt for these attacks, not unrelated bolt spells.
+- 탄검: **Aura Slash** (latest user correction, superseding Ricochet Blade); compact suffix **Aura.Slash**. Use **Aura Slashes** for plural attacks in descriptions. Replaces Ricochet, Sword Bolt and blade projectiles where the Korean is 탄검; unrelated bolt spells are unchanged. Chinese 剑气弹 is supporting context.
 
 The runtime screenshot shows only the last word of the previous multiword attack names. Keep these compact suffixes as one token so attack distinctions survive that observed behavior. The exact renderer implementation has not been traced. Character prefixes remain in the source-derived full data labels.
+
+Latest user correction: **게이시르 → Geyshir**, superseding the earlier project spellings Gaysir and Geysir; **게이시르 제국 → Geyshir Empire**. Keep this spelling consistent in locations and dialogue.
+
+## Normal-attack selector labels
+
+The normal attack data (Type 0, 65 records) uses character prefixes and compact final tokens. Type 1 special-move names remain full length, consistent with observed separate skill display. This is a data-label workaround for observed last-word display, not a verified change to renderer logic. Keep descriptions in normal prose.
+
+| Meaning | Compact selector label |
+| --- | --- |
+| Precision Shot (정밀사격) | P.Shot |
+| Killing Blade (살검) | K.Blade |
+| Wolf Attack (늑대공격) | Wolf.Atk |
+| Light / Heavy Attack (약공격 / 강공격) | W.Attack / S.Attack |
+| Basic Magic (기본마법) | B.Magic |
+| Dragon / Chimeros Breath | D.Breath / C.Breath |
+| Ball Throw (공던지기) | Ball.Toss |
+| Numbered normal / mid-range attacks | Normal.01 / Mid.Atk01 (through 05) |
+| Numbered shots / combos / heavy attacks | Shot.01 / Combo.01 / H.Atk01 (through 05) |
+| Officer strong slashes | S.Slash01 (through 04) |
+
+All normal-attack final tokens are at most 10 ASCII characters. Numeric variants remain attached to the attack type so the selector cannot show only a number. User approved P.Shot and extending this compact-label approach to similar commands; further abbreviations are implementation choices, pending runtime fit checks.
+
+## Geyshir naming-history remark
+
+User-provided naming history: the original games used Gayshir officially; the company later changed it to Geyshir because the original spelling could be misleading. Historical rationale has not been independently verified. The project adopts **Geyshir** and **Geyshir Empire** by user instruction.

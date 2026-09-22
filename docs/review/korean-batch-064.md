@@ -33,7 +33,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16184](../../localization/en-US/korean-batch-064.jsonl#L25) | art_ko_fldma17 / ["TextList", 25, "Text"] | 이 이검은...! | Th-this sword...! |
 | [R16185](../../localization/en-US/korean-batch-064.jsonl#L26) | art_ko_fldma17 / ["TextList", 31, "Text"] | 나는 파즈라고 하네. | My name is Paz. |
 | [R16186](../../localization/en-US/korean-batch-064.jsonl#L27) | art_ko_fldma17 / ["TextList", 32, "Text"] | 예전에는 이름을 날린 검 전문가 였네만... | I used to be a renowned sword expert... |
-| [R16187](../../localization/en-US/korean-batch-064.jsonl#L28) | art_ko_flmro01 / ["TextList", 0, "Text"] | 동 - 게이시르 시티/n서 - 로우엔 시티 | East - Gaysir City/nWest - Lowen City |
+| [R16187](../../localization/en-US/korean-batch-064.jsonl#L28) | art_ko_flmro01 / ["TextList", 0, "Text"] | 동 - 게이시르 시티/n서 - 로우엔 시티 | East - Geyshir City/nWest - Lowen City |
 | [R16188](../../localization/en-US/korean-batch-064.jsonl#L29) | art_ko_flcpr104 / ["TextList", 0, "Text"] | 지하 고문실은 지하로 가야 한다. | We must go downstairs to reach the torture chamber. |
 | [R16189](../../localization/en-US/korean-batch-064.jsonl#L30) | art_ko_flmpx05 / ["TextList", 0, "Text"] | 서 - 프리토리아 지방/n남 - 카라카스 지방 | West - Pretoria Region/nSouth - Caracas Region |
 | [R16190](../../localization/en-US/korean-batch-064.jsonl#L31) | art_ko_fltro03 / ["TextList", 5, "Text"] | 아니야, 어떻게 여자가 먼저 말을 하지? | No, how could a woman be the first to say it? |
@@ -42,7 +42,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16193](../../localization/en-US/korean-batch-064.jsonl#L34) | art_ko_fltro03 / ["TextList", 26, "Text"] | 사랑합니다. 저와 결혼해 주십시오. | I love you. Please marry me. |
 | [R16194](../../localization/en-US/korean-batch-064.jsonl#L35) | art_ko_fltro03 / ["TextList", 27, "Text"] | 저와 결혼 해 주세요. | Please marry me. |
 | [R16195](../../localization/en-US/korean-batch-064.jsonl#L36) | art_ko_fltro03 / ["TextList", 28, "Text"] | 지나치게 정정하신 것이 문제라면 문제지만... | If anything, the problem is being too hale and hearty... |
-| [R16196](../../localization/en-US/korean-batch-064.jsonl#L37) | art_ko_flwka05a / ["TextList", 0, "Text"] | 북서 - 프리토리아 지방/n남 - 게이시르 시티 | Northwest - Pretoria Region/nSouth - Gaysir City |
+| [R16196](../../localization/en-US/korean-batch-064.jsonl#L37) | art_ko_flwka05a / ["TextList", 0, "Text"] | 북서 - 프리토리아 지방/n남 - 게이시르 시티 | Northwest - Pretoria Region/nSouth - Geyshir City |
 | [R16197](../../localization/en-US/korean-batch-064.jsonl#L38) | art_ko_flwka05a / ["TextList", 1, "Text"] | 프리토리아는 이곳에서 북서쪽에 있다. | Pretoria is northwest of here. |
 | [R16198](../../localization/en-US/korean-batch-064.jsonl#L39) | art_ko_flmiss41 / ["TextList", 0, "Text"] | /2c비프로스트군 병참기지 | /2cBifrost Army Supply Base |
 | [R16199](../../localization/en-US/korean-batch-064.jsonl#L40) | art_ko_flmiss41 / ["TextList", 6, "Text"] | [비프로스트 장교] /n막아라! | [Bifrost Officer] /nStop them! |
@@ -169,7 +169,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16320](../../localization/en-US/korean-batch-064.jsonl#L161) | art_ko_fltro02b / ["TextList", 4, "Text"] | 실버는..실버는 어떻게 되었죠? | Silver... What happened to Silver? |
 | [R16321](../../localization/en-US/korean-batch-064.jsonl#L162) | art_ko_fltro02b / ["TextList", 6, "Text"] | 설마... | It can't be... |
 | [R16322](../../localization/en-US/korean-batch-064.jsonl#L163) | art_ko_fltro02b / ["TextList", 9, "Text"] | 실버는... | Silver... |
-| [R16323](../../localization/en-US/korean-batch-064.jsonl#L164) | art_ko_fltro02b / ["TextList", 11, "Text"] | ...우선 게이시르 시티를 벗어나도록 합시다. | ...Let us leave Gaysir City first. |
+| [R16323](../../localization/en-US/korean-batch-064.jsonl#L164) | art_ko_fltro02b / ["TextList", 11, "Text"] | ...우선 게이시르 시티를 벗어나도록 합시다. | ...Let us leave Geyshir City first. |
 | [R16324](../../localization/en-US/korean-batch-064.jsonl#L165) | art_ko_fldin01a / ["TextList", 1, "Text"] | 이쪽 출구는 완전히 막혀 버린것 같군. | This exit seems to be completely blocked. |
 | [R16325](../../localization/en-US/korean-batch-064.jsonl#L166) | art_ko_fldin01a / ["TextList", 2, "Text"] | /2c인페르노 지하던전. | /2cInferno Underground Dungeon. |
 | [R16326](../../localization/en-US/korean-batch-064.jsonl#L167) | art_ko_fldin01a / ["TextList", 3, "Text"] | 제길...벌써 몇시간째지? | Damn... How many hours has it been? |
@@ -184,7 +184,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16335](../../localization/en-US/korean-batch-064.jsonl#L176) | art_ko_fldpx15 / ["TextList", 4, "Text"] | 이...이것은.../15d/n으앗.. | Th-this is.../15d/nAah... |
 | [R16336](../../localization/en-US/korean-batch-064.jsonl#L177) | art_ko_fldpx15 / ["TextList", 5, "Text"] | 피닉스의 알을 입수하였습니다. | Obtained the Phoenix Egg. |
 | [R16337](../../localization/en-US/korean-batch-064.jsonl#L178) | art_ko_fldpx15 / ["TextList", 7, "Text"] | 피닉스의 화석이다.. | It's a Phoenix fossil... |
-| [R16338](../../localization/en-US/korean-batch-064.jsonl#L179) | art_ko_fltga01 / ["TextList", 25, "Text"] | 게이시르시티  | Gaysir City  |
+| [R16338](../../localization/en-US/korean-batch-064.jsonl#L179) | art_ko_fltga01 / ["TextList", 25, "Text"] | 게이시르시티  | Geyshir City  |
 | [R16339](../../localization/en-US/korean-batch-064.jsonl#L180) | art_ko_fltga01 / ["TextList", 65, "Text"] | 화룡굴은 이 도시 남쪽에 있다고 하더군. | They say the Fire Dragon Cave lies south of this city. |
 | [R16340](../../localization/en-US/korean-batch-064.jsonl#L181) | art_ko_fltga01 / ["TextList", 67, "Text"] | 감사합니다. 편안히 쉬세요. | Thank you. Enjoy your rest. |
 | [R16341](../../localization/en-US/korean-batch-064.jsonl#L182) | art_ko_fltga01 / ["TextList", 71, "Text"] | 올드필드 상점 | Oldfield's Shop |
@@ -194,7 +194,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16345](../../localization/en-US/korean-batch-064.jsonl#L186) | art_ko_fltga01 / ["TextList", 82, "Text"] | 듀란트씨의 약국 | Durant's Pharmacy |
 | [R16346](../../localization/en-US/korean-batch-064.jsonl#L187) | art_ko_fltga01 / ["TextList", 85, "Text"] | 저는 깨달음을 얻기 위한 여행중이에요. | I am traveling in search of enlightenment. |
 | [R16347](../../localization/en-US/korean-batch-064.jsonl#L188) | art_ko_fltga01 / ["TextList", 87, "Text"] | 깨달음을 얻기 전에는 돌아가지 않을 거에요. | I will not return until I find it. |
-| [R16348](../../localization/en-US/korean-batch-064.jsonl#L189) | art_ko_fltga01 / ["TextList", 94, "Text"] | 게이시르 저택에 얽힌 전설을 아세요?  | Do you know the legend surrounding the Gaysir mansion?  |
+| [R16348](../../localization/en-US/korean-batch-064.jsonl#L189) | art_ko_fltga01 / ["TextList", 94, "Text"] | 게이시르 저택에 얽힌 전설을 아세요?  | Do you know the legend surrounding the Geyshir mansion?  |
 | [R16349](../../localization/en-US/korean-batch-064.jsonl#L190) | art_ko_fltga01 / ["TextList", 101, "Text"] | 이곳에는 절대로 아무것도 없어. | There is absolutely nothing here. |
 | [R16350](../../localization/en-US/korean-batch-064.jsonl#L191) | art_ko_fltga01 / ["TextList", 107, "Text"] | 화장이 다 드러나 보이거든요. | It makes all my makeup obvious. |
 | [R16351](../../localization/en-US/korean-batch-064.jsonl#L192) | art_ko_fltga01 / ["TextList", 108, "Text"] | 하여튼 상인들의 말은 절대로 믿으면 안된다니까! | You must never trust what merchants say! |
@@ -212,7 +212,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16363](../../localization/en-US/korean-batch-064.jsonl#L204) | art_ko_fltga01 / ["TextList", 126, "Text"] | [ 군인 ] 좋아! 동쪽 게이트를 통과했군! | [ Soldier ] Good! You've passed the east gate! |
 | [R16364](../../localization/en-US/korean-batch-064.jsonl#L205) | art_ko_fltga01 / ["TextList", 127, "Text"] | [ 병사 ] 좋아! 북쪽 게이트를 통과했군! | [ Soldier ] Good! You've passed the north gate! |
 | [R16365](../../localization/en-US/korean-batch-064.jsonl#L206) | art_ko_fltga01 / ["TextList", 131, "Text"] | 다이아몬드 젬을 획득했습니다. | Obtained a Diamond Gem. |
-| [R16366](../../localization/en-US/korean-batch-064.jsonl#L207) | art_ko_fltga01 / ["TextList", 134, "Text"] | 위대한 도시 게이시르 시티의 중앙광장 | Central Square of the Great City of Gaysir |
+| [R16366](../../localization/en-US/korean-batch-064.jsonl#L207) | art_ko_fltga01 / ["TextList", 134, "Text"] | 위대한 도시 게이시르 시티의 중앙광장 | Central Square of the Great City of Geyshir |
 | [R16367](../../localization/en-US/korean-batch-064.jsonl#L208) | art_ko_fltga01 / ["TextList", 135, "Text"] | 북쪽 - 카라카스 지방 | North - Caracas Region |
 | [R16368](../../localization/en-US/korean-batch-064.jsonl#L209) | art_ko_fltga01 / ["TextList", 137, "Text"] | [ 병사 ]/n세바퀴 돌았군. 그럼. | [ Soldier ]/nYou've run three laps. Well, then. |
 | [R16369](../../localization/en-US/korean-batch-064.jsonl#L210) | art_ko_fltga01 / ["TextList", 138, "Text"] | 브레스젬2개를 얻었다. | Obtained 2 Brass Gems. |
@@ -277,7 +277,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16428](../../localization/en-US/korean-batch-064.jsonl#L269) | art_fltcy01 / ["TextList", 15, "Text"] | 뭐, 덕택에 좀 쉬는 것이지... | Well, at least it gives us a chance to rest... |
 | [R16429](../../localization/en-US/korean-batch-064.jsonl#L270) | art_fltcy01 / ["TextList", 27, "Text"] | [ 선장 ]/n그건 나도 모르오. | [ Captain ]/nI don't know either. |
 | [R16430](../../localization/en-US/korean-batch-064.jsonl#L271) | art_fltcy01 / ["TextList", 32, "Text"] | [ 선장 ]/n그건 나도 모르오. | [ Captain ]/nI don't know either. |
-| [R16431](../../localization/en-US/korean-batch-064.jsonl#L272) | art_flwka05a / ["TextList", 0, "Text"] | 북서 - 프리토리아 지방/n남 - 게이시르 시티 | Northwest - Pretoria Region/nSouth - Gaysir City |
+| [R16431](../../localization/en-US/korean-batch-064.jsonl#L272) | art_flwka05a / ["TextList", 0, "Text"] | 북서 - 프리토리아 지방/n남 - 게이시르 시티 | Northwest - Pretoria Region/nSouth - Geyshir City |
 | [R16432](../../localization/en-US/korean-batch-064.jsonl#L273) | art_fltpr01 / ["TextList", 6, "Text"] | 무기점 '갈색의 폭풍' | Brown Storm Weapons |
 | [R16433](../../localization/en-US/korean-batch-064.jsonl#L274) | art_fltpr01 / ["TextList", 9, "Text"] | 약국 '성녀의 지팡이' | Saint's Staff Pharmacy |
 | [R16434](../../localization/en-US/korean-batch-064.jsonl#L275) | art_fltpr01 / ["TextList", 28, "Text"] | 블랙, 블랙, 블랙 | Black, black, black |
@@ -295,7 +295,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16446](../../localization/en-US/korean-batch-064.jsonl#L287) | art_fltga01 / ["TextList", 82, "Text"] | 듀란트씨의 약국 | Durant's Pharmacy |
 | [R16447](../../localization/en-US/korean-batch-064.jsonl#L288) | art_fltga01 / ["TextList", 85, "Text"] | 저는 깨달음을 얻기 위한 여행중이에요. | I am traveling in search of enlightenment. |
 | [R16448](../../localization/en-US/korean-batch-064.jsonl#L289) | art_fltga01 / ["TextList", 87, "Text"] | 깨달음을 얻기 전에는 돌아가지 않을 거에요. | I will not return until I find it. |
-| [R16449](../../localization/en-US/korean-batch-064.jsonl#L290) | art_fltga01 / ["TextList", 94, "Text"] | 게이시르 저택에 얽힌 전설을 아세요?  | Do you know the legend surrounding the Gaysir mansion?  |
+| [R16449](../../localization/en-US/korean-batch-064.jsonl#L290) | art_fltga01 / ["TextList", 94, "Text"] | 게이시르 저택에 얽힌 전설을 아세요?  | Do you know the legend surrounding the Geyshir mansion?  |
 | [R16450](../../localization/en-US/korean-batch-064.jsonl#L291) | art_fltga01 / ["TextList", 101, "Text"] | 이곳에는 절대로 아무것도 없어. | There is absolutely nothing here. |
 | [R16451](../../localization/en-US/korean-batch-064.jsonl#L292) | art_fltga01 / ["TextList", 107, "Text"] | 화장이 다 드러나 보이거든요. | It makes all my makeup obvious. |
 | [R16452](../../localization/en-US/korean-batch-064.jsonl#L293) | art_fltga01 / ["TextList", 108, "Text"] | 하여튼 상인들의 말은 절대로 믿으면 안된다니까! | You must never trust what merchants say! |
@@ -321,7 +321,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R16472](../../localization/en-US/korean-batch-064.jsonl#L313) | art_flmiss41 / ["TextList", 20, "Text"] | 그럼, 서둘러 주십시오. 시간이 없습니다. | Then hurry, please. There is no time. |
 | [R16473](../../localization/en-US/korean-batch-064.jsonl#L314) | art_flmzy03 / ["TextList", 0, "Text"] | 남 - 프리토리아 지방 | South - Pretoria Region |
 | [R16474](../../localization/en-US/korean-batch-064.jsonl#L315) | art_flxca01 / ["TextList", 0, "Text"] | 기술추가이벤트 | Skill Addition Event |
-| [R16475](../../localization/en-US/korean-batch-064.jsonl#L316) | art_flmro01 / ["TextList", 0, "Text"] | 동 - 게이시르 시티/n서 - 로우엔 시티 | East - Gaysir City/nWest - Lowen City |
+| [R16475](../../localization/en-US/korean-batch-064.jsonl#L316) | art_flmro01 / ["TextList", 0, "Text"] | 동 - 게이시르 시티/n서 - 로우엔 시티 | East - Geyshir City/nWest - Lowen City |
 | [R16476](../../localization/en-US/korean-batch-064.jsonl#L317) | art_flcp104 / ["TextList", 1, "Text"] | 누구냐? | Who are you? |
 | [R16477](../../localization/en-US/korean-batch-064.jsonl#L318) | art_fltka01 / ["TextList", 77, "Text"] | 감사합니다. 편안히 쉬세요. | Thank you. Enjoy your rest. |
 | [R16478](../../localization/en-US/korean-batch-064.jsonl#L319) | art_fltri02 / ["TextList", 17, "Text"] | 저는 독실한 주신교 신자에요. | I am a devout follower of the High Church. |

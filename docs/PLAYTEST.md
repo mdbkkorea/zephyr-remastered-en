@@ -33,3 +33,23 @@ To use a converted save, close the game first, back up the current save folder, 
 ## Latest: playtest 3
 
 Close the running game and use `private/Launch English Playtest 3.command`. This includes playtest 2 fixes plus distinct compact attack labels **Slash / W.Slash / S.Slash / Ricochet** (full meanings Weak Slash, Strong Slash, Ricochet Blade), and shorter auto-battle options **Use Special / Heal First**. Previous copies and active saves are unchanged. Rebuilt resources and copied file hashes passed validation; the new labels still need visual confirmation in-game.
+
+## Latest: playtest 4 with ZephyrPassives
+
+Start Steam in CrossOver's **Steam** bottle, close other Zephyr copies, then double-click `private/Launch English Playtest 4.command`. This launches the separate `private/English Playtest 4` copy, containing the latest English catalog (Geyshir, R675 Work Group 12, Aura Slash and compact attacks) and the unmodified ZephyrPassives 2.4.3 mod with its English description profile.
+
+The launcher passes `--dll 'winhttp=n,b'` to CrossOver for this process only. A plain exported WINEDLLOVERRIDES is cleared by this installed CrossOver wrapper. First mod startup may take 1–3 minutes. Check `private/English Playtest 4/BepInEx/LogOutput.log` for `Loading [Zephyr Passives 2.4.3]`; Unity's log is `private/english-playtest-4.log`. It shares your existing saves; a verified pre-test snapshot is at `private/save-backup-before-english-playtest4`. Steam's original game files and earlier playtest copies are unchanged. Build/copy validation passed; actual mod loading and gameplay remain untested until launch.
+
+Fullmap 1.8.0 is now also included unchanged in Playtest 4. CrossOver launch diagnostics are saved in `private/crossover-playtest-4.log`. The corrected loader option has been statically verified; successful startup still requires a user test.
+
+## Latest: playtest 5 with English Fullmap
+
+Close the current game and open `private/Launch English Playtest 5.command` while Steam is running in the Steam bottle. This preserves Playtest 4 as a fallback and adds translated Fullmap names, Interior labels and controller help. See [Fullmap translation](FULLMAP_TRANSLATION.md). Static checks passed; the new translated plugin still needs a runtime/layout test. Saves are shared with earlier playtests.
+
+## Latest: playtest 6 — dialogue spacing
+
+Close the current game and open `private/Launch English Playtest 6.command` with Steam running. Corrects missing word spaces around pause codes in R845, R12204, R13056 and R18396, including “by a woman.” Same translated Fullmap and Passives as Playtest 5; earlier copies preserved. Build checks passed; on-screen verification pending.
+
+## Latest: playtest 7 — settings labels
+
+Use `private/Launch English Playtest 7.command` after closing the game, with Steam running. Shorter Audio/Gameplay tabs and encounter-rate buttons reduce overflow; long settings labels are shortened. Includes all Playtest 6 corrections and both translated mods. Build validated; visual fit awaits user testing.

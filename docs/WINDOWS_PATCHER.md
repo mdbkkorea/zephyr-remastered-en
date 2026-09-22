@@ -1,6 +1,6 @@
 # Build the standalone Windows English patcher
 
-Use the private `Zephyr-English-Desktop-Kit-008.zip` kit. Extract the complete ZIP on Windows, install **64-bit Python 3.12** with the Python launcher and Tcl/Tk, and double-click **Build-Windows.cmd**. The script creates a local virtual environment, installs pinned PyInstaller, runs the patcher tests and builds **dist/ZephyrEnglishPatcher.exe**. Neither the .NET SDK nor the ChatGPT app is needed.
+Use the private `Zephyr-English-Desktop-Kit-011.zip` kit. Extract the complete ZIP on Windows, install **64-bit Python 3.12** with the Python launcher and Tcl/Tk, and double-click **Build-Windows.cmd**. The script creates a local virtual environment, installs pinned PyInstaller, runs the patcher tests and builds **dist/ZephyrEnglishPatcher.exe**. Neither the .NET SDK nor the ChatGPT app is needed.
 
 The EXE contains Python, the English interface and the patch payload. Recipients do not need Python or a network connection. This uses a new English interface with the existing journaled transaction logic, keeping the upstream Chinese build intact. There is no updater or network code in the patcher. The build wrapper's PowerShell execution-policy override applies only to that process.
 
@@ -27,3 +27,7 @@ Run `scripts/prepare_windows_package.py` with `--game` pointing to read-only ori
 The September 22 Windows handoff reports a successful kit-003 EXE build, 10 tests, GUI launch and frozen diagnostic install/restore on separate copied game files. Its EXE SHA256 is `6e62d9627631b6a4154501b72428c8aee7957a7b3fd99cf58c0b9df7bdfbedcb`; that binary was not included in the handoff. No Windows gameplay was tested.
 
 Kit 006 merges its Windows extended-length backup paths and forward-slash recovery journals with the newer macOS/Linux support. All 39 local tests pass; a new Windows build/test is still required for the merged code. Previously failed backslash journals are not migrated automatically; keep their backups and diagnose them before retrying. Real UNC/network-share operation remains unverified.
+
+## Compatible user mods
+
+The installer lists **ZephyrFullmap 1.8.0** (Full Map) and **ZephyrPassives 2.4.3** (Passives). Install the mods separately. The Passives translation edition requires version 2.4.3 and describes its default settings. Fullmap English labels are a separate add-on; the resource installer does not install or translate the Fullmap DLL. The original mods have user-reported Windows/CrossOver success; the translated Fullmap add-on still awaits runtime confirmation. Other mod versions are not covered by this compatibility note.

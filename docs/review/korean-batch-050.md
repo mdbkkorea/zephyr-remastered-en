@@ -73,7 +73,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R13053](../../localization/en-US/korean-batch-050.jsonl#L65) | art_ko_fl15_s05 / ["TextList", 69, "Text"] | 나를 막지 말아 줘, 카나. | Please don't stop me, Kana. |
 | [R13054](../../localization/en-US/korean-batch-050.jsonl#L66) | art_ko_fl15_s05 / ["TextList", 71, "Text"] | 어떻게 대답하겠습니까? | How will you respond? |
 | [R13055](../../localization/en-US/korean-batch-050.jsonl#L67) | art_ko_fl15_s05 / ["TextList", 73, "Text"] | 당신을... 당신을 그 곳으로 보내면... 난 살아갈 수 없을 거예요. | If I... If I let you go there... I won't be able to go on living. |
-| [R13056](../../localization/en-US/korean-batch-050.jsonl#L68) | art_ko_fl15_s05 / ["TextList", 74, "Text"] | 사랑하고 있어요... 시라노... 제발/30d 가지 말아줘요. | I love you... Cyrano... Please/30ddon't go. |
+| [R13056](../../localization/en-US/korean-batch-050.jsonl#L68) | art_ko_fl15_s05 / ["TextList", 74, "Text"] | 사랑하고 있어요... 시라노... 제발/30d 가지 말아줘요. | I love you... Cyrano... Please /30ddon't go. |
 | [R13057](../../localization/en-US/korean-batch-050.jsonl#L69) | art_ko_fl15_s05 / ["TextList", 75, "Text"] | 어떻게 대답하겠습니까? | How will you respond? |
 | [R13058](../../localization/en-US/korean-batch-050.jsonl#L70) | art_ko_fl15_s05 / ["TextList", 76, "Text"] | 비켜, 카나. 난 가야만 해. | Move aside, Kana. I must go. |
 | [R13059](../../localization/en-US/korean-batch-050.jsonl#L71) | art_ko_fl15_s05 / ["TextList", 77, "Text"] | 카나, 네 말대로 가지 않겠어. | Kana, I'll do as you ask. I won't go. |

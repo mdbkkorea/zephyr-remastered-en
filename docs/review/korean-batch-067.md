@@ -30,7 +30,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R17260](../../localization/en-US/korean-batch-067.jsonl#L22) | art_fltga02 / ["TextList", 40, "Text"] | 흥… 이 도시는 죽어가고 있어요.  | Hmph... This city is dying.  |
 | [R17261](../../localization/en-US/korean-batch-067.jsonl#L23) | art_fltga02 / ["TextList", 42, "Text"] | 얼마 전에 제 친구 하나가 갑자기 실종되었죠. | A friend of mine suddenly disappeared recently. |
 | [R17262](../../localization/en-US/korean-batch-067.jsonl#L24) | art_fltga02 / ["TextList", 45, "Text"] | 억울한 죽음을 당했다고 하는 것 같은데… | It seems they say the death was unjust... |
-| [R17263](../../localization/en-US/korean-batch-067.jsonl#L25) | art_fltga02 / ["TextList", 51, "Text"] | 어서오게나/n이곳은 게이시르 최고의 주점이지. | Welcome./nThis is the finest tavern in Gaysir. |
+| [R17263](../../localization/en-US/korean-batch-067.jsonl#L25) | art_fltga02 / ["TextList", 51, "Text"] | 어서오게나/n이곳은 게이시르 최고의 주점이지. | Welcome./nThis is the finest tavern in Geyshir. |
 | [R17264](../../localization/en-US/korean-batch-067.jsonl#L26) | art_fltga02 / ["TextList", 57, "Text"] | 복수하겠어. 결단코 | I will have revenge. I swear it. |
 | [R17265](../../localization/en-US/korean-batch-067.jsonl#L27) | art_flmi41 / ["TextList", 8, "Text"] | 이걸로/25d 이쪽은 다 정리된건가? | So,/25d is everything here taken care of? |
 | [R17266](../../localization/en-US/korean-batch-067.jsonl#L28) | art_flmi41 / ["TextList", 9, "Text"] | 네,/25d 적은 완전히 퇴각한 것 같습니다. | Yes,/25d the enemy seems to have completely withdrawn. |
@@ -195,7 +195,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R17425](../../localization/en-US/korean-batch-067.jsonl#L187) | art_flck04 / ["TextList", 5, "Text"] | 안 좋은 예감이라니요? | A bad feeling? |
 | [R17426](../../localization/en-US/korean-batch-067.jsonl#L188) | art_fltga01 / ["TextList", 12, "Text"] | 샤른호스트가 이 근방에도 나타났다는 소문이… | There are rumors that Sharn Hoiste appeared around here, too... |
 | [R17427](../../localization/en-US/korean-batch-067.jsonl#L189) | art_fltga01 / ["TextList", 16, "Text"] | 투르족의 과학 기술은 상상 이상이라 하더군. | They say Tur science and technology exceed all imagination. |
-| [R17428](../../localization/en-US/korean-batch-067.jsonl#L190) | art_fltga01 / ["TextList", 25, "Text"] | 게이시르 시티  | Gaysir City  |
+| [R17428](../../localization/en-US/korean-batch-067.jsonl#L190) | art_fltga01 / ["TextList", 25, "Text"] | 게이시르 시티  | Geyshir City  |
 | [R17429](../../localization/en-US/korean-batch-067.jsonl#L191) | art_fltga01 / ["TextList", 77, "Text"] | 악세사리상점 '메서스' | Messers Accessories |
 | [R17430](../../localization/en-US/korean-batch-067.jsonl#L192) | art_fltga01 / ["TextList", 113, "Text"] | 이 방에는 들어갈 수 없습니다. | You cannot enter this room. |
 | [R17431](../../localization/en-US/korean-batch-067.jsonl#L193) | art_fltga01 / ["TextList", 115, "Text"] | 보르스의 성은 무엇입니까? | What is Bors's surname? |
@@ -203,7 +203,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R17433](../../localization/en-US/korean-batch-067.jsonl#L195) | art_fltga01 / ["TextList", 126, "Text"] | [ 병사 ] 좋아, 동쪽 게이트를 통과했군! | [ Soldier ] Good, you've passed the east gate! |
 | [R17434](../../localization/en-US/korean-batch-067.jsonl#L196) | art_fltga01 / ["TextList", 127, "Text"] | [ 병사 ] 좋아, 북쪽 게이트를 통과했군! | [ Soldier ] Good, you've passed the north gate! |
 | [R17435](../../localization/en-US/korean-batch-067.jsonl#L197) | art_fltga01 / ["TextList", 131, "Text"] | 다이아몬드젬을 받았다. | Received a Diamond Gem. |
-| [R17436](../../localization/en-US/korean-batch-067.jsonl#L198) | art_fltga01 / ["TextList", 134, "Text"] | 위대한 도시 게이시르 시티의 중앙 광장 | Central Square of the Great City of Gaysir |
+| [R17436](../../localization/en-US/korean-batch-067.jsonl#L198) | art_fltga01 / ["TextList", 134, "Text"] | 위대한 도시 게이시르 시티의 중앙 광장 | Central Square of the Great City of Geyshir |
 | [R17437](../../localization/en-US/korean-batch-067.jsonl#L199) | art_fltga01 / ["TextList", 138, "Text"] | 브레스젬 2개를 받았다. | Received 2 Brass Gems. |
 | [R17438](../../localization/en-US/korean-batch-067.jsonl#L200) | art_fltga01 / ["TextList", 142, "Text"] | [병사]/n나가면 처음부터 다시 돌아야 하네! | [Soldier]/nIf you leave, you'll have to start over! |
 | [R17439](../../localization/en-US/korean-batch-067.jsonl#L201) | art_fltme01 / ["TextList", 12, "Text"] | 샤른호스트가 이근방에도 나타났다는 소문이… | There are rumors that Sharn Hoiste appeared around here, too... |

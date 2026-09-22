@@ -1,0 +1,458 @@
+{
+  "name": "ZephyrPassives 2.4.3 — default settings",
+  "source": "https://www.softmoa.com/resource/k7aywhd77a67bi05",
+  "dependency": {
+    "path": "BepInEx/plugins/ZephyrPassives/ZephyrPassives.dll",
+    "sha256": "c22a790200042a1385e896b20938c89a31e542bcfe919de324959a9cdbdbf0c2"
+  },
+  "overrides": [
+    {
+      "id": "32d8c4ff46ecd715d68a53ce9f903c474ecaf422fb459e9017a97a861fc786a1",
+      "original": "마법위력 2배",
+      "base_target": "Doubles magic power.",
+      "target": "Doubles offensive magic damage.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          699,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "2e28ad2ff27d418ee50ca11e35196ef996898355d9931491d1018ccaf79ce650",
+      "original": "버써커기술 부여, 완력 증가",
+      "base_target": "Grants the Berserker skill and increases Strength.",
+      "target": "Grants Vigor (XP +15) and increases Strength.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          743,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "7a180bc0ded0d65e8cfa4f708b2400d611e423666b59f15f86f0be84bde2b71b",
+      "original": "효능 미상",
+      "base_target": "Effect unknown.",
+      "target": "Grants Vigor (XP +15) and Rage (fills XP when HP falls to 30% or less).",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          751,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "f8aa3962581b1e1f2b8e001045b359bc69dc0d25341aa8e81a9e6a1627f10a24",
+      "original": "효능미상의 신비한 아이템",
+      "base_target": "A mysterious item with unknown effects.",
+      "target": "Grants Hot Blood, doubling XP gain.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          803,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "5029fb5197aca2ad01f3a9f2197c6da568d1f1095208a993f65b7138dcf2880e",
+      "original": "각종 상태 이상을 치료한다.",
+      "base_target": "Cures various status ailments.",
+      "target": "Cures poison, petrification, silence, slow and curse.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          923,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "c92545c74cea4c3ef346f471401653d39901fcaa18b92428697001760e890e22",
+      "original": "HP가 50% 이하일 때 모든 능력치가 30% 상승한다.",
+      "base_target": "Raises all stats by 30% when HP is at or below 50%.",
+      "target": "At 50% HP or less, damage calculations use 30% higher Strength, Agility, Intelligence, Defense and Magic Resistance.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          1723,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "2d8f3b94e926c0ddadea5e640dc95108e2681ac23e393594e291896a1822090b",
+      "original": "크리티컬 시에 HP를 1로 만든다.",
+      "base_target": "Reduces HP to 1 on a critical hit.",
+      "target": "Critical hits reduce the target's HP to 1.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          1731,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "7059cd2c65fe16700d93a96c2b58f895a1af1ad3d24b645133e48260e9442061",
+      "original": "HP가 30% 이하일 때 버서커 상태가 된다.",
+      "base_target": "Enters Berserk status when HP is at or below 30%.",
+      "target": "Fills XP when HP falls to 30% or less.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          1739,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "000cc2d229025516ae71b96279524742dc98bcbdcddf42ef1a1c942c2c928777",
+      "original": "일반 무기에 피해를 입지 않게 된다.",
+      "base_target": "Prevents damage from normal weapons.",
+      "target": "Blocks normal and special attacks from non-elemental weapons.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          1751,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "7f95533ff4ed5a079555a76acc2c2c6c552aebbe311cf1ce31311810fe65937b",
+      "original": "최종 대미지의 30%가 에너지로 환산된다.",
+      "base_target": "Converts 30% of final damage into energy.",
+      "target": "Restores HP equal to 30% of damage dealt.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          1755,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "d7ee188a54dc8f051e83f2bd6e6e8312eeb3ad53504e1d86e274ae61f3f56b75",
+      "original": "최종 대미지의 5%가 ELD로 환산된다.",
+      "base_target": "Converts 5% of final damage into ELD.",
+      "target": "Gains ELD equal to 5% of damage dealt. Enemies steal it from the party.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          1759,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "092400e7bc15f6713fcba8bfd1812dbec88c976ada5c1c297fb5549a98b6353c",
+      "original": "크리티컬 시에 적을 마비시킨다.",
+      "base_target": "Paralyzes the enemy on a critical hit.",
+      "target": "Petrifies the enemy on a critical hit.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          1763,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "1c447c1c816a6f0a9ba56c702800e91a406019f732b597000f0e644c77a4a11e",
+      "original": "상태이상 마비에 걸리지 않게 된다.",
+      "base_target": "Prevents paralysis.",
+      "target": "Prevents petrification.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": -594337072363680927,
+        "path": [
+          "TextList",
+          1767,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "dfda1d8ff5bec2afe5b97926b9453787375f55ce6ba07731350114cd6fae8617",
+      "original": "마법위력 2배",
+      "base_target": "Doubles magic power.",
+      "target": "Doubles offensive magic damage.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": 5311463070633902269,
+        "path": [
+          "TextList",
+          699,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "bf6adebee41778408f8f39d6671c0e4a51106dc22e61241f7a6afc9eb8a95051",
+      "original": "버써커기술 부여, 완력 증가",
+      "base_target": "Grants the Berserker skill and increases Strength.",
+      "target": "Grants Vigor (XP +15) and increases Strength.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": 5311463070633902269,
+        "path": [
+          "TextList",
+          743,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "ccf07795142cfd54acd9d2d920e1aba2cf6b9c66327541cf1e34da9a28efacf5",
+      "original": "효능 미상",
+      "base_target": "Effect unknown.",
+      "target": "Grants Vigor (XP +15) and Rage (fills XP when HP falls to 30% or less).",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": 5311463070633902269,
+        "path": [
+          "TextList",
+          751,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "bf852e3b2de8a70c96c7f27fbffa76b95eba9973e4fb3511ae114cab18a91cbf",
+      "original": "효능미상의 신비한 아이템",
+      "base_target": "A mysterious item with unknown effects.",
+      "target": "Grants Hot Blood, doubling XP gain.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": 5311463070633902269,
+        "path": [
+          "TextList",
+          803,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "dd9eade8d124eac15915f00af3f9aad8ff6a5ae3783cac5ed1a180a65452baaa",
+      "original": "불,얼음,감전 치료",
+      "base_target": "Cures burning, freezing, and shock.",
+      "target": "Cures poison, petrification, silence, slow and curse.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/datatext_assets_all_2d156a6023ece34e6d44346d858672b0.bundle",
+        "serialized_file": "CAB-9089079abf355aea10641db3ebb4dfa7",
+        "object_id": 5311463070633902269,
+        "path": [
+          "TextList",
+          923,
+          "Text"
+        ]
+      }
+    },
+    {
+      "id": "2fe407f3c103d4781f44f0297bcfa28679667f20bfb80fc13b301815d95840e2",
+      "original": "마법위력 2배",
+      "base_target": "Doubles magic power.",
+      "target": "Doubles offensive magic damage.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-korean(ko)_assets_all.bundle",
+        "serialized_file": "CAB-5013e639e5ea05a9875963e00d61c0d0",
+        "object_id": 2720363965826683840,
+        "path": [
+          "m_TableData",
+          698,
+          "m_Localized"
+        ]
+      }
+    },
+    {
+      "id": "31adcba7586ec1280fb8717b8d4b26a6472159c8e811521fc5c272ada2e5f30d",
+      "original": "버써커기술 부여, 완력 증가",
+      "base_target": "Grants the Berserker skill and increases Strength.",
+      "target": "Grants Vigor (XP +15) and increases Strength.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-korean(ko)_assets_all.bundle",
+        "serialized_file": "CAB-5013e639e5ea05a9875963e00d61c0d0",
+        "object_id": 2720363965826683840,
+        "path": [
+          "m_TableData",
+          742,
+          "m_Localized"
+        ]
+      }
+    },
+    {
+      "id": "b231a89e2f1391c0411b34f70684014c970a3fd6f5bc5c70bd1c1c05aa1d2a51",
+      "original": "효능 미상",
+      "base_target": "Effect unknown.",
+      "target": "Grants Vigor (XP +15) and Rage (fills XP when HP falls to 30% or less).",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-korean(ko)_assets_all.bundle",
+        "serialized_file": "CAB-5013e639e5ea05a9875963e00d61c0d0",
+        "object_id": 2720363965826683840,
+        "path": [
+          "m_TableData",
+          750,
+          "m_Localized"
+        ]
+      }
+    },
+    {
+      "id": "a73ee89654f710c927aab091a4591cd413798bbc1c9dfa7f125f3ace5cbdacea",
+      "original": "효능미상의 신비한 아이템",
+      "base_target": "A mysterious item with unknown effects.",
+      "target": "Grants Hot Blood, doubling XP gain.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-korean(ko)_assets_all.bundle",
+        "serialized_file": "CAB-5013e639e5ea05a9875963e00d61c0d0",
+        "object_id": 2720363965826683840,
+        "path": [
+          "m_TableData",
+          802,
+          "m_Localized"
+        ]
+      }
+    },
+    {
+      "id": "91e72c9091b35386781e1c380bc116da659392c31379f08d6183616392ffceae",
+      "original": "불,얼음,감전 치료",
+      "base_target": "Cures burning, freezing, and shock.",
+      "target": "Cures poison, petrification, silence, slow and curse.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-korean(ko)_assets_all.bundle",
+        "serialized_file": "CAB-5013e639e5ea05a9875963e00d61c0d0",
+        "object_id": 2720363965826683840,
+        "path": [
+          "m_TableData",
+          922,
+          "m_Localized"
+        ]
+      }
+    },
+    {
+      "id": "c2d3e82380767909aa5967e9b58c18fba1684448328f15a4ba6e3ad821913a6d",
+      "original": "마법위력 2배",
+      "base_target": "Doubles magic power.",
+      "target": "Doubles offensive magic damage.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 3134236251733156117,
+        "path": [
+          "accessories",
+          8,
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "591cb7b14719a53e9b8eee3d31db39edd90a5b8ee6f9b3f85965bd3e716845cf",
+      "original": "버써커기술 부여, 완력 증가",
+      "base_target": "Grants the Berserker skill and increases Strength.",
+      "target": "Grants Vigor (XP +15) and increases Strength.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 3134236251733156117,
+        "path": [
+          "accessories",
+          19,
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "5a92e46cd550aa01054465456000f36b83fd1610df5cb299b373637ba232709f",
+      "original": "효능 미상",
+      "base_target": "Effect unknown.",
+      "target": "Grants Vigor (XP +15) and Rage (fills XP when HP falls to 30% or less).",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 3134236251733156117,
+        "path": [
+          "accessories",
+          21,
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "951f46559434c025d06a39d666716b0aa3df2dcbf2e326fdf38f3b5cb61bf9e7",
+      "original": "효능미상의 신비한 아이템",
+      "base_target": "A mysterious item with unknown effects.",
+      "target": "Grants Hot Blood, doubling XP gain.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 3134236251733156117,
+        "path": [
+          "accessories",
+          34,
+          "description"
+        ]
+      }
+    },
+    {
+      "id": "b7fa86cb8730fb0ef076e23859eacbca029b32f1ec145b4dd107e7ec77218266",
+      "original": "불,얼음,감전 치료",
+      "base_target": "Cures burning, freezing, and shock.",
+      "target": "Cures poison, petrification, silence, slow and curse.",
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 3134236251733156117,
+        "path": [
+          "consumeItems",
+          6,
+          "description"
+        ]
+      }
+    }
+  ]
+}

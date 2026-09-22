@@ -27,7 +27,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R12029](../../localization/en-US/korean-batch-046.jsonl#L19) | art_ko_fl12_s01 / ["TextList", 18, "Text"] | 과연 언제쯤에야 각하의 통솔아래 제국령을 통일하여 제국의 영광과 평화를 되찾을 수 있을까요? | When will we finally unite the Empire under Your Eminence's leadership and restore its glory and peace? |
 | [R12030](../../localization/en-US/korean-batch-046.jsonl#L20) | art_ko_fl12_s01 / ["TextList", 19, "Text"] | 이제 곧 멀지 않았네. 우리의 대업을 이룰 날도... | The day we accomplish our great undertaking is not far off... |
 | [R12031](../../localization/en-US/korean-batch-046.jsonl#L21) | art_ko_fl12_s01 / ["TextList", 20, "Text"] | 어리석은 녀석들은 지금 당장의 우리들의 위업을 인정하지 않을지도 모르지만 역사는 우리의 업적을 제대로 평가해 줄 걸세. | Fools may fail to recognize our greatness now, but history will judge our achievements fairly. |
-| [R12032](../../localization/en-US/korean-batch-046.jsonl#L22) | art_ko_fl12_s01 / ["TextList", 21, "Text"] | /2c게이시르 대성당. 추기경 집무실. | /2cGaysir Cathedral. The cardinal's office. |
+| [R12032](../../localization/en-US/korean-batch-046.jsonl#L22) | art_ko_fl12_s01 / ["TextList", 21, "Text"] | /2c게이시르 대성당. 추기경 집무실. | /2cGeyshir Cathedral. The cardinal's office. |
 | [R12033](../../localization/en-US/korean-batch-046.jsonl#L23) | art_ko_fl12_s01 / ["TextList", 22, "Text"] | 그럼 전 이만... | Then I shall take my leave... |
 | [R12034](../../localization/en-US/korean-batch-046.jsonl#L24) | art_ko_fl12_s01 / ["TextList", 23, "Text"] | 흐흐흐.../25d /n조금만...조금만 있으면 나의 야망이 완성된다. | Heh heh heh.../25d /nJust a little... A little longer, and my ambition will be fulfilled. |
 | [R12035](../../localization/en-US/korean-batch-046.jsonl#L25) | art_ko_fl12_s01 / ["TextList", 24, "Text"] | 제피르팰컨, 프레데릭따위가 나를 막을수는 없지. /n쿡쿡쿡... | Neither Zephyr Falcon nor Frederick can stop me. /nHeh heh heh... |
@@ -96,9 +96,9 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R12098](../../localization/en-US/korean-batch-046.jsonl#L88) | art_ko_fl12_s03 / ["TextList", 24, "Text"] | 어쨌든, 보물만 찾으면 그깟 탄알 몇개쯤은 문제도 아니지. | Once we find the treasure, a few measly bullets won't matter. |
 | [R12099](../../localization/en-US/korean-batch-046.jsonl#L89) | art_ko_fl12_s03 / ["TextList", 25, "Text"] | 그래도... | But still... |
 | [R12100](../../localization/en-US/korean-batch-046.jsonl#L90) | art_ko_fl12_s03 / ["TextList", 26, "Text"] | 쓸데없는 일에 시간을 허비하지 말고, 길을 서두르도록 합시다.  | Let us stop wasting time on trifles and get moving.  |
-| [R12101](../../localization/en-US/korean-batch-046.jsonl#L91) | art_ko_fl12_s03 / ["TextList", 27, "Text"] | 보물지도에 따르면, 보물은 게이시르숲 중앙의 화룡굴에 있습니다. | According to the map, the treasure is in Fire Dragon Cave, in the heart of Gaysir Forest. |
+| [R12101](../../localization/en-US/korean-batch-046.jsonl#L91) | art_ko_fl12_s03 / ["TextList", 27, "Text"] | 보물지도에 따르면, 보물은 게이시르숲 중앙의 화룡굴에 있습니다. | According to the map, the treasure is in Fire Dragon Cave, in the heart of Geyshir Forest. |
 | [R12102](../../localization/en-US/korean-batch-046.jsonl#L92) | art_ko_fl12_s03 / ["TextList", 28, "Text"] | 에잇..그럼 빨리 보물을 찾으러 떠납시다!! | Argh... Then let's hurry up and find that treasure!! |
-| [R12103](../../localization/en-US/korean-batch-046.jsonl#L93) | art_ko_fl12_s03 / ["TextList", 29, "Text"] | 일단, 게이시르 시티를 통하여 숲으로 들어갑시다. | First, let's go through Gaysir City and into the forest. |
+| [R12103](../../localization/en-US/korean-batch-046.jsonl#L93) | art_ko_fl12_s03 / ["TextList", 29, "Text"] | 일단, 게이시르 시티를 통하여 숲으로 들어갑시다. | First, let's go through Geyshir City and into the forest. |
 | [R12104](../../localization/en-US/korean-batch-046.jsonl#L94) | art_ko_fl12_s02 / ["TextList", 0, "Text"] | 나도 함께 가고 싶은데.../n걱정이 된단 말이예요, 당신 혼자 보내면. | I wish I could go with you.../nI worry about sending you off alone. |
 | [R12105](../../localization/en-US/korean-batch-046.jsonl#L95) | art_ko_fl12_s02 / ["TextList", 1, "Text"] | 오래간만에 팀의 리더로 출동하겠군... | It's been a while since I led a team into action... |
 | [R12106](../../localization/en-US/korean-batch-046.jsonl#L96) | art_ko_fl12_s02 / ["TextList", 2, "Text"] | 이번 임무는 매우 중요합니다. 반드시 성공해 주시기 바랍니다. | This mission is very important. Please make certain it succeeds. |
@@ -112,15 +112,15 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R12114](../../localization/en-US/korean-batch-046.jsonl#L104) | art_ko_fl12_s02 / ["TextList", 11, "Text"] | 보물이라... | Treasure... |
 | [R12115](../../localization/en-US/korean-batch-046.jsonl#L105) | art_ko_fl12_s02 / ["TextList", 14, "Text"] | 아..오셨군요. | Ah... You're here. |
 | [R12116](../../localization/en-US/korean-batch-046.jsonl#L106) | art_ko_fl12_s02 / ["TextList", 15, "Text"] | 일이 생겼습니다./n체사레 추기경이 니코시아지방에서 일을 벌이고 있나봐요. | Something has come up./nCardinal Cesare seems to be plotting something in Nicosia. |
-| [R12117](../../localization/en-US/korean-batch-046.jsonl#L107) | art_ko_fl12_s02 / ["TextList", 20, "Text"] | 니코시아지방이라면 게이시르시티 남쪽에 있는 조그만 지방입니다. | Nicosia is a small region south of Gaysir City. |
-| [R12118](../../localization/en-US/korean-batch-046.jsonl#L108) | art_ko_fl12_s02 / ["TextList", 21, "Text"] | 그렇다면 남쪽으로 게이시르시티를 지나야 할겁니다. /15d/n상당히 먼 거리인걸요. | Then we'll have to pass through Gaysir City and head south. /15d/nThat's quite a journey. |
+| [R12117](../../localization/en-US/korean-batch-046.jsonl#L107) | art_ko_fl12_s02 / ["TextList", 20, "Text"] | 니코시아지방이라면 게이시르시티 남쪽에 있는 조그만 지방입니다. | Nicosia is a small region south of Geyshir City. |
+| [R12118](../../localization/en-US/korean-batch-046.jsonl#L108) | art_ko_fl12_s02 / ["TextList", 21, "Text"] | 그렇다면 남쪽으로 게이시르시티를 지나야 할겁니다. /15d/n상당히 먼 거리인걸요. | Then we'll have to pass through Geyshir City and head south. /15d/nThat's quite a journey. |
 | [R12119](../../localization/en-US/korean-batch-046.jsonl#L109) | art_ko_fl12_s02 / ["TextList", 24, "Text"] | 최근엔 프레데릭공의 로우엔이 더 활기찬것 같던데요. | Lord Frederick's Lowen seems livelier these days, though. |
 | [R12120](../../localization/en-US/korean-batch-046.jsonl#L110) | art_ko_fl12_s02 / ["TextList", 25, "Text"] | 현 제국 최강의 프레데릭공의 영지이니까요. | It is the domain of Lord Frederick, the most powerful man in the Empire today. |
 | [R12121](../../localization/en-US/korean-batch-046.jsonl#L111) | art_ko_fl12_s02 / ["TextList", 26, "Text"] | 그쪽은 아직 우리 제피르 팰컨의 손이 닿지 않는 곳이지요. | Zephyr Falcon's reach does not yet extend there. |
 | [R12122](../../localization/en-US/korean-batch-046.jsonl#L112) | art_ko_fl12_s02 / ["TextList", 27, "Text"] | 그럼, 곧 출발하도록 하지. | Then let us depart soon. |
 | [R12123](../../localization/en-US/korean-batch-046.jsonl#L113) | art_ko_fl12_s02 / ["TextList", 29, "Text"] | 저.... | Um... |
 | [R12124](../../localization/en-US/korean-batch-046.jsonl#L114) | art_ko_fl12_s02 / ["TextList", 32, "Text"] | ....../20d알았네./n이 서랍은 열지 않도록 하지. | ....../20dUnderstood./nI won't open this drawer. |
-| [R12125](../../localization/en-US/korean-batch-046.jsonl#L115) | art_ko_fl12_s02 / ["TextList", 36, "Text"] | 게이시르 시티. /n15년만인가... | Gaysir City. /nHas it been fifteen years...? |
+| [R12125](../../localization/en-US/korean-batch-046.jsonl#L115) | art_ko_fl12_s02 / ["TextList", 36, "Text"] | 게이시르 시티. /n15년만인가... | Geyshir City. /nHas it been fifteen years...? |
 | [R12126](../../localization/en-US/korean-batch-046.jsonl#L116) | art_ko_fl12_s02 / ["TextList", 37, "Text"] | 과연 보물을 찾을 수 있을까요? | Will we really find the treasure? |
 | [R12127](../../localization/en-US/korean-batch-046.jsonl#L117) | art_ko_fl12_s02 / ["TextList", 38, "Text"] | 몸조심 하세요. | Take care of yourself. |
 | [R12128](../../localization/en-US/korean-batch-046.jsonl#L118) | art_ko_fl12_s02 / ["TextList", 39, "Text"] | 빨리 길을 떠나자구요! | Let's get going! |
@@ -199,7 +199,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R12201](../../localization/en-US/korean-batch-046.jsonl#L191) | art_ko_fl12_s07 / ["TextList", 23, "Text"] | 중립국을 표방한 우리로서는 더없이 좋은 기회지. | For a country that professes neutrality, this is the perfect opportunity. |
 | [R12202](../../localization/en-US/korean-batch-046.jsonl#L192) | art_ko_fl12_s07 / ["TextList", 24, "Text"] | 하지만, 체사레 추기경은 만만하게 볼수만은 없는 인물이예요. /15d /n공왕폐하도 조심해야 할걸요? | But Cardinal Cesare is not a man to underestimate. /15d /nYou should be careful too, Your Highness. |
 | [R12203](../../localization/en-US/korean-batch-046.jsonl#L193) | art_ko_fl12_s07 / ["TextList", 25, "Text"] | 하하, 내가 그렇게 우습게 보이나? | Ha ha, do you think so little of me? |
-| [R12204](../../localization/en-US/korean-batch-046.jsonl#L194) | art_ko_fl12_s07 / ["TextList", 26, "Text"] | 어디,/10d 내가 그렇게 우스운 인물인지 보여줄까? | Shall I/10dshow you whether I am a man to be taken lightly? |
+| [R12204](../../localization/en-US/korean-batch-046.jsonl#L194) | art_ko_fl12_s07 / ["TextList", 26, "Text"] | 어디,/10d 내가 그렇게 우스운 인물인지 보여줄까? | Shall I /10dshow you whether I am a man to be taken lightly? |
 | [R12205](../../localization/en-US/korean-batch-046.jsonl#L195) | art_ko_fl12_s07 / ["TextList", 27, "Text"] | 호호호... | Hee hee hee... |
 | [R12206](../../localization/en-US/korean-batch-046.jsonl#L196) | art_fl12_s02 / ["TextList", 0, "Text"] | [카나]/n나도/15d 시라노와 같이 가고 싶은데…/50d/n정말 나 없이도 괜찮겠어요? | [Kana]/nI want/15d to go with you, Cyrano.../50d/nAre you sure you'll be all right without me? |
 | [R12207](../../localization/en-US/korean-batch-046.jsonl#L197) | art_fl12_s02 / ["TextList", 1, "Text"] | [메디치]/n오랜만에/15d 팀의 리더로 활약할 수 있겠군. | [Medici]/nAt last,/15d I get to lead a team again. |
@@ -336,7 +336,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R12338](../../localization/en-US/korean-batch-046.jsonl#L328) | art_fl12_s01 / ["TextList", 18, "Text"] | 추기경 각하께서/30d 제국령을 통일하는 그날이,/50d/n한시라도 빨리 찾아오길 기원하겠습니다. | I pray the day/30d Your Eminence unites the Empire/50d/nwill come as soon as possible. |
 | [R12339](../../localization/en-US/korean-batch-046.jsonl#L329) | art_fl12_s01 / ["TextList", 19, "Text"] | 우리의 대업을 이룰 날도/25d 이제 멀지 않았어. | The day we accomplish our great undertaking/25d is not far off. |
 | [R12340](../../localization/en-US/korean-batch-046.jsonl#L330) | art_fl12_s01 / ["TextList", 20, "Text"] | 어리석은 인간들은/35d 우리의 위업을 이해하지 못하겠지만,/45d/n역사는 우리의 업적을 제대로 평가해 줄 걸세. | Fools/35d may fail to understand our greatness,/45d/nbut history will judge our achievements fairly. |
-| [R12341](../../localization/en-US/korean-batch-046.jsonl#L331) | art_fl12_s01 / ["TextList", 21, "Text"] | 게이시르 대성당, 추기경 집무실 | Gaysir Cathedral, The Cardinal's Office |
+| [R12341](../../localization/en-US/korean-batch-046.jsonl#L331) | art_fl12_s01 / ["TextList", 21, "Text"] | 게이시르 대성당, 추기경 집무실 | Geyshir Cathedral, The Cardinal's Office |
 | [R12342](../../localization/en-US/korean-batch-046.jsonl#L332) | art_fl12_s01 / ["TextList", 22, "Text"] | 그럼,/30d 저는 이만… | Then,/30d I shall take my leave... |
 | [R12343](../../localization/en-US/korean-batch-046.jsonl#L333) | art_fl12_s01 / ["TextList", 23, "Text"] | 이제…/30d 조금만 있으면/15d 나의 야망이 이루어진다. | Now.../30d Just a little longer,/15d and my ambition will be fulfilled. |
 | [R12344](../../localization/en-US/korean-batch-046.jsonl#L334) | art_fl12_s01 / ["TextList", 24, "Text"] | 제피르 팰컨이나/15d 프레데릭 따위,/25d 비프로스트를 이용해 처리하면 그만이지. | Zephyr Falcon,/15d Frederick.../25d I need only use Bifrost to dispose of them. |
@@ -369,9 +369,9 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R12371](../../localization/en-US/korean-batch-046.jsonl#L361) | art_fl12_s03 / ["TextList", 24, "Text"] | 걱정하지 마!/30d/n보물만 찾으면/25d 그깟 탄알 몇 개쯤은 문제도 아니니. | Don't worry!/30d/nOnce we find the treasure,/25d a few measly bullets won't matter. |
 | [R12372](../../localization/en-US/korean-batch-046.jsonl#L362) | art_fl12_s03 / ["TextList", 25, "Text"] | 아무리 그래도…/30d 으으! | Even so.../30d Urgh! |
 | [R12373](../../localization/en-US/korean-batch-046.jsonl#L363) | art_fl12_s03 / ["TextList", 26, "Text"] | 하하!/50d 도둑맞은 건 잊어버려, 카나./35d/n빨리 보물을 찾아서 만회하자구. | Ha ha!/50d Forget about the theft, Kana./35d/nLet's find the treasure and make up for it. |
-| [R12374](../../localization/en-US/korean-batch-046.jsonl#L364) | art_fl12_s03 / ["TextList", 27, "Text"] | 보물 지도에 따르면,/30d/n보물은/20d 게이시르 숲 중앙의 화룡굴에 있는 것 같은데… | According to the map,/30d/nthe treasure/20d seems to be in Fire Dragon Cave, in the heart of Gaysir Forest... |
+| [R12374](../../localization/en-US/korean-batch-046.jsonl#L364) | art_fl12_s03 / ["TextList", 27, "Text"] | 보물 지도에 따르면,/30d/n보물은/20d 게이시르 숲 중앙의 화룡굴에 있는 것 같은데… | According to the map,/30d/nthe treasure/20d seems to be in Fire Dragon Cave, in the heart of Geyshir Forest... |
 | [R12375](../../localization/en-US/korean-batch-046.jsonl#L365) | art_fl12_s03 / ["TextList", 28, "Text"] | 에잇!/20d 이렇게 된 이상/15d 빨리 보물을 찾아내고 말겠어! | Argh!/20d In that case,/15d I'm going to find that treasure right away! |
-| [R12376](../../localization/en-US/korean-batch-046.jsonl#L366) | art_fl12_s03 / ["TextList", 29, "Text"] | 일단/25d 게이시르 시티를 통과해서 숲으로 가야겠네. | First,/25d we'll have to pass through Gaysir City to reach the forest. |
+| [R12376](../../localization/en-US/korean-batch-046.jsonl#L366) | art_fl12_s03 / ["TextList", 29, "Text"] | 일단/25d 게이시르 시티를 통과해서 숲으로 가야겠네. | First,/25d we'll have to pass through Geyshir City to reach the forest. |
 | [R12377](../../localization/en-US/korean-batch-046.jsonl#L367) | art_fl12_s07 / ["TextList", 0, "Text"] | 비프로스트 궁, 조세핀의 방 | Bifrost Palace, Josephine's Room |
 | [R12378](../../localization/en-US/korean-batch-046.jsonl#L368) | art_fl12_s07 / ["TextList", 1, "Text"] | 오랜만이군,/25d 조세핀. | It has been a while,/25d Josephine. |
 | [R12379](../../localization/en-US/korean-batch-046.jsonl#L369) | art_fl12_s07 / ["TextList", 2, "Text"] | 호호,/35d 당신도 여전하시군요./25d 학자 나리. | Hee hee,/35d you haven't changed, either,/25d my learned scholar. |
