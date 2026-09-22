@@ -11,3 +11,5 @@ Pending: native Fedora 44/Proton gameplay, wider story coverage and translated m
 ## 1.0.0-beta.1 release preparation
 
 Centralized version reporting and manifest version. Translation payload is unchanged from build 016. Source suite: 54 tests passed in 0.899 s. Platform rebuild validation is recorded in the release notes. Windows is the only fully tested release; macOS/Linux are experimental.
+
+Windows beta.1 rebuild and direct GUI install/restore passed. All three beta.1 packages are ready, with Windows the only fully tested installer release and macOS/Linux experimental. Automatic export now refreshes packaged tests when combining older resource kits.

@@ -12,3 +12,5 @@ All installer tests used separate copies. Steam and active saves were unchanged.
 ## 1.0.0-beta.1 release preparation
 
 Centralized version reporting and manifest version. Translation payload is unchanged from build 016. Source suite: 54 tests passed in 0.899 s. Platform rebuild validation is recorded in the release notes. Windows is the only fully tested release; macOS/Linux are experimental.
+
+Fresh beta.1 Windows report: 24 packaged tests (23 passed, one POSIX-only skip) and direct shipped-EXE GUI Check/Install/Restore with both supported mods; all 17 selected file hashes verified. The eight frozen-harness cases recorded for build016 were not rerun on Windows for beta.1. All application/payload files match the frozen beta kit. The kit reused an older platform test from its base export, so Windows reapplied the already-reviewed test-only host-absolute XDG fix. Automatic export now refreshes all packaged tests from current source. Runtime binaries/payload are unaffected. Fresh Mac/Linux compiled tests passed four supported combinations plus two unsupported fallbacks.

@@ -25,7 +25,8 @@ def main():
  (payload/'manifest.json').write_text(json.dumps(base,indent=2)+'\n')
  for src in (ROOT/'windows').iterdir():
   if src.is_file():shutil.copy2(src,a.output/src.name)
- shutil.copy2(ROOT/'tests/test_auto_mods.py',a.output/'tests/test_auto_mods.py')
+ for name in ['test_auto_mods.py','test_windows_patcher.py','test_patcher_platform.py']:
+  shutil.copy2(ROOT/'tests'/name,a.output/'tests'/name)
  (a.output/'english_trust.py').write_text('HASHES = '+repr({p.name:digest(p.read_bytes()) for p in payload.iterdir() if p.is_file()})+'\n')
  shutil.make_archive(str(a.output),'zip',root_dir=a.output.parent,base_dir=a.output.name)
  print(a.output)
