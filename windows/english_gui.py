@@ -10,6 +10,7 @@ import tkinter as tk
 from pathlib import Path
 from tkinter import filedialog, messagebox, ttk
 from english_engine import Patcher, payload_default
+from english_version import VERSION
 from english_resources import sha
 from english_trust import HASHES
 
@@ -21,7 +22,7 @@ def main():
     if sys.platform == 'darwin' and tk.TkVersion < 8.6:
         raise RuntimeError('macOS GUI requires Tk 8.6 or newer. Use a current python.org Python or the packaged Mac app.')
     root = tk.Tk()
-    root.title('Zephyr English Patcher')
+    root.title('Zephyr English Patcher '+VERSION)
     show_folder_help = sys.platform in ('win32', 'darwin')
     root.geometry('820x740' if show_folder_help else '760x600')
     root.minsize(800,720) if show_folder_help else root.minsize(740,580)

@@ -8,3 +8,7 @@
 - Safety tests cover modified resources, backup validation, recovery, long Windows backup paths, removed/added mods and duplicate/relocated named DLLs. The XDG state test uses a host-absolute temporary path for portability.
 
 All installer tests used separate copies. Steam and active saves were unchanged. These tests do not establish complete gameplay coverage, arbitrary third-party mod compatibility, or real UNC target-folder patching. Original mods loaded in user-reported Windows/CrossOver tests; latest translated map layout remains under review.
+
+## 1.0.0-beta.1 release preparation
+
+Centralized version reporting and manifest version. Translation payload is unchanged from build 016. Source suite: 54 tests passed in 0.899 s. Platform rebuild validation is recorded in the release notes. Windows is the only fully tested release; macOS/Linux are experimental.

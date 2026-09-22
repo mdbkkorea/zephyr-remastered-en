@@ -5,7 +5,7 @@ from english_resources import rebuild,safe,sha,windows_long_path
 from english_trust import HASHES
 from english_mods import select_patch
 from english_platform import state_home as default_state_home, path_key, require_game_stopped, operation_lock
-VERSION='0.1.0-auto016'
+from english_version import VERSION
 def read(p):return json.loads(p.read_text(encoding='utf8'))
 def write(p,value):
  p.parent.mkdir(parents=True,exist_ok=True);tmp=p.with_suffix(p.suffix+'.new');tmp.write_text(json.dumps(value,ensure_ascii=False,indent=2),encoding='utf8');os.replace(tmp,p)

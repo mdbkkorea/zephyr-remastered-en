@@ -1,7 +1,9 @@
 """Combine independently validated base/Passives kits and pinned Fullmap delta."""
-import argparse, hashlib, json, shutil, zlib
+import argparse, hashlib, json, shutil, zlib, sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
+sys.path.insert(0,str(ROOT/'windows'))
+from english_version import VERSION
 def digest(data):return hashlib.sha256(data).hexdigest()
 def main():
  p=argparse.ArgumentParser();p.add_argument('--base',type=Path,required=True);p.add_argument('--passives',type=Path,required=True);p.add_argument('--fullmap',type=Path,required=True);p.add_argument('--translated-fullmap',type=Path,required=True);p.add_argument('--output',type=Path,required=True);a=p.parse_args()
@@ -19,6 +21,7 @@ def main():
  path='BepInEx/plugins/ZephyrFullmap/ZephyrFullmap.dll'
  base['automatic_mods']=[dict(name='ZephyrPassives',version='2.4.3',path=dep['path'],sha256=dep['sha256'],files=mod['files']),dict(name='ZephyrFullmap',version='1.8.0',path=path,sha256=digest(before),translation=dict(path=path,before_sha256=digest(before),after_sha256=digest(after),after_size=len(after),delta='fullmap.delta',delta_sha256=digest(blob)))]
  base['format']=2
+ base['release_version']=VERSION
  (payload/'manifest.json').write_text(json.dumps(base,indent=2)+'\n')
  for src in (ROOT/'windows').iterdir():
   if src.is_file():shutil.copy2(src,a.output/src.name)
