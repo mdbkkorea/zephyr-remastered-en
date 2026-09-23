@@ -346,69 +346,69 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R4461](../../localization/en-US/korean-batch-011.jsonl#L338) | DataTexts_RE_KO / ["TextList", 988, "Text"] | 평생이용권 | Lifetime Pass |
 | [R4462](../../localization/en-US/korean-batch-011.jsonl#L339) | DataTexts_RE_KO / ["TextList", 991, "Text"] | 투기장 평생이용권 | Arena Lifetime Pass |
 | [R4463](../../localization/en-US/korean-batch-011.jsonl#L340) | DataTexts_RE_KO / ["TextList", 992, "Text"] | 시라노 베기 | Cyrano Slash |
-| [R4464](../../localization/en-US/korean-batch-011.jsonl#L341) | DataTexts_RE_KO / ["TextList", 996, "Text"] | 시라노 약베기 | Cyrano W.Slash |
-| [R4465](../../localization/en-US/korean-batch-011.jsonl#L342) | DataTexts_RE_KO / ["TextList", 1000, "Text"] | 시라노 강베기 | Cyrano S.Slash |
-| [R4466](../../localization/en-US/korean-batch-011.jsonl#L343) | DataTexts_RE_KO / ["TextList", 1004, "Text"] | 시라노 탄검 | Cyrano Aura.Slash |
+| [R4464](../../localization/en-US/korean-batch-011.jsonl#L341) | DataTexts_RE_KO / ["TextList", 996, "Text"] | 시라노 약베기 | Cyrano Weak Slash |
+| [R4465](../../localization/en-US/korean-batch-011.jsonl#L342) | DataTexts_RE_KO / ["TextList", 1000, "Text"] | 시라노 강베기 | Cyrano Strong Slash |
+| [R4466](../../localization/en-US/korean-batch-011.jsonl#L343) | DataTexts_RE_KO / ["TextList", 1004, "Text"] | 시라노 탄검 | Cyrano Aura Slash |
 | [R4467](../../localization/en-US/korean-batch-011.jsonl#L344) | DataTexts_RE_KO / ["TextList", 1008, "Text"] | 샤른 베기 | Sharn Slash |
-| [R4468](../../localization/en-US/korean-batch-011.jsonl#L345) | DataTexts_RE_KO / ["TextList", 1012, "Text"] | 샤른 약베기 | Sharn W.Slash |
-| [R4469](../../localization/en-US/korean-batch-011.jsonl#L346) | DataTexts_RE_KO / ["TextList", 1016, "Text"] | 샤른 강베기 | Sharn S.Slash |
-| [R4470](../../localization/en-US/korean-batch-011.jsonl#L347) | DataTexts_RE_KO / ["TextList", 1020, "Text"] | 샤른 탄검 | Sharn Aura.Slash |
+| [R4468](../../localization/en-US/korean-batch-011.jsonl#L345) | DataTexts_RE_KO / ["TextList", 1012, "Text"] | 샤른 약베기 | Sharn Weak Slash |
+| [R4469](../../localization/en-US/korean-batch-011.jsonl#L346) | DataTexts_RE_KO / ["TextList", 1016, "Text"] | 샤른 강베기 | Sharn Strong Slash |
+| [R4470](../../localization/en-US/korean-batch-011.jsonl#L347) | DataTexts_RE_KO / ["TextList", 1020, "Text"] | 샤른 탄검 | Sharn Aura Slash |
 | [R4471](../../localization/en-US/korean-batch-011.jsonl#L348) | DataTexts_RE_KO / ["TextList", 1024, "Text"] | 메디치 베기 | Medici Slash |
-| [R4472](../../localization/en-US/korean-batch-011.jsonl#L349) | DataTexts_RE_KO / ["TextList", 1028, "Text"] | 메디치 약베기 | Medici W.Slash |
-| [R4473](../../localization/en-US/korean-batch-011.jsonl#L350) | DataTexts_RE_KO / ["TextList", 1032, "Text"] | 메디치 강베기 | Medici S.Slash |
-| [R4474](../../localization/en-US/korean-batch-011.jsonl#L351) | DataTexts_RE_KO / ["TextList", 1036, "Text"] | 메디치 살검 | Medici K.Blade |
+| [R4472](../../localization/en-US/korean-batch-011.jsonl#L349) | DataTexts_RE_KO / ["TextList", 1028, "Text"] | 메디치 약베기 | Medici Weak Slash |
+| [R4473](../../localization/en-US/korean-batch-011.jsonl#L350) | DataTexts_RE_KO / ["TextList", 1032, "Text"] | 메디치 강베기 | Medici Strong Slash |
+| [R4474](../../localization/en-US/korean-batch-011.jsonl#L351) | DataTexts_RE_KO / ["TextList", 1036, "Text"] | 메디치 살검 | Medici Killing Blade |
 | [R4475](../../localization/en-US/korean-batch-011.jsonl#L352) | DataTexts_RE_KO / ["TextList", 1040, "Text"] | 실버 베기 | Silver Slash |
 | [R4476](../../localization/en-US/korean-batch-011.jsonl#L353) | DataTexts_RE_KO / ["TextList", 1044, "Text"] | 실버 수리검  | Silver Shuriken  |
 | [R4477](../../localization/en-US/korean-batch-011.jsonl#L354) | DataTexts_RE_KO / ["TextList", 1048, "Text"] | 실버 제이제이 | Silver JJ |
-| [R4478](../../localization/en-US/korean-batch-011.jsonl#L355) | DataTexts_RE_KO / ["TextList", 1052, "Text"] | 이자벨 찌르기 | Isabele Thrust |
+| [R4478](../../localization/en-US/korean-batch-011.jsonl#L355) | DataTexts_RE_KO / ["TextList", 1052, "Text"] | 이자벨 찌르기 | Isabele Stab |
 | [R4479](../../localization/en-US/korean-batch-011.jsonl#L356) | DataTexts_RE_KO / ["TextList", 1056, "Text"] | 이자벨 베기 | Isabele Slash |
 | [R4480](../../localization/en-US/korean-batch-011.jsonl#L357) | DataTexts_RE_KO / ["TextList", 1060, "Text"] | 이자벨 투창 | Isabele Javelin |
-| [R4481](../../localization/en-US/korean-batch-011.jsonl#L358) | DataTexts_RE_KO / ["TextList", 1064, "Text"] | 리델 찌르기 | Rhidel Thrust |
+| [R4481](../../localization/en-US/korean-batch-011.jsonl#L358) | DataTexts_RE_KO / ["TextList", 1064, "Text"] | 리델 찌르기 | Rhidel Stab |
 | [R4482](../../localization/en-US/korean-batch-011.jsonl#L359) | DataTexts_RE_KO / ["TextList", 1068, "Text"] | 리델 베기 | Rhidel Slash |
 | [R4483](../../localization/en-US/korean-batch-011.jsonl#L360) | DataTexts_RE_KO / ["TextList", 1072, "Text"] | 리델 칼 | Rhidel Blade |
 | [R4484](../../localization/en-US/korean-batch-011.jsonl#L361) | DataTexts_RE_KO / ["TextList", 1076, "Text"] | 카나 사격 | Kana Shot |
-| [R4485](../../localization/en-US/korean-batch-011.jsonl#L362) | DataTexts_RE_KO / ["TextList", 1080, "Text"] | 카나 정밀사격 | Kana P.Shot |
-| [R4486](../../localization/en-US/korean-batch-011.jsonl#L363) | DataTexts_RE_KO / ["TextList", 1084, "Text"] | 프레데릭 약베기 | Frederick W.Slash |
-| [R4487](../../localization/en-US/korean-batch-011.jsonl#L364) | DataTexts_RE_KO / ["TextList", 1088, "Text"] | 프레데릭 강베기 | Frederick S.Slash |
-| [R4488](../../localization/en-US/korean-batch-011.jsonl#L365) | DataTexts_RE_KO / ["TextList", 1092, "Text"] | 카타리나 약베기 | Katarina W.Slash |
-| [R4489](../../localization/en-US/korean-batch-011.jsonl#L366) | DataTexts_RE_KO / ["TextList", 1096, "Text"] | 카타리나 강베기 | Katarina S.Slash |
+| [R4485](../../localization/en-US/korean-batch-011.jsonl#L362) | DataTexts_RE_KO / ["TextList", 1080, "Text"] | 카나 정밀사격 | Kana Precision Shot |
+| [R4486](../../localization/en-US/korean-batch-011.jsonl#L363) | DataTexts_RE_KO / ["TextList", 1084, "Text"] | 프레데릭 약베기 | Frederick Weak Slash |
+| [R4487](../../localization/en-US/korean-batch-011.jsonl#L364) | DataTexts_RE_KO / ["TextList", 1088, "Text"] | 프레데릭 강베기 | Frederick Strong Slash |
+| [R4488](../../localization/en-US/korean-batch-011.jsonl#L365) | DataTexts_RE_KO / ["TextList", 1092, "Text"] | 카타리나 약베기 | Katarina Weak Slash |
+| [R4489](../../localization/en-US/korean-batch-011.jsonl#L366) | DataTexts_RE_KO / ["TextList", 1096, "Text"] | 카타리나 강베기 | Katarina Strong Slash |
 | [R4490](../../localization/en-US/korean-batch-011.jsonl#L367) | DataTexts_RE_KO / ["TextList", 1100, "Text"] | 보스 베기 | Boss Slash |
-| [R4491](../../localization/en-US/korean-batch-011.jsonl#L368) | DataTexts_RE_KO / ["TextList", 1104, "Text"] | 몬스터 일반01 | Monster Normal.01 |
-| [R4492](../../localization/en-US/korean-batch-011.jsonl#L369) | DataTexts_RE_KO / ["TextList", 1108, "Text"] | 몬스터 일반02 | Monster Normal.02 |
-| [R4493](../../localization/en-US/korean-batch-011.jsonl#L370) | DataTexts_RE_KO / ["TextList", 1112, "Text"] | 몬스터 일반03 | Monster Normal.03 |
-| [R4494](../../localization/en-US/korean-batch-011.jsonl#L371) | DataTexts_RE_KO / ["TextList", 1116, "Text"] | 몬스터 일반04 | Monster Normal.04 |
-| [R4495](../../localization/en-US/korean-batch-011.jsonl#L372) | DataTexts_RE_KO / ["TextList", 1120, "Text"] | 몬스터 일반05 | Monster Normal.05 |
-| [R4496](../../localization/en-US/korean-batch-011.jsonl#L373) | DataTexts_RE_KO / ["TextList", 1124, "Text"] | 몬스터 중거리01 | Monster Mid.Atk01 |
-| [R4497](../../localization/en-US/korean-batch-011.jsonl#L374) | DataTexts_RE_KO / ["TextList", 1128, "Text"] | 몬스터 중거리02 | Monster Mid.Atk02 |
-| [R4498](../../localization/en-US/korean-batch-011.jsonl#L375) | DataTexts_RE_KO / ["TextList", 1132, "Text"] | 몬스터 중거리03 | Monster Mid.Atk03 |
-| [R4499](../../localization/en-US/korean-batch-011.jsonl#L376) | DataTexts_RE_KO / ["TextList", 1136, "Text"] | 몬스터 중거리04 | Monster Mid.Atk04 |
-| [R4500](../../localization/en-US/korean-batch-011.jsonl#L377) | DataTexts_RE_KO / ["TextList", 1140, "Text"] | 몬스터 중거리05 | Monster Mid.Atk05 |
-| [R4501](../../localization/en-US/korean-batch-011.jsonl#L378) | DataTexts_RE_KO / ["TextList", 1144, "Text"] | 몬스터 쏘기01 | Monster Shot.01 |
-| [R4502](../../localization/en-US/korean-batch-011.jsonl#L379) | DataTexts_RE_KO / ["TextList", 1148, "Text"] | 몬스터 쏘기02 | Monster Shot.02 |
-| [R4503](../../localization/en-US/korean-batch-011.jsonl#L380) | DataTexts_RE_KO / ["TextList", 1152, "Text"] | 몬스터 쏘기03 | Monster Shot.03 |
-| [R4504](../../localization/en-US/korean-batch-011.jsonl#L381) | DataTexts_RE_KO / ["TextList", 1156, "Text"] | 몬스터 쏘기04 | Monster Shot.04 |
-| [R4505](../../localization/en-US/korean-batch-011.jsonl#L382) | DataTexts_RE_KO / ["TextList", 1160, "Text"] | 몬스터 쏘기05 | Monster Shot.05 |
-| [R4506](../../localization/en-US/korean-batch-011.jsonl#L383) | DataTexts_RE_KO / ["TextList", 1164, "Text"] | 몬스터 연속01 | Monster Combo.01 |
-| [R4507](../../localization/en-US/korean-batch-011.jsonl#L384) | DataTexts_RE_KO / ["TextList", 1168, "Text"] | 몬스터 연속02 | Monster Combo.02 |
-| [R4508](../../localization/en-US/korean-batch-011.jsonl#L385) | DataTexts_RE_KO / ["TextList", 1172, "Text"] | 몬스터 연속03 | Monster Combo.03 |
-| [R4509](../../localization/en-US/korean-batch-011.jsonl#L386) | DataTexts_RE_KO / ["TextList", 1176, "Text"] | 몬스터 연속04 | Monster Combo.04 |
-| [R4510](../../localization/en-US/korean-batch-011.jsonl#L387) | DataTexts_RE_KO / ["TextList", 1180, "Text"] | 몬스터 연속05 | Monster Combo.05 |
-| [R4511](../../localization/en-US/korean-batch-011.jsonl#L388) | DataTexts_RE_KO / ["TextList", 1184, "Text"] | 몬스터 강공01 | Monster H.Atk01 |
-| [R4512](../../localization/en-US/korean-batch-011.jsonl#L389) | DataTexts_RE_KO / ["TextList", 1188, "Text"] | 몬스터 강공02 | Monster H.Atk02 |
-| [R4513](../../localization/en-US/korean-batch-011.jsonl#L390) | DataTexts_RE_KO / ["TextList", 1192, "Text"] | 몬스터 강공03 | Monster H.Atk03 |
-| [R4514](../../localization/en-US/korean-batch-011.jsonl#L391) | DataTexts_RE_KO / ["TextList", 1196, "Text"] | 몬스터 강공04 | Monster H.Atk04 |
-| [R4515](../../localization/en-US/korean-batch-011.jsonl#L392) | DataTexts_RE_KO / ["TextList", 1200, "Text"] | 몬스터 강공05 | Monster H.Atk05 |
-| [R4516](../../localization/en-US/korean-batch-011.jsonl#L393) | DataTexts_RE_KO / ["TextList", 1204, "Text"] | 기본마법 | B.Magic |
-| [R4517](../../localization/en-US/korean-batch-011.jsonl#L394) | DataTexts_RE_KO / ["TextList", 1208, "Text"] | 게리슨 약공격 | Garrison W.Attack |
-| [R4518](../../localization/en-US/korean-batch-011.jsonl#L395) | DataTexts_RE_KO / ["TextList", 1212, "Text"] | 게리슨 강공격 | Garrison S.Attack |
-| [R4519](../../localization/en-US/korean-batch-011.jsonl#L396) | DataTexts_RE_KO / ["TextList", 1216, "Text"] | 드래곤브레스 | Dragon D.Breath |
-| [R4520](../../localization/en-US/korean-batch-011.jsonl#L397) | DataTexts_RE_KO / ["TextList", 1220, "Text"] | 키메로스브레스 | Chimeros C.Breath |
+| [R4491](../../localization/en-US/korean-batch-011.jsonl#L368) | DataTexts_RE_KO / ["TextList", 1104, "Text"] | 몬스터 일반01 | Monster Normal Attack 01 |
+| [R4492](../../localization/en-US/korean-batch-011.jsonl#L369) | DataTexts_RE_KO / ["TextList", 1108, "Text"] | 몬스터 일반02 | Monster Normal Attack 02 |
+| [R4493](../../localization/en-US/korean-batch-011.jsonl#L370) | DataTexts_RE_KO / ["TextList", 1112, "Text"] | 몬스터 일반03 | Monster Normal Attack 03 |
+| [R4494](../../localization/en-US/korean-batch-011.jsonl#L371) | DataTexts_RE_KO / ["TextList", 1116, "Text"] | 몬스터 일반04 | Monster Normal Attack 04 |
+| [R4495](../../localization/en-US/korean-batch-011.jsonl#L372) | DataTexts_RE_KO / ["TextList", 1120, "Text"] | 몬스터 일반05 | Monster Normal Attack 05 |
+| [R4496](../../localization/en-US/korean-batch-011.jsonl#L373) | DataTexts_RE_KO / ["TextList", 1124, "Text"] | 몬스터 중거리01 | Monster Mid-range Attack 01 |
+| [R4497](../../localization/en-US/korean-batch-011.jsonl#L374) | DataTexts_RE_KO / ["TextList", 1128, "Text"] | 몬스터 중거리02 | Monster Mid-range Attack 02 |
+| [R4498](../../localization/en-US/korean-batch-011.jsonl#L375) | DataTexts_RE_KO / ["TextList", 1132, "Text"] | 몬스터 중거리03 | Monster Mid-range Attack 03 |
+| [R4499](../../localization/en-US/korean-batch-011.jsonl#L376) | DataTexts_RE_KO / ["TextList", 1136, "Text"] | 몬스터 중거리04 | Monster Mid-range Attack 04 |
+| [R4500](../../localization/en-US/korean-batch-011.jsonl#L377) | DataTexts_RE_KO / ["TextList", 1140, "Text"] | 몬스터 중거리05 | Monster Mid-range Attack 05 |
+| [R4501](../../localization/en-US/korean-batch-011.jsonl#L378) | DataTexts_RE_KO / ["TextList", 1144, "Text"] | 몬스터 쏘기01 | Monster Shot 01 |
+| [R4502](../../localization/en-US/korean-batch-011.jsonl#L379) | DataTexts_RE_KO / ["TextList", 1148, "Text"] | 몬스터 쏘기02 | Monster Shot 02 |
+| [R4503](../../localization/en-US/korean-batch-011.jsonl#L380) | DataTexts_RE_KO / ["TextList", 1152, "Text"] | 몬스터 쏘기03 | Monster Shot 03 |
+| [R4504](../../localization/en-US/korean-batch-011.jsonl#L381) | DataTexts_RE_KO / ["TextList", 1156, "Text"] | 몬스터 쏘기04 | Monster Shot 04 |
+| [R4505](../../localization/en-US/korean-batch-011.jsonl#L382) | DataTexts_RE_KO / ["TextList", 1160, "Text"] | 몬스터 쏘기05 | Monster Shot 05 |
+| [R4506](../../localization/en-US/korean-batch-011.jsonl#L383) | DataTexts_RE_KO / ["TextList", 1164, "Text"] | 몬스터 연속01 | Monster Combo 01 |
+| [R4507](../../localization/en-US/korean-batch-011.jsonl#L384) | DataTexts_RE_KO / ["TextList", 1168, "Text"] | 몬스터 연속02 | Monster Combo 02 |
+| [R4508](../../localization/en-US/korean-batch-011.jsonl#L385) | DataTexts_RE_KO / ["TextList", 1172, "Text"] | 몬스터 연속03 | Monster Combo 03 |
+| [R4509](../../localization/en-US/korean-batch-011.jsonl#L386) | DataTexts_RE_KO / ["TextList", 1176, "Text"] | 몬스터 연속04 | Monster Combo 04 |
+| [R4510](../../localization/en-US/korean-batch-011.jsonl#L387) | DataTexts_RE_KO / ["TextList", 1180, "Text"] | 몬스터 연속05 | Monster Combo 05 |
+| [R4511](../../localization/en-US/korean-batch-011.jsonl#L388) | DataTexts_RE_KO / ["TextList", 1184, "Text"] | 몬스터 강공01 | Monster Heavy Attack 01 |
+| [R4512](../../localization/en-US/korean-batch-011.jsonl#L389) | DataTexts_RE_KO / ["TextList", 1188, "Text"] | 몬스터 강공02 | Monster Heavy Attack 02 |
+| [R4513](../../localization/en-US/korean-batch-011.jsonl#L390) | DataTexts_RE_KO / ["TextList", 1192, "Text"] | 몬스터 강공03 | Monster Heavy Attack 03 |
+| [R4514](../../localization/en-US/korean-batch-011.jsonl#L391) | DataTexts_RE_KO / ["TextList", 1196, "Text"] | 몬스터 강공04 | Monster Heavy Attack 04 |
+| [R4515](../../localization/en-US/korean-batch-011.jsonl#L392) | DataTexts_RE_KO / ["TextList", 1200, "Text"] | 몬스터 강공05 | Monster Heavy Attack 05 |
+| [R4516](../../localization/en-US/korean-batch-011.jsonl#L393) | DataTexts_RE_KO / ["TextList", 1204, "Text"] | 기본마법 | Basic Magic |
+| [R4517](../../localization/en-US/korean-batch-011.jsonl#L394) | DataTexts_RE_KO / ["TextList", 1208, "Text"] | 게리슨 약공격 | Garrison Light Attack |
+| [R4518](../../localization/en-US/korean-batch-011.jsonl#L395) | DataTexts_RE_KO / ["TextList", 1212, "Text"] | 게리슨 강공격 | Garrison Heavy Attack |
+| [R4519](../../localization/en-US/korean-batch-011.jsonl#L396) | DataTexts_RE_KO / ["TextList", 1216, "Text"] | 드래곤브레스 | Dragon Dragon Breath |
+| [R4520](../../localization/en-US/korean-batch-011.jsonl#L397) | DataTexts_RE_KO / ["TextList", 1220, "Text"] | 키메로스브레스 | Chimeros Chimeros Breath |
 | [R4521](../../localization/en-US/korean-batch-011.jsonl#L398) | DataTexts_RE_KO / ["TextList", 1224, "Text"] | 경비견 박치기 | Guard Dog Headbutt |
-| [R4522](../../localization/en-US/korean-batch-011.jsonl#L399) | DataTexts_RE_KO / ["TextList", 1228, "Text"] | 마둑 공던지기 | Maduk Ball.Toss |
-| [R4523](../../localization/en-US/korean-batch-011.jsonl#L400) | DataTexts_RE_KO / ["TextList", 1232, "Text"] | 장교,강베기01 | Officer S.Slash01 |
-| [R4524](../../localization/en-US/korean-batch-011.jsonl#L401) | DataTexts_RE_KO / ["TextList", 1236, "Text"] | 장교,강베기02 | Officer S.Slash02 |
-| [R4525](../../localization/en-US/korean-batch-011.jsonl#L402) | DataTexts_RE_KO / ["TextList", 1240, "Text"] | 장교,강베기03 | Officer S.Slash03 |
-| [R4526](../../localization/en-US/korean-batch-011.jsonl#L403) | DataTexts_RE_KO / ["TextList", 1244, "Text"] | 장교,강베기04 | Officer S.Slash04 |
+| [R4522](../../localization/en-US/korean-batch-011.jsonl#L399) | DataTexts_RE_KO / ["TextList", 1228, "Text"] | 마둑 공던지기 | Maduk Ball Throw |
+| [R4523](../../localization/en-US/korean-batch-011.jsonl#L400) | DataTexts_RE_KO / ["TextList", 1232, "Text"] | 장교,강베기01 | Officer Strong Slash 01 |
+| [R4524](../../localization/en-US/korean-batch-011.jsonl#L401) | DataTexts_RE_KO / ["TextList", 1236, "Text"] | 장교,강베기02 | Officer Strong Slash 02 |
+| [R4525](../../localization/en-US/korean-batch-011.jsonl#L402) | DataTexts_RE_KO / ["TextList", 1240, "Text"] | 장교,강베기03 | Officer Strong Slash 03 |
+| [R4526](../../localization/en-US/korean-batch-011.jsonl#L403) | DataTexts_RE_KO / ["TextList", 1244, "Text"] | 장교,강베기04 | Officer Strong Slash 04 |
 | [R4527](../../localization/en-US/korean-batch-011.jsonl#L404) | DataTexts_RE_KO / ["TextList", 1248, "Text"] | 장교,사격 | Officer Shot |
 | [R4528](../../localization/en-US/korean-batch-011.jsonl#L405) | DataTexts_RE_KO / ["TextList", 1252, "Text"] | 진공수라인 | Vacuum Asura Blade |
 | [R4529](../../localization/en-US/korean-batch-011.jsonl#L406) | DataTexts_RE_KO / ["TextList", 1255, "Text"] | 검에 기운을 불어넣어 수많은 진공의 검광을 발생시키는 연속 공격./n사정거리 : 주위 2칸 | A flurry of attacks that channels energy into the sword to create countless blades of vacuum./nRange: within 2 tiles |
@@ -1014,69 +1014,69 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R5129](../../localization/en-US/korean-batch-011.jsonl#L1006) | DataTexts_KO / ["TextList", 988, "Text"] | 평생이용권 | Lifetime Pass |
 | [R5130](../../localization/en-US/korean-batch-011.jsonl#L1007) | DataTexts_KO / ["TextList", 991, "Text"] | 투기장 평생이용권 | Arena Lifetime Pass |
 | [R5131](../../localization/en-US/korean-batch-011.jsonl#L1008) | DataTexts_KO / ["TextList", 992, "Text"] | 시라노 베기 | Cyrano Slash |
-| [R5132](../../localization/en-US/korean-batch-011.jsonl#L1009) | DataTexts_KO / ["TextList", 996, "Text"] | 시라노 약베기 | Cyrano W.Slash |
-| [R5133](../../localization/en-US/korean-batch-011.jsonl#L1010) | DataTexts_KO / ["TextList", 1000, "Text"] | 시라노 강베기 | Cyrano S.Slash |
-| [R5134](../../localization/en-US/korean-batch-011.jsonl#L1011) | DataTexts_KO / ["TextList", 1004, "Text"] | 시라노 탄검 | Cyrano Aura.Slash |
+| [R5132](../../localization/en-US/korean-batch-011.jsonl#L1009) | DataTexts_KO / ["TextList", 996, "Text"] | 시라노 약베기 | Cyrano Weak Slash |
+| [R5133](../../localization/en-US/korean-batch-011.jsonl#L1010) | DataTexts_KO / ["TextList", 1000, "Text"] | 시라노 강베기 | Cyrano Strong Slash |
+| [R5134](../../localization/en-US/korean-batch-011.jsonl#L1011) | DataTexts_KO / ["TextList", 1004, "Text"] | 시라노 탄검 | Cyrano Aura Slash |
 | [R5135](../../localization/en-US/korean-batch-011.jsonl#L1012) | DataTexts_KO / ["TextList", 1008, "Text"] | 샤른 베기 | Sharn Slash |
-| [R5136](../../localization/en-US/korean-batch-011.jsonl#L1013) | DataTexts_KO / ["TextList", 1012, "Text"] | 샤른 약베기 | Sharn W.Slash |
-| [R5137](../../localization/en-US/korean-batch-011.jsonl#L1014) | DataTexts_KO / ["TextList", 1016, "Text"] | 샤른 강베기 | Sharn S.Slash |
-| [R5138](../../localization/en-US/korean-batch-011.jsonl#L1015) | DataTexts_KO / ["TextList", 1020, "Text"] | 샤른 탄검 | Sharn Aura.Slash |
+| [R5136](../../localization/en-US/korean-batch-011.jsonl#L1013) | DataTexts_KO / ["TextList", 1012, "Text"] | 샤른 약베기 | Sharn Weak Slash |
+| [R5137](../../localization/en-US/korean-batch-011.jsonl#L1014) | DataTexts_KO / ["TextList", 1016, "Text"] | 샤른 강베기 | Sharn Strong Slash |
+| [R5138](../../localization/en-US/korean-batch-011.jsonl#L1015) | DataTexts_KO / ["TextList", 1020, "Text"] | 샤른 탄검 | Sharn Aura Slash |
 | [R5139](../../localization/en-US/korean-batch-011.jsonl#L1016) | DataTexts_KO / ["TextList", 1024, "Text"] | 메디치 베기 | Medici Slash |
-| [R5140](../../localization/en-US/korean-batch-011.jsonl#L1017) | DataTexts_KO / ["TextList", 1028, "Text"] | 메디치 약베기 | Medici W.Slash |
-| [R5141](../../localization/en-US/korean-batch-011.jsonl#L1018) | DataTexts_KO / ["TextList", 1032, "Text"] | 메디치 강베기 | Medici S.Slash |
-| [R5142](../../localization/en-US/korean-batch-011.jsonl#L1019) | DataTexts_KO / ["TextList", 1036, "Text"] | 메디치 살검 | Medici K.Blade |
+| [R5140](../../localization/en-US/korean-batch-011.jsonl#L1017) | DataTexts_KO / ["TextList", 1028, "Text"] | 메디치 약베기 | Medici Weak Slash |
+| [R5141](../../localization/en-US/korean-batch-011.jsonl#L1018) | DataTexts_KO / ["TextList", 1032, "Text"] | 메디치 강베기 | Medici Strong Slash |
+| [R5142](../../localization/en-US/korean-batch-011.jsonl#L1019) | DataTexts_KO / ["TextList", 1036, "Text"] | 메디치 살검 | Medici Killing Blade |
 | [R5143](../../localization/en-US/korean-batch-011.jsonl#L1020) | DataTexts_KO / ["TextList", 1040, "Text"] | 실버 베기 | Silver Slash |
 | [R5144](../../localization/en-US/korean-batch-011.jsonl#L1021) | DataTexts_KO / ["TextList", 1044, "Text"] | 실버 수리검  | Silver Shuriken  |
 | [R5145](../../localization/en-US/korean-batch-011.jsonl#L1022) | DataTexts_KO / ["TextList", 1048, "Text"] | 실버 독수리  | Silver Eagle  |
-| [R5146](../../localization/en-US/korean-batch-011.jsonl#L1023) | DataTexts_KO / ["TextList", 1052, "Text"] | 이자벨 찌르기 | Isabele Thrust |
+| [R5146](../../localization/en-US/korean-batch-011.jsonl#L1023) | DataTexts_KO / ["TextList", 1052, "Text"] | 이자벨 찌르기 | Isabele Stab |
 | [R5147](../../localization/en-US/korean-batch-011.jsonl#L1024) | DataTexts_KO / ["TextList", 1056, "Text"] | 이자벨 베기 | Isabele Slash |
 | [R5148](../../localization/en-US/korean-batch-011.jsonl#L1025) | DataTexts_KO / ["TextList", 1060, "Text"] | 이자벨 투창 | Isabele Javelin |
-| [R5149](../../localization/en-US/korean-batch-011.jsonl#L1026) | DataTexts_KO / ["TextList", 1064, "Text"] | 리델 찌르기 | Rhidel Thrust |
+| [R5149](../../localization/en-US/korean-batch-011.jsonl#L1026) | DataTexts_KO / ["TextList", 1064, "Text"] | 리델 찌르기 | Rhidel Stab |
 | [R5150](../../localization/en-US/korean-batch-011.jsonl#L1027) | DataTexts_KO / ["TextList", 1068, "Text"] | 리델 베기 | Rhidel Slash |
-| [R5151](../../localization/en-US/korean-batch-011.jsonl#L1028) | DataTexts_KO / ["TextList", 1072, "Text"] | 리델 늑대공격 | Rhidel Wolf.Atk |
+| [R5151](../../localization/en-US/korean-batch-011.jsonl#L1028) | DataTexts_KO / ["TextList", 1072, "Text"] | 리델 늑대공격 | Rhidel Wolf Attack |
 | [R5152](../../localization/en-US/korean-batch-011.jsonl#L1029) | DataTexts_KO / ["TextList", 1076, "Text"] | 카나 사격 | Kana Shot |
-| [R5153](../../localization/en-US/korean-batch-011.jsonl#L1030) | DataTexts_KO / ["TextList", 1080, "Text"] | 커나 정밀사격 | Kana P.Shot |
-| [R5154](../../localization/en-US/korean-batch-011.jsonl#L1031) | DataTexts_KO / ["TextList", 1084, "Text"] | 프레데릭 약베기 | Frederick W.Slash |
-| [R5155](../../localization/en-US/korean-batch-011.jsonl#L1032) | DataTexts_KO / ["TextList", 1088, "Text"] | 프레데릭 강베기 | Frederick S.Slash |
-| [R5156](../../localization/en-US/korean-batch-011.jsonl#L1033) | DataTexts_KO / ["TextList", 1092, "Text"] | 카타리나 약베기 | Katarina W.Slash |
-| [R5157](../../localization/en-US/korean-batch-011.jsonl#L1034) | DataTexts_KO / ["TextList", 1096, "Text"] | 카타리나 강베기 | Katarina S.Slash |
+| [R5153](../../localization/en-US/korean-batch-011.jsonl#L1030) | DataTexts_KO / ["TextList", 1080, "Text"] | 커나 정밀사격 | Kana Precision Shot |
+| [R5154](../../localization/en-US/korean-batch-011.jsonl#L1031) | DataTexts_KO / ["TextList", 1084, "Text"] | 프레데릭 약베기 | Frederick Weak Slash |
+| [R5155](../../localization/en-US/korean-batch-011.jsonl#L1032) | DataTexts_KO / ["TextList", 1088, "Text"] | 프레데릭 강베기 | Frederick Strong Slash |
+| [R5156](../../localization/en-US/korean-batch-011.jsonl#L1033) | DataTexts_KO / ["TextList", 1092, "Text"] | 카타리나 약베기 | Katarina Weak Slash |
+| [R5157](../../localization/en-US/korean-batch-011.jsonl#L1034) | DataTexts_KO / ["TextList", 1096, "Text"] | 카타리나 강베기 | Katarina Strong Slash |
 | [R5158](../../localization/en-US/korean-batch-011.jsonl#L1035) | DataTexts_KO / ["TextList", 1100, "Text"] | 보스 베기 | Boss Slash |
-| [R5159](../../localization/en-US/korean-batch-011.jsonl#L1036) | DataTexts_KO / ["TextList", 1104, "Text"] | 몬스터 일반01 | Monster Normal.01 |
-| [R5160](../../localization/en-US/korean-batch-011.jsonl#L1037) | DataTexts_KO / ["TextList", 1108, "Text"] | 몬스터 일반02 | Monster Normal.02 |
-| [R5161](../../localization/en-US/korean-batch-011.jsonl#L1038) | DataTexts_KO / ["TextList", 1112, "Text"] | 몬스터 일반03 | Monster Normal.03 |
-| [R5162](../../localization/en-US/korean-batch-011.jsonl#L1039) | DataTexts_KO / ["TextList", 1116, "Text"] | 몬스터 일반04 | Monster Normal.04 |
-| [R5163](../../localization/en-US/korean-batch-011.jsonl#L1040) | DataTexts_KO / ["TextList", 1120, "Text"] | 몬스터 일반05 | Monster Normal.05 |
-| [R5164](../../localization/en-US/korean-batch-011.jsonl#L1041) | DataTexts_KO / ["TextList", 1124, "Text"] | 몬스터 중거리01 | Monster Mid.Atk01 |
-| [R5165](../../localization/en-US/korean-batch-011.jsonl#L1042) | DataTexts_KO / ["TextList", 1128, "Text"] | 몬스터 중거리02 | Monster Mid.Atk02 |
-| [R5166](../../localization/en-US/korean-batch-011.jsonl#L1043) | DataTexts_KO / ["TextList", 1132, "Text"] | 몬스터 중거리03 | Monster Mid.Atk03 |
-| [R5167](../../localization/en-US/korean-batch-011.jsonl#L1044) | DataTexts_KO / ["TextList", 1136, "Text"] | 몬스터 중거리04 | Monster Mid.Atk04 |
-| [R5168](../../localization/en-US/korean-batch-011.jsonl#L1045) | DataTexts_KO / ["TextList", 1140, "Text"] | 몬스터 중거리05 | Monster Mid.Atk05 |
-| [R5169](../../localization/en-US/korean-batch-011.jsonl#L1046) | DataTexts_KO / ["TextList", 1144, "Text"] | 몬스터 쏘기01 | Monster Shot.01 |
-| [R5170](../../localization/en-US/korean-batch-011.jsonl#L1047) | DataTexts_KO / ["TextList", 1148, "Text"] | 몬스터 쏘기02 | Monster Shot.02 |
-| [R5171](../../localization/en-US/korean-batch-011.jsonl#L1048) | DataTexts_KO / ["TextList", 1152, "Text"] | 몬스터 쏘기03 | Monster Shot.03 |
-| [R5172](../../localization/en-US/korean-batch-011.jsonl#L1049) | DataTexts_KO / ["TextList", 1156, "Text"] | 몬스터 쏘기04 | Monster Shot.04 |
-| [R5173](../../localization/en-US/korean-batch-011.jsonl#L1050) | DataTexts_KO / ["TextList", 1160, "Text"] | 몬스터 쏘기05 | Monster Shot.05 |
-| [R5174](../../localization/en-US/korean-batch-011.jsonl#L1051) | DataTexts_KO / ["TextList", 1164, "Text"] | 몬스터 연속01 | Monster Combo.01 |
-| [R5175](../../localization/en-US/korean-batch-011.jsonl#L1052) | DataTexts_KO / ["TextList", 1168, "Text"] | 몬스터 연속02 | Monster Combo.02 |
-| [R5176](../../localization/en-US/korean-batch-011.jsonl#L1053) | DataTexts_KO / ["TextList", 1172, "Text"] | 몬스터 연속03 | Monster Combo.03 |
-| [R5177](../../localization/en-US/korean-batch-011.jsonl#L1054) | DataTexts_KO / ["TextList", 1176, "Text"] | 몬스터 연속04 | Monster Combo.04 |
-| [R5178](../../localization/en-US/korean-batch-011.jsonl#L1055) | DataTexts_KO / ["TextList", 1180, "Text"] | 몬스터 연속05 | Monster Combo.05 |
-| [R5179](../../localization/en-US/korean-batch-011.jsonl#L1056) | DataTexts_KO / ["TextList", 1184, "Text"] | 몬스터 강공01 | Monster H.Atk01 |
-| [R5180](../../localization/en-US/korean-batch-011.jsonl#L1057) | DataTexts_KO / ["TextList", 1188, "Text"] | 몬스터 강공02 | Monster H.Atk02 |
-| [R5181](../../localization/en-US/korean-batch-011.jsonl#L1058) | DataTexts_KO / ["TextList", 1192, "Text"] | 몬스터 강공03 | Monster H.Atk03 |
-| [R5182](../../localization/en-US/korean-batch-011.jsonl#L1059) | DataTexts_KO / ["TextList", 1196, "Text"] | 몬스터 강공04 | Monster H.Atk04 |
-| [R5183](../../localization/en-US/korean-batch-011.jsonl#L1060) | DataTexts_KO / ["TextList", 1200, "Text"] | 몬스터 강공05 | Monster H.Atk05 |
-| [R5184](../../localization/en-US/korean-batch-011.jsonl#L1061) | DataTexts_KO / ["TextList", 1204, "Text"] | 기본마법 | B.Magic |
-| [R5185](../../localization/en-US/korean-batch-011.jsonl#L1062) | DataTexts_KO / ["TextList", 1208, "Text"] | 게리슨 약공격 | Garrison W.Attack |
-| [R5186](../../localization/en-US/korean-batch-011.jsonl#L1063) | DataTexts_KO / ["TextList", 1212, "Text"] | 게리슨 강공격 | Garrison S.Attack |
-| [R5187](../../localization/en-US/korean-batch-011.jsonl#L1064) | DataTexts_KO / ["TextList", 1216, "Text"] | 드래곤브레스 | Dragon D.Breath |
-| [R5188](../../localization/en-US/korean-batch-011.jsonl#L1065) | DataTexts_KO / ["TextList", 1220, "Text"] | 키메로스브레스 | Chimeros C.Breath |
+| [R5159](../../localization/en-US/korean-batch-011.jsonl#L1036) | DataTexts_KO / ["TextList", 1104, "Text"] | 몬스터 일반01 | Monster Normal Attack 01 |
+| [R5160](../../localization/en-US/korean-batch-011.jsonl#L1037) | DataTexts_KO / ["TextList", 1108, "Text"] | 몬스터 일반02 | Monster Normal Attack 02 |
+| [R5161](../../localization/en-US/korean-batch-011.jsonl#L1038) | DataTexts_KO / ["TextList", 1112, "Text"] | 몬스터 일반03 | Monster Normal Attack 03 |
+| [R5162](../../localization/en-US/korean-batch-011.jsonl#L1039) | DataTexts_KO / ["TextList", 1116, "Text"] | 몬스터 일반04 | Monster Normal Attack 04 |
+| [R5163](../../localization/en-US/korean-batch-011.jsonl#L1040) | DataTexts_KO / ["TextList", 1120, "Text"] | 몬스터 일반05 | Monster Normal Attack 05 |
+| [R5164](../../localization/en-US/korean-batch-011.jsonl#L1041) | DataTexts_KO / ["TextList", 1124, "Text"] | 몬스터 중거리01 | Monster Mid-range Attack 01 |
+| [R5165](../../localization/en-US/korean-batch-011.jsonl#L1042) | DataTexts_KO / ["TextList", 1128, "Text"] | 몬스터 중거리02 | Monster Mid-range Attack 02 |
+| [R5166](../../localization/en-US/korean-batch-011.jsonl#L1043) | DataTexts_KO / ["TextList", 1132, "Text"] | 몬스터 중거리03 | Monster Mid-range Attack 03 |
+| [R5167](../../localization/en-US/korean-batch-011.jsonl#L1044) | DataTexts_KO / ["TextList", 1136, "Text"] | 몬스터 중거리04 | Monster Mid-range Attack 04 |
+| [R5168](../../localization/en-US/korean-batch-011.jsonl#L1045) | DataTexts_KO / ["TextList", 1140, "Text"] | 몬스터 중거리05 | Monster Mid-range Attack 05 |
+| [R5169](../../localization/en-US/korean-batch-011.jsonl#L1046) | DataTexts_KO / ["TextList", 1144, "Text"] | 몬스터 쏘기01 | Monster Shot 01 |
+| [R5170](../../localization/en-US/korean-batch-011.jsonl#L1047) | DataTexts_KO / ["TextList", 1148, "Text"] | 몬스터 쏘기02 | Monster Shot 02 |
+| [R5171](../../localization/en-US/korean-batch-011.jsonl#L1048) | DataTexts_KO / ["TextList", 1152, "Text"] | 몬스터 쏘기03 | Monster Shot 03 |
+| [R5172](../../localization/en-US/korean-batch-011.jsonl#L1049) | DataTexts_KO / ["TextList", 1156, "Text"] | 몬스터 쏘기04 | Monster Shot 04 |
+| [R5173](../../localization/en-US/korean-batch-011.jsonl#L1050) | DataTexts_KO / ["TextList", 1160, "Text"] | 몬스터 쏘기05 | Monster Shot 05 |
+| [R5174](../../localization/en-US/korean-batch-011.jsonl#L1051) | DataTexts_KO / ["TextList", 1164, "Text"] | 몬스터 연속01 | Monster Combo 01 |
+| [R5175](../../localization/en-US/korean-batch-011.jsonl#L1052) | DataTexts_KO / ["TextList", 1168, "Text"] | 몬스터 연속02 | Monster Combo 02 |
+| [R5176](../../localization/en-US/korean-batch-011.jsonl#L1053) | DataTexts_KO / ["TextList", 1172, "Text"] | 몬스터 연속03 | Monster Combo 03 |
+| [R5177](../../localization/en-US/korean-batch-011.jsonl#L1054) | DataTexts_KO / ["TextList", 1176, "Text"] | 몬스터 연속04 | Monster Combo 04 |
+| [R5178](../../localization/en-US/korean-batch-011.jsonl#L1055) | DataTexts_KO / ["TextList", 1180, "Text"] | 몬스터 연속05 | Monster Combo 05 |
+| [R5179](../../localization/en-US/korean-batch-011.jsonl#L1056) | DataTexts_KO / ["TextList", 1184, "Text"] | 몬스터 강공01 | Monster Heavy Attack 01 |
+| [R5180](../../localization/en-US/korean-batch-011.jsonl#L1057) | DataTexts_KO / ["TextList", 1188, "Text"] | 몬스터 강공02 | Monster Heavy Attack 02 |
+| [R5181](../../localization/en-US/korean-batch-011.jsonl#L1058) | DataTexts_KO / ["TextList", 1192, "Text"] | 몬스터 강공03 | Monster Heavy Attack 03 |
+| [R5182](../../localization/en-US/korean-batch-011.jsonl#L1059) | DataTexts_KO / ["TextList", 1196, "Text"] | 몬스터 강공04 | Monster Heavy Attack 04 |
+| [R5183](../../localization/en-US/korean-batch-011.jsonl#L1060) | DataTexts_KO / ["TextList", 1200, "Text"] | 몬스터 강공05 | Monster Heavy Attack 05 |
+| [R5184](../../localization/en-US/korean-batch-011.jsonl#L1061) | DataTexts_KO / ["TextList", 1204, "Text"] | 기본마법 | Basic Magic |
+| [R5185](../../localization/en-US/korean-batch-011.jsonl#L1062) | DataTexts_KO / ["TextList", 1208, "Text"] | 게리슨 약공격 | Garrison Light Attack |
+| [R5186](../../localization/en-US/korean-batch-011.jsonl#L1063) | DataTexts_KO / ["TextList", 1212, "Text"] | 게리슨 강공격 | Garrison Heavy Attack |
+| [R5187](../../localization/en-US/korean-batch-011.jsonl#L1064) | DataTexts_KO / ["TextList", 1216, "Text"] | 드래곤브레스 | Dragon Dragon Breath |
+| [R5188](../../localization/en-US/korean-batch-011.jsonl#L1065) | DataTexts_KO / ["TextList", 1220, "Text"] | 키메로스브레스 | Chimeros Chimeros Breath |
 | [R5189](../../localization/en-US/korean-batch-011.jsonl#L1066) | DataTexts_KO / ["TextList", 1224, "Text"] | 경비견 박치기 | Guard Dog Headbutt |
-| [R5190](../../localization/en-US/korean-batch-011.jsonl#L1067) | DataTexts_KO / ["TextList", 1228, "Text"] | 마둑 공던지기 | Maduk Ball.Toss |
-| [R5191](../../localization/en-US/korean-batch-011.jsonl#L1068) | DataTexts_KO / ["TextList", 1232, "Text"] | 장교,강베기01 | Officer S.Slash01 |
-| [R5192](../../localization/en-US/korean-batch-011.jsonl#L1069) | DataTexts_KO / ["TextList", 1236, "Text"] | 장교,강베기02 | Officer S.Slash02 |
-| [R5193](../../localization/en-US/korean-batch-011.jsonl#L1070) | DataTexts_KO / ["TextList", 1240, "Text"] | 장교,강베기03 | Officer S.Slash03 |
-| [R5194](../../localization/en-US/korean-batch-011.jsonl#L1071) | DataTexts_KO / ["TextList", 1244, "Text"] | 장교,강베기04 | Officer S.Slash04 |
+| [R5190](../../localization/en-US/korean-batch-011.jsonl#L1067) | DataTexts_KO / ["TextList", 1228, "Text"] | 마둑 공던지기 | Maduk Ball Throw |
+| [R5191](../../localization/en-US/korean-batch-011.jsonl#L1068) | DataTexts_KO / ["TextList", 1232, "Text"] | 장교,강베기01 | Officer Strong Slash 01 |
+| [R5192](../../localization/en-US/korean-batch-011.jsonl#L1069) | DataTexts_KO / ["TextList", 1236, "Text"] | 장교,강베기02 | Officer Strong Slash 02 |
+| [R5193](../../localization/en-US/korean-batch-011.jsonl#L1070) | DataTexts_KO / ["TextList", 1240, "Text"] | 장교,강베기03 | Officer Strong Slash 03 |
+| [R5194](../../localization/en-US/korean-batch-011.jsonl#L1071) | DataTexts_KO / ["TextList", 1244, "Text"] | 장교,강베기04 | Officer Strong Slash 04 |
 | [R5195](../../localization/en-US/korean-batch-011.jsonl#L1072) | DataTexts_KO / ["TextList", 1248, "Text"] | 장교,사격 | Officer Shot |
 | [R5196](../../localization/en-US/korean-batch-011.jsonl#L1073) | DataTexts_KO / ["TextList", 1252, "Text"] | 진공수라인 | Vacuum Asura Blade |
 | [R5197](../../localization/en-US/korean-batch-011.jsonl#L1074) | DataTexts_KO / ["TextList", 1256, "Text"] | 마영투혼 | Demon Shadow Fighting Spirit |
@@ -1570,69 +1570,69 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R5685](../../localization/en-US/korean-batch-011.jsonl#L1562) | Data_ko / ["m_TableData", 987, "m_Localized"] | 평생이용권 | Lifetime Pass |
 | [R5686](../../localization/en-US/korean-batch-011.jsonl#L1563) | Data_ko / ["m_TableData", 990, "m_Localized"] | 투기장 평생이용권 | Arena Lifetime Pass |
 | [R5687](../../localization/en-US/korean-batch-011.jsonl#L1564) | Data_ko / ["m_TableData", 991, "m_Localized"] | 시라노 베기 | Cyrano Slash |
-| [R5688](../../localization/en-US/korean-batch-011.jsonl#L1565) | Data_ko / ["m_TableData", 995, "m_Localized"] | 시라노 약베기 | Cyrano W.Slash |
-| [R5689](../../localization/en-US/korean-batch-011.jsonl#L1566) | Data_ko / ["m_TableData", 999, "m_Localized"] | 시라노 강베기 | Cyrano S.Slash |
-| [R5690](../../localization/en-US/korean-batch-011.jsonl#L1567) | Data_ko / ["m_TableData", 1003, "m_Localized"] | 시라노 탄검 | Cyrano Aura.Slash |
+| [R5688](../../localization/en-US/korean-batch-011.jsonl#L1565) | Data_ko / ["m_TableData", 995, "m_Localized"] | 시라노 약베기 | Cyrano Weak Slash |
+| [R5689](../../localization/en-US/korean-batch-011.jsonl#L1566) | Data_ko / ["m_TableData", 999, "m_Localized"] | 시라노 강베기 | Cyrano Strong Slash |
+| [R5690](../../localization/en-US/korean-batch-011.jsonl#L1567) | Data_ko / ["m_TableData", 1003, "m_Localized"] | 시라노 탄검 | Cyrano Aura Slash |
 | [R5691](../../localization/en-US/korean-batch-011.jsonl#L1568) | Data_ko / ["m_TableData", 1007, "m_Localized"] | 샤른 베기 | Sharn Slash |
-| [R5692](../../localization/en-US/korean-batch-011.jsonl#L1569) | Data_ko / ["m_TableData", 1011, "m_Localized"] | 샤른 약베기 | Sharn W.Slash |
-| [R5693](../../localization/en-US/korean-batch-011.jsonl#L1570) | Data_ko / ["m_TableData", 1015, "m_Localized"] | 샤른 강베기 | Sharn S.Slash |
-| [R5694](../../localization/en-US/korean-batch-011.jsonl#L1571) | Data_ko / ["m_TableData", 1019, "m_Localized"] | 샤른 탄검 | Sharn Aura.Slash |
+| [R5692](../../localization/en-US/korean-batch-011.jsonl#L1569) | Data_ko / ["m_TableData", 1011, "m_Localized"] | 샤른 약베기 | Sharn Weak Slash |
+| [R5693](../../localization/en-US/korean-batch-011.jsonl#L1570) | Data_ko / ["m_TableData", 1015, "m_Localized"] | 샤른 강베기 | Sharn Strong Slash |
+| [R5694](../../localization/en-US/korean-batch-011.jsonl#L1571) | Data_ko / ["m_TableData", 1019, "m_Localized"] | 샤른 탄검 | Sharn Aura Slash |
 | [R5695](../../localization/en-US/korean-batch-011.jsonl#L1572) | Data_ko / ["m_TableData", 1023, "m_Localized"] | 메디치 베기 | Medici Slash |
-| [R5696](../../localization/en-US/korean-batch-011.jsonl#L1573) | Data_ko / ["m_TableData", 1027, "m_Localized"] | 메디치 약베기 | Medici W.Slash |
-| [R5697](../../localization/en-US/korean-batch-011.jsonl#L1574) | Data_ko / ["m_TableData", 1031, "m_Localized"] | 메디치 강베기 | Medici S.Slash |
-| [R5698](../../localization/en-US/korean-batch-011.jsonl#L1575) | Data_ko / ["m_TableData", 1035, "m_Localized"] | 메디치 살검 | Medici K.Blade |
+| [R5696](../../localization/en-US/korean-batch-011.jsonl#L1573) | Data_ko / ["m_TableData", 1027, "m_Localized"] | 메디치 약베기 | Medici Weak Slash |
+| [R5697](../../localization/en-US/korean-batch-011.jsonl#L1574) | Data_ko / ["m_TableData", 1031, "m_Localized"] | 메디치 강베기 | Medici Strong Slash |
+| [R5698](../../localization/en-US/korean-batch-011.jsonl#L1575) | Data_ko / ["m_TableData", 1035, "m_Localized"] | 메디치 살검 | Medici Killing Blade |
 | [R5699](../../localization/en-US/korean-batch-011.jsonl#L1576) | Data_ko / ["m_TableData", 1039, "m_Localized"] | 실버 베기 | Silver Slash |
 | [R5700](../../localization/en-US/korean-batch-011.jsonl#L1577) | Data_ko / ["m_TableData", 1043, "m_Localized"] | 실버 수리검  | Silver Shuriken  |
 | [R5701](../../localization/en-US/korean-batch-011.jsonl#L1578) | Data_ko / ["m_TableData", 1047, "m_Localized"] | 실버 독수리  | Silver Eagle  |
-| [R5702](../../localization/en-US/korean-batch-011.jsonl#L1579) | Data_ko / ["m_TableData", 1051, "m_Localized"] | 이자벨 찌르기 | Isabele Thrust |
+| [R5702](../../localization/en-US/korean-batch-011.jsonl#L1579) | Data_ko / ["m_TableData", 1051, "m_Localized"] | 이자벨 찌르기 | Isabele Stab |
 | [R5703](../../localization/en-US/korean-batch-011.jsonl#L1580) | Data_ko / ["m_TableData", 1055, "m_Localized"] | 이자벨 베기 | Isabele Slash |
 | [R5704](../../localization/en-US/korean-batch-011.jsonl#L1581) | Data_ko / ["m_TableData", 1059, "m_Localized"] | 이자벨 투창 | Isabele Javelin |
-| [R5705](../../localization/en-US/korean-batch-011.jsonl#L1582) | Data_ko / ["m_TableData", 1063, "m_Localized"] | 리델 찌르기 | Rhidel Thrust |
+| [R5705](../../localization/en-US/korean-batch-011.jsonl#L1582) | Data_ko / ["m_TableData", 1063, "m_Localized"] | 리델 찌르기 | Rhidel Stab |
 | [R5706](../../localization/en-US/korean-batch-011.jsonl#L1583) | Data_ko / ["m_TableData", 1067, "m_Localized"] | 리델 베기 | Rhidel Slash |
-| [R5707](../../localization/en-US/korean-batch-011.jsonl#L1584) | Data_ko / ["m_TableData", 1071, "m_Localized"] | 리델 늑대공격 | Rhidel Wolf.Atk |
+| [R5707](../../localization/en-US/korean-batch-011.jsonl#L1584) | Data_ko / ["m_TableData", 1071, "m_Localized"] | 리델 늑대공격 | Rhidel Wolf Attack |
 | [R5708](../../localization/en-US/korean-batch-011.jsonl#L1585) | Data_ko / ["m_TableData", 1075, "m_Localized"] | 카나 사격 | Kana Shot |
-| [R5709](../../localization/en-US/korean-batch-011.jsonl#L1586) | Data_ko / ["m_TableData", 1079, "m_Localized"] | 커나 정밀사격 | Kana P.Shot |
-| [R5710](../../localization/en-US/korean-batch-011.jsonl#L1587) | Data_ko / ["m_TableData", 1083, "m_Localized"] | 프레데릭 약베기 | Frederick W.Slash |
-| [R5711](../../localization/en-US/korean-batch-011.jsonl#L1588) | Data_ko / ["m_TableData", 1087, "m_Localized"] | 프레데릭 강베기 | Frederick S.Slash |
-| [R5712](../../localization/en-US/korean-batch-011.jsonl#L1589) | Data_ko / ["m_TableData", 1091, "m_Localized"] | 카타리나 약베기 | Katarina W.Slash |
-| [R5713](../../localization/en-US/korean-batch-011.jsonl#L1590) | Data_ko / ["m_TableData", 1095, "m_Localized"] | 카타리나 강베기 | Katarina S.Slash |
+| [R5709](../../localization/en-US/korean-batch-011.jsonl#L1586) | Data_ko / ["m_TableData", 1079, "m_Localized"] | 커나 정밀사격 | Kana Precision Shot |
+| [R5710](../../localization/en-US/korean-batch-011.jsonl#L1587) | Data_ko / ["m_TableData", 1083, "m_Localized"] | 프레데릭 약베기 | Frederick Weak Slash |
+| [R5711](../../localization/en-US/korean-batch-011.jsonl#L1588) | Data_ko / ["m_TableData", 1087, "m_Localized"] | 프레데릭 강베기 | Frederick Strong Slash |
+| [R5712](../../localization/en-US/korean-batch-011.jsonl#L1589) | Data_ko / ["m_TableData", 1091, "m_Localized"] | 카타리나 약베기 | Katarina Weak Slash |
+| [R5713](../../localization/en-US/korean-batch-011.jsonl#L1590) | Data_ko / ["m_TableData", 1095, "m_Localized"] | 카타리나 강베기 | Katarina Strong Slash |
 | [R5714](../../localization/en-US/korean-batch-011.jsonl#L1591) | Data_ko / ["m_TableData", 1099, "m_Localized"] | 보스 베기 | Boss Slash |
-| [R5715](../../localization/en-US/korean-batch-011.jsonl#L1592) | Data_ko / ["m_TableData", 1103, "m_Localized"] | 몬스터 일반01 | Monster Normal.01 |
-| [R5716](../../localization/en-US/korean-batch-011.jsonl#L1593) | Data_ko / ["m_TableData", 1107, "m_Localized"] | 몬스터 일반02 | Monster Normal.02 |
-| [R5717](../../localization/en-US/korean-batch-011.jsonl#L1594) | Data_ko / ["m_TableData", 1111, "m_Localized"] | 몬스터 일반03 | Monster Normal.03 |
-| [R5718](../../localization/en-US/korean-batch-011.jsonl#L1595) | Data_ko / ["m_TableData", 1115, "m_Localized"] | 몬스터 일반04 | Monster Normal.04 |
-| [R5719](../../localization/en-US/korean-batch-011.jsonl#L1596) | Data_ko / ["m_TableData", 1119, "m_Localized"] | 몬스터 일반05 | Monster Normal.05 |
-| [R5720](../../localization/en-US/korean-batch-011.jsonl#L1597) | Data_ko / ["m_TableData", 1123, "m_Localized"] | 몬스터 중거리01 | Monster Mid.Atk01 |
-| [R5721](../../localization/en-US/korean-batch-011.jsonl#L1598) | Data_ko / ["m_TableData", 1127, "m_Localized"] | 몬스터 중거리02 | Monster Mid.Atk02 |
-| [R5722](../../localization/en-US/korean-batch-011.jsonl#L1599) | Data_ko / ["m_TableData", 1131, "m_Localized"] | 몬스터 중거리03 | Monster Mid.Atk03 |
-| [R5723](../../localization/en-US/korean-batch-011.jsonl#L1600) | Data_ko / ["m_TableData", 1135, "m_Localized"] | 몬스터 중거리04 | Monster Mid.Atk04 |
-| [R5724](../../localization/en-US/korean-batch-011.jsonl#L1601) | Data_ko / ["m_TableData", 1139, "m_Localized"] | 몬스터 중거리05 | Monster Mid.Atk05 |
-| [R5725](../../localization/en-US/korean-batch-011.jsonl#L1602) | Data_ko / ["m_TableData", 1143, "m_Localized"] | 몬스터 쏘기01 | Monster Shot.01 |
-| [R5726](../../localization/en-US/korean-batch-011.jsonl#L1603) | Data_ko / ["m_TableData", 1147, "m_Localized"] | 몬스터 쏘기02 | Monster Shot.02 |
-| [R5727](../../localization/en-US/korean-batch-011.jsonl#L1604) | Data_ko / ["m_TableData", 1151, "m_Localized"] | 몬스터 쏘기03 | Monster Shot.03 |
-| [R5728](../../localization/en-US/korean-batch-011.jsonl#L1605) | Data_ko / ["m_TableData", 1155, "m_Localized"] | 몬스터 쏘기04 | Monster Shot.04 |
-| [R5729](../../localization/en-US/korean-batch-011.jsonl#L1606) | Data_ko / ["m_TableData", 1159, "m_Localized"] | 몬스터 쏘기05 | Monster Shot.05 |
-| [R5730](../../localization/en-US/korean-batch-011.jsonl#L1607) | Data_ko / ["m_TableData", 1163, "m_Localized"] | 몬스터 연속01 | Monster Combo.01 |
-| [R5731](../../localization/en-US/korean-batch-011.jsonl#L1608) | Data_ko / ["m_TableData", 1167, "m_Localized"] | 몬스터 연속02 | Monster Combo.02 |
-| [R5732](../../localization/en-US/korean-batch-011.jsonl#L1609) | Data_ko / ["m_TableData", 1171, "m_Localized"] | 몬스터 연속03 | Monster Combo.03 |
-| [R5733](../../localization/en-US/korean-batch-011.jsonl#L1610) | Data_ko / ["m_TableData", 1175, "m_Localized"] | 몬스터 연속04 | Monster Combo.04 |
-| [R5734](../../localization/en-US/korean-batch-011.jsonl#L1611) | Data_ko / ["m_TableData", 1179, "m_Localized"] | 몬스터 연속05 | Monster Combo.05 |
-| [R5735](../../localization/en-US/korean-batch-011.jsonl#L1612) | Data_ko / ["m_TableData", 1183, "m_Localized"] | 몬스터 강공01 | Monster H.Atk01 |
-| [R5736](../../localization/en-US/korean-batch-011.jsonl#L1613) | Data_ko / ["m_TableData", 1187, "m_Localized"] | 몬스터 강공02 | Monster H.Atk02 |
-| [R5737](../../localization/en-US/korean-batch-011.jsonl#L1614) | Data_ko / ["m_TableData", 1191, "m_Localized"] | 몬스터 강공03 | Monster H.Atk03 |
-| [R5738](../../localization/en-US/korean-batch-011.jsonl#L1615) | Data_ko / ["m_TableData", 1195, "m_Localized"] | 몬스터 강공04 | Monster H.Atk04 |
-| [R5739](../../localization/en-US/korean-batch-011.jsonl#L1616) | Data_ko / ["m_TableData", 1199, "m_Localized"] | 몬스터 강공05 | Monster H.Atk05 |
-| [R5740](../../localization/en-US/korean-batch-011.jsonl#L1617) | Data_ko / ["m_TableData", 1203, "m_Localized"] | 기본마법 | B.Magic |
-| [R5741](../../localization/en-US/korean-batch-011.jsonl#L1618) | Data_ko / ["m_TableData", 1207, "m_Localized"] | 게리슨 약공격 | Garrison W.Attack |
-| [R5742](../../localization/en-US/korean-batch-011.jsonl#L1619) | Data_ko / ["m_TableData", 1211, "m_Localized"] | 게리슨 강공격 | Garrison S.Attack |
-| [R5743](../../localization/en-US/korean-batch-011.jsonl#L1620) | Data_ko / ["m_TableData", 1215, "m_Localized"] | 드래곤브레스 | Dragon D.Breath |
-| [R5744](../../localization/en-US/korean-batch-011.jsonl#L1621) | Data_ko / ["m_TableData", 1219, "m_Localized"] | 키메로스브레스 | Chimeros C.Breath |
+| [R5715](../../localization/en-US/korean-batch-011.jsonl#L1592) | Data_ko / ["m_TableData", 1103, "m_Localized"] | 몬스터 일반01 | Monster Normal Attack 01 |
+| [R5716](../../localization/en-US/korean-batch-011.jsonl#L1593) | Data_ko / ["m_TableData", 1107, "m_Localized"] | 몬스터 일반02 | Monster Normal Attack 02 |
+| [R5717](../../localization/en-US/korean-batch-011.jsonl#L1594) | Data_ko / ["m_TableData", 1111, "m_Localized"] | 몬스터 일반03 | Monster Normal Attack 03 |
+| [R5718](../../localization/en-US/korean-batch-011.jsonl#L1595) | Data_ko / ["m_TableData", 1115, "m_Localized"] | 몬스터 일반04 | Monster Normal Attack 04 |
+| [R5719](../../localization/en-US/korean-batch-011.jsonl#L1596) | Data_ko / ["m_TableData", 1119, "m_Localized"] | 몬스터 일반05 | Monster Normal Attack 05 |
+| [R5720](../../localization/en-US/korean-batch-011.jsonl#L1597) | Data_ko / ["m_TableData", 1123, "m_Localized"] | 몬스터 중거리01 | Monster Mid-range Attack 01 |
+| [R5721](../../localization/en-US/korean-batch-011.jsonl#L1598) | Data_ko / ["m_TableData", 1127, "m_Localized"] | 몬스터 중거리02 | Monster Mid-range Attack 02 |
+| [R5722](../../localization/en-US/korean-batch-011.jsonl#L1599) | Data_ko / ["m_TableData", 1131, "m_Localized"] | 몬스터 중거리03 | Monster Mid-range Attack 03 |
+| [R5723](../../localization/en-US/korean-batch-011.jsonl#L1600) | Data_ko / ["m_TableData", 1135, "m_Localized"] | 몬스터 중거리04 | Monster Mid-range Attack 04 |
+| [R5724](../../localization/en-US/korean-batch-011.jsonl#L1601) | Data_ko / ["m_TableData", 1139, "m_Localized"] | 몬스터 중거리05 | Monster Mid-range Attack 05 |
+| [R5725](../../localization/en-US/korean-batch-011.jsonl#L1602) | Data_ko / ["m_TableData", 1143, "m_Localized"] | 몬스터 쏘기01 | Monster Shot 01 |
+| [R5726](../../localization/en-US/korean-batch-011.jsonl#L1603) | Data_ko / ["m_TableData", 1147, "m_Localized"] | 몬스터 쏘기02 | Monster Shot 02 |
+| [R5727](../../localization/en-US/korean-batch-011.jsonl#L1604) | Data_ko / ["m_TableData", 1151, "m_Localized"] | 몬스터 쏘기03 | Monster Shot 03 |
+| [R5728](../../localization/en-US/korean-batch-011.jsonl#L1605) | Data_ko / ["m_TableData", 1155, "m_Localized"] | 몬스터 쏘기04 | Monster Shot 04 |
+| [R5729](../../localization/en-US/korean-batch-011.jsonl#L1606) | Data_ko / ["m_TableData", 1159, "m_Localized"] | 몬스터 쏘기05 | Monster Shot 05 |
+| [R5730](../../localization/en-US/korean-batch-011.jsonl#L1607) | Data_ko / ["m_TableData", 1163, "m_Localized"] | 몬스터 연속01 | Monster Combo 01 |
+| [R5731](../../localization/en-US/korean-batch-011.jsonl#L1608) | Data_ko / ["m_TableData", 1167, "m_Localized"] | 몬스터 연속02 | Monster Combo 02 |
+| [R5732](../../localization/en-US/korean-batch-011.jsonl#L1609) | Data_ko / ["m_TableData", 1171, "m_Localized"] | 몬스터 연속03 | Monster Combo 03 |
+| [R5733](../../localization/en-US/korean-batch-011.jsonl#L1610) | Data_ko / ["m_TableData", 1175, "m_Localized"] | 몬스터 연속04 | Monster Combo 04 |
+| [R5734](../../localization/en-US/korean-batch-011.jsonl#L1611) | Data_ko / ["m_TableData", 1179, "m_Localized"] | 몬스터 연속05 | Monster Combo 05 |
+| [R5735](../../localization/en-US/korean-batch-011.jsonl#L1612) | Data_ko / ["m_TableData", 1183, "m_Localized"] | 몬스터 강공01 | Monster Heavy Attack 01 |
+| [R5736](../../localization/en-US/korean-batch-011.jsonl#L1613) | Data_ko / ["m_TableData", 1187, "m_Localized"] | 몬스터 강공02 | Monster Heavy Attack 02 |
+| [R5737](../../localization/en-US/korean-batch-011.jsonl#L1614) | Data_ko / ["m_TableData", 1191, "m_Localized"] | 몬스터 강공03 | Monster Heavy Attack 03 |
+| [R5738](../../localization/en-US/korean-batch-011.jsonl#L1615) | Data_ko / ["m_TableData", 1195, "m_Localized"] | 몬스터 강공04 | Monster Heavy Attack 04 |
+| [R5739](../../localization/en-US/korean-batch-011.jsonl#L1616) | Data_ko / ["m_TableData", 1199, "m_Localized"] | 몬스터 강공05 | Monster Heavy Attack 05 |
+| [R5740](../../localization/en-US/korean-batch-011.jsonl#L1617) | Data_ko / ["m_TableData", 1203, "m_Localized"] | 기본마법 | Basic Magic |
+| [R5741](../../localization/en-US/korean-batch-011.jsonl#L1618) | Data_ko / ["m_TableData", 1207, "m_Localized"] | 게리슨 약공격 | Garrison Light Attack |
+| [R5742](../../localization/en-US/korean-batch-011.jsonl#L1619) | Data_ko / ["m_TableData", 1211, "m_Localized"] | 게리슨 강공격 | Garrison Heavy Attack |
+| [R5743](../../localization/en-US/korean-batch-011.jsonl#L1620) | Data_ko / ["m_TableData", 1215, "m_Localized"] | 드래곤브레스 | Dragon Dragon Breath |
+| [R5744](../../localization/en-US/korean-batch-011.jsonl#L1621) | Data_ko / ["m_TableData", 1219, "m_Localized"] | 키메로스브레스 | Chimeros Chimeros Breath |
 | [R5745](../../localization/en-US/korean-batch-011.jsonl#L1622) | Data_ko / ["m_TableData", 1223, "m_Localized"] | 경비견 박치기 | Guard Dog Headbutt |
-| [R5746](../../localization/en-US/korean-batch-011.jsonl#L1623) | Data_ko / ["m_TableData", 1227, "m_Localized"] | 마둑 공던지기 | Maduk Ball.Toss |
-| [R5747](../../localization/en-US/korean-batch-011.jsonl#L1624) | Data_ko / ["m_TableData", 1231, "m_Localized"] | 장교,강베기01 | Officer S.Slash01 |
-| [R5748](../../localization/en-US/korean-batch-011.jsonl#L1625) | Data_ko / ["m_TableData", 1235, "m_Localized"] | 장교,강베기02 | Officer S.Slash02 |
-| [R5749](../../localization/en-US/korean-batch-011.jsonl#L1626) | Data_ko / ["m_TableData", 1239, "m_Localized"] | 장교,강베기03 | Officer S.Slash03 |
-| [R5750](../../localization/en-US/korean-batch-011.jsonl#L1627) | Data_ko / ["m_TableData", 1243, "m_Localized"] | 장교,강베기04 | Officer S.Slash04 |
+| [R5746](../../localization/en-US/korean-batch-011.jsonl#L1623) | Data_ko / ["m_TableData", 1227, "m_Localized"] | 마둑 공던지기 | Maduk Ball Throw |
+| [R5747](../../localization/en-US/korean-batch-011.jsonl#L1624) | Data_ko / ["m_TableData", 1231, "m_Localized"] | 장교,강베기01 | Officer Strong Slash 01 |
+| [R5748](../../localization/en-US/korean-batch-011.jsonl#L1625) | Data_ko / ["m_TableData", 1235, "m_Localized"] | 장교,강베기02 | Officer Strong Slash 02 |
+| [R5749](../../localization/en-US/korean-batch-011.jsonl#L1626) | Data_ko / ["m_TableData", 1239, "m_Localized"] | 장교,강베기03 | Officer Strong Slash 03 |
+| [R5750](../../localization/en-US/korean-batch-011.jsonl#L1627) | Data_ko / ["m_TableData", 1243, "m_Localized"] | 장교,강베기04 | Officer Strong Slash 04 |
 | [R5751](../../localization/en-US/korean-batch-011.jsonl#L1628) | Data_ko / ["m_TableData", 1247, "m_Localized"] | 장교,사격 | Officer Shot |
 | [R5752](../../localization/en-US/korean-batch-011.jsonl#L1629) | Data_ko / ["m_TableData", 1251, "m_Localized"] | 진공수라인 | Vacuum Asura Blade |
 | [R5753](../../localization/en-US/korean-batch-011.jsonl#L1630) | Data_ko / ["m_TableData", 1255, "m_Localized"] | 마영투혼 | Demon Shadow Fighting Spirit |

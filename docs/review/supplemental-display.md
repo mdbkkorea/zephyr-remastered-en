@@ -30,9 +30,9 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R22172](../../localization/en-US/supplemental-display.jsonl#L22) | DataTexts_RE_KO / ["TextList", 1310, "Text"] | 연 형태의 연속 공격 | A series of kite-shaped attacks |
 | [R22173](../../localization/en-US/supplemental-display.jsonl#L23) | DataTexts_RE_KO / ["TextList", 1314, "Text"] | 초승달 형태의 검광 날리기 | Launches a crescent of swordlight |
 | [R22174](../../localization/en-US/supplemental-display.jsonl#L24) | DataTexts_RE_KO / ["TextList", 1322, "Text"] | 창을 둥글게 돌려 사방의 적을 공격 | Spins a spear to attack enemies on all sides |
-| [R22175](../../localization/en-US/supplemental-display.jsonl#L25) | DataTexts_RE_KO / ["TextList", 1326, "Text"] | 연속 찌르기 | A series of thrusts |
+| [R22175](../../localization/en-US/supplemental-display.jsonl#L25) | DataTexts_RE_KO / ["TextList", 1326, "Text"] | 연속 찌르기 | A series of stabs |
 | [R22176](../../localization/en-US/supplemental-display.jsonl#L26) | DataTexts_RE_KO / ["TextList", 1334, "Text"] | 창을 둥글게 돌려 사방의 적을 공격 | Spins a spear to attack enemies on all sides |
-| [R22177](../../localization/en-US/supplemental-display.jsonl#L27) | DataTexts_RE_KO / ["TextList", 1338, "Text"] | 연속 찌르기 | A series of thrusts |
+| [R22177](../../localization/en-US/supplemental-display.jsonl#L27) | DataTexts_RE_KO / ["TextList", 1338, "Text"] | 연속 찌르기 | A series of stabs |
 | [R22178](../../localization/en-US/supplemental-display.jsonl#L28) | DataTexts_RE_KO / ["TextList", 1350, "Text"] | 대포알이 날아와 포격 | Bombards the enemy with cannonballs |
 | [R22179](../../localization/en-US/supplemental-display.jsonl#L29) | DataTexts_RE_KO / ["TextList", 1394, "Text"] | 유성이 떨어져 적에게 데미지 | A meteor falls, damaging enemies |
 | [R22180](../../localization/en-US/supplemental-display.jsonl#L30) | DataTexts_RE_KO / ["TextList", 1398, "Text"] | 유리검의 파편이 전방으로 방출 | Glass sword fragments fly forward |

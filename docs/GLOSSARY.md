@@ -40,23 +40,12 @@ Latest user correction: **게이시르 → Geyshir**, superseding the earlier pr
 
 ## Normal-attack selector labels
 
-The normal attack data (Type 0, 65 records) uses character prefixes and compact final tokens. Type 1 special-move names remain full length, consistent with observed separate skill display. This is a data-label workaround for observed last-word display, not a verified change to renderer logic. Keep descriptions in normal prose.
-
-| Meaning | Compact selector label |
-| --- | --- |
-| Precision Shot (정밀사격) | P.Shot |
-| Killing Blade (살검) | K.Blade |
-| Wolf Attack (늑대공격) | Wolf.Atk |
-| Light / Heavy Attack (약공격 / 강공격) | W.Attack / S.Attack |
-| Basic Magic (기본마법) | B.Magic |
-| Dragon / Chimeros Breath | D.Breath / C.Breath |
-| Ball Throw (공던지기) | Ball.Toss |
-| Numbered normal / mid-range attacks | Normal.01 / Mid.Atk01 (through 05) |
-| Numbered shots / combos / heavy attacks | Shot.01 / Combo.01 / H.Atk01 (through 05) |
-| Officer strong slashes | S.Slash01 (through 04) |
-
-All normal-attack final tokens are at most 10 ASCII characters. Numeric variants remain attached to the attack type so the selector cannot show only a number. User approved P.Shot and extending this compact-label approach to similar commands; further abbreviations are implementation choices, pending runtime fit checks.
+Use full names with U+00A0 nonbreaking spaces inside the attack suffix, and an ordinary space between the character prefix and suffix. For example, `Cyrano Weak Slash` displays **Weak Slash**. The user confirmed Cyrano's full labels in CrossOver on 2026-09-23 and approved extending this to all normal battle commands. This supersedes compact labels such as W.Slash, S.Slash, P.Shot and K.Blade. Keep numbered variants within the nonbreaking suffix. Do not insert nonbreaking spaces into prose descriptions or alter the already-full Type 1 special-move names. See [battle label mapping](BATTLE_LABELS.md). The user subsequently confirmed the full battle-command Mac test works; exhaustive per-command/resolution testing is not claimed.
 
 ## Geyshir naming-history remark
 
 User-provided naming history: the original games used Gayshir officially; the company later changed it to Geyshir because the original spelling could be misleading. Historical rationale has not been independently verified. The project adopts **Geyshir** and **Geyshir Empire** by user instruction.
+
+## Stab / 찌르기
+
+User approved **Stab** for 찌르기 battle commands on 2026-09-23; use **stabs** in plural descriptions (연속 찌르기 → A series of stabs). This supersedes Thrust for these entries.

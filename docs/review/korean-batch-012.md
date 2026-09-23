@@ -398,69 +398,69 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R6284](../../localization/en-US/korean-batch-012.jsonl#L390) | DataManagerAssetRE / ["eventItems", 6, "name"] | 평생이용권 | Lifetime Pass |
 | [R6285](../../localization/en-US/korean-batch-012.jsonl#L391) | DataManagerAssetRE / ["eventItems", 6, "description"] | 투기장 평생이용권 | Arena Lifetime Pass |
 | [R6286](../../localization/en-US/korean-batch-012.jsonl#L392) | DataManagerAssetRE / ["attacks", 0, "name"] | 시라노 베기 | Cyrano Slash |
-| [R6287](../../localization/en-US/korean-batch-012.jsonl#L393) | DataManagerAssetRE / ["attacks", 1, "name"] | 시라노 약베기 | Cyrano W.Slash |
-| [R6288](../../localization/en-US/korean-batch-012.jsonl#L394) | DataManagerAssetRE / ["attacks", 2, "name"] | 시라노 강베기 | Cyrano S.Slash |
-| [R6289](../../localization/en-US/korean-batch-012.jsonl#L395) | DataManagerAssetRE / ["attacks", 3, "name"] | 시라노 탄검 | Cyrano Aura.Slash |
+| [R6287](../../localization/en-US/korean-batch-012.jsonl#L393) | DataManagerAssetRE / ["attacks", 1, "name"] | 시라노 약베기 | Cyrano Weak Slash |
+| [R6288](../../localization/en-US/korean-batch-012.jsonl#L394) | DataManagerAssetRE / ["attacks", 2, "name"] | 시라노 강베기 | Cyrano Strong Slash |
+| [R6289](../../localization/en-US/korean-batch-012.jsonl#L395) | DataManagerAssetRE / ["attacks", 3, "name"] | 시라노 탄검 | Cyrano Aura Slash |
 | [R6290](../../localization/en-US/korean-batch-012.jsonl#L396) | DataManagerAssetRE / ["attacks", 4, "name"] | 샤른 베기 | Sharn Slash |
-| [R6291](../../localization/en-US/korean-batch-012.jsonl#L397) | DataManagerAssetRE / ["attacks", 5, "name"] | 샤른 약베기 | Sharn W.Slash |
-| [R6292](../../localization/en-US/korean-batch-012.jsonl#L398) | DataManagerAssetRE / ["attacks", 6, "name"] | 샤른 강베기 | Sharn S.Slash |
-| [R6293](../../localization/en-US/korean-batch-012.jsonl#L399) | DataManagerAssetRE / ["attacks", 7, "name"] | 샤른 탄검 | Sharn Aura.Slash |
+| [R6291](../../localization/en-US/korean-batch-012.jsonl#L397) | DataManagerAssetRE / ["attacks", 5, "name"] | 샤른 약베기 | Sharn Weak Slash |
+| [R6292](../../localization/en-US/korean-batch-012.jsonl#L398) | DataManagerAssetRE / ["attacks", 6, "name"] | 샤른 강베기 | Sharn Strong Slash |
+| [R6293](../../localization/en-US/korean-batch-012.jsonl#L399) | DataManagerAssetRE / ["attacks", 7, "name"] | 샤른 탄검 | Sharn Aura Slash |
 | [R6294](../../localization/en-US/korean-batch-012.jsonl#L400) | DataManagerAssetRE / ["attacks", 8, "name"] | 메디치 베기 | Medici Slash |
-| [R6295](../../localization/en-US/korean-batch-012.jsonl#L401) | DataManagerAssetRE / ["attacks", 9, "name"] | 메디치 약베기 | Medici W.Slash |
-| [R6296](../../localization/en-US/korean-batch-012.jsonl#L402) | DataManagerAssetRE / ["attacks", 10, "name"] | 메디치 강베기 | Medici S.Slash |
-| [R6297](../../localization/en-US/korean-batch-012.jsonl#L403) | DataManagerAssetRE / ["attacks", 11, "name"] | 메디치 살검 | Medici K.Blade |
+| [R6295](../../localization/en-US/korean-batch-012.jsonl#L401) | DataManagerAssetRE / ["attacks", 9, "name"] | 메디치 약베기 | Medici Weak Slash |
+| [R6296](../../localization/en-US/korean-batch-012.jsonl#L402) | DataManagerAssetRE / ["attacks", 10, "name"] | 메디치 강베기 | Medici Strong Slash |
+| [R6297](../../localization/en-US/korean-batch-012.jsonl#L403) | DataManagerAssetRE / ["attacks", 11, "name"] | 메디치 살검 | Medici Killing Blade |
 | [R6298](../../localization/en-US/korean-batch-012.jsonl#L404) | DataManagerAssetRE / ["attacks", 12, "name"] | 실버 베기 | Silver Slash |
 | [R6299](../../localization/en-US/korean-batch-012.jsonl#L405) | DataManagerAssetRE / ["attacks", 13, "name"] | 실버 수리검  | Silver Shuriken  |
 | [R6300](../../localization/en-US/korean-batch-012.jsonl#L406) | DataManagerAssetRE / ["attacks", 14, "name"] | 실버 독수리  | Silver Eagle  |
-| [R6301](../../localization/en-US/korean-batch-012.jsonl#L407) | DataManagerAssetRE / ["attacks", 15, "name"] | 이자벨 찌르기 | Isabele Thrust |
+| [R6301](../../localization/en-US/korean-batch-012.jsonl#L407) | DataManagerAssetRE / ["attacks", 15, "name"] | 이자벨 찌르기 | Isabele Stab |
 | [R6302](../../localization/en-US/korean-batch-012.jsonl#L408) | DataManagerAssetRE / ["attacks", 16, "name"] | 이자벨 베기 | Isabele Slash |
 | [R6303](../../localization/en-US/korean-batch-012.jsonl#L409) | DataManagerAssetRE / ["attacks", 17, "name"] | 이자벨 투창 | Isabele Javelin |
-| [R6304](../../localization/en-US/korean-batch-012.jsonl#L410) | DataManagerAssetRE / ["attacks", 18, "name"] | 리델 찌르기 | Rhidel Thrust |
+| [R6304](../../localization/en-US/korean-batch-012.jsonl#L410) | DataManagerAssetRE / ["attacks", 18, "name"] | 리델 찌르기 | Rhidel Stab |
 | [R6305](../../localization/en-US/korean-batch-012.jsonl#L411) | DataManagerAssetRE / ["attacks", 19, "name"] | 리델 베기 | Rhidel Slash |
-| [R6306](../../localization/en-US/korean-batch-012.jsonl#L412) | DataManagerAssetRE / ["attacks", 20, "name"] | 리델 늑대공격 | Rhidel Wolf.Atk |
+| [R6306](../../localization/en-US/korean-batch-012.jsonl#L412) | DataManagerAssetRE / ["attacks", 20, "name"] | 리델 늑대공격 | Rhidel Wolf Attack |
 | [R6307](../../localization/en-US/korean-batch-012.jsonl#L413) | DataManagerAssetRE / ["attacks", 21, "name"] | 카나 사격 | Kana Shot |
-| [R6308](../../localization/en-US/korean-batch-012.jsonl#L414) | DataManagerAssetRE / ["attacks", 22, "name"] | 커나 정밀사격 | Kana P.Shot |
-| [R6309](../../localization/en-US/korean-batch-012.jsonl#L415) | DataManagerAssetRE / ["attacks", 23, "name"] | 프레데릭 약베기 | Frederick W.Slash |
-| [R6310](../../localization/en-US/korean-batch-012.jsonl#L416) | DataManagerAssetRE / ["attacks", 24, "name"] | 프레데릭 강베기 | Frederick S.Slash |
-| [R6311](../../localization/en-US/korean-batch-012.jsonl#L417) | DataManagerAssetRE / ["attacks", 25, "name"] | 카타리나 약베기 | Katarina W.Slash |
-| [R6312](../../localization/en-US/korean-batch-012.jsonl#L418) | DataManagerAssetRE / ["attacks", 26, "name"] | 카타리나 강베기 | Katarina S.Slash |
+| [R6308](../../localization/en-US/korean-batch-012.jsonl#L414) | DataManagerAssetRE / ["attacks", 22, "name"] | 커나 정밀사격 | Kana Precision Shot |
+| [R6309](../../localization/en-US/korean-batch-012.jsonl#L415) | DataManagerAssetRE / ["attacks", 23, "name"] | 프레데릭 약베기 | Frederick Weak Slash |
+| [R6310](../../localization/en-US/korean-batch-012.jsonl#L416) | DataManagerAssetRE / ["attacks", 24, "name"] | 프레데릭 강베기 | Frederick Strong Slash |
+| [R6311](../../localization/en-US/korean-batch-012.jsonl#L417) | DataManagerAssetRE / ["attacks", 25, "name"] | 카타리나 약베기 | Katarina Weak Slash |
+| [R6312](../../localization/en-US/korean-batch-012.jsonl#L418) | DataManagerAssetRE / ["attacks", 26, "name"] | 카타리나 강베기 | Katarina Strong Slash |
 | [R6313](../../localization/en-US/korean-batch-012.jsonl#L419) | DataManagerAssetRE / ["attacks", 27, "name"] | 보스 베기 | Boss Slash |
-| [R6314](../../localization/en-US/korean-batch-012.jsonl#L420) | DataManagerAssetRE / ["attacks", 28, "name"] | 몬스터 일반01 | Monster Normal.01 |
-| [R6315](../../localization/en-US/korean-batch-012.jsonl#L421) | DataManagerAssetRE / ["attacks", 29, "name"] | 몬스터 일반02 | Monster Normal.02 |
-| [R6316](../../localization/en-US/korean-batch-012.jsonl#L422) | DataManagerAssetRE / ["attacks", 30, "name"] | 몬스터 일반03 | Monster Normal.03 |
-| [R6317](../../localization/en-US/korean-batch-012.jsonl#L423) | DataManagerAssetRE / ["attacks", 31, "name"] | 몬스터 일반04 | Monster Normal.04 |
-| [R6318](../../localization/en-US/korean-batch-012.jsonl#L424) | DataManagerAssetRE / ["attacks", 32, "name"] | 몬스터 일반05 | Monster Normal.05 |
-| [R6319](../../localization/en-US/korean-batch-012.jsonl#L425) | DataManagerAssetRE / ["attacks", 33, "name"] | 몬스터 중거리01 | Monster Mid.Atk01 |
-| [R6320](../../localization/en-US/korean-batch-012.jsonl#L426) | DataManagerAssetRE / ["attacks", 34, "name"] | 몬스터 중거리02 | Monster Mid.Atk02 |
-| [R6321](../../localization/en-US/korean-batch-012.jsonl#L427) | DataManagerAssetRE / ["attacks", 35, "name"] | 몬스터 중거리03 | Monster Mid.Atk03 |
-| [R6322](../../localization/en-US/korean-batch-012.jsonl#L428) | DataManagerAssetRE / ["attacks", 36, "name"] | 몬스터 중거리04 | Monster Mid.Atk04 |
-| [R6323](../../localization/en-US/korean-batch-012.jsonl#L429) | DataManagerAssetRE / ["attacks", 37, "name"] | 몬스터 중거리05 | Monster Mid.Atk05 |
-| [R6324](../../localization/en-US/korean-batch-012.jsonl#L430) | DataManagerAssetRE / ["attacks", 38, "name"] | 몬스터 쏘기01 | Monster Shot.01 |
-| [R6325](../../localization/en-US/korean-batch-012.jsonl#L431) | DataManagerAssetRE / ["attacks", 39, "name"] | 몬스터 쏘기02 | Monster Shot.02 |
-| [R6326](../../localization/en-US/korean-batch-012.jsonl#L432) | DataManagerAssetRE / ["attacks", 40, "name"] | 몬스터 쏘기03 | Monster Shot.03 |
-| [R6327](../../localization/en-US/korean-batch-012.jsonl#L433) | DataManagerAssetRE / ["attacks", 41, "name"] | 몬스터 쏘기04 | Monster Shot.04 |
-| [R6328](../../localization/en-US/korean-batch-012.jsonl#L434) | DataManagerAssetRE / ["attacks", 42, "name"] | 몬스터 쏘기05 | Monster Shot.05 |
-| [R6329](../../localization/en-US/korean-batch-012.jsonl#L435) | DataManagerAssetRE / ["attacks", 43, "name"] | 몬스터 연속01 | Monster Combo.01 |
-| [R6330](../../localization/en-US/korean-batch-012.jsonl#L436) | DataManagerAssetRE / ["attacks", 44, "name"] | 몬스터 연속02 | Monster Combo.02 |
-| [R6331](../../localization/en-US/korean-batch-012.jsonl#L437) | DataManagerAssetRE / ["attacks", 45, "name"] | 몬스터 연속03 | Monster Combo.03 |
-| [R6332](../../localization/en-US/korean-batch-012.jsonl#L438) | DataManagerAssetRE / ["attacks", 46, "name"] | 몬스터 연속04 | Monster Combo.04 |
-| [R6333](../../localization/en-US/korean-batch-012.jsonl#L439) | DataManagerAssetRE / ["attacks", 47, "name"] | 몬스터 연속05 | Monster Combo.05 |
-| [R6334](../../localization/en-US/korean-batch-012.jsonl#L440) | DataManagerAssetRE / ["attacks", 48, "name"] | 몬스터 강공01 | Monster H.Atk01 |
-| [R6335](../../localization/en-US/korean-batch-012.jsonl#L441) | DataManagerAssetRE / ["attacks", 49, "name"] | 몬스터 강공02 | Monster H.Atk02 |
-| [R6336](../../localization/en-US/korean-batch-012.jsonl#L442) | DataManagerAssetRE / ["attacks", 50, "name"] | 몬스터 강공03 | Monster H.Atk03 |
-| [R6337](../../localization/en-US/korean-batch-012.jsonl#L443) | DataManagerAssetRE / ["attacks", 51, "name"] | 몬스터 강공04 | Monster H.Atk04 |
-| [R6338](../../localization/en-US/korean-batch-012.jsonl#L444) | DataManagerAssetRE / ["attacks", 52, "name"] | 몬스터 강공05 | Monster H.Atk05 |
-| [R6339](../../localization/en-US/korean-batch-012.jsonl#L445) | DataManagerAssetRE / ["attacks", 53, "name"] | 기본마법 | B.Magic |
-| [R6340](../../localization/en-US/korean-batch-012.jsonl#L446) | DataManagerAssetRE / ["attacks", 54, "name"] | 게리슨 약공격 | Garrison W.Attack |
-| [R6341](../../localization/en-US/korean-batch-012.jsonl#L447) | DataManagerAssetRE / ["attacks", 55, "name"] | 게리슨 강공격 | Garrison S.Attack |
-| [R6342](../../localization/en-US/korean-batch-012.jsonl#L448) | DataManagerAssetRE / ["attacks", 56, "name"] | 드래곤브레스 | Dragon D.Breath |
-| [R6343](../../localization/en-US/korean-batch-012.jsonl#L449) | DataManagerAssetRE / ["attacks", 57, "name"] | 키메로스브레스 | Chimeros C.Breath |
+| [R6314](../../localization/en-US/korean-batch-012.jsonl#L420) | DataManagerAssetRE / ["attacks", 28, "name"] | 몬스터 일반01 | Monster Normal Attack 01 |
+| [R6315](../../localization/en-US/korean-batch-012.jsonl#L421) | DataManagerAssetRE / ["attacks", 29, "name"] | 몬스터 일반02 | Monster Normal Attack 02 |
+| [R6316](../../localization/en-US/korean-batch-012.jsonl#L422) | DataManagerAssetRE / ["attacks", 30, "name"] | 몬스터 일반03 | Monster Normal Attack 03 |
+| [R6317](../../localization/en-US/korean-batch-012.jsonl#L423) | DataManagerAssetRE / ["attacks", 31, "name"] | 몬스터 일반04 | Monster Normal Attack 04 |
+| [R6318](../../localization/en-US/korean-batch-012.jsonl#L424) | DataManagerAssetRE / ["attacks", 32, "name"] | 몬스터 일반05 | Monster Normal Attack 05 |
+| [R6319](../../localization/en-US/korean-batch-012.jsonl#L425) | DataManagerAssetRE / ["attacks", 33, "name"] | 몬스터 중거리01 | Monster Mid-range Attack 01 |
+| [R6320](../../localization/en-US/korean-batch-012.jsonl#L426) | DataManagerAssetRE / ["attacks", 34, "name"] | 몬스터 중거리02 | Monster Mid-range Attack 02 |
+| [R6321](../../localization/en-US/korean-batch-012.jsonl#L427) | DataManagerAssetRE / ["attacks", 35, "name"] | 몬스터 중거리03 | Monster Mid-range Attack 03 |
+| [R6322](../../localization/en-US/korean-batch-012.jsonl#L428) | DataManagerAssetRE / ["attacks", 36, "name"] | 몬스터 중거리04 | Monster Mid-range Attack 04 |
+| [R6323](../../localization/en-US/korean-batch-012.jsonl#L429) | DataManagerAssetRE / ["attacks", 37, "name"] | 몬스터 중거리05 | Monster Mid-range Attack 05 |
+| [R6324](../../localization/en-US/korean-batch-012.jsonl#L430) | DataManagerAssetRE / ["attacks", 38, "name"] | 몬스터 쏘기01 | Monster Shot 01 |
+| [R6325](../../localization/en-US/korean-batch-012.jsonl#L431) | DataManagerAssetRE / ["attacks", 39, "name"] | 몬스터 쏘기02 | Monster Shot 02 |
+| [R6326](../../localization/en-US/korean-batch-012.jsonl#L432) | DataManagerAssetRE / ["attacks", 40, "name"] | 몬스터 쏘기03 | Monster Shot 03 |
+| [R6327](../../localization/en-US/korean-batch-012.jsonl#L433) | DataManagerAssetRE / ["attacks", 41, "name"] | 몬스터 쏘기04 | Monster Shot 04 |
+| [R6328](../../localization/en-US/korean-batch-012.jsonl#L434) | DataManagerAssetRE / ["attacks", 42, "name"] | 몬스터 쏘기05 | Monster Shot 05 |
+| [R6329](../../localization/en-US/korean-batch-012.jsonl#L435) | DataManagerAssetRE / ["attacks", 43, "name"] | 몬스터 연속01 | Monster Combo 01 |
+| [R6330](../../localization/en-US/korean-batch-012.jsonl#L436) | DataManagerAssetRE / ["attacks", 44, "name"] | 몬스터 연속02 | Monster Combo 02 |
+| [R6331](../../localization/en-US/korean-batch-012.jsonl#L437) | DataManagerAssetRE / ["attacks", 45, "name"] | 몬스터 연속03 | Monster Combo 03 |
+| [R6332](../../localization/en-US/korean-batch-012.jsonl#L438) | DataManagerAssetRE / ["attacks", 46, "name"] | 몬스터 연속04 | Monster Combo 04 |
+| [R6333](../../localization/en-US/korean-batch-012.jsonl#L439) | DataManagerAssetRE / ["attacks", 47, "name"] | 몬스터 연속05 | Monster Combo 05 |
+| [R6334](../../localization/en-US/korean-batch-012.jsonl#L440) | DataManagerAssetRE / ["attacks", 48, "name"] | 몬스터 강공01 | Monster Heavy Attack 01 |
+| [R6335](../../localization/en-US/korean-batch-012.jsonl#L441) | DataManagerAssetRE / ["attacks", 49, "name"] | 몬스터 강공02 | Monster Heavy Attack 02 |
+| [R6336](../../localization/en-US/korean-batch-012.jsonl#L442) | DataManagerAssetRE / ["attacks", 50, "name"] | 몬스터 강공03 | Monster Heavy Attack 03 |
+| [R6337](../../localization/en-US/korean-batch-012.jsonl#L443) | DataManagerAssetRE / ["attacks", 51, "name"] | 몬스터 강공04 | Monster Heavy Attack 04 |
+| [R6338](../../localization/en-US/korean-batch-012.jsonl#L444) | DataManagerAssetRE / ["attacks", 52, "name"] | 몬스터 강공05 | Monster Heavy Attack 05 |
+| [R6339](../../localization/en-US/korean-batch-012.jsonl#L445) | DataManagerAssetRE / ["attacks", 53, "name"] | 기본마법 | Basic Magic |
+| [R6340](../../localization/en-US/korean-batch-012.jsonl#L446) | DataManagerAssetRE / ["attacks", 54, "name"] | 게리슨 약공격 | Garrison Light Attack |
+| [R6341](../../localization/en-US/korean-batch-012.jsonl#L447) | DataManagerAssetRE / ["attacks", 55, "name"] | 게리슨 강공격 | Garrison Heavy Attack |
+| [R6342](../../localization/en-US/korean-batch-012.jsonl#L448) | DataManagerAssetRE / ["attacks", 56, "name"] | 드래곤브레스 | Dragon Dragon Breath |
+| [R6343](../../localization/en-US/korean-batch-012.jsonl#L449) | DataManagerAssetRE / ["attacks", 57, "name"] | 키메로스브레스 | Chimeros Chimeros Breath |
 | [R6344](../../localization/en-US/korean-batch-012.jsonl#L450) | DataManagerAssetRE / ["attacks", 58, "name"] | 경비견 박치기 | Guard Dog Headbutt |
-| [R6345](../../localization/en-US/korean-batch-012.jsonl#L451) | DataManagerAssetRE / ["attacks", 59, "name"] | 마둑 공던지기 | Maduk Ball.Toss |
-| [R6346](../../localization/en-US/korean-batch-012.jsonl#L452) | DataManagerAssetRE / ["attacks", 60, "name"] | 장교,강베기01 | Officer S.Slash01 |
-| [R6347](../../localization/en-US/korean-batch-012.jsonl#L453) | DataManagerAssetRE / ["attacks", 61, "name"] | 장교,강베기02 | Officer S.Slash02 |
-| [R6348](../../localization/en-US/korean-batch-012.jsonl#L454) | DataManagerAssetRE / ["attacks", 62, "name"] | 장교,강베기03 | Officer S.Slash03 |
-| [R6349](../../localization/en-US/korean-batch-012.jsonl#L455) | DataManagerAssetRE / ["attacks", 63, "name"] | 장교,강베기04 | Officer S.Slash04 |
+| [R6345](../../localization/en-US/korean-batch-012.jsonl#L451) | DataManagerAssetRE / ["attacks", 59, "name"] | 마둑 공던지기 | Maduk Ball Throw |
+| [R6346](../../localization/en-US/korean-batch-012.jsonl#L452) | DataManagerAssetRE / ["attacks", 60, "name"] | 장교,강베기01 | Officer Strong Slash 01 |
+| [R6347](../../localization/en-US/korean-batch-012.jsonl#L453) | DataManagerAssetRE / ["attacks", 61, "name"] | 장교,강베기02 | Officer Strong Slash 02 |
+| [R6348](../../localization/en-US/korean-batch-012.jsonl#L454) | DataManagerAssetRE / ["attacks", 62, "name"] | 장교,강베기03 | Officer Strong Slash 03 |
+| [R6349](../../localization/en-US/korean-batch-012.jsonl#L455) | DataManagerAssetRE / ["attacks", 63, "name"] | 장교,강베기04 | Officer Strong Slash 04 |
 | [R6350](../../localization/en-US/korean-batch-012.jsonl#L456) | DataManagerAssetRE / ["attacks", 64, "name"] | 장교,사격 | Officer Shot |
 | [R6351](../../localization/en-US/korean-batch-012.jsonl#L457) | DataManagerAssetRE / ["attacks", 65, "name"] | 진공수라인 | Vacuum Asura Blade |
 | [R6352](../../localization/en-US/korean-batch-012.jsonl#L458) | DataManagerAssetRE / ["attacks", 66, "name"] | 마영투혼 | Demon Shadow Fighting Spirit |
