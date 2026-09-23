@@ -77,9 +77,11 @@ def main():
     for path in (ROOT / 'windows').iterdir():
         if path.is_file(): shutil.copy2(path, output/path.name)
     shutil.copy2(ROOT/'LICENSE',output/'LICENSE')
+    shutil.copy2(ROOT/'docs/MAC_GUIDE.md',output/'MAC-GUIDE.md')
     (output/'tests').mkdir()
     shutil.copy2(ROOT/'tests/test_windows_patcher.py',output/'tests/test_windows_patcher.py')
     shutil.copy2(ROOT/'tests/test_patcher_platform.py',output/'tests/test_patcher_platform.py')
+    shutil.copy2(ROOT/'tests/test_crossover_launcher.py',output/'tests/test_crossover_launcher.py')
     mapping = {}
     conflicts = set()
     for catalog in sorted((ROOT/'localization/en-US').glob('korean-batch-*.jsonl')):

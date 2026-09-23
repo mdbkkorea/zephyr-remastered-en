@@ -25,7 +25,7 @@ def package(kit, destination):
         if not path.is_file():
             continue
         rel = path.relative_to(kit)
-        if any(p in ('__pycache__', '.build-venv', 'build', 'dist', '.git') for p in rel.parts) or path.suffix == '.pyc':
+        if any(p in ('__pycache__', '.build-venv', '.native-venv', '.pyinstaller-cache', 'build', 'dist', '.git') for p in rel.parts) or path.suffix in ('.pyc', '.spec'):
             continue
         name = rel.as_posix()
         data = path.read_bytes()

@@ -10,6 +10,15 @@ export PYINSTALLER_CONFIG_DIR="$PWD/.pyinstaller-cache"
 if [ "$(uname -s)" = Darwin ]; then
   .native-venv/bin/python -m PyInstaller --noconfirm --clean --onedir --windowed --name ZephyrEnglishPatcher --osx-bundle-identifier org.zephyrenglish.patcher --add-data 'payload:payload' --add-data 'licenses:licenses' --add-data 'LICENSE:.' english_app.py
   echo "Built dist/ZephyrEnglishPatcher.app (host architecture). Not notarized."
+  # Produce a complete Mac archive so the portable launcher cannot be omitted.
+  cp Launch-Zephyr-CrossOver.command dist/
+  chmod +x dist/Launch-Zephyr-CrossOver.command
+  TASK_PACKAGE="$(mktemp -d "$PWD/build/mac-release.XXXXXX")"
+  ditto dist/ZephyrEnglishPatcher.app "$TASK_PACKAGE/ZephyrEnglishPatcher.app"
+  cp dist/Launch-Zephyr-CrossOver.command README-NATIVE.md MAC-GUIDE.md LICENSE "$TASK_PACKAGE/"
+  TASK_VERSION="$(.native-venv/bin/python -c 'from english_version import VERSION; print(VERSION)')"
+  ditto -c -k --sequesterRsrc "$TASK_PACKAGE" "dist/Zephyr-English-$TASK_VERSION-macos-$(uname -m).zip"
+  echo "Mac ZIP includes the app, portable CrossOver launcher and instructions."
 else
   .native-venv/bin/python -m PyInstaller --noconfirm --clean --onefile --name ZephyrEnglishPatcher --add-data 'payload:payload' --add-data 'licenses:licenses' --add-data 'LICENSE:.' english_app.py
   echo "Built dist/ZephyrEnglishPatcher for this Linux architecture and glibc baseline."

@@ -18,6 +18,8 @@ class WindowsZipTests(unittest.TestCase):
    base=Path(t);p=self.kit(base)
    notice=p/'licenses/python/numpy'/('long_'*30+'LICENSE');notice.parent.mkdir(parents=True);notice.write_bytes(b'copyright\r\nlicense')
    (p/'__pycache__').mkdir();(p/'__pycache__/unused.pyc').write_bytes(b'cache')
+   (p/'ZephyrEnglishPatcher.spec').write_text('local build paths')
+   (p/'.native-venv').mkdir();(p/'.native-venv/private.txt').write_text('local environment')
    out=base/'ZSteam-b2r1.zip';r=package(p,out)
    self.assertLessEqual(r['max_member_utf16_units'],60)
    with zipfile.ZipFile(out) as z:
@@ -26,6 +28,7 @@ class WindowsZipTests(unittest.TestCase):
     index=json.loads(z.read('ZSteam/licenses/INDEX.json'))
     self.assertEqual(index[0]['sha256'],hashlib.sha256(notice.read_bytes()).hexdigest())
     self.assertFalse(any('__pycache__' in n for n in z.namelist()))
+    self.assertFalse(any('.native-venv' in n or n.endswith('.spec') for n in z.namelist()))
     self.assertTrue(all(180+1+len(n)<260 for n in z.namelist()))
  def test_long_other_paths_fail_before_zip(self):
   with tempfile.TemporaryDirectory() as t:

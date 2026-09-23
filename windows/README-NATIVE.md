@@ -2,6 +2,10 @@
 
 This patches the same Windows game resources as the Windows patcher. It does not turn the game into a native Mac/Linux game. Continue launching the game using CrossOver or Steam Proton.
 
+The maintainer tested the Mac patcher and launcher on Mac mini (2024), Apple M4, 32 GB RAM, macOS Tahoe 26.5.2, CrossOver 26.3 / Windows Steam, including the translated Fullmap overlay. Other Macs are not verified.
+
+The app is not notarized by Apple. If macOS blocks its first opening as an unidentified developer, choose Done/Cancel instead of Move to Trash, then System Settings → Privacy & Security → Open Anyway. Confirm Open. See MAC-GUIDE.md in the Mac ZIP and Apple: https://support.apple.com/en-us/102445
+
 ## Run without building
 
 Install Python 3.9 or newer and Tkinter (Tk 8.6+ on macOS). On Fedora 44:
@@ -54,11 +58,38 @@ Backups are tied to the game directory path. Keep the game path and backup folde
 
 ## Build a native executable
 
+### CrossOver mod launcher (beta.4)
+
+The beta.4 Mac ZIP includes **Launch-Zephyr-CrossOver.command** beside the patcher app.
+Extract the complete ZIP and keep these together. Double-click the command, check
+the detected CrossOver app, bottle folder and game folder, then click **Launch game**.
+Use Browse or enter paths for a custom installation; the bottle folder contains
+`cxbottle.conf`, and the game folder contains `ZephyrRemastered.exe`.
+Selections are remembered locally and can be changed each time. No separate Python
+installation is needed for the bundled launcher.
+
+Keep Steam running in that bottle. Clear the Linux/Proton text from Steam Launch
+Options and close other Zephyr copies first. The launcher passes
+`--dll 'winhttp=n,b'` directly to CrossOver so installed Fullmap/Passives mods can
+load. It does not install mods or English, edit the bottle registry, or change
+Steam settings. This launcher targets the Steam edition; PURPLE is not verified.
+
+Settings: `~/Library/Application Support/ZephyrEnglishPatcher/crossover-launcher.json`.
+Diagnostics: `crossover-launch.log` in the same folder. Source users can run
+`python3 english_app.py --launch-crossover` with Tk installed.
+
+### Building
+
 ```sh
 bash Build-Native.sh
 ```
 
 The build installs pinned PyInstaller into a kit-local virtual environment and runs tests. A Mac build produces an app for the Mac's architecture; build/test Intel and Apple Silicon separately. A Fedora build produces a Linux executable targeting that machine's architecture and libc baseline, not every Linux distribution. Building on Fedora 44 does not establish compatibility with older distributions or Steam Deck.
+
+On Mac, distribute the generated `dist/Zephyr-English-<version>-macos-<architecture>.zip`.
+It contains the app, executable CrossOver command, license and these instructions.
+Rebuild the app with the launcher module; the command does not work with beta.3 or
+older patcher apps. This addition does not alter already published releases.
 
 ## Fedora 44 test checklist
 
