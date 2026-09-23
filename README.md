@@ -29,7 +29,7 @@ The Mac playtest was accepted by the user. Beta.3 packages include this change; 
 
 The local working catalog contains **22,403 translated resource entries and 30 hard-coded text edits**. An English playtest build has been tested in selected gameplay screens, and further review is in progress. These counts describe the translated catalog, not a guarantee that every possible screen, image, or story branch has been verified.
 
-Download **[English 1.0.0-beta.5](https://github.com/mdbkkorea/zephyr-remastered-en/releases/tag/english-v1.0.0-beta.5)** from GitHub Releases. Choose the archive for your operating system and edition. For Windows, use **zephyr_english_windows_steam_1.0.0_beta05.zip** or **zephyr_english_windows_purple_1.0.0_beta05.zip**, extract to **C:\Zephyr**, and run **Build-Windows.cmd** with Python 3.12 (64-bit) installed. See the [build and upgrade instructions](docs/RELEASE_1.0.0-beta.5.md). The inherited Chinese releases do not install this English translation.
+Download **[English 1.0.0-beta.5](https://github.com/mdbkkorea/zephyr-remastered-en/releases/tag/english-v1.0.0-beta.5)** from GitHub Releases. Choose the archive for your operating system and edition. For Windows, use **ZEnglishSteam_1.0.0_beta05.zip** or **ZEnglishPurple_1.0.0_beta05.zip**, extract to **C:\Zephyr**, and run **Build-Windows.cmd** with Python 3.12 (64-bit) installed. See the [build and upgrade instructions](docs/RELEASE_1.0.0-beta.5.md). The inherited Chinese releases do not install this English translation.
 
 **The Mac patcher and portable launcher have been tested by the maintainer on the Mac below. Earlier Windows installer testing is complete; current Windows build kits await Windows testing. Linux / Proton gameplay testing remains pending.** Windows installer checks cover installation, restoration, mod detection, unsupported-version fallback and the GUI. This does not mean every story branch or translated screen has been checked. macOS has installer checks and user-confirmed Steam/CrossOver gameplay with the translated Fullmap overlay; Linux has container-based installer checks, with Fedora 44 / Proton testing still pending.
 
@@ -55,7 +55,7 @@ If a beta.5 kit reports **No module named pip**, replace both
 folder with the current files from this repository, then run **Build-Windows.cmd**.
 Download each file using GitHub's **Download raw file** button. The updated script
 repairs pip and produces the new edition-specific installer name. This fix has
-been confirmed working by the user. Published beta.5 ZIPs retain their original files.
+been confirmed working by the user. The refreshed ZEnglish beta.5 ZIPs already include this fix; manual replacement is only needed for the older zephyr_english ZIPs.
 
 ### CrossOver mod launcher
 
@@ -63,7 +63,7 @@ Beta.5 includes the launcher and latest reviewed translations; see [beta.5 build
 
 The Mac app is **not notarized by Apple** and lacks a Developer ID signature. For a trusted download blocked as an unidentified developer:
 
-1. Extract the complete Mac ZIP and try opening **ZephyrEnglishPatcher.app** once.
+1. Extract the complete Mac ZIP and try opening **ZEnglishMacos_1.0.0_beta05.app** once.
 2. Choose **Done** or **Cancel**, not **Move to Trash**.
 3. Open **System Settings → Privacy & Security**, scroll down to **Security**, and click **Open Anyway** for the patcher.
 4. Authenticate if asked, then confirm **Open**.
@@ -88,7 +88,7 @@ If you installed the game elsewhere, in Steam right-click the game → **Manage 
 
 ### Windows permissions and interrupted installs
 
-If the game is in a protected folder such as `C:\Program Files (x86)`, Windows may report **Permission denied / Errno 13** when the patcher writes files. Close the game and patcher, then right-click `ZephyrEnglishPatcher.exe` → **Run as administrator**. Building the executable does not require administrator access.
+If the game is in a protected folder such as `C:\Program Files (x86)`, Windows may report **Permission denied / Errno 13** when the patcher writes files. Close the game and patcher, then right-click `ZEnglishSteam_1.0.0_beta05.exe` / `ZEnglishPurple_1.0.0_beta05.exe` → **Run as administrator**. Building the executable does not require administrator access.
 
 After a failed installation, select the same game folder and click **Check Files**. If it reports an interrupted operation, click **Recover**, then **Check Files** again. Install only when supported original files are reported. Keep the patcher and its backups for restoration.
 
@@ -132,7 +132,7 @@ Mac 플레이테스트에서 사용자 확인을 받았으며 beta.3 패키지�
 
 로컬 작업본에는 **리소스 항목 22,403개와 하드코딩된 텍스트 수정 30개**가 포함되어 있습니다. 영어 플레이테스트 빌드의 일부 실제 게임 화면을 확인했으며, 추가 검토를 진행 중입니다. 이 수치는 번역 카탈로그의 범위를 나타내며, 모든 화면·이미지·스토리 분기를 검증했다는 뜻은 아닙니다.
 
-GitHub Releases에서 **[영어 패치 1.0.0-beta.5](https://github.com/mdbkkorea/zephyr-remastered-en/releases/tag/english-v1.0.0-beta.5)**을 내려받으세요. 운영체제와 게임 플랫폼에 맞는 파일을 선택하세요. Windows는 **zephyr_english_windows_steam_1.0.0_beta05.zip** 또는 **zephyr_english_windows_purple_1.0.0_beta05.zip**을 **C:\Zephyr**에 풀고 Python 3.12 64비트 설치 후 **Build-Windows.cmd**를 실행하세요. [빌드·업데이트 안내](docs/RELEASE_1.0.0-beta.5.md)를 참고하세요. 기존 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
+GitHub Releases에서 **[영어 패치 1.0.0-beta.5](https://github.com/mdbkkorea/zephyr-remastered-en/releases/tag/english-v1.0.0-beta.5)**을 내려받으세요. 운영체제와 게임 플랫폼에 맞는 파일을 선택하세요. Windows는 **ZEnglishSteam_1.0.0_beta05.zip** 또는 **ZEnglishPurple_1.0.0_beta05.zip**을 **C:\Zephyr**에 풀고 Python 3.12 64비트 설치 후 **Build-Windows.cmd**를 실행하세요. [빌드·업데이트 안내](docs/RELEASE_1.0.0-beta.5.md)를 참고하세요. 기존 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
 
 **Mac 패치 프로그램과 휴대용 실행기는 아래 Mac에서 제작자가 테스트했습니다. 이전 Windows 설치 프로그램 검증은 완료했으며 최신 Windows 빌드 키트의 실기기 테스트는 예정입니다. Linux / Proton 게임 테스트도 아직 예정입니다.** Windows에서는 설치·복원, 모드 감지, 미지원 버전의 일반 번역 적용 및 GUI를 검증했습니다. 모든 스토리 분기나 번역 화면을 검증했다는 의미는 아닙니다. macOS는 설치 프로그램 검사와 번역된 Fullmap을 포함한 CrossOver 게임 실행을 확인했고, Linux는 컨테이너 환경에서 설치 프로그램을 검사했으며 Fedora 44 / Proton 실기기 테스트는 아직 예정입니다.
 
@@ -154,7 +154,7 @@ GitHub Releases에서 **[영어 패치 1.0.0-beta.5](https://github.com/mdbkkore
 
 Apple 공증 및 Developer ID 서명이 없는 앱입니다. 신뢰하는 배포 파일이 개발자 확인 불가로 차단되면:
 
-1. Mac ZIP 전체를 풀고 **ZephyrEnglishPatcher.app**을 한 번 실행합니다.
+1. Mac ZIP 전체를 풀고 **ZEnglishMacos_1.0.0_beta05.app**을 한 번 실행합니다.
 2. **휴지통으로 이동** 대신 **완료/취소**를 누릅니다.
 3. **시스템 설정 → 개인정보 보호 및 보안** 아래쪽의 **보안 → 확인 없이 열기(Open Anyway)**를 선택합니다.
 4. 인증이 필요하면 인증하고 **열기**를 누릅니다.
@@ -178,7 +178,7 @@ C:\Program Files (x86)\Steam\steamapps\common\The Rhapsody of Zephyr Remastered
 
 ### Windows 권한 오류 및 중단된 설치 복구
 
-게임이 `C:\Program Files (x86)` 같은 보호된 폴더에 있으면 파일을 수정할 때 **Permission denied / Errno 13(권한 거부)** 오류가 발생할 수 있습니다. 게임과 패치 프로그램을 닫고 `ZephyrEnglishPatcher.exe`를 우클릭하여 **관리자 권한으로 실행**하세요. 실행 파일을 빌드하는 과정에는 관리자 권한이 필요하지 않습니다.
+게임이 `C:\Program Files (x86)` 같은 보호된 폴더에 있으면 파일을 수정할 때 **Permission denied / Errno 13(권한 거부)** 오류가 발생할 수 있습니다. 게임과 패치 프로그램을 닫고 `ZEnglishSteam_1.0.0_beta05.exe` / `ZEnglishPurple_1.0.0_beta05.exe`를 우클릭하여 **관리자 권한으로 실행**하세요. 실행 파일을 빌드하는 과정에는 관리자 권한이 필요하지 않습니다.
 
 설치에 실패했다면 같은 게임 폴더를 선택하고 **Check Files**를 누르세요. 중단된 작업이 있다고 표시되면 **Recover → Check Files** 순서로 진행한 뒤, 지원되는 원본 파일이라고 확인될 때 설치를 다시 진행하세요. 복원을 위해 패치 프로그램과 백업을 보관하세요.
 
@@ -200,4 +200,4 @@ According to the naming history supplied by the user, the original games officia
 
 사용자가 제공한 표기 이력에 따르면, 원작에서는 **Gaysir**를 공식 표기로 사용했으나 오해의 소지가 있어 이후 회사가 **Geysir**로 변경했다고 합니다. 이 프로젝트는 **Geysir / Geysir Empire**를 사용합니다. 해당 변경 경위는 사용자 제공 정보이며 별도로 검증하지 않았습니다.
 
-Future installer and archive names follow `ZEnglish[Steam|Purple|Macos|Linux]_Version_betaXX`; see [filename conventions](docs/RELEASE_NAMING.md). Existing beta.5 downloads above retain their published names.
+Installer and archive names follow `ZEnglish[Steam|Purple|Macos|Linux]_Version_betaXX`; see [filename conventions](docs/RELEASE_NAMING.md). The beta.5 archives above have been refreshed to use these names and include the confirmed build fix.

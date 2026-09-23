@@ -30,7 +30,7 @@ python3 english_engine.py install --game '/absolute/path/to/game copy'
 python3 english_engine.py restore --game '/absolute/path/to/game copy'
 ```
 
-A frozen executable also accepts these actions; on macOS its CLI is `ZephyrEnglishPatcher.app/Contents/MacOS/ZephyrEnglishPatcher`.
+A frozen executable also accepts these actions; on macOS its CLI is `ZEnglishMacos_1.0.0_beta05.app/Contents/MacOS/ZEnglishMacos_1.0.0_beta05`.
 
 ## Select the correct folder
 

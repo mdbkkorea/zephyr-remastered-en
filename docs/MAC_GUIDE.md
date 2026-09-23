@@ -15,7 +15,7 @@ signature. macOS may block its first opening. It is not an Apple-authorized app.
 
 For an unidentified-developer / “Apple cannot check” warning on the trusted package:
 
-1. Extract the whole ZIP and try opening **ZephyrEnglishPatcher.app** once.
+1. Extract the whole ZIP and try opening **ZEnglishMacos_1.0.0_beta05.app** once.
 2. Choose **Done** or **Cancel**, not **Move to Trash**.
 3. Open **System Settings → Privacy & Security**, scroll down to **Security**, and
    select **Open Anyway** for this app.

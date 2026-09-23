@@ -1,5 +1,9 @@
 # Zephyr English 1.0.0-beta.5
 
+The beta.5 archives were refreshed after the initial upload: **ZEnglish** filenames,
+automatic missing-pip repair, and matching named installers. Translation payloads
+are unchanged from the initial beta.5 upload; already-patched games need no repatching.
+
 ## What's new
 
 - Latest eight reviewed dialogue corrections remove ten unnecessary forced line breaks.
@@ -14,18 +18,18 @@ Keep the old patcher and backups until the upgrade is complete. This release cha
 
 ## Files
 
-- **zephyr_english_macos_1.0.0_beta05.zip** — Apple Silicon / Steam CrossOver.
+- **ZEnglishMacos_1.0.0_beta05.zip** — Apple Silicon / Steam CrossOver.
   Extract everything together. First open the patcher app to approve it, then use
   **Launch-Zephyr-CrossOver.command** for playing with mods. No separate Python needed.
   See **MAC-GUIDE.md** inside the ZIP.
-- **zephyr_english_windows_steam_1.0.0_beta05.zip** — Windows Steam build kit.
-- **zephyr_english_windows_purple_1.0.0_beta05.zip** — Windows PURPLE build kit, experimental, standard translation only.
-- **zephyr_english_linux_1.0.0_beta05.tar.gz** — Linux x64 / glibc 2.36+ patcher.
+- **ZEnglishSteam_1.0.0_beta05.zip** — Windows Steam build kit.
+- **ZEnglishPurple_1.0.0_beta05.zip** — Windows PURPLE build kit, experimental, standard translation only.
+- **ZEnglishLinux_1.0.0_beta05.tar.gz** — Linux x64 / glibc 2.36+ patcher.
   Fedora 44 / Proton gameplay testing is pending.
 
 For Windows, install **Python 3.12 64-bit with Python Launcher**, extract the complete
 kit to **C:\Zephyr**, and run **Build-Windows.cmd** inside ZSteam or ZPurple. Output:
-**dist\ZephyrEnglishPatcher.exe**. Keep the editions separate; Git isn't required.
+**dist\ZEnglishSteam_1.0.0_beta05.exe** or **dist\ZEnglishPurple_1.0.0_beta05.exe**. Keep the editions separate; Git isn't required.
 Windows EXEs are not included and must be built/tested on Windows. The previous
 Windows installer was tested on Galaxy Book Pro2 360, i5-1240P, Windows 11 / Steam.
 Protected Program Files installations may require running the built EXE as administrator.

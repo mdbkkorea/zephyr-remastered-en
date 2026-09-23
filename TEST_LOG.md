@@ -52,3 +52,9 @@ Validation: all three 22,403-entry translation stages passed full audits with ze
 User confirmed the updated Windows build works. Build-Windows.ps1 repairs missing pip using bundled ensurepip before dependency installation. It names the EXE from the payload edition and release version, rejecting mismatched versions. New names use ZEnglishSteam/Purple/Macos/Linux_VERSION_betaXX. Mac build/launcher references match the new names; legacy launcher app names remain supported. Published beta.5 archives are unchanged; README links both replacement files required to repair those kits.
 
 Validation: missing-pip reproduction and repeated bootstrap passed on a temporary Mac Python environment; user confirmed Windows build success. Four platform names, beta formatting, invalid input rejection, Windows edition selection, renamed/legacy Mac launcher execution and shell syntax checks passed. No translation or game changes.
+
+### Beta.5 archive refresh — 2026-09-24
+
+User requested refreshed published archives. Repacked Steam/PURPLE build kits with the confirmed pip bootstrap repair and version/edition-based ZEnglish executable names. Rebuilt Mac/Linux executables with matching names and updated the bundled Mac launcher. Archive names are ZEnglishSteam, ZEnglishPurple, ZEnglishMacos and ZEnglishLinux followed by _1.0.0_beta05. Translation payloads remain byte-for-byte identical to initial beta.5; no game repatching is needed for this packaging update.
+
+Checks: both Windows ZIPs contain exact current build/version files, all payload bytes match prior kits, archive integrity and 39/40-unit internal path limits pass. Mac signature/launcher protocol and both native frozen status checks pass; 27 packaged Linux tests pass. User previously confirmed repaired Windows build works. Original beta.5 checksums superseded by refreshed SHA256SUMS. No Windows control, game modification or translation re-audit.

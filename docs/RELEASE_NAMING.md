@@ -23,6 +23,6 @@ build reads the edition from its payload manifest. The Mac launcher finds the
 renamed app beside itself and rejects ambiguous folders with multiple patcher apps.
 Application bundle identity and saved settings/backup locations stay stable.
 
-Already published releases retain their filenames and checksums. Apply this scheme
-when rebuilding or creating the next release. Older names in historical release
-notes describe those downloads.
+Beta.5 archives were refreshed at the user's request with these names and the
+confirmed Windows build repair. Earlier releases retain their filenames. Updated
+SHA256 checksums identify the refreshed beta.5 archives.

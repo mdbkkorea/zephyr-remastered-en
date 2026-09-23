@@ -7,7 +7,7 @@ GitHub Code > Download ZIP contains source code, not the prepared payload.
    Open ZSteam or ZPurple inside it. Avoid nesting inside older kit folders.
 2. Install Python 3.12 (64-bit), including Python Launcher and Tcl/Tk.
 3. Run Build-Windows.cmd beside the payload folder.
-4. The output is dist\ZephyrEnglishPatcher.exe.
+4. The output is dist\ZEnglishSteam_1.0.0_beta05.exe or dist\ZEnglishPurple_1.0.0_beta05.exe.
 
 Git, a .NET SDK and the ChatGPT app are not required. The first build needs
 internet access to install PyInstaller. Building does not require administrator
