@@ -33,5 +33,75 @@
     "original_sha256": "71c339a6e54830785cc312d6b3dd6f2387bcbf27146d5943fd1c4fe03b749bb1",
     "target_sha256": "c48f016c7c7ca5f122b6805a65a0c4c95dd99d1feec676664f7e7ddb909836ba",
     "reason": "User-approved removal of one manual line break; natural wrapping retained."
+  },
+  {
+    "id": "8bf7c17c9ea1a0c22a6eef27ebc194026ef9d04fe6c722d95444d7d69510b9ad",
+    "review_id": "R21633",
+    "original_sha256": "12c227508c599511aeebf4003d05233ec8797494be17492d27351a475c4b97c9",
+    "target_sha256": "4fdf236474af8024675d8ed75f9786d90be58366508d5da7d58c6bcb6b50f452",
+    "reason": "User-approved removal of the manual break after other beings; natural wrapping retained."
+  },
+  {
+    "id": "abf2f7821952c96ff8645d3d917a0ee702aea8b7572e983c0f85616ee56f6f21",
+    "review_id": "R21707",
+    "original_sha256": "12c227508c599511aeebf4003d05233ec8797494be17492d27351a475c4b97c9",
+    "target_sha256": "4fdf236474af8024675d8ed75f9786d90be58366508d5da7d58c6bcb6b50f452",
+    "reason": "User-approved removal of the manual break after other beings; natural wrapping retained."
+  },
+  {
+    "id": "6c2033d5362a5dab0c5ab5e4cd2cf49c73542676e514596be11ba5cdbe5ba519",
+    "review_id": "R18881",
+    "original_sha256": "c5dcf155e5a4cbe4d6cc50f2f2319e07d4972e33c9819a873bce2775ca49a0b7",
+    "target_sha256": "23cd2ed8fdea0b52b66d633fa9215e515ed6ef487ed79d78bd20adcf8fe50d55",
+    "reason": "User-approved removal of 1 manual line break(s); natural wrapping retained."
+  },
+  {
+    "id": "674c878e51c1b435f0109d8c3c4147be29089552c40fa6bfacb8e857a56b6e52",
+    "review_id": "R18885",
+    "original_sha256": "1dfb29e66dd9e65def5869eefb8007107f06ca28cfbefd8b41540e333dc5fe14",
+    "target_sha256": "eeeba80c150dac1248edfc422c9c2e17ee8e30637be1ad86d6bd924c864fb022",
+    "reason": "User-approved removal of 1 manual line break(s); natural wrapping retained."
+  },
+  {
+    "id": "17a5e0730916e03dc53f7a86a50451c57b79d1e66e19739caceb83ac9448215e",
+    "review_id": "R18916",
+    "original_sha256": "5b90a5be08a4a6cb7c5ac072785691736cad2911075208b6050541108f27a2bb",
+    "target_sha256": "f2037d74ea08d6c53b2b973f55714f042bcd1de90c891bbde90b2c838d607751",
+    "reason": "User-approved removal of 1 manual line break(s); natural wrapping retained."
+  },
+  {
+    "id": "84fc45cca453b0d052596735dd842f8063e0e326a7ebb458e72534f92f1f3746",
+    "review_id": "R18950",
+    "original_sha256": "a139bd7ea182f071589291ec5f565f1d6efcd873840906175a93667782af7d01",
+    "target_sha256": "21faaa5f13ab925a82d068184fd7029f697c11e61c156cd9881a46f884b4d6f6",
+    "reason": "User-approved removal of 2 manual line break(s); natural wrapping retained."
+  },
+  {
+    "id": "915c8c7b580a89366037f9a7e0b36eebc36b492e64acdbc8019c1db1b9bef609",
+    "review_id": "R18951",
+    "original_sha256": "6a94b1d0d82881bdc76ec269ab794298d282a1832121bfc69da7d4a425be87f6",
+    "target_sha256": "b09743ae6e7f72f064ecdb2ac93f6afdd2569dc254d95ddb43043c9371ab402c",
+    "reason": "User-approved removal of 1 manual line break(s); natural wrapping retained."
+  },
+  {
+    "id": "fca2ed000e944ed216b1353a046f5a47d2f765c72b0b766d9271c97b0b492b81",
+    "review_id": "R18969",
+    "original_sha256": "6783c2d78e2bcf3324cf40d8928e18dde50168a2d13bc8af7218aaea05f85d1c",
+    "target_sha256": "e506c0eb55598efa22b95ffe534352a109c4680d507132b09081d55d81e5d220",
+    "reason": "User-approved removal of 1 manual line break(s); natural wrapping retained."
+  },
+  {
+    "id": "cbb96544af36aa98e58609ac16631c32adb89b56564a9466a242e4370a6614e3",
+    "review_id": "R18970",
+    "original_sha256": "22e3c19ce9bef6bcf696a52061671f226b58db4952307a871bac499216f5eaac",
+    "target_sha256": "7ab21182d8b1987b4d02b72094e8550e9bbe90ca128660f0d4f20f50a4f1d8e5",
+    "reason": "User-approved removal of 2 manual line break(s); natural wrapping retained."
+  },
+  {
+    "id": "09791cdfab2a930741f37e07bb87ec24c8d3cb464a74697a09371437403a97c1",
+    "review_id": "R18971",
+    "original_sha256": "2c1d283aba925b26d6ec717118873a82d4de367cda71d9f8d27d1be9275dcf77",
+    "target_sha256": "129f9baebff0552784870661b9f675fdccbb3e06b5840a1953556a4fc36a2598",
+    "reason": "User-approved removal of 1 manual line break(s); natural wrapping retained."
   }
 ]

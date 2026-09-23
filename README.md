@@ -29,13 +29,13 @@ The Mac playtest was accepted by the user. Beta.3 packages include this change; 
 
 The local working catalog contains **22,403 translated resource entries and 30 hard-coded text edits**. An English playtest build has been tested in selected gameplay screens, and further review is in progress. These counts describe the translated catalog, not a guarantee that every possible screen, image, or story branch has been verified.
 
-Download **[English 1.0.0-beta.4](https://github.com/mdbkkorea/zephyr-remastered-en/releases/tag/english-v1.0.0-beta.4)** from GitHub Releases. Choose the archive for your operating system and edition. For Windows, use **ZSteam-b4.zip** or **ZPurple-b4.zip**, extract to **C:\Zephyr**, and run **Build-Windows.cmd** with Python 3.12 (64-bit) installed. See the [build and upgrade instructions](docs/RELEASE_1.0.0-beta.4.md). The inherited Chinese releases do not install this English translation.
+Download **[English 1.0.0-beta.5](https://github.com/mdbkkorea/zephyr-remastered-en/releases/tag/english-v1.0.0-beta.5)** from GitHub Releases. Choose the archive for your operating system and edition. For Windows, use **zephyr_english_windows_steam_1.0.0_beta05.zip** or **zephyr_english_windows_purple_1.0.0_beta05.zip**, extract to **C:\Zephyr**, and run **Build-Windows.cmd** with Python 3.12 (64-bit) installed. See the [build and upgrade instructions](docs/RELEASE_1.0.0-beta.5.md). The inherited Chinese releases do not install this English translation.
 
 **The Mac patcher and portable launcher have been tested by the maintainer on the Mac below. Earlier Windows installer testing is complete; current Windows build kits await Windows testing. Linux / Proton gameplay testing remains pending.** Windows installer checks cover installation, restoration, mod detection, unsupported-version fallback and the GUI. This does not mean every story branch or translated screen has been checked. macOS has installer checks and user-confirmed Steam/CrossOver gameplay with the translated Fullmap overlay; Linux has container-based installer checks, with Fedora 44 / Proton testing still pending.
 
 Please use a legitimate copy of the game. Original game assets and full extracted source catalogs are not included as part of this English documentation update. Existing saves may retain Korean character names and job titles; translating those saved display fields is separate from patching game resources.
 
-The installer automatically detects **ZephyrPassives 2.4.3** and **ZephyrFullmap 1.8.0**. Unsupported versions select standard translation and preserve all mod files. See [release notes](docs/RELEASE_1.0.0-beta.4.md).
+The installer automatically detects **ZephyrPassives 2.4.3** and **ZephyrFullmap 1.8.0**. Unsupported versions select standard translation and preserve all mod files. See [release notes](docs/RELEASE_1.0.0-beta.5.md).
 
 ### Testing environments
 
@@ -49,7 +49,7 @@ These are the maintainer's test environments, not minimum system requirements or
 
 ### CrossOver mod launcher
 
-Beta.4 adds the launcher; see [beta.4 build notes](docs/RELEASE_1.0.0-beta.4.md).
+Beta.5 includes the launcher and latest reviewed translations; see [beta.5 build notes](docs/RELEASE_1.0.0-beta.5.md).
 
 The Mac app is **not notarized by Apple** and lacks a Developer ID signature. For a trusted download blocked as an unidentified developer:
 
@@ -60,11 +60,11 @@ The Mac app is **not notarized by Apple** and lacks a Developer ID signature. Fo
 
 This is Apple's per-app exception procedure, not a request to disable Gatekeeper. A “will damage your computer” or “damaged” alert is a different issue. See the [Mac guide](docs/MAC_GUIDE.md) and [Apple's official instructions](https://support.apple.com/en-us/102445).
 
-**Beta.4:** includes a portable `Launch-Zephyr-CrossOver.command`. It finds
+**Beta.5:** includes a portable `Launch-Zephyr-CrossOver.command`. It finds
 CrossOver and offers editable bottle/game selections, remembers them locally, and
 launches the installed Steam game with the `winhttp=n,b` mod override. Keep it beside
-the bundled patcher app; no separate Python is needed. The app and command must come from the same beta.4 ZIP; beta.3 lacks the launcher.
-Keep Steam open in the selected bottle, clear the Linux/Proton Steam launch option, then open the command and click **Launch game**. If beta.3 is already installed, **no repatching is needed**; translation data is unchanged. See [CrossOver launcher instructions](docs/MAC_GUIDE.md).
+the bundled patcher app; no separate Python is needed. The app and command must come from the same beta.5 ZIP; beta.3 lacks the launcher.
+Keep Steam open in the selected bottle, clear the Linux/Proton Steam launch option, then open the command and click **Launch game**. For the latest translation corrections, restore originals with your previous patcher, then install beta.5. See [CrossOver launcher instructions](docs/MAC_GUIDE.md).
 
 ### Finding the game folder on Windows
 
@@ -122,13 +122,13 @@ Mac 플레이테스트에서 사용자 확인을 받았으며 beta.3 패키지�
 
 로컬 작업본에는 **리소스 항목 22,403개와 하드코딩된 텍스트 수정 30개**가 포함되어 있습니다. 영어 플레이테스트 빌드의 일부 실제 게임 화면을 확인했으며, 추가 검토를 진행 중입니다. 이 수치는 번역 카탈로그의 범위를 나타내며, 모든 화면·이미지·스토리 분기를 검증했다는 뜻은 아닙니다.
 
-GitHub Releases에서 **[영어 패치 1.0.0-beta.4](https://github.com/mdbkkorea/zephyr-remastered-en/releases/tag/english-v1.0.0-beta.4)**을 내려받으세요. 운영체제와 게임 플랫폼에 맞는 파일을 선택하세요. Windows는 **ZSteam-b4.zip** 또는 **ZPurple-b4.zip**을 **C:\Zephyr**에 풀고 Python 3.12 64비트 설치 후 **Build-Windows.cmd**를 실행하세요. [빌드·업데이트 안내](docs/RELEASE_1.0.0-beta.4.md)를 참고하세요. 기존 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
+GitHub Releases에서 **[영어 패치 1.0.0-beta.5](https://github.com/mdbkkorea/zephyr-remastered-en/releases/tag/english-v1.0.0-beta.5)**을 내려받으세요. 운영체제와 게임 플랫폼에 맞는 파일을 선택하세요. Windows는 **zephyr_english_windows_steam_1.0.0_beta05.zip** 또는 **zephyr_english_windows_purple_1.0.0_beta05.zip**을 **C:\Zephyr**에 풀고 Python 3.12 64비트 설치 후 **Build-Windows.cmd**를 실행하세요. [빌드·업데이트 안내](docs/RELEASE_1.0.0-beta.5.md)를 참고하세요. 기존 중국어 배포 파일은 이 영어 번역을 설치하지 않습니다.
 
 **Mac 패치 프로그램과 휴대용 실행기는 아래 Mac에서 제작자가 테스트했습니다. 이전 Windows 설치 프로그램 검증은 완료했으며 최신 Windows 빌드 키트의 실기기 테스트는 예정입니다. Linux / Proton 게임 테스트도 아직 예정입니다.** Windows에서는 설치·복원, 모드 감지, 미지원 버전의 일반 번역 적용 및 GUI를 검증했습니다. 모든 스토리 분기나 번역 화면을 검증했다는 의미는 아닙니다. macOS는 설치 프로그램 검사와 번역된 Fullmap을 포함한 CrossOver 게임 실행을 확인했고, Linux는 컨테이너 환경에서 설치 프로그램을 검사했으며 Fedora 44 / Proton 실기기 테스트는 아직 예정입니다.
 
 정품 게임을 사용해 주세요. 이번 영어 프로젝트 문서 갱신에는 게임 원본 에셋이나 추출한 전체 원문 카탈로그를 포함하지 않습니다. 기존 저장 파일에는 한국어 캐릭터 이름이나 직업명이 남아 있을 수 있으며, 저장된 표시용 문자열의 변환은 게임 리소스 패치와 별도입니다.
 
-설치 프로그램은 **ZephyrPassives 2.4.3** 및 **ZephyrFullmap 1.8.0**을 자동 감지합니다. 지원하지 않는 버전이 있으면 일반 번역만 적용하고 모드 파일은 보존합니다. [릴리스 안내](docs/RELEASE_1.0.0-beta.4.md)를 참고하세요.
+설치 프로그램은 **ZephyrPassives 2.4.3** 및 **ZephyrFullmap 1.8.0**을 자동 감지합니다. 지원하지 않는 버전이 있으면 일반 번역만 적용하고 모드 파일은 보존합니다. [릴리스 안내](docs/RELEASE_1.0.0-beta.5.md)를 참고하세요.
 
 ### 테스트 환경
 
@@ -151,10 +151,10 @@ Apple 공증 및 Developer ID 서명이 없는 앱입니다. 신뢰하는 배포
 
 앱별 예외를 허용하는 과정이며 Gatekeeper 전체를 끄지 않습니다. 손상되었거나 컴퓨터에 피해를 줄 수 있다는 경고는 다른 문제입니다. [Mac 안내](docs/MAC_GUIDE.md)와 [Apple 공식 설명](https://support.apple.com/ko-kr/102445)을 참고하세요.
 
-beta.4 Mac 빌드에는 휴대용 `Launch-Zephyr-CrossOver.command`가 포함됩니다.
+beta.5 Mac 빌드에는 휴대용 `Launch-Zephyr-CrossOver.command`가 포함됩니다.
 CrossOver를 찾고 보틀·게임 폴더를 선택하여 저장한 뒤, `winhttp=n,b` 설정으로
 설치된 Steam 게임을 실행합니다. 함께 제공되는 패치 앱 옆에 두세요. Python을
-별도로 설치할 필요가 없습니다. 앱과 명령 파일은 같은 beta.4 ZIP에서 사용하세요. beta.3 앱은 실행기를 지원하지 않습니다. 같은 보틀에서 Steam을 켜고 Proton용 실행 옵션을 지운 뒤 명령 파일에서 **Launch game**을 누르세요. beta.3 번역이 설치되어 있다면 다시 패치할 필요 없습니다.
+별도로 설치할 필요가 없습니다. 앱과 명령 파일은 같은 beta.5 ZIP에서 사용하세요. beta.3 앱은 실행기를 지원하지 않습니다. 같은 보틀에서 Steam을 켜고 Proton용 실행 옵션을 지운 뒤 명령 파일에서 **Launch game**을 누르세요. beta.5 번역 수정을 적용하려면 이전 패치 프로그램으로 원본을 복원한 다음 beta.5를 설치하세요.
 
 ### Windows에서 게임 폴더 찾기
 

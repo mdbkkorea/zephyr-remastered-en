@@ -17,7 +17,8 @@ if [ "$(uname -s)" = Darwin ]; then
   ditto dist/ZephyrEnglishPatcher.app "$TASK_PACKAGE/ZephyrEnglishPatcher.app"
   cp dist/Launch-Zephyr-CrossOver.command README-NATIVE.md MAC-GUIDE.md LICENSE "$TASK_PACKAGE/"
   TASK_VERSION="$(.native-venv/bin/python -c 'from english_version import VERSION; print(VERSION)')"
-  ditto -c -k --sequesterRsrc "$TASK_PACKAGE" "dist/Zephyr-English-$TASK_VERSION-macos-$(uname -m).zip"
+  TASK_ARCHIVE_VERSION="$(.native-venv/bin/python -c 'import sys; v,b=sys.argv[1].split("-beta."); print(f"{v}_beta{int(b):02d}")' "$TASK_VERSION")"
+  ditto -c -k --sequesterRsrc "$TASK_PACKAGE" "dist/zephyr_english_macos_${TASK_ARCHIVE_VERSION}.zip"
   echo "Mac ZIP includes the app, portable CrossOver launcher and instructions."
 else
   .native-venv/bin/python -m PyInstaller --noconfirm --clean --onefile --name ZephyrEnglishPatcher --add-data 'payload:payload' --add-data 'licenses:licenses' --add-data 'LICENSE:.' english_app.py

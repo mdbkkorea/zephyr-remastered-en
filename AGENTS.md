@@ -12,5 +12,7 @@ Read STATUS.md and TEST_LOG.md at the start of each session.
 - Keep original game assets and extracted full source catalogs in ignored private/; do not commit binaries, credentials, or full game dumps.
 - Record exact validation results and distinguish a draft catalog from an installable, runtime-tested English patch.
 - Update STATUS.md and TEST_LOG.md when completing work. Do not publish or push unless requested.
+- Do not control the user's Windows PC or delegate Windows builds/tests to its connected task. Provide a build kit and instructions; the user will build and test there unless they explicitly authorize otherwise later.
+- Review suggestions saved by the Safari review are pending Markdown files in the NAS review folder's Suggestions subfolder. Read/apply them only when the user asks; saving a suggestion is not authorization to change translations. Report grammar issues or better wording for user-proposed replacements. Ignore ReviewService/TestArchives as test-only data.
 
-- Safari review suggestions are pending Markdown files in the review folder’s Suggestions subfolder. Read/apply them only when the user asks; saving is not authorization to change translations. Report grammar issues or better wording for user-proposed replacements. Ignore ReviewService/TestArchives as test-only data.
+- For small translation corrections, use incremental validation of changed entries and rebuilt resources; do not re-audit unchanged translations every time. Run a full audit before releases or when validator/control-handling changes require it. Record the exact scope and preserve bundle/catalog integrity checks.

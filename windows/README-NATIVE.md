@@ -58,9 +58,9 @@ Backups are tied to the game directory path. Keep the game path and backup folde
 
 ## Build a native executable
 
-### CrossOver mod launcher (beta.4)
+### CrossOver mod launcher (beta.5)
 
-The beta.4 Mac ZIP includes **Launch-Zephyr-CrossOver.command** beside the patcher app.
+The beta.5 Mac ZIP includes **Launch-Zephyr-CrossOver.command** beside the patcher app.
 Extract the complete ZIP and keep these together. Double-click the command, check
 the detected CrossOver app, bottle folder and game folder, then click **Launch game**.
 Use Browse or enter paths for a custom installation; the bottle folder contains

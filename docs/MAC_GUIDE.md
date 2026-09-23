@@ -45,8 +45,8 @@ Install original mods separately. The Steam translation supports **ZephyrPassive
 2.4.3** and **ZephyrFullmap 1.8.0**; unsupported versions receive standard translation
 without changing mod files. This launcher is tested for Steam, not PURPLE.
 
-The beta.4 translation payload is identical to beta.3. If beta.3 is already installed,
-you can use the new launcher immediately without restoring/reapplying the translation.
+Beta.5 includes new translation corrections. Restore originals using your previous
+patcher, then install beta.5 to apply them.
 Keep existing backups and the older patcher for restoration.
 
 ## Optional save-name copies
@@ -82,4 +82,4 @@ Apple 공증 및 Developer ID 서명이 없는 앱이므로 처음 실행할 때
 ZIP 전체를 풀고 앱과 실행 명령 파일을 함께 보관하세요. 같은 보틀에서 Steam을 켠 뒤
 **Launch-Zephyr-CrossOver.command**를 열어 경로를 확인하고 **Launch game**을 누릅니다.
 Python 설치는 필요 없습니다. 기존 beta.3 앱에 명령 파일만 복사하면 작동하지 않습니다.
-beta.3 번역이 이미 설치되어 있다면 다시 패치할 필요 없이 새 실행기를 사용할 수 있습니다.
+beta.5의 새 번역 수정을 적용하려면 이전 패치 프로그램으로 원본을 복원한 후 beta.5를 설치하세요.

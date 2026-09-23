@@ -84,7 +84,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R4066](../../localization/en-US/korean-batch-010.jsonl#L76) | SystemTexts_RE_KO / ["TextList", 65, "Text"] | "{0}" 검색 결과 | Search results for "{0}" |
 | [R4067](../../localization/en-US/korean-batch-010.jsonl#L77) | SystemTexts_RE_KO / ["TextList", 66, "Text"] | (소모MP:{0}) | (MP Cost: {0}) |
 | [R4068](../../localization/en-US/korean-batch-010.jsonl#L78) | SystemTexts_RE_KO / ["TextList", 67, "Text"] | (필요XP:{0}) | (XP Required: {0}) |
-| [R4069](../../localization/en-US/korean-batch-010.jsonl#L79) | SystemTexts_RE_KO / ["TextList", 68, "Text"] | 보유 | Owned |
+| [R4069](../../localization/en-US/korean-batch-010.jsonl#L79) | SystemTexts_RE_KO / ["TextList", 68, "Text"] | 보유 | Own |
 | [R4070](../../localization/en-US/korean-batch-010.jsonl#L80) | SystemTexts_RE_KO / ["TextList", 69, "Text"] | 해제 | Unequip |
 | [R4071](../../localization/en-US/korean-batch-010.jsonl#L81) | SystemTexts_RE_KO / ["TextList", 70, "Text"] | ^k_f10key {0}^pe 모두 회복 | ^k_f10key Restore All {0} |
 | [R4072](../../localization/en-US/korean-batch-010.jsonl#L82) | SystemTexts_RE_KO / ["TextList", 71, "Text"] | ^k_f10key 자동 장착 | ^k_f10key Auto-equip |
