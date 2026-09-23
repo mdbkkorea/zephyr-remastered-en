@@ -15,7 +15,7 @@ The first English drafts in this fork were translated from the upstream Chinese 
 
 ### What has changed after review
 
-Translation review and gameplay screenshots have led to corrections to character and place names, religious terminology, attack names, and interface wording. Examples include **Geyshir, Cyrups, Ruben, Gishne, Deimos, High Church, High God**, and **Aura Slash**. Korean 주신 is checked in context: it can refer to a deity or be part of an ordinary expression meaning “given/provided.”
+Translation review and gameplay screenshots have led to corrections to character and place names, religious terminology, attack names, and interface wording. Examples include **Geysir, Cyrups, Ruben, Gishne, Deimos, High Church, High God**, and **Aura Slash**. Korean 주신 is checked in context: it can refer to a deity or be part of an ordinary expression meaning “given/provided.”
 
 Long labels have also been shortened where the game interface clips or overlaps text. Compact attack labels include **W.Slash**, **S.Slash**, and **Aura.Slash**. Names and wording that have not been confirmed remain provisional, and review is ongoing.
 
@@ -87,7 +87,7 @@ The upstream license and contributor credits remain in place. The tool license d
 
 ### 검토 후 반영한 수정
 
-번역 검토와 실제 플레이 스크린샷을 바탕으로 인명·지명, 종교 관련 용어, 공격 이름, UI 문구를 수정했습니다. 대표적인 표기는 **Geyshir, Cyrups, Ruben, Gishne, Deimos, High Church, High God, Aura Slash**입니다. 특히 ‘주신’은 신을 가리키는 명사인지, ‘주신 물건’처럼 동사의 활용형인지 문맥과 중국어 보조 자료를 함께 확인합니다.
+번역 검토와 실제 플레이 스크린샷을 바탕으로 인명·지명, 종교 관련 용어, 공격 이름, UI 문구를 수정했습니다. 대표적인 표기는 **Geysir, Cyrups, Ruben, Gishne, Deimos, High Church, High God, Aura Slash**입니다. 특히 ‘주신’은 신을 가리키는 명사인지, ‘주신 물건’처럼 동사의 활용형인지 문맥과 중국어 보조 자료를 함께 확인합니다.
 
 게임 화면에서 긴 문구가 잘리거나 겹치는 경우에는 의미를 유지하면서 짧게 다듬었습니다. 공격 선택창에서는 **W.Slash**, **S.Slash**, **Aura.Slash** 같은 축약 표기를 사용합니다. 아직 확인되지 않은 고유명사와 표현은 잠정 번역이며, 검토를 계속하고 있습니다.
 
@@ -145,8 +145,8 @@ Safari 검토 화면에서 항목별 **Translation suggestion(번역 제안)**�
 
 원본 프로젝트의 라이선스와 기여자 표기는 유지합니다. 도구의 라이선스가 게임·그림·스토리에 대한 권리를 부여하는 것은 아니며, 해당 권리는 각 권리자에게 있습니다. 이 프로젝트는 비공식 팬 프로젝트입니다.
 
-### Geyshir naming note / 게이시르 표기 참고
+### Geysir naming note / 게이시르 표기 참고
 
-According to the naming history supplied by the user, the original games officially used **Gayshir**, and the company later changed it to **Geyshir** because the earlier spelling could be misleading. This project follows **Geyshir / Geyshir Empire**. The historical explanation is user-provided and has not been independently verified here.
+According to the naming history supplied by the user, the original games officially used **Gayshir**, and the company later changed it to **Geysir** because the earlier spelling could be misleading. This project follows **Geysir / Geysir Empire**. The historical explanation is user-provided and has not been independently verified here.
 
-사용자가 제공한 표기 이력에 따르면, 원작에서는 **Gayshir**를 공식 표기로 사용했으나 오해의 소지가 있어 이후 회사가 **Geyshir**로 변경했다고 합니다. 이 프로젝트는 **Geyshir / Geyshir Empire**를 사용합니다. 해당 변경 경위는 사용자 제공 정보이며 별도로 검증하지 않았습니다.
+사용자가 제공한 표기 이력에 따르면, 원작에서는 **Gayshir**를 공식 표기로 사용했으나 오해의 소지가 있어 이후 회사가 **Geysir**로 변경했다고 합니다. 이 프로젝트는 **Geysir / Geysir Empire**를 사용합니다. 해당 변경 경위는 사용자 제공 정보이며 별도로 검증하지 않았습니다.
