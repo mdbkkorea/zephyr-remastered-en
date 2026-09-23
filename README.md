@@ -51,6 +51,14 @@ C:\Program Files (x86)\Steam\steamapps\common\The Rhapsody of Zephyr Remastered
 
 If you installed the game elsewhere, in Steam right-click the game → **Manage → Browse local files**. Copy the folder address into the patcher, or select it with **Browse**. Choose the folder containing `ZephyrRemastered.exe`. Close the game, select **Check Files**, then **Install English** and confirm the folder. For initial testing, use a separate game copy.
 
+### Windows permissions and interrupted installs
+
+If the game is in a protected folder such as `C:\Program Files (x86)`, Windows may report **Permission denied / Errno 13** when the patcher writes files. Close the game and patcher, then right-click `ZephyrEnglishPatcher.exe` → **Run as administrator**. Building the executable does not require administrator access.
+
+After a failed installation, select the same game folder and click **Check Files**. If it reports an interrupted operation, click **Recover**, then **Check Files** again. Install only when supported original files are reported. Keep the patcher and its backups for restoration.
+
+The default PURPLE folder is `C:\Program Files (x86)\NC\Rhapsody of Zephyr Remastered`. PURPLE requires a separate experimental package; the linked Steam release does not support it.
+
 ### Feedback and credits
 
 When reporting a translation issue, include the Korean text or a screenshot, the scene/menu, and your suggested English wording. If you have a review sheet, include its review number.
@@ -110,6 +118,14 @@ C:\Program Files (x86)\Steam\steamapps\common\The Rhapsody of Zephyr Remastered
 ```
 
 다른 위치에 설치했다면 Steam 라이브러리에서 게임을 우클릭하고 **관리 → 로컬 파일 탐색**을 선택하세요. 탐색기의 폴더 주소를 패치 프로그램에 붙여 넣거나 **Browse**로 선택하세요. `ZephyrRemastered.exe`가 들어 있는 폴더를 선택해야 합니다. 게임을 종료한 뒤 **Check Files → Install English** 순서로 누르고 대상 폴더를 확인하세요. 첫 테스트는 별도로 복사한 게임 폴더에서 진행하세요.
+
+### Windows 권한 오류 및 중단된 설치 복구
+
+게임이 `C:\Program Files (x86)` 같은 보호된 폴더에 있으면 파일을 수정할 때 **Permission denied / Errno 13(권한 거부)** 오류가 발생할 수 있습니다. 게임과 패치 프로그램을 닫고 `ZephyrEnglishPatcher.exe`를 우클릭하여 **관리자 권한으로 실행**하세요. 실행 파일을 빌드하는 과정에는 관리자 권한이 필요하지 않습니다.
+
+설치에 실패했다면 같은 게임 폴더를 선택하고 **Check Files**를 누르세요. 중단된 작업이 있다고 표시되면 **Recover → Check Files** 순서로 진행한 뒤, 지원되는 원본 파일이라고 확인될 때 설치를 다시 진행하세요. 복원을 위해 패치 프로그램과 백업을 보관하세요.
+
+PURPLE 기본 설치 경로는 `C:\Program Files (x86)\NC\Rhapsody of Zephyr Remastered`입니다. PURPLE은 별도의 실험용 패키지가 필요하며, 위에 링크된 Steam 배포판으로는 패치할 수 없습니다.
 
 ### 의견 보내기 및 크레딧
 
