@@ -5,9 +5,12 @@ import hashlib
 import json
 import shutil
 import zlib
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0,str(ROOT))
+from scripts.package_windows_zip import package as package_windows_zip
 
 def sha(data):
     return hashlib.sha256(data).hexdigest()
@@ -32,7 +35,8 @@ def main():
     payload.mkdir()
     manifest = dict(format=1, language='en-US', game_build=upstream['game_build'], exe_sha256=upstream['exe_sha256'], dependencies=upstream['dependencies'], files=[])
     proof = json.loads((ROOT/'localization/en-US/particle-review.json').read_text())
-    manifest['dependencies'].append({'path':proof['binary_file'], 'sha256':proof['binary_sha256']})
+    # GameAssembly is now a restorable patch target, not an immutable dependency.
+    manifest['dependencies'] = [d for d in manifest['dependencies'] if d['path'] != proof['binary_file']]
     if (args.stage/'ZephyrRemastered_Data/StreamingAssets/aa/catalog.hash').exists():
         catalog_hash_path = args.stage/'ZephyrRemastered_Data/StreamingAssets/aa/catalog.hash'
     else:
@@ -41,7 +45,9 @@ def main():
         raise ValueError('Addressables catalog hash changed.')
     expected = {r['file']: r['sha256'] for r in report['outputs']}
     stage_files = sorted(p for p in (args.stage / 'ZephyrRemastered_Data').rglob('*') if p.is_file())
+    stage_files.append(args.stage / proof['binary_file'])
     upstream_hashes = {r['path']:r['before_sha256'] for r in upstream['files']}
+    upstream_hashes[proof['binary_file']] = proof['binary_sha256']
     inventory = json.loads((ROOT / 'private/inventory-evidence.json').read_text())['file_hashes']
     for index, path in enumerate(stage_files):
         name = path.relative_to(args.stage).as_posix()
@@ -88,7 +94,7 @@ def main():
     hashes = {p.name:sha(p.read_bytes()) for p in payload.iterdir() if p.is_file()}
     (output/'english_trust.py').write_text('HASHES = '+repr(hashes)+'\n')
     shutil.copytree(ROOT/'licenses/python',output/'licenses/python')
-    shutil.make_archive(str(output),'zip',root_dir=output.parent,base_dir=output.name)
+    package_windows_zip(output, Path(str(output)+'.zip'))
     print(f'Created {output}.zip with {len(manifest["files"])} deltas. No full game copy included.')
 
 if __name__ == '__main__':

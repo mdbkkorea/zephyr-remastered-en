@@ -31,7 +31,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8841](../../localization/en-US/korean-batch-030.jsonl#L23) | art_ko_fl05_s03 / ["TextList", 27, "Text"] | 약속은 약속... | A promise is a promise... |
 | [R8842](../../localization/en-US/korean-batch-030.jsonl#L24) | art_ko_fl05_s03 / ["TextList", 28, "Text"] | 두목...설마...!! | Boss... You can't mean...!! |
 | [R8843](../../localization/en-US/korean-batch-030.jsonl#L25) | art_ko_fl05_s03 / ["TextList", 29, "Text"] | 약속대로..사이럽스까지 모셔드리겠으며.. | As promised... I will take you to Cyrups... |
-| [R8844](../../localization/en-US/korean-batch-030.jsonl#L26) | art_ko_fl05_s03 / ["TextList", 30, "Text"] | 어떤 일을 하시던지 힘이 되어 드리지요. | And whatever you do, I will lend you my strength. |
+| [R8844](../../localization/en-US/korean-batch-030.jsonl#L26) | art_ko_fl05_s03 / ["TextList", 30, "Text"] | 어떤 일을 하시던지 힘이 되어 드리지요. | And whatever you do, I will stand by you. |
 | [R8845](../../localization/en-US/korean-batch-030.jsonl#L27) | art_ko_fl05_s03 / ["TextList", 32, "Text"] | .....좋을대로. | ...As you wish. |
 | [R8846](../../localization/en-US/korean-batch-030.jsonl#L28) | art_ko_fl05_s03 / ["TextList", 33, "Text"] | ...좋을대로. | ...As you wish. |
 | [R8847](../../localization/en-US/korean-batch-030.jsonl#L29) | art_ko_fl05_s04 / ["TextList", 0, "Text"] | 태워줘서 고맙군. | Thank you for the passage. |
@@ -56,9 +56,9 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8866](../../localization/en-US/korean-batch-030.jsonl#L48) | art_ko_fl05_s04 / ["TextList", 19, "Text"] | 예, 시라노! | Yes, Cyrano! |
 | [R8867](../../localization/en-US/korean-batch-030.jsonl#L49) | art_ko_fl05_s04 / ["TextList", 20, "Text"] | 트리시스 사막을 건너 일단 게이시르 시티 근처로 가자. | Let's cross the Trisis Desert and make for the outskirts of Geysir City. |
 | [R8868](../../localization/en-US/korean-batch-030.jsonl#L50) | art_ko_fl05_s04 / ["TextList", 21, "Text"] | 두목이 기다리던 사람이 바로 저 사람이란 말인가... | So that's the man the boss was waiting for... |
-| [R8869](../../localization/en-US/korean-batch-030.jsonl#L51) | art_ko_fl05_s04 / ["TextList", 22, "Text"] | 평소부터 자신을 꺾어줄 사람을 기다리더니만, 결국은 찾아냈군. | He always said he was waiting for someone who could beat him. He's finally found one. |
-| [R8870](../../localization/en-US/korean-batch-030.jsonl#L52) | art_ko_fl05_s04 / ["TextList", 23, "Text"] | 휴... 두목 실력이면 평생 가도 못찾을 줄 알았는데... | Whew... With the boss's skill, I thought he'd spend his whole life looking... |
-| [R8871](../../localization/en-US/korean-batch-030.jsonl#L53) | art_ko_fl05_s04 / ["TextList", 24, "Text"] | 그동안 두목만 섬기던 우린 뭐지? | Then what does that make us, after serving him all this time? |
+| [R8869](../../localization/en-US/korean-batch-030.jsonl#L51) | art_ko_fl05_s04 / ["TextList", 22, "Text"] | 평소부터 자신을 꺾어줄 사람을 기다리더니만, 결국은 찾아냈군. | She always said she was waiting for someone who could beat her. She's finally found one. |
+| [R8870](../../localization/en-US/korean-batch-030.jsonl#L52) | art_ko_fl05_s04 / ["TextList", 23, "Text"] | 휴... 두목 실력이면 평생 가도 못찾을 줄 알았는데... | Whew... With the boss's skill, I thought she'd spend her whole life looking... |
+| [R8871](../../localization/en-US/korean-batch-030.jsonl#L53) | art_ko_fl05_s04 / ["TextList", 24, "Text"] | 그동안 두목만 섬기던 우린 뭐지? | Then what does that make us, after serving her all this time? |
 | [R8872](../../localization/en-US/korean-batch-030.jsonl#L54) | art_ko_fl05_s04 / ["TextList", 25, "Text"] | 뭐긴요~/15d 개밥에 도토리... | What else?/15d The third wheel... |
 | [R8873](../../localization/en-US/korean-batch-030.jsonl#L55) | art_ko_fl05_s04 / ["TextList", 27, "Text"] | 윽...! | Ugh...! |
 | [R8874](../../localization/en-US/korean-batch-030.jsonl#L56) | art_ko_fl05_s04 / ["TextList", 28, "Text"] | 에라, 밑천은 두둑하니 장사나 시작해 볼까... | Ah, well. I've got plenty saved up. Perhaps I'll start a business... |
@@ -88,15 +88,15 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8898](../../localization/en-US/korean-batch-030.jsonl#L80) | art_fl05_s04 / ["TextList", 13, "Text"] | 그럼,/30d 작별이다./40d/n다시 만날 날이 있겠지. | Then,/30d farewell./40d/nI'm sure we'll meet again. |
 | [R8899](../../localization/en-US/korean-batch-030.jsonl#L81) | art_fl05_s04 / ["TextList", 14, "Text"] | 부디/35d 행복하시길 바라겠습니다,/20d 두목! | We wish you/35d every happiness,/20d Boss! |
 | [R8900](../../localization/en-US/korean-batch-030.jsonl#L82) | art_fl05_s04 / ["TextList", 15, "Text"] | 언젠가 이런 날이 올 줄 알았지만…/65d/n저 바보 녀석들을 두고 떠나자니/30d 걱정이 앞서는걸. | I knew this day would come.../65d/nBut I can't help worrying/30d about leaving those fools behind. |
-| [R8901](../../localization/en-US/korean-batch-030.jsonl#L83) | art_fl05_s04 / ["TextList", 16, "Text"] | 당신의 힘이 되어드리겠다 약속했지요./50d/n저는/25d 한번 뱉은 말은/35d 끝까지 지키는 사람입니다. | I promised to lend you my strength./50d/nI/25d keep my word/35d to the end. |
+| [R8901](../../localization/en-US/korean-batch-030.jsonl#L83) | art_fl05_s04 / ["TextList", 16, "Text"] | 당신의 힘이 되어드리겠다 약속했지요./50d/n저는/25d 한번 뱉은 말은/35d 끝까지 지키는 사람입니다. | I promised to stand by you./50d/nI/25d keep my word/35d to the end. |
 | [R8902](../../localization/en-US/korean-batch-030.jsonl#L84) | art_fl05_s04 / ["TextList", 17, "Text"] | 나를 따라올 필요는 없어./45d/n사이럽스에 데려다 준 것 만으로도 충분하다. | You don't need to follow me./45d/nBringing me to Cyrups was enough. |
 | [R8903](../../localization/en-US/korean-batch-030.jsonl#L85) | art_fl05_s04 / ["TextList", 18, "Text"] | …/50d그런가./50d/n그럼,/20d 앞으로 잘 부탁하지. | .../50dI see./50d/nThen,/20d I look forward to having you with me. |
 | [R8904](../../localization/en-US/korean-batch-030.jsonl#L86) | art_fl05_s04 / ["TextList", 19, "Text"] | 잘 부탁드립니다,/25d 시라노! | Likewise,/25d Cyrano! |
 | [R8905](../../localization/en-US/korean-batch-030.jsonl#L87) | art_fl05_s04 / ["TextList", 20, "Text"] | 일단/20d 트리시스 사막을 건너/30d 게이시르 시티로 간다. | First,/20d we cross the Trisis Desert/30d and head to Geysir City. |
 | [R8906](../../localization/en-US/korean-batch-030.jsonl#L88) | art_fl05_s04 / ["TextList", 21, "Text"] | 두목이 기다리던 사람이/35d 바로 저 남자란 말인가… | So that man/35d is the one the boss was waiting for... |
-| [R8907](../../localization/en-US/korean-batch-030.jsonl#L89) | art_fl05_s04 / ["TextList", 22, "Text"] | 자신을 꺾어줄 사람을 기다린다더니만,/40d 결국엔 만났네. | He said he was waiting for someone who could beat him./40d He's finally found one. |
-| [R8908](../../localization/en-US/korean-batch-030.jsonl#L90) | art_fl05_s04 / ["TextList", 23, "Text"] | 두목 실력이면/20d 평생 못 찾을 줄 알았는데… | With the boss's skill,/20d I thought he'd spend his whole life looking... |
-| [R8909](../../localization/en-US/korean-batch-030.jsonl#L91) | art_fl05_s04 / ["TextList", 24, "Text"] | 그동안 두목만 섬기던 우린 뭐지? | Then what does that make us, after serving him all this time? |
+| [R8907](../../localization/en-US/korean-batch-030.jsonl#L89) | art_fl05_s04 / ["TextList", 22, "Text"] | 자신을 꺾어줄 사람을 기다린다더니만,/40d 결국엔 만났네. | She said she was waiting for someone who could beat her./40d She's finally found one. |
+| [R8908](../../localization/en-US/korean-batch-030.jsonl#L90) | art_fl05_s04 / ["TextList", 23, "Text"] | 두목 실력이면/20d 평생 못 찾을 줄 알았는데… | With the boss's skill,/20d I thought she'd spend her whole life looking... |
+| [R8909](../../localization/en-US/korean-batch-030.jsonl#L91) | art_fl05_s04 / ["TextList", 24, "Text"] | 그동안 두목만 섬기던 우린 뭐지? | Then what does that make us, after serving her all this time? |
 | [R8910](../../localization/en-US/korean-batch-030.jsonl#L92) | art_fl05_s04 / ["TextList", 25, "Text"] | 뭐긴요,/20d 개밥에 도토리… | What else?/20d The third wheel... |
 | [R8911](../../localization/en-US/korean-batch-030.jsonl#L93) | art_fl05_s04 / ["TextList", 27, "Text"] | 윽…! | Ugh...! |
 | [R8912](../../localization/en-US/korean-batch-030.jsonl#L94) | art_fl05_s04 / ["TextList", 28, "Text"] | 에라,/30d 밑천은 두둑하니/25d 장사나 시작해 볼까… | Ah, well./30d I've got plenty saved up./25d Perhaps I'll start a business... |

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "b6858c11dbe2e4452294d3e4642552104fbc4c27031afdc9f3c720018a8b83de",
+    "review_id": "R19684",
+    "original_sha256": "71c339a6e54830785cc312d6b3dd6f2387bcbf27146d5943fd1c4fe03b749bb1",
+    "target_sha256": "c48f016c7c7ca5f122b6805a65a0c4c95dd99d1feec676664f7e7ddb909836ba",
+    "reason": "User-approved removal of one manual line break; natural wrapping retained."
+  },
+  {
+    "id": "051fbe29fb64712c141243ab7eaf5a4644b9f6b243c60f0e03a2bb426dd56856",
+    "review_id": "R19686",
+    "original_sha256": "86181a81b877ebd92a75bf74a2964573b9f48f70eff5a4419fc2d61f3b329e12",
+    "target_sha256": "ebfcc2b91d7cf1ee95cf10f789cdccec6815fe9d0358d43a4b9afe9e27eafe8c",
+    "reason": "User-approved removal of one manual line break; natural wrapping retained."
+  },
+  {
+    "id": "f16c9a6c712f818e02b9e4dbeeb8788b34b852174a7a00cda0ab6f188dda27c2",
+    "review_id": "R19703",
+    "original_sha256": "8ad5bf9c2ffa86a20b01c4ec6099558e7c32cbb64429698cf33ba93c748734d1",
+    "target_sha256": "2d3e5f1cde793062f7203edb6cb6d704dde0673cbb20b395d318b11d312a8efb",
+    "reason": "User-approved removal of one manual line break; natural wrapping retained."
+  },
+  {
+    "id": "7023f5895b213ff1260e374468a044b44191a5881c7d63d387de21ba69bedae9",
+    "review_id": "R19742",
+    "original_sha256": "b2f861a126cb10fe62400d8d46fbca713a7e11f880823f332298561e044eb087",
+    "target_sha256": "93e699031e0ef27a404797c00b07d45cbbdf169216c4bda937bf370b902b1889",
+    "reason": "User-approved removal of one manual line break; natural wrapping retained."
+  },
+  {
+    "id": "44ba99894cf9cdd85e826ee49edf30e1967bb86d33d860bb1c30bcf29a5f5c9d",
+    "review_id": "R19752",
+    "original_sha256": "71c339a6e54830785cc312d6b3dd6f2387bcbf27146d5943fd1c4fe03b749bb1",
+    "target_sha256": "c48f016c7c7ca5f122b6805a65a0c4c95dd99d1feec676664f7e7ddb909836ba",
+    "reason": "User-approved removal of one manual line break; natural wrapping retained."
+  }
+]

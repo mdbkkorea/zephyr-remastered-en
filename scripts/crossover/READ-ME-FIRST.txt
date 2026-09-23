@@ -12,7 +12,7 @@ ZephyrPassives English — CrossOver Steam (Apple Silicon Mac)
 Default folder:
 ~/Library/Application Support/CrossOver/Bottles/Steam/drive_c/Program Files (x86)/Steam/steamapps/common/The Rhapsody of Zephyr Remastered
 
-This applies the complete English translation, including Aura Slash, Geyshir,
+This applies the complete English translation, including Blade Shot, Geysir,
 compact battle commands and the ZephyrPassives default-setting descriptions.
 It automatically backs up verified original game files. It does not change
 active saves or mod files. A previous installation managed by this patcher can

@@ -1,0 +1,294 @@
+{
+  "status": "User accepted Mac playtest; included from beta.3",
+  "description": "Full Auto-Advance HUD label, font 22 to 16; verified Steam and PURPLE object references",
+  "changes": [
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -5459943354124520860,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -5459943354124520860,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 7631407034230977124,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 7631407034230977124,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 514060648280396060,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 514060648280396060,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1045753587969006581,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1045753587969006581,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 2680090120665534748,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 2680090120665534748,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 4528346334948924405,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 4528346334948924405,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -5459943354124520860,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -5459943354124520860,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 7631407034230977124,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 7631407034230977124,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 514060648280396060,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 514060648280396060,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1045753587969006581,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1045753587969006581,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 2680090120665534748,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 2680090120665534748,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 4528346334948924405,
+        "path": [
+          "m_fontSize"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 4528346334948924405,
+        "path": [
+          "m_fontSizeBase"
+        ]
+      },
+      "expected": 22.0,
+      "value": 16.0
+    }
+  ]
+}

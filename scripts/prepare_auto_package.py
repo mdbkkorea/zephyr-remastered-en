@@ -2,6 +2,8 @@
 import argparse, hashlib, json, shutil, zlib, sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
+sys.path.insert(0,str(ROOT))
+from scripts.package_windows_zip import package as package_windows_zip
 sys.path.insert(0,str(ROOT/'windows'))
 from english_version import VERSION
 def digest(data):return hashlib.sha256(data).hexdigest()
@@ -28,6 +30,6 @@ def main():
  for name in ['test_auto_mods.py','test_windows_patcher.py','test_patcher_platform.py']:
   shutil.copy2(ROOT/'tests'/name,a.output/'tests'/name)
  (a.output/'english_trust.py').write_text('HASHES = '+repr({p.name:digest(p.read_bytes()) for p in payload.iterdir() if p.is_file()})+'\n')
- shutil.make_archive(str(a.output),'zip',root_dir=a.output.parent,base_dir=a.output.name)
+ package_windows_zip(a.output, Path(str(a.output)+'.zip'))
  print(a.output)
 if __name__=='__main__':main()

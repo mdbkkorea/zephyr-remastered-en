@@ -20,9 +20,9 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R22162](../../localization/en-US/supplemental-display.jsonl#L12) | DataTexts_RE_KO / ["TextList", 874, "Text"] | 보물섬지도의 조각 | A piece of a treasure island map. |
 | [R22163](../../localization/en-US/supplemental-display.jsonl#L13) | DataTexts_RE_KO / ["TextList", 894, "Text"] | ** 미구현 장신구 아이템 ** | ** Unimplemented accessory item ** |
 | [R22164](../../localization/en-US/supplemental-display.jsonl#L14) | DataTexts_RE_KO / ["TextList", 1254, "Text"] | 검광이 길게 뻗어나가는 연속 공격 | A series of attacks with long-reaching swordlight |
-| [R22165](../../localization/en-US/supplemental-display.jsonl#L15) | DataTexts_RE_KO / ["TextList", 1262, "Text"] | 4개의 탄검을 랜덤으로 발출 | Unleashes four Aura Slashes in random directions |
+| [R22165](../../localization/en-US/supplemental-display.jsonl#L15) | DataTexts_RE_KO / ["TextList", 1262, "Text"] | 4개의 탄검을 랜덤으로 발출 | Unleashes four Blade Shots in random directions |
 | [R22166](../../localization/en-US/supplemental-display.jsonl#L16) | DataTexts_RE_KO / ["TextList", 1274, "Text"] | 검광이 길게 뻗어나가는 연속 공격 | A series of attacks with long-reaching swordlight |
-| [R22167](../../localization/en-US/supplemental-display.jsonl#L17) | DataTexts_RE_KO / ["TextList", 1282, "Text"] | 4개의 탄검을 랜덤으로 발출 | Unleashes four Aura Slashes in random directions |
+| [R22167](../../localization/en-US/supplemental-display.jsonl#L17) | DataTexts_RE_KO / ["TextList", 1282, "Text"] | 4개의 탄검을 랜덤으로 발출 | Unleashes four Blade Shots in random directions |
 | [R22168](../../localization/en-US/supplemental-display.jsonl#L18) | DataTexts_RE_KO / ["TextList", 1294, "Text"] | 자신 주위의 적을 가격 | Strikes surrounding enemies |
 | [R22169](../../localization/en-US/supplemental-display.jsonl#L19) | DataTexts_RE_KO / ["TextList", 1298, "Text"] | 태양배경과 함께 적을 반으로가름 | Cleaves the enemy in two against the sun |
 | [R22170](../../localization/en-US/supplemental-display.jsonl#L20) | DataTexts_RE_KO / ["TextList", 1302, "Text"] | 적과 함께 날아올라 불,전격속성 공격 | Rises into the air with the enemy and attacks with fire and lightning |

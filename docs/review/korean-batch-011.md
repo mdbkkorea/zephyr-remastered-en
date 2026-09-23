@@ -348,11 +348,11 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R4463](../../localization/en-US/korean-batch-011.jsonl#L340) | DataTexts_RE_KO / ["TextList", 992, "Text"] | 시라노 베기 | Cyrano Slash |
 | [R4464](../../localization/en-US/korean-batch-011.jsonl#L341) | DataTexts_RE_KO / ["TextList", 996, "Text"] | 시라노 약베기 | Cyrano Weak Slash |
 | [R4465](../../localization/en-US/korean-batch-011.jsonl#L342) | DataTexts_RE_KO / ["TextList", 1000, "Text"] | 시라노 강베기 | Cyrano Strong Slash |
-| [R4466](../../localization/en-US/korean-batch-011.jsonl#L343) | DataTexts_RE_KO / ["TextList", 1004, "Text"] | 시라노 탄검 | Cyrano Aura Slash |
+| [R4466](../../localization/en-US/korean-batch-011.jsonl#L343) | DataTexts_RE_KO / ["TextList", 1004, "Text"] | 시라노 탄검 | Cyrano Blade Shot |
 | [R4467](../../localization/en-US/korean-batch-011.jsonl#L344) | DataTexts_RE_KO / ["TextList", 1008, "Text"] | 샤른 베기 | Sharn Slash |
 | [R4468](../../localization/en-US/korean-batch-011.jsonl#L345) | DataTexts_RE_KO / ["TextList", 1012, "Text"] | 샤른 약베기 | Sharn Weak Slash |
 | [R4469](../../localization/en-US/korean-batch-011.jsonl#L346) | DataTexts_RE_KO / ["TextList", 1016, "Text"] | 샤른 강베기 | Sharn Strong Slash |
-| [R4470](../../localization/en-US/korean-batch-011.jsonl#L347) | DataTexts_RE_KO / ["TextList", 1020, "Text"] | 샤른 탄검 | Sharn Aura Slash |
+| [R4470](../../localization/en-US/korean-batch-011.jsonl#L347) | DataTexts_RE_KO / ["TextList", 1020, "Text"] | 샤른 탄검 | Sharn Blade Shot |
 | [R4471](../../localization/en-US/korean-batch-011.jsonl#L348) | DataTexts_RE_KO / ["TextList", 1024, "Text"] | 메디치 베기 | Medici Slash |
 | [R4472](../../localization/en-US/korean-batch-011.jsonl#L349) | DataTexts_RE_KO / ["TextList", 1028, "Text"] | 메디치 약베기 | Medici Weak Slash |
 | [R4473](../../localization/en-US/korean-batch-011.jsonl#L350) | DataTexts_RE_KO / ["TextList", 1032, "Text"] | 메디치 강베기 | Medici Strong Slash |
@@ -410,22 +410,22 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R4525](../../localization/en-US/korean-batch-011.jsonl#L402) | DataTexts_RE_KO / ["TextList", 1240, "Text"] | 장교,강베기03 | Officer Strong Slash 03 |
 | [R4526](../../localization/en-US/korean-batch-011.jsonl#L403) | DataTexts_RE_KO / ["TextList", 1244, "Text"] | 장교,강베기04 | Officer Strong Slash 04 |
 | [R4527](../../localization/en-US/korean-batch-011.jsonl#L404) | DataTexts_RE_KO / ["TextList", 1248, "Text"] | 장교,사격 | Officer Shot |
-| [R4528](../../localization/en-US/korean-batch-011.jsonl#L405) | DataTexts_RE_KO / ["TextList", 1252, "Text"] | 진공수라인 | Vacuum Asura Blade |
+| [R4528](../../localization/en-US/korean-batch-011.jsonl#L405) | DataTexts_RE_KO / ["TextList", 1252, "Text"] | 진공수라인 | Asura's Void Edge |
 | [R4529](../../localization/en-US/korean-batch-011.jsonl#L406) | DataTexts_RE_KO / ["TextList", 1255, "Text"] | 검에 기운을 불어넣어 수많은 진공의 검광을 발생시키는 연속 공격./n사정거리 : 주위 2칸 | A flurry of attacks that channels energy into the sword to create countless blades of vacuum./nRange: within 2 tiles |
 | [R4530](../../localization/en-US/korean-batch-011.jsonl#L407) | DataTexts_RE_KO / ["TextList", 1256, "Text"] | 마영투혼 | Demon Shadow Fighting Spirit |
 | [R4531](../../localization/en-US/korean-batch-011.jsonl#L408) | DataTexts_RE_KO / ["TextList", 1259, "Text"] | ** 미구현 필살기 ** | ** Unimplemented Special Move ** |
-| [R4532](../../localization/en-US/korean-batch-011.jsonl#L409) | DataTexts_RE_KO / ["TextList", 1260, "Text"] | 질풍마영참 | Gale Shadow Slash |
-| [R4533](../../localization/en-US/korean-batch-011.jsonl#L410) | DataTexts_RE_KO / ["TextList", 1263, "Text"] | 범위 내의 적에게 4개의 탄검을 랜덤으로 발출해 피해를 입히는 공격./n공격범위 : 중심부터 6칸 | Randomly unleashes 4 Aura Slashes at enemies within range, dealing damage./nAttack area: within 6 tiles of the center |
+| [R4532](../../localization/en-US/korean-batch-011.jsonl#L409) | DataTexts_RE_KO / ["TextList", 1260, "Text"] | 질풍마영참 | Demonic Gale Strike |
+| [R4533](../../localization/en-US/korean-batch-011.jsonl#L410) | DataTexts_RE_KO / ["TextList", 1263, "Text"] | 범위 내의 적에게 4개의 탄검을 랜덤으로 발출해 피해를 입히는 공격./n공격범위 : 중심부터 6칸 | Randomly unleashes 4 Blade Shots at enemies within range, dealing damage./nAttack area: within 6 tiles of the center |
 | [R4534](../../localization/en-US/korean-batch-011.jsonl#L411) | DataTexts_RE_KO / ["TextList", 1264, "Text"] | 단공빙쇄참 | Sky-cleaving Ice Slash |
 | [R4535](../../localization/en-US/korean-batch-011.jsonl#L412) | DataTexts_RE_KO / ["TextList", 1267, "Text"] | ** 미구현 필살기 ** | ** Unimplemented Special Move ** |
 | [R4536](../../localization/en-US/korean-batch-011.jsonl#L413) | DataTexts_RE_KO / ["TextList", 1268, "Text"] | 설화난영참 | Snow Blossom Shadow Slash |
 | [R4537](../../localization/en-US/korean-batch-011.jsonl#L414) | DataTexts_RE_KO / ["TextList", 1271, "Text"] | ** 미구현 필살기 ** | ** Unimplemented Special Move ** |
-| [R4538](../../localization/en-US/korean-batch-011.jsonl#L415) | DataTexts_RE_KO / ["TextList", 1272, "Text"] | 진공수라인 | Vacuum Asura Blade |
+| [R4538](../../localization/en-US/korean-batch-011.jsonl#L415) | DataTexts_RE_KO / ["TextList", 1272, "Text"] | 진공수라인 | Asura's Void Edge |
 | [R4539](../../localization/en-US/korean-batch-011.jsonl#L416) | DataTexts_RE_KO / ["TextList", 1275, "Text"] | 검에 기운을 불어넣어 수많은 진공의 검광을 발생시키는 연속 공격./n사정거리 : 주위 2칸 | A flurry of attacks that channels energy into the sword to create countless blades of vacuum./nRange: within 2 tiles |
 | [R4540](../../localization/en-US/korean-batch-011.jsonl#L417) | DataTexts_RE_KO / ["TextList", 1276, "Text"] | 마영투혼 | Demon Shadow Fighting Spirit |
 | [R4541](../../localization/en-US/korean-batch-011.jsonl#L418) | DataTexts_RE_KO / ["TextList", 1279, "Text"] | ** 미구현 필살기 ** | ** Unimplemented Special Move ** |
-| [R4542](../../localization/en-US/korean-batch-011.jsonl#L419) | DataTexts_RE_KO / ["TextList", 1280, "Text"] | 질풍마영참 | Gale Shadow Slash |
-| [R4543](../../localization/en-US/korean-batch-011.jsonl#L420) | DataTexts_RE_KO / ["TextList", 1283, "Text"] | 범위 내의 적에게 4개의 탄검을 랜덤으로 발출해 피해를 입히는 공격./n공격범위 : 중심부터 6칸 | Randomly unleashes 4 Aura Slashes at enemies within range, dealing damage./nAttack area: within 6 tiles of the center |
+| [R4542](../../localization/en-US/korean-batch-011.jsonl#L419) | DataTexts_RE_KO / ["TextList", 1280, "Text"] | 질풍마영참 | Demonic Gale Strike |
+| [R4543](../../localization/en-US/korean-batch-011.jsonl#L420) | DataTexts_RE_KO / ["TextList", 1283, "Text"] | 범위 내의 적에게 4개의 탄검을 랜덤으로 발출해 피해를 입히는 공격./n공격범위 : 중심부터 6칸 | Randomly unleashes 4 Blade Shots at enemies within range, dealing damage./nAttack area: within 6 tiles of the center |
 | [R4544](../../localization/en-US/korean-batch-011.jsonl#L421) | DataTexts_RE_KO / ["TextList", 1284, "Text"] | 설화난영참 | Snow Blossom Shadow Slash |
 | [R4545](../../localization/en-US/korean-batch-011.jsonl#L422) | DataTexts_RE_KO / ["TextList", 1287, "Text"] | ** 미구현 필살기 ** | ** Unimplemented Special Move ** |
 | [R4546](../../localization/en-US/korean-batch-011.jsonl#L423) | DataTexts_RE_KO / ["TextList", 1288, "Text"] | 무극잔광상 | Boundless Afterglow Flight |
@@ -468,9 +468,9 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R4583](../../localization/en-US/korean-batch-011.jsonl#L460) | DataTexts_RE_KO / ["TextList", 1368, "Text"] | 낙화무혼검 | Falling Blossom Soul Sword |
 | [R4584](../../localization/en-US/korean-batch-011.jsonl#L461) | DataTexts_RE_KO / ["TextList", 1372, "Text"] | 무신멸뢰옥 | War God's Thunder Prison |
 | [R4585](../../localization/en-US/korean-batch-011.jsonl#L462) | DataTexts_RE_KO / ["TextList", 1376, "Text"] | 레이져 | Laser |
-| [R4586](../../localization/en-US/korean-batch-011.jsonl#L463) | DataTexts_RE_KO / ["TextList", 1380, "Text"] | 아수라파천무 | Asura Heaven-shattering Dance |
+| [R4586](../../localization/en-US/korean-batch-011.jsonl#L463) | DataTexts_RE_KO / ["TextList", 1380, "Text"] | 아수라파천무 | Asura Heavensbane |
 | [R4587](../../localization/en-US/korean-batch-011.jsonl#L464) | DataTexts_RE_KO / ["TextList", 1383, "Text"] | 마검 아수라를 소환했을 때만 사용할 수 있는 최고의 비기./n모든 적에게 큰 피해를 입힌다./n공격범위 : 전체 | A supreme art usable only while the Demon Sword Asura is summoned./nDeals heavy damage to all enemies./nAttack area: all |
-| [R4588](../../localization/en-US/korean-batch-011.jsonl#L465) | DataTexts_RE_KO / ["TextList", 1384, "Text"] | 진 아수라파천무 | True Asura Heaven-shattering Dance |
+| [R4588](../../localization/en-US/korean-batch-011.jsonl#L465) | DataTexts_RE_KO / ["TextList", 1384, "Text"] | 진 아수라파천무 | Veritas Asura Heavensbane |
 | [R4589](../../localization/en-US/korean-batch-011.jsonl#L466) | DataTexts_RE_KO / ["TextList", 1387, "Text"] | 마검 아수라를 소환했을 때만 사용할 수 있는 궁극의 비기./n모든 적에게 치명적인 피해를 입힌다./n공격범위 : 전체 | An ultimate art usable only while the Demon Sword Asura is summoned./nDeals devastating damage to all enemies./nAttack area: all |
 | [R4590](../../localization/en-US/korean-batch-011.jsonl#L467) | DataTexts_RE_KO / ["TextList", 1388, "Text"] | 천공일섬 | Heavenly Flash |
 | [R4591](../../localization/en-US/korean-batch-011.jsonl#L468) | DataTexts_RE_KO / ["TextList", 1391, "Text"] | 롱기누스의 창을 손에 쥔 자만 사용할 수 있는 숨겨진 비기./n하늘에서 내려온 창의 파동이 모든 적에게 피해를 입힌다./n공격범위 : 전체 | A hidden art usable only by the wielder of the Spear of Longinus./nA spear's shock wave descends from the sky, damaging all enemies./nAttack area: all |
@@ -1016,11 +1016,11 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R5131](../../localization/en-US/korean-batch-011.jsonl#L1008) | DataTexts_KO / ["TextList", 992, "Text"] | 시라노 베기 | Cyrano Slash |
 | [R5132](../../localization/en-US/korean-batch-011.jsonl#L1009) | DataTexts_KO / ["TextList", 996, "Text"] | 시라노 약베기 | Cyrano Weak Slash |
 | [R5133](../../localization/en-US/korean-batch-011.jsonl#L1010) | DataTexts_KO / ["TextList", 1000, "Text"] | 시라노 강베기 | Cyrano Strong Slash |
-| [R5134](../../localization/en-US/korean-batch-011.jsonl#L1011) | DataTexts_KO / ["TextList", 1004, "Text"] | 시라노 탄검 | Cyrano Aura Slash |
+| [R5134](../../localization/en-US/korean-batch-011.jsonl#L1011) | DataTexts_KO / ["TextList", 1004, "Text"] | 시라노 탄검 | Cyrano Blade Shot |
 | [R5135](../../localization/en-US/korean-batch-011.jsonl#L1012) | DataTexts_KO / ["TextList", 1008, "Text"] | 샤른 베기 | Sharn Slash |
 | [R5136](../../localization/en-US/korean-batch-011.jsonl#L1013) | DataTexts_KO / ["TextList", 1012, "Text"] | 샤른 약베기 | Sharn Weak Slash |
 | [R5137](../../localization/en-US/korean-batch-011.jsonl#L1014) | DataTexts_KO / ["TextList", 1016, "Text"] | 샤른 강베기 | Sharn Strong Slash |
-| [R5138](../../localization/en-US/korean-batch-011.jsonl#L1015) | DataTexts_KO / ["TextList", 1020, "Text"] | 샤른 탄검 | Sharn Aura Slash |
+| [R5138](../../localization/en-US/korean-batch-011.jsonl#L1015) | DataTexts_KO / ["TextList", 1020, "Text"] | 샤른 탄검 | Sharn Blade Shot |
 | [R5139](../../localization/en-US/korean-batch-011.jsonl#L1016) | DataTexts_KO / ["TextList", 1024, "Text"] | 메디치 베기 | Medici Slash |
 | [R5140](../../localization/en-US/korean-batch-011.jsonl#L1017) | DataTexts_KO / ["TextList", 1028, "Text"] | 메디치 약베기 | Medici Weak Slash |
 | [R5141](../../localization/en-US/korean-batch-011.jsonl#L1018) | DataTexts_KO / ["TextList", 1032, "Text"] | 메디치 강베기 | Medici Strong Slash |
@@ -1078,14 +1078,14 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R5193](../../localization/en-US/korean-batch-011.jsonl#L1070) | DataTexts_KO / ["TextList", 1240, "Text"] | 장교,강베기03 | Officer Strong Slash 03 |
 | [R5194](../../localization/en-US/korean-batch-011.jsonl#L1071) | DataTexts_KO / ["TextList", 1244, "Text"] | 장교,강베기04 | Officer Strong Slash 04 |
 | [R5195](../../localization/en-US/korean-batch-011.jsonl#L1072) | DataTexts_KO / ["TextList", 1248, "Text"] | 장교,사격 | Officer Shot |
-| [R5196](../../localization/en-US/korean-batch-011.jsonl#L1073) | DataTexts_KO / ["TextList", 1252, "Text"] | 진공수라인 | Vacuum Asura Blade |
+| [R5196](../../localization/en-US/korean-batch-011.jsonl#L1073) | DataTexts_KO / ["TextList", 1252, "Text"] | 진공수라인 | Asura's Void Edge |
 | [R5197](../../localization/en-US/korean-batch-011.jsonl#L1074) | DataTexts_KO / ["TextList", 1256, "Text"] | 마영투혼 | Demon Shadow Fighting Spirit |
-| [R5198](../../localization/en-US/korean-batch-011.jsonl#L1075) | DataTexts_KO / ["TextList", 1260, "Text"] | 질풍마영참 | Gale Shadow Slash |
+| [R5198](../../localization/en-US/korean-batch-011.jsonl#L1075) | DataTexts_KO / ["TextList", 1260, "Text"] | 질풍마영참 | Demonic Gale Strike |
 | [R5199](../../localization/en-US/korean-batch-011.jsonl#L1076) | DataTexts_KO / ["TextList", 1264, "Text"] | 단공빙쇄참 | Sky-cleaving Ice Slash |
 | [R5200](../../localization/en-US/korean-batch-011.jsonl#L1077) | DataTexts_KO / ["TextList", 1268, "Text"] | 설화난영참 | Snow Blossom Shadow Slash |
-| [R5201](../../localization/en-US/korean-batch-011.jsonl#L1078) | DataTexts_KO / ["TextList", 1272, "Text"] | 진공수라인 | Vacuum Asura Blade |
+| [R5201](../../localization/en-US/korean-batch-011.jsonl#L1078) | DataTexts_KO / ["TextList", 1272, "Text"] | 진공수라인 | Asura's Void Edge |
 | [R5202](../../localization/en-US/korean-batch-011.jsonl#L1079) | DataTexts_KO / ["TextList", 1276, "Text"] | 마영투혼 | Demon Shadow Fighting Spirit |
-| [R5203](../../localization/en-US/korean-batch-011.jsonl#L1080) | DataTexts_KO / ["TextList", 1280, "Text"] | 질풍마영참 | Gale Shadow Slash |
+| [R5203](../../localization/en-US/korean-batch-011.jsonl#L1080) | DataTexts_KO / ["TextList", 1280, "Text"] | 질풍마영참 | Demonic Gale Strike |
 | [R5204](../../localization/en-US/korean-batch-011.jsonl#L1081) | DataTexts_KO / ["TextList", 1284, "Text"] | 설화난영참 | Snow Blossom Shadow Slash |
 | [R5205](../../localization/en-US/korean-batch-011.jsonl#L1082) | DataTexts_KO / ["TextList", 1288, "Text"] | 무극잔광상 | Boundless Afterglow Flight |
 | [R5206](../../localization/en-US/korean-batch-011.jsonl#L1083) | DataTexts_KO / ["TextList", 1292, "Text"] | 전격참 | Lightning Slash |
@@ -1110,8 +1110,8 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R5225](../../localization/en-US/korean-batch-011.jsonl#L1102) | DataTexts_KO / ["TextList", 1368, "Text"] | 낙화무혼검 | Falling Blossom Soul Sword |
 | [R5226](../../localization/en-US/korean-batch-011.jsonl#L1103) | DataTexts_KO / ["TextList", 1372, "Text"] | 무신멸뢰옥 | War God's Thunder Prison |
 | [R5227](../../localization/en-US/korean-batch-011.jsonl#L1104) | DataTexts_KO / ["TextList", 1376, "Text"] | 레이져 | Laser |
-| [R5228](../../localization/en-US/korean-batch-011.jsonl#L1105) | DataTexts_KO / ["TextList", 1380, "Text"] | 아수라파천무 | Asura Heaven-shattering Dance |
-| [R5229](../../localization/en-US/korean-batch-011.jsonl#L1106) | DataTexts_KO / ["TextList", 1384, "Text"] | 진 아수라파천무 | True Asura Heaven-shattering Dance |
+| [R5228](../../localization/en-US/korean-batch-011.jsonl#L1105) | DataTexts_KO / ["TextList", 1380, "Text"] | 아수라파천무 | Asura Heavensbane |
+| [R5229](../../localization/en-US/korean-batch-011.jsonl#L1106) | DataTexts_KO / ["TextList", 1384, "Text"] | 진 아수라파천무 | Veritas Asura Heavensbane |
 | [R5230](../../localization/en-US/korean-batch-011.jsonl#L1107) | DataTexts_KO / ["TextList", 1388, "Text"] | 천공일섬 | Heavenly Flash |
 | [R5231](../../localization/en-US/korean-batch-011.jsonl#L1108) | DataTexts_KO / ["TextList", 1392, "Text"] | 메테오 | Meteor |
 | [R5232](../../localization/en-US/korean-batch-011.jsonl#L1109) | DataTexts_KO / ["TextList", 1396, "Text"] | 스타더스트 | Stardust |
@@ -1572,11 +1572,11 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R5687](../../localization/en-US/korean-batch-011.jsonl#L1564) | Data_ko / ["m_TableData", 991, "m_Localized"] | 시라노 베기 | Cyrano Slash |
 | [R5688](../../localization/en-US/korean-batch-011.jsonl#L1565) | Data_ko / ["m_TableData", 995, "m_Localized"] | 시라노 약베기 | Cyrano Weak Slash |
 | [R5689](../../localization/en-US/korean-batch-011.jsonl#L1566) | Data_ko / ["m_TableData", 999, "m_Localized"] | 시라노 강베기 | Cyrano Strong Slash |
-| [R5690](../../localization/en-US/korean-batch-011.jsonl#L1567) | Data_ko / ["m_TableData", 1003, "m_Localized"] | 시라노 탄검 | Cyrano Aura Slash |
+| [R5690](../../localization/en-US/korean-batch-011.jsonl#L1567) | Data_ko / ["m_TableData", 1003, "m_Localized"] | 시라노 탄검 | Cyrano Blade Shot |
 | [R5691](../../localization/en-US/korean-batch-011.jsonl#L1568) | Data_ko / ["m_TableData", 1007, "m_Localized"] | 샤른 베기 | Sharn Slash |
 | [R5692](../../localization/en-US/korean-batch-011.jsonl#L1569) | Data_ko / ["m_TableData", 1011, "m_Localized"] | 샤른 약베기 | Sharn Weak Slash |
 | [R5693](../../localization/en-US/korean-batch-011.jsonl#L1570) | Data_ko / ["m_TableData", 1015, "m_Localized"] | 샤른 강베기 | Sharn Strong Slash |
-| [R5694](../../localization/en-US/korean-batch-011.jsonl#L1571) | Data_ko / ["m_TableData", 1019, "m_Localized"] | 샤른 탄검 | Sharn Aura Slash |
+| [R5694](../../localization/en-US/korean-batch-011.jsonl#L1571) | Data_ko / ["m_TableData", 1019, "m_Localized"] | 샤른 탄검 | Sharn Blade Shot |
 | [R5695](../../localization/en-US/korean-batch-011.jsonl#L1572) | Data_ko / ["m_TableData", 1023, "m_Localized"] | 메디치 베기 | Medici Slash |
 | [R5696](../../localization/en-US/korean-batch-011.jsonl#L1573) | Data_ko / ["m_TableData", 1027, "m_Localized"] | 메디치 약베기 | Medici Weak Slash |
 | [R5697](../../localization/en-US/korean-batch-011.jsonl#L1574) | Data_ko / ["m_TableData", 1031, "m_Localized"] | 메디치 강베기 | Medici Strong Slash |
@@ -1634,14 +1634,14 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R5749](../../localization/en-US/korean-batch-011.jsonl#L1626) | Data_ko / ["m_TableData", 1239, "m_Localized"] | 장교,강베기03 | Officer Strong Slash 03 |
 | [R5750](../../localization/en-US/korean-batch-011.jsonl#L1627) | Data_ko / ["m_TableData", 1243, "m_Localized"] | 장교,강베기04 | Officer Strong Slash 04 |
 | [R5751](../../localization/en-US/korean-batch-011.jsonl#L1628) | Data_ko / ["m_TableData", 1247, "m_Localized"] | 장교,사격 | Officer Shot |
-| [R5752](../../localization/en-US/korean-batch-011.jsonl#L1629) | Data_ko / ["m_TableData", 1251, "m_Localized"] | 진공수라인 | Vacuum Asura Blade |
+| [R5752](../../localization/en-US/korean-batch-011.jsonl#L1629) | Data_ko / ["m_TableData", 1251, "m_Localized"] | 진공수라인 | Asura's Void Edge |
 | [R5753](../../localization/en-US/korean-batch-011.jsonl#L1630) | Data_ko / ["m_TableData", 1255, "m_Localized"] | 마영투혼 | Demon Shadow Fighting Spirit |
-| [R5754](../../localization/en-US/korean-batch-011.jsonl#L1631) | Data_ko / ["m_TableData", 1259, "m_Localized"] | 질풍마영참 | Gale Shadow Slash |
+| [R5754](../../localization/en-US/korean-batch-011.jsonl#L1631) | Data_ko / ["m_TableData", 1259, "m_Localized"] | 질풍마영참 | Demonic Gale Strike |
 | [R5755](../../localization/en-US/korean-batch-011.jsonl#L1632) | Data_ko / ["m_TableData", 1263, "m_Localized"] | 단공빙쇄참 | Sky-cleaving Ice Slash |
 | [R5756](../../localization/en-US/korean-batch-011.jsonl#L1633) | Data_ko / ["m_TableData", 1267, "m_Localized"] | 설화난영참 | Snow Blossom Shadow Slash |
-| [R5757](../../localization/en-US/korean-batch-011.jsonl#L1634) | Data_ko / ["m_TableData", 1271, "m_Localized"] | 진공수라인 | Vacuum Asura Blade |
+| [R5757](../../localization/en-US/korean-batch-011.jsonl#L1634) | Data_ko / ["m_TableData", 1271, "m_Localized"] | 진공수라인 | Asura's Void Edge |
 | [R5758](../../localization/en-US/korean-batch-011.jsonl#L1635) | Data_ko / ["m_TableData", 1275, "m_Localized"] | 마영투혼 | Demon Shadow Fighting Spirit |
-| [R5759](../../localization/en-US/korean-batch-011.jsonl#L1636) | Data_ko / ["m_TableData", 1279, "m_Localized"] | 질풍마영참 | Gale Shadow Slash |
+| [R5759](../../localization/en-US/korean-batch-011.jsonl#L1636) | Data_ko / ["m_TableData", 1279, "m_Localized"] | 질풍마영참 | Demonic Gale Strike |
 | [R5760](../../localization/en-US/korean-batch-011.jsonl#L1637) | Data_ko / ["m_TableData", 1283, "m_Localized"] | 설화난영참 | Snow Blossom Shadow Slash |
 | [R5761](../../localization/en-US/korean-batch-011.jsonl#L1638) | Data_ko / ["m_TableData", 1287, "m_Localized"] | 무극잔광상 | Boundless Afterglow Flight |
 | [R5762](../../localization/en-US/korean-batch-011.jsonl#L1639) | Data_ko / ["m_TableData", 1291, "m_Localized"] | 전격참 | Lightning Slash |
@@ -1666,8 +1666,8 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R5781](../../localization/en-US/korean-batch-011.jsonl#L1658) | Data_ko / ["m_TableData", 1367, "m_Localized"] | 낙화무혼검 | Falling Blossom Soul Sword |
 | [R5782](../../localization/en-US/korean-batch-011.jsonl#L1659) | Data_ko / ["m_TableData", 1371, "m_Localized"] | 무신멸뢰옥 | War God's Thunder Prison |
 | [R5783](../../localization/en-US/korean-batch-011.jsonl#L1660) | Data_ko / ["m_TableData", 1375, "m_Localized"] | 레이져 | Laser |
-| [R5784](../../localization/en-US/korean-batch-011.jsonl#L1661) | Data_ko / ["m_TableData", 1379, "m_Localized"] | 아수라파천무 | Asura Heaven-shattering Dance |
-| [R5785](../../localization/en-US/korean-batch-011.jsonl#L1662) | Data_ko / ["m_TableData", 1383, "m_Localized"] | 진 아수라파천무 | True Asura Heaven-shattering Dance |
+| [R5784](../../localization/en-US/korean-batch-011.jsonl#L1661) | Data_ko / ["m_TableData", 1379, "m_Localized"] | 아수라파천무 | Asura Heavensbane |
+| [R5785](../../localization/en-US/korean-batch-011.jsonl#L1662) | Data_ko / ["m_TableData", 1383, "m_Localized"] | 진 아수라파천무 | Veritas Asura Heavensbane |
 | [R5786](../../localization/en-US/korean-batch-011.jsonl#L1663) | Data_ko / ["m_TableData", 1387, "m_Localized"] | 천공일섬 | Heavenly Flash |
 | [R5787](../../localization/en-US/korean-batch-011.jsonl#L1664) | Data_ko / ["m_TableData", 1391, "m_Localized"] | 메테오 | Meteor |
 | [R5788](../../localization/en-US/korean-batch-011.jsonl#L1665) | Data_ko / ["m_TableData", 1395, "m_Localized"] | 스타더스트 | Stardust |

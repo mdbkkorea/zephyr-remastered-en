@@ -25,7 +25,7 @@ function addSuggestionForm(r,article){
  const button=node('button','Save suggestion',form);button.type='button';
  const status=node('span','',form);status.className='save-status';status.setAttribute('role','status');
  function showState(){
-  status.textContent=readDraft(r)?'Draft in this browser — not saved to NAS.':existing?'Saved to NAS · pending your instruction.':'Not saved yet.';
+  status.textContent=readDraft(r)?'Draft in this browser — not saved to NAS.':existing?(existing.status==='applied'?'Applied to translation source · included in the next build.':'Saved to NAS · pending your instruction.'):'Not saved yet.';
   if(existing&&existing.key!==r.key)status.textContent='A suggestion exists for an older entry. It remains in NAS history.';
  }
  showState();
@@ -36,7 +36,7 @@ function addSuggestionForm(r,article){
  }
  fields.suggestion.oninput=changed;fields.explanation.oninput=changed;
  button.onclick=async()=>{
-  if(!saveToken){status.textContent='NAS saving is unavailable. Open the review website and reload; your draft is kept.';return}
+  if(!saveToken){status.textContent='NAS saving is unavailable in this tab. Copy your draft, then double-click Launch Review in Safari.command in the NAS review folder and use http://127.0.0.1:8766/. Paste your draft there and save. Keep the launcher Terminal open.';return}
   if(!fields.suggestion.value.trim()&&!fields.explanation.value.trim()){status.textContent='Enter a suggestion or explanation first.';return}
   if(!readDraft(r))changed();
   const snapshot={...readDraft(r)};
@@ -61,7 +61,7 @@ async function loadSuggestions(){
   const data=await response.json();if(!data.token||!data.saved)throw new Error('Not the review service');
   saveToken=data.token;savedSuggestions=data.saved;
   serviceStatus.textContent='NAS saving ready. Saved suggestions stay pending until you ask for implementation.';
- }catch{serviceStatus.textContent='To save to NAS, open Launch Review in Safari.command from the NAS review folder. Browser drafts remain available.'}
+ }catch{serviceStatus.textContent='To save to NAS, double-click Launch Review in Safari.command in the NAS review folder and use http://127.0.0.1:8766/. Copy drafts before switching: drafts in a file tab do not transfer to the website. Keep the launcher Terminal open.'}
  render();
 }
 window.addEventListener('beforeunload',event=>{if(Object.keys(draftMemory).length){event.preventDefault();event.returnValue=''}});

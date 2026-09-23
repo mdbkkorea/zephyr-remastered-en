@@ -31,7 +31,7 @@ def main():
     box = ttk.Frame(root,padding=20)
     box.pack(fill='both',expand=True)
     ttk.Label(box,text='The Rhapsody of Zephyr Remastered',font=('TkDefaultFont',17,'bold')).pack(anchor='w')
-    ttk.Label(box,text='English playtest patch • Offline • Original backups and restoration').pack(anchor='w',pady=(5,16))
+    ttk.Label(box,text='English playtest patch • 2.5× dialogue reveal • Original backups and restoration').pack(anchor='w',pady=(5,16))
     compatibility = ttk.LabelFrame(box, text='PURPLE edition — experimental' if purple else 'Compatible user mods', padding=10)
     compatibility.pack(fill='x',pady=(0,12))
     if purple:

@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from engine.catalog import Catalog
 from engine.patch_data import assign
-from scripts.check_korean_batch import check, read_rows
+from scripts.check_korean_batch import check, read_rows, approved_linebreak_change
 from scripts.english_metadata import translate_metadata
 
 
@@ -50,6 +50,11 @@ def audit(source, drafts, particle_review=None):
         if not isinstance(t, str):
             continue
         for pattern in (r'/\d+[a-zA-Z]|/n', r'^\s*', r'\s*$', r'/n(\s*)'):
+            if approved_linebreak_change(r):
+                if pattern == r'/n(\s*)':
+                    continue
+                if pattern == r'/\d+[a-zA-Z]|/n':
+                    pattern = r'/\d+[a-zA-Z]'
             if re.findall(pattern, s) != re.findall(pattern, t):
                 errors.append(r['id'] + ': ordered controls or whitespace changed')
         # Preserve key icons and other caret controls; only particle removal
@@ -105,7 +110,7 @@ def bundle_crc(data):
     return CRCBundle(EndianBinaryReader(data), None).crc
 
 
-def stage(game, output, source, drafts, patch, report):
+def stage(game, output, source, drafts, patch, report, metadata_drafts=None):
     import UnityPy
     import spooky
 
@@ -180,6 +185,8 @@ def stage(game, output, source, drafts, patch, report):
         'No runtime validation. '
         'Do not copy over the Steam installation.\n', encoding='utf-8')
     outputs = []
+    from scripts.release_adjustments import apply_layout, patch_reveal
+    layout_count = 0
     for relative, rows in grouped.items():
         env = UnityPy.load(str(beneath(game, relative)))
         objects = {(o.assets_file.name, o.path_id): o for o in env.objects}
@@ -201,6 +208,7 @@ def stage(game, output, source, drafts, patch, report):
                 if value_at(tree, path) != r['original']:
                     raise ValueError('Korean source differs from live original: ' + r['id'])
                 tree = assign(tree, path, r['target'])
+            layout_count += apply_layout(tree, relative, key)
             obj.save_typetree(tree, nodes=node)
             expected_trees[key], nodes[key] = copy.deepcopy(tree), node
         destination = beneath(output, relative)
@@ -238,7 +246,8 @@ def stage(game, output, source, drafts, patch, report):
         outputs.append(record)
         print('Verified English rebuild: ' + Path(relative).name, flush=True)
 
-    metadata_drafts = json.loads((ROOT / 'localization/en-US/metadata-drafts.json').read_text())
+    if metadata_drafts is None:
+        metadata_drafts = json.loads((ROOT / 'localization/en-US/metadata-drafts.json').read_text())
     metadata_files = {r['reference']['file'] for r in metadata_drafts}
     for relative in metadata_files:
         rows = [r for r in metadata_drafts if r['reference']['file'] == relative]
@@ -266,6 +275,15 @@ def stage(game, output, source, drafts, patch, report):
     for relative, original_digest in checked.items():
         if digest(beneath(game, relative).read_bytes()) != original_digest:
             raise ValueError('Original changed during build')
+    if layout_count != 12:
+        raise ValueError('Expected twelve verified Auto-Advance font fields')
+    binary = 'GameAssembly.dll'
+    before = beneath(game, binary).read_bytes()
+    rebuilt = patch_reveal(before)
+    beneath(output, binary).write_bytes(rebuilt)
+    checked[binary] = digest(before)
+    outputs.append(dict(file=binary, sha256=digest(rebuilt), size=len(rebuilt)))
+    report.update(dialogue_reveal_multiplier=2.5, layout_fields=layout_count)
     report.update(staged_occurrences=len(eligible), outputs=outputs,
                   original_files_unchanged=True, catalog_hash=cat_hash,
                   runtime_tested=False, installable_english_patch=False)

@@ -24,7 +24,7 @@ def main():
         rows.append(dict(id=f'F{i:03d}', batch='ZephyrFullmap 1.8.0 English', ko=r['original'], en=r['target'] or '(Destination suffix omitted)', zh=''))
     def page(title, body):
         return '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>'+html.escape(title)+'</title><style>body{font:18px/1.6 system-ui,sans-serif;margin:20px;max-width:850px;color:#20262b;background:#fff}article{border-top:2px solid #bcc;padding:14px 0}h1{font-size:24px}h2{font-size:19px}p{white-space:pre-wrap;overflow-wrap:anywhere}small{color:#556}a{color:#165e9e}</style><h1>'+html.escape(title)+'</h1>'+body+'</html>'
-    intro = 'Korean → English translation review. Original Korean is authoritative. Chinese is supporting context.\nSend corrections with the R or M number. Aura Slash terminology included.\nControl codes such as /n are preserved literally.\n'
+    intro = 'Korean → English translation review. Original Korean is authoritative. Chinese is supporting context.\nSend corrections with the R or M number. Blade Shot terminology included.\nControl codes such as /n are preserved literally.\n'
     index = ['<p>'+html.escape(intro)+'</p><p>No JavaScript is required. If your phone does not open links, navigate to the numbered files in this same folder. TXT files work in plain-text previews.</p><ul>']
     all_text = [intro]
     index_text = [intro, 'OPEN A NUMBERED .txt FILE for a small phone-friendly section.\nHTML files contain the same text directly (no scripts).\n']

@@ -3,7 +3,8 @@ ZEPHYR ENGLISH PATCHER — WINDOWS BUILD KIT
 Use the prepared Windows build-kit ZIP for your game edition: Steam or PURPLE.
 GitHub Code > Download ZIP contains source code, not the prepared payload.
 
-1. Extract the entire kit to a local writable folder, such as Downloads.
+1. Extract the entire kit to a short local path, such as C:\Zephyr.
+   Open ZSteam or ZPurple inside it. Avoid nesting inside older kit folders.
 2. Install Python 3.12 (64-bit), including Python Launcher and Tcl/Tk.
 3. Run Build-Windows.cmd beside the payload folder.
 4. The output is dist\ZephyrEnglishPatcher.exe.

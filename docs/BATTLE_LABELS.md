@@ -1,6 +1,6 @@
 # Battle selector label review
 
-All 65 normal-attack records were checked against Korean and Chinese. Full multiword attack suffixes now use U+00A0 nonbreaking spaces, retaining an ordinary space after the character prefix. The user confirmed Cyrano’s Weak Slash, Strong Slash and Aura Slash in CrossOver on 2026-09-23 and requested the same treatment for other commands. The user subsequently confirmed the expanded battle-command test works in CrossOver. Exhaustive per-command/resolution testing is not claimed. The renderer implementation has not been traced. Table spaces are normalized for readability; catalog strings preserve U+00A0.
+All 65 normal-attack records were checked against Korean and Chinese. Full multiword attack suffixes now use U+00A0 nonbreaking spaces, retaining an ordinary space after the character prefix. The user confirmed Cyrano’s Weak Slash, Strong Slash and Aura Slash in CrossOver on 2026-09-23 and requested the same treatment for other commands. Remaining labels need visual fit checks, especially long monster variants. The renderer implementation has not been traced. Table spaces are normalized for readability; catalog strings preserve U+00A0.
 
 The 56 Type 1 special-move records were preserved: the supplied screenshots show full multiword names in the separate skill display. Descriptions are unchanged.
 
@@ -9,11 +9,11 @@ The 56 Type 1 special-move records were preserved: the supplied screenshots show
 | 시라노 베기 | 西拉诺斩击 | Cyrano Slash | Cyrano Slash | Slash |
 | 시라노 약베기 | 西拉诺轻斩 | Cyrano W.Slash | Cyrano Weak Slash | Weak Slash |
 | 시라노 강베기 | 西拉诺重斩 | Cyrano S.Slash | Cyrano Strong Slash | Strong Slash |
-| 시라노 탄검 | 西拉诺剑气弹 | Cyrano Aura.Slash | Cyrano Aura Slash | Aura Slash |
+| 시라노 탄검 | 西拉诺剑气弹 | Cyrano Aura.Slash | Cyrano Blade Shot | Blade Shot |
 | 샤른 베기 | 沙恩霍斯特斩击 | Sharn Slash | Sharn Slash | Slash |
 | 샤른 약베기 | 沙恩霍斯特轻斩 | Sharn W.Slash | Sharn Weak Slash | Weak Slash |
 | 샤른 강베기 | 沙恩霍斯特重斩 | Sharn S.Slash | Sharn Strong Slash | Strong Slash |
-| 샤른 탄검 | 沙恩霍斯特剑气弹 | Sharn Aura.Slash | Sharn Aura Slash | Aura Slash |
+| 샤른 탄검 | 沙恩霍斯特剑气弹 | Sharn Aura.Slash | Sharn Blade Shot | Blade Shot |
 | 메디치 베기 | 梅迪西斩击 | Medici Slash | Medici Slash | Slash |
 | 메디치 약베기 | 梅迪西轻斩 | Medici W.Slash | Medici Weak Slash | Weak Slash |
 | 메디치 강베기 | 梅迪西重斩 | Medici S.Slash | Medici Strong Slash | Strong Slash |
@@ -71,3 +71,5 @@ The 56 Type 1 special-move records were preserved: the supplied screenshots show
 | 장교,강베기03 | 军官重斩03 | Officer Heavy Slash 03 | Officer Strong Slash 03 | Strong Slash 03 |
 | 장교,강베기04 | 军官重斩04 | Officer Heavy Slash 04 | Officer Strong Slash 04 | Strong Slash 04 |
 | 장교,사격 | 军官射击 | Officer Shot | Officer Shot | Shot |
+
+2026-09-24 terminology update: 탄검 now uses **Blade Shot**, replacing Aura Slash; 살검 remains **Killing Blade**. Earlier runtime confirmation above concerns the previous wording; the new label awaits a rebuilt playtest.

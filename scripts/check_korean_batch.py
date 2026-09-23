@@ -1,11 +1,23 @@
 """Validate Korean-source draft identities and formatting, not translation quality."""
 import argparse
+import hashlib
 from collections import Counter
 import json
 from pathlib import Path
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def approved_linebreak_change(row):
+    path = ROOT / 'localization/en-US/linebreak-review.json'
+    if not path.exists():
+        return False
+    digest = lambda text: hashlib.sha256(text.encode()).hexdigest()
+    return any(r['id'] == row['id'] and
+               r['original_sha256'] == digest(row['original']) and
+               r['target_sha256'] == digest(row['target'])
+               for r in json.loads(path.read_text()))
 
 
 def tokens(text):
@@ -32,7 +44,11 @@ def check(rows, originals):
         if not isinstance(target, str) or not target.strip() or row.get('status') not in ('draft', 'reviewed'):
             errors.append(f'{key}: missing translation or invalid status')
             continue
-        if tokens(row['original']) != tokens(target):
+        source_tokens, target_tokens = tokens(row['original']), tokens(target)
+        if approved_linebreak_change(row):
+            source_tokens.pop('/n', None)
+            target_tokens.pop('/n', None)
+        if source_tokens != target_tokens:
             errors.append(f'{key}: formatting or dialogue controls differ')
         # Delay controls disappear on screen; they do not separate words.
         # Resolve explicit line breaks first so /n/20dHello is not a false hit.

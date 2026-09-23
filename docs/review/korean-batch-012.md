@@ -400,11 +400,11 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R6286](../../localization/en-US/korean-batch-012.jsonl#L392) | DataManagerAssetRE / ["attacks", 0, "name"] | 시라노 베기 | Cyrano Slash |
 | [R6287](../../localization/en-US/korean-batch-012.jsonl#L393) | DataManagerAssetRE / ["attacks", 1, "name"] | 시라노 약베기 | Cyrano Weak Slash |
 | [R6288](../../localization/en-US/korean-batch-012.jsonl#L394) | DataManagerAssetRE / ["attacks", 2, "name"] | 시라노 강베기 | Cyrano Strong Slash |
-| [R6289](../../localization/en-US/korean-batch-012.jsonl#L395) | DataManagerAssetRE / ["attacks", 3, "name"] | 시라노 탄검 | Cyrano Aura Slash |
+| [R6289](../../localization/en-US/korean-batch-012.jsonl#L395) | DataManagerAssetRE / ["attacks", 3, "name"] | 시라노 탄검 | Cyrano Blade Shot |
 | [R6290](../../localization/en-US/korean-batch-012.jsonl#L396) | DataManagerAssetRE / ["attacks", 4, "name"] | 샤른 베기 | Sharn Slash |
 | [R6291](../../localization/en-US/korean-batch-012.jsonl#L397) | DataManagerAssetRE / ["attacks", 5, "name"] | 샤른 약베기 | Sharn Weak Slash |
 | [R6292](../../localization/en-US/korean-batch-012.jsonl#L398) | DataManagerAssetRE / ["attacks", 6, "name"] | 샤른 강베기 | Sharn Strong Slash |
-| [R6293](../../localization/en-US/korean-batch-012.jsonl#L399) | DataManagerAssetRE / ["attacks", 7, "name"] | 샤른 탄검 | Sharn Aura Slash |
+| [R6293](../../localization/en-US/korean-batch-012.jsonl#L399) | DataManagerAssetRE / ["attacks", 7, "name"] | 샤른 탄검 | Sharn Blade Shot |
 | [R6294](../../localization/en-US/korean-batch-012.jsonl#L400) | DataManagerAssetRE / ["attacks", 8, "name"] | 메디치 베기 | Medici Slash |
 | [R6295](../../localization/en-US/korean-batch-012.jsonl#L401) | DataManagerAssetRE / ["attacks", 9, "name"] | 메디치 약베기 | Medici Weak Slash |
 | [R6296](../../localization/en-US/korean-batch-012.jsonl#L402) | DataManagerAssetRE / ["attacks", 10, "name"] | 메디치 강베기 | Medici Strong Slash |
@@ -462,14 +462,14 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R6348](../../localization/en-US/korean-batch-012.jsonl#L454) | DataManagerAssetRE / ["attacks", 62, "name"] | 장교,강베기03 | Officer Strong Slash 03 |
 | [R6349](../../localization/en-US/korean-batch-012.jsonl#L455) | DataManagerAssetRE / ["attacks", 63, "name"] | 장교,강베기04 | Officer Strong Slash 04 |
 | [R6350](../../localization/en-US/korean-batch-012.jsonl#L456) | DataManagerAssetRE / ["attacks", 64, "name"] | 장교,사격 | Officer Shot |
-| [R6351](../../localization/en-US/korean-batch-012.jsonl#L457) | DataManagerAssetRE / ["attacks", 65, "name"] | 진공수라인 | Vacuum Asura Blade |
+| [R6351](../../localization/en-US/korean-batch-012.jsonl#L457) | DataManagerAssetRE / ["attacks", 65, "name"] | 진공수라인 | Asura's Void Edge |
 | [R6352](../../localization/en-US/korean-batch-012.jsonl#L458) | DataManagerAssetRE / ["attacks", 66, "name"] | 마영투혼 | Demon Shadow Fighting Spirit |
-| [R6353](../../localization/en-US/korean-batch-012.jsonl#L459) | DataManagerAssetRE / ["attacks", 67, "name"] | 질풍마영참 | Gale Shadow Slash |
+| [R6353](../../localization/en-US/korean-batch-012.jsonl#L459) | DataManagerAssetRE / ["attacks", 67, "name"] | 질풍마영참 | Demonic Gale Strike |
 | [R6354](../../localization/en-US/korean-batch-012.jsonl#L460) | DataManagerAssetRE / ["attacks", 68, "name"] | 단공빙쇄참 | Sky-cleaving Ice Slash |
 | [R6355](../../localization/en-US/korean-batch-012.jsonl#L461) | DataManagerAssetRE / ["attacks", 69, "name"] | 설화난영참 | Snow Blossom Shadow Slash |
-| [R6356](../../localization/en-US/korean-batch-012.jsonl#L462) | DataManagerAssetRE / ["attacks", 70, "name"] | 진공수라인 | Vacuum Asura Blade |
+| [R6356](../../localization/en-US/korean-batch-012.jsonl#L462) | DataManagerAssetRE / ["attacks", 70, "name"] | 진공수라인 | Asura's Void Edge |
 | [R6357](../../localization/en-US/korean-batch-012.jsonl#L463) | DataManagerAssetRE / ["attacks", 71, "name"] | 마영투혼 | Demon Shadow Fighting Spirit |
-| [R6358](../../localization/en-US/korean-batch-012.jsonl#L464) | DataManagerAssetRE / ["attacks", 72, "name"] | 질풍마영참 | Gale Shadow Slash |
+| [R6358](../../localization/en-US/korean-batch-012.jsonl#L464) | DataManagerAssetRE / ["attacks", 72, "name"] | 질풍마영참 | Demonic Gale Strike |
 | [R6359](../../localization/en-US/korean-batch-012.jsonl#L465) | DataManagerAssetRE / ["attacks", 73, "name"] | 설화난영참 | Snow Blossom Shadow Slash |
 | [R6360](../../localization/en-US/korean-batch-012.jsonl#L466) | DataManagerAssetRE / ["attacks", 74, "name"] | 무극잔광상 | Boundless Afterglow Flight |
 | [R6361](../../localization/en-US/korean-batch-012.jsonl#L467) | DataManagerAssetRE / ["attacks", 75, "name"] | 전격참 | Lightning Slash |
@@ -494,8 +494,8 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R6380](../../localization/en-US/korean-batch-012.jsonl#L486) | DataManagerAssetRE / ["attacks", 94, "name"] | 낙화무혼검 | Falling Blossom Soul Sword |
 | [R6381](../../localization/en-US/korean-batch-012.jsonl#L487) | DataManagerAssetRE / ["attacks", 95, "name"] | 무신멸뢰옥 | War God's Thunder Prison |
 | [R6382](../../localization/en-US/korean-batch-012.jsonl#L488) | DataManagerAssetRE / ["attacks", 96, "name"] | 레이져 | Laser |
-| [R6383](../../localization/en-US/korean-batch-012.jsonl#L489) | DataManagerAssetRE / ["attacks", 97, "name"] | 아수라파천무 | Asura Heaven-shattering Dance |
-| [R6384](../../localization/en-US/korean-batch-012.jsonl#L490) | DataManagerAssetRE / ["attacks", 98, "name"] | 진 아수라파천무 | True Asura Heaven-shattering Dance |
+| [R6383](../../localization/en-US/korean-batch-012.jsonl#L489) | DataManagerAssetRE / ["attacks", 97, "name"] | 아수라파천무 | Asura Heavensbane |
+| [R6384](../../localization/en-US/korean-batch-012.jsonl#L490) | DataManagerAssetRE / ["attacks", 98, "name"] | 진 아수라파천무 | Veritas Asura Heavensbane |
 | [R6385](../../localization/en-US/korean-batch-012.jsonl#L491) | DataManagerAssetRE / ["attacks", 99, "name"] | 천공일섬 | Heavenly Flash |
 | [R6386](../../localization/en-US/korean-batch-012.jsonl#L492) | DataManagerAssetRE / ["attacks", 100, "name"] | 메테오 | Meteor |
 | [R6387](../../localization/en-US/korean-batch-012.jsonl#L493) | DataManagerAssetRE / ["attacks", 101, "name"] | 스타더스트 | Stardust |

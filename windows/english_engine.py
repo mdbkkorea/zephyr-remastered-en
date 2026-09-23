@@ -19,7 +19,7 @@ class Patcher:
   for mod in self.manifest.get('automatic_mods',[]):
    if mod.get('translation'):self.names.add(mod['path'])
   for name in self.names:
-   if (not name.startswith('ZephyrRemastered_Data/') and name!='BepInEx/plugins/ZephyrFullmap/ZephyrFullmap.dll') or any(x in Path(name).parts for x in ['..']):raise ValueError('Invalid resource path.')
+   if (not name.startswith('ZephyrRemastered_Data/') and name not in ('GameAssembly.dll','BepInEx/plugins/ZephyrFullmap/ZephyrFullmap.dll')) or any(x in Path(name).parts for x in ['..']):raise ValueError('Invalid resource path.')
    safe(self.game,name)
   key=hashlib.sha256(path_key(self.game).encode()).hexdigest()[:24]
   home=Path(state_home or default_state_home());self.home=windows_long_path(home.resolve()/key);self.original=self.home/'original';self.statefile=self.home/'state.json';self.journalfile=self.home/'transaction.json'
@@ -33,7 +33,7 @@ class Patcher:
   exe=self.game/'ZephyrRemastered.exe'
   if not exe.is_file() or sha(exe)!=self.patch['exe_sha256']:raise ValueError('Select a supported original Zephyr Remastered game folder.')
   for r in self.patch['dependencies']:
-   if not safe(self.game,r['path']).is_file() or sha(safe(self.game,r['path']))!=r['sha256']:raise ValueError('Game dependency version mismatch. Restore original files or verify them in Steam.')
+   if not safe(self.game,r['path']).is_file() or sha(safe(self.game,r['path']))!=r['sha256']:raise ValueError('Game dependency version mismatch. Restore original files or repair them through your game launcher.')
  def stopped(self):
   require_game_stopped()
  def state(self):return read(self.statefile) if self.statefile.exists() else None
