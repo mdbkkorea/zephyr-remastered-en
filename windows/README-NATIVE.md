@@ -102,3 +102,5 @@ older patcher apps. This addition does not alter already published releases.
 7. Confirm that launching the patcher while the game runs refuses writes.
 
 Do not treat passing source tests as a completed gameplay test. Report exact errors and whether Steam is native or Flatpak.
+
+New build filenames: ZEnglishSteam_1.0.0_betaXX.exe or ZEnglishPurple_1.0.0_betaXX.exe, selected from the payload edition. Mac: ZEnglishMacos_1.0.0_betaXX.app. Linux: ZEnglishLinux_1.0.0_betaXX. The actual version/beta comes from english_version.py. Published older archives retain their original names.

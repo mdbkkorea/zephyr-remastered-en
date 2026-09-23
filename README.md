@@ -47,6 +47,16 @@ The installer automatically detects **ZephyrPassives 2.4.3** and **ZephyrFullmap
 
 These are the maintainer's test environments, not minimum system requirements or a guarantee of a complete playthrough. CrossOver gameplay screenshots confirm English text in selected screens. Windows patcher testing includes installation and restoration on a separate game copy. Linux installer checks passed under Debian 12 x86-64 emulation; native Fedora 44 and Proton gameplay testing remain pending.
 
+### Windows beta.5 build repair
+
+If a beta.5 kit reports **No module named pip**, replace both
+[Build-Windows.ps1](windows/Build-Windows.ps1) and
+[english_version.py](windows/english_version.py) in its extracted ZSteam/ZPurple
+folder with the current files from this repository, then run **Build-Windows.cmd**.
+Download each file using GitHub's **Download raw file** button. The updated script
+repairs pip and produces the new edition-specific installer name. This fix has
+been confirmed working by the user. Published beta.5 ZIPs retain their original files.
+
 ### CrossOver mod launcher
 
 Beta.5 includes the launcher and latest reviewed translations; see [beta.5 build notes](docs/RELEASE_1.0.0-beta.5.md).
@@ -189,3 +199,5 @@ PURPLE 기본 설치 경로는 `C:\Program Files (x86)\NC\Rhapsody of Zephyr Rem
 According to the naming history supplied by the user, the original games officially used **Gaysir**, and the company later changed it to **Geysir** because the earlier spelling could be misleading. This project follows **Geysir / Geysir Empire**. The historical explanation is user-provided and has not been independently verified here.
 
 사용자가 제공한 표기 이력에 따르면, 원작에서는 **Gaysir**를 공식 표기로 사용했으나 오해의 소지가 있어 이후 회사가 **Geysir**로 변경했다고 합니다. 이 프로젝트는 **Geysir / Geysir Empire**를 사용합니다. 해당 변경 경위는 사용자 제공 정보이며 별도로 검증하지 않았습니다.
+
+Future installer and archive names follow `ZEnglish[Steam|Purple|Macos|Linux]_Version_betaXX`; see [filename conventions](docs/RELEASE_NAMING.md). Existing beta.5 downloads above retain their published names.

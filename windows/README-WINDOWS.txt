@@ -32,3 +32,5 @@ compatibility is not verified there. Game-file hashes enforce edition/version.
 Beta.2 includes Geysir, full battle names and Stab. Its Windows executable still
 needs user build/testing. Earlier Windows release testing does not certify this
 new kit. Installer resource checks on Mac are not Windows GUI/gameplay tests.
+
+New build filenames: ZEnglishSteam_1.0.0_betaXX.exe or ZEnglishPurple_1.0.0_betaXX.exe, selected from the payload edition. Mac: ZEnglishMacos_1.0.0_betaXX.app. Linux: ZEnglishLinux_1.0.0_betaXX. The actual version/beta comes from english_version.py. Published older archives retain their original names.
