@@ -36,7 +36,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R11281](../../localization/en-US/korean-batch-040.jsonl#L28) | art_ko_fl12_s02 / ["TextList", 17, "Text"] | 니코시아 지방에 요새를 세우고 뭔가 일을 꾸미는 것 같다는 정보입니다. | Our intelligence suggests he's built a fortress in Nicosia and is planning something. |
 | [R11282](../../localization/en-US/korean-batch-040.jsonl#L29) | art_ko_fl12_s02 / ["TextList", 18, "Text"] | 하지만, 경비가 삼엄해서 우리 정보원들을 안으로 들여보내는 데에는 실패하였습니다. | But security is so tight that we've been unable to get our agents inside. |
 | [R11283](../../localization/en-US/korean-batch-040.jsonl#L30) | art_ko_fl12_s02 / ["TextList", 19, "Text"] | 저와 함께 그곳으로 가서 무슨일을 벌이고 있나 살펴보는 임무에요. | Your mission is to go there with me and find out what they're doing. |
-| [R11284](../../localization/en-US/korean-batch-040.jsonl#L31) | art_ko_fl12_s02 / ["TextList", 22, "Text"] | 게이시르 시티라... | Geyshir City... |
+| [R11284](../../localization/en-US/korean-batch-040.jsonl#L31) | art_ko_fl12_s02 / ["TextList", 22, "Text"] | 게이시르 시티라... | Geysir City... |
 | [R11285](../../localization/en-US/korean-batch-040.jsonl#L32) | art_ko_fl12_s02 / ["TextList", 23, "Text"] | 가본적이 있나? /15d/n옛 제국시절의 수도였지. 지금도 제국 제일의 도시이고, | Have you been there? /15d/nIt was the old Empire's capital. It's still the Empire's greatest city... |
 | [R11286](../../localization/en-US/korean-batch-040.jsonl#L33) | art_ko_fl12_s02 / ["TextList", 28, "Text"] | 이쪽에서도 변동사항이 있으면 전령을 통해 연락을 드리도록 하겠습니다. | If anything changes here, we'll send a messenger to inform you. |
 | [R11287](../../localization/en-US/korean-batch-040.jsonl#L34) | art_ko_fl12_s02 / ["TextList", 31, "Text"] | 그 서랍은../15d/n여시면 안됩니다. | That drawer.../15d/nYou mustn't open it. |

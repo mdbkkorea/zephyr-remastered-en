@@ -532,11 +532,11 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R7668](../../localization/en-US/korean-batch-017.jsonl#L524) | DataManagerAssetRE / ["fieldInfos", 898, "title"] | 다카마항 | Dakama Port |
 | [R7669](../../localization/en-US/korean-batch-017.jsonl#L525) | DataManagerAssetRE / ["fieldInfos", 910, "title"] | 파로 마을 | Paro Village |
 | [R7670](../../localization/en-US/korean-batch-017.jsonl#L526) | DataManagerAssetRE / ["fieldInfos", 912, "title"] | 파로 마을 | Paro Village |
-| [R7671](../../localization/en-US/korean-batch-017.jsonl#L527) | DataManagerAssetRE / ["fieldInfos", 913, "title"] | 게이시르 시티 | Geyshir City |
-| [R7672](../../localization/en-US/korean-batch-017.jsonl#L528) | DataManagerAssetRE / ["fieldInfos", 916, "title"] | 게이시르 시티 | Geyshir City |
-| [R7673](../../localization/en-US/korean-batch-017.jsonl#L529) | DataManagerAssetRE / ["fieldInfos", 917, "title"] | 게이시르 시티 서부 | Western Geyshir City |
-| [R7674](../../localization/en-US/korean-batch-017.jsonl#L530) | DataManagerAssetRE / ["fieldInfos", 920, "title"] | 게이시르 대성당 | Geyshir Cathedral |
-| [R7675](../../localization/en-US/korean-batch-017.jsonl#L531) | DataManagerAssetRE / ["fieldInfos", 921, "title"] | 게이시르 대성당 | Geyshir Cathedral |
+| [R7671](../../localization/en-US/korean-batch-017.jsonl#L527) | DataManagerAssetRE / ["fieldInfos", 913, "title"] | 게이시르 시티 | Geysir City |
+| [R7672](../../localization/en-US/korean-batch-017.jsonl#L528) | DataManagerAssetRE / ["fieldInfos", 916, "title"] | 게이시르 시티 | Geysir City |
+| [R7673](../../localization/en-US/korean-batch-017.jsonl#L529) | DataManagerAssetRE / ["fieldInfos", 917, "title"] | 게이시르 시티 서부 | Western Geysir City |
+| [R7674](../../localization/en-US/korean-batch-017.jsonl#L530) | DataManagerAssetRE / ["fieldInfos", 920, "title"] | 게이시르 대성당 | Geysir Cathedral |
+| [R7675](../../localization/en-US/korean-batch-017.jsonl#L531) | DataManagerAssetRE / ["fieldInfos", 921, "title"] | 게이시르 대성당 | Geysir Cathedral |
 | [R7676](../../localization/en-US/korean-batch-017.jsonl#L532) | DataManagerAssetRE / ["fieldInfos", 923, "title"] | 번스타인가 저택 | Bernstein Mansion |
 | [R7677](../../localization/en-US/korean-batch-017.jsonl#L533) | DataManagerAssetRE / ["fieldInfos", 925, "title"] | 번스타인가 저택 테라스 | Bernstein Mansion Terrace |
 | [R7678](../../localization/en-US/korean-batch-017.jsonl#L534) | DataManagerAssetRE / ["fieldInfos", 926, "title"] | 번스타인가 저택 테라스 | Bernstein Mansion Terrace |
@@ -545,11 +545,11 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R7681](../../localization/en-US/korean-batch-017.jsonl#L537) | DataManagerAssetRE / ["fieldInfos", 935, "title"] | 카라카스 마을 | Caracas Village |
 | [R7682](../../localization/en-US/korean-batch-017.jsonl#L538) | DataManagerAssetRE / ["fieldInfos", 937, "title"] | 카라카스 마을 | Caracas Village |
 | [R7683](../../localization/en-US/korean-batch-017.jsonl#L539) | DataManagerAssetRE / ["fieldInfos", 939, "title"] | 카라카스 영주 저택 앞 | Outside the Lord of Caracas's Mansion |
-| [R7684](../../localization/en-US/korean-batch-017.jsonl#L540) | DataManagerAssetRE / ["fieldInfos", 945, "title"] | 게이시르 숲 | Geyshir Forest |
+| [R7684](../../localization/en-US/korean-batch-017.jsonl#L540) | DataManagerAssetRE / ["fieldInfos", 945, "title"] | 게이시르 숲 | Geysir Forest |
 | [R7685](../../localization/en-US/korean-batch-017.jsonl#L541) | DataManagerAssetRE / ["fieldInfos", 947, "title"] | 멤피스 마을 | Memphis Village |
 | [R7686](../../localization/en-US/korean-batch-017.jsonl#L542) | DataManagerAssetRE / ["fieldInfos", 949, "title"] | 멤피스 마을 남부 | Southern Memphis Village |
 | [R7687](../../localization/en-US/korean-batch-017.jsonl#L543) | DataManagerAssetRE / ["fieldInfos", 951, "title"] | 멤피스 영주 저택 앞 | Outside the Lord of Memphis's Mansion |
-| [R7688](../../localization/en-US/korean-batch-017.jsonl#L544) | DataManagerAssetRE / ["fieldInfos", 955, "title"] | 게이시르 숲 | Geyshir Forest |
+| [R7688](../../localization/en-US/korean-batch-017.jsonl#L544) | DataManagerAssetRE / ["fieldInfos", 955, "title"] | 게이시르 숲 | Geysir Forest |
 | [R7689](../../localization/en-US/korean-batch-017.jsonl#L545) | DataManagerAssetRE / ["fieldInfos", 957, "title"] | 니코시아 마을 | Nicosia Village |
 | [R7690](../../localization/en-US/korean-batch-017.jsonl#L546) | DataManagerAssetRE / ["fieldInfos", 959, "title"] | 니코시아 마을 동부 | Eastern Nicosia Village |
 | [R7691](../../localization/en-US/korean-batch-017.jsonl#L547) | DataManagerAssetRE / ["fieldInfos", 961, "title"] | 프리토리아 마을 | Pretoria Village |
@@ -573,27 +573,27 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R7709](../../localization/en-US/korean-batch-017.jsonl#L565) | DataManagerAssetRE / ["fieldInfos", 999, "title"] | 제피르 팰컨 기지 | Zephyr Falcon Base |
 | [R7710](../../localization/en-US/korean-batch-017.jsonl#L566) | DataManagerAssetRE / ["fieldInfos", 1001, "title"] | 제피르 팰컨 기지 | Zephyr Falcon Base |
 | [R7711](../../localization/en-US/korean-batch-017.jsonl#L567) | DataManagerAssetRE / ["fieldInfos", 1003, "title"] | 제피르 팰컨 작전회의실 | Zephyr Falcon War Room |
-| [R7712](../../localization/en-US/korean-batch-017.jsonl#L568) | DataManagerAssetRE / ["fieldInfos", 1007, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7713](../../localization/en-US/korean-batch-017.jsonl#L569) | DataManagerAssetRE / ["fieldInfos", 1009, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7714](../../localization/en-US/korean-batch-017.jsonl#L570) | DataManagerAssetRE / ["fieldInfos", 1011, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7715](../../localization/en-US/korean-batch-017.jsonl#L571) | DataManagerAssetRE / ["fieldInfos", 1013, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7716](../../localization/en-US/korean-batch-017.jsonl#L572) | DataManagerAssetRE / ["fieldInfos", 1015, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7717](../../localization/en-US/korean-batch-017.jsonl#L573) | DataManagerAssetRE / ["fieldInfos", 1016, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7718](../../localization/en-US/korean-batch-017.jsonl#L574) | DataManagerAssetRE / ["fieldInfos", 1017, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7719](../../localization/en-US/korean-batch-017.jsonl#L575) | DataManagerAssetRE / ["fieldInfos", 1018, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7720](../../localization/en-US/korean-batch-017.jsonl#L576) | DataManagerAssetRE / ["fieldInfos", 1019, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7721](../../localization/en-US/korean-batch-017.jsonl#L577) | DataManagerAssetRE / ["fieldInfos", 1021, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7722](../../localization/en-US/korean-batch-017.jsonl#L578) | DataManagerAssetRE / ["fieldInfos", 1022, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7723](../../localization/en-US/korean-batch-017.jsonl#L579) | DataManagerAssetRE / ["fieldInfos", 1024, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7724](../../localization/en-US/korean-batch-017.jsonl#L580) | DataManagerAssetRE / ["fieldInfos", 1026, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7725](../../localization/en-US/korean-batch-017.jsonl#L581) | DataManagerAssetRE / ["fieldInfos", 1027, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7726](../../localization/en-US/korean-batch-017.jsonl#L582) | DataManagerAssetRE / ["fieldInfos", 1028, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7727](../../localization/en-US/korean-batch-017.jsonl#L583) | DataManagerAssetRE / ["fieldInfos", 1029, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7728](../../localization/en-US/korean-batch-017.jsonl#L584) | DataManagerAssetRE / ["fieldInfos", 1030, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7729](../../localization/en-US/korean-batch-017.jsonl#L585) | DataManagerAssetRE / ["fieldInfos", 1031, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7730](../../localization/en-US/korean-batch-017.jsonl#L586) | DataManagerAssetRE / ["fieldInfos", 1032, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7731](../../localization/en-US/korean-batch-017.jsonl#L587) | DataManagerAssetRE / ["fieldInfos", 1033, "title"] | 게이시르 숲 | Geyshir Forest |
-| [R7732](../../localization/en-US/korean-batch-017.jsonl#L588) | DataManagerAssetRE / ["fieldInfos", 1034, "title"] | 게이시르 숲 | Geyshir Forest |
+| [R7712](../../localization/en-US/korean-batch-017.jsonl#L568) | DataManagerAssetRE / ["fieldInfos", 1007, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7713](../../localization/en-US/korean-batch-017.jsonl#L569) | DataManagerAssetRE / ["fieldInfos", 1009, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7714](../../localization/en-US/korean-batch-017.jsonl#L570) | DataManagerAssetRE / ["fieldInfos", 1011, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7715](../../localization/en-US/korean-batch-017.jsonl#L571) | DataManagerAssetRE / ["fieldInfos", 1013, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7716](../../localization/en-US/korean-batch-017.jsonl#L572) | DataManagerAssetRE / ["fieldInfos", 1015, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7717](../../localization/en-US/korean-batch-017.jsonl#L573) | DataManagerAssetRE / ["fieldInfos", 1016, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7718](../../localization/en-US/korean-batch-017.jsonl#L574) | DataManagerAssetRE / ["fieldInfos", 1017, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7719](../../localization/en-US/korean-batch-017.jsonl#L575) | DataManagerAssetRE / ["fieldInfos", 1018, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7720](../../localization/en-US/korean-batch-017.jsonl#L576) | DataManagerAssetRE / ["fieldInfos", 1019, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7721](../../localization/en-US/korean-batch-017.jsonl#L577) | DataManagerAssetRE / ["fieldInfos", 1021, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7722](../../localization/en-US/korean-batch-017.jsonl#L578) | DataManagerAssetRE / ["fieldInfos", 1022, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7723](../../localization/en-US/korean-batch-017.jsonl#L579) | DataManagerAssetRE / ["fieldInfos", 1024, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7724](../../localization/en-US/korean-batch-017.jsonl#L580) | DataManagerAssetRE / ["fieldInfos", 1026, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7725](../../localization/en-US/korean-batch-017.jsonl#L581) | DataManagerAssetRE / ["fieldInfos", 1027, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7726](../../localization/en-US/korean-batch-017.jsonl#L582) | DataManagerAssetRE / ["fieldInfos", 1028, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7727](../../localization/en-US/korean-batch-017.jsonl#L583) | DataManagerAssetRE / ["fieldInfos", 1029, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7728](../../localization/en-US/korean-batch-017.jsonl#L584) | DataManagerAssetRE / ["fieldInfos", 1030, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7729](../../localization/en-US/korean-batch-017.jsonl#L585) | DataManagerAssetRE / ["fieldInfos", 1031, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7730](../../localization/en-US/korean-batch-017.jsonl#L586) | DataManagerAssetRE / ["fieldInfos", 1032, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7731](../../localization/en-US/korean-batch-017.jsonl#L587) | DataManagerAssetRE / ["fieldInfos", 1033, "title"] | 게이시르 숲 | Geysir Forest |
+| [R7732](../../localization/en-US/korean-batch-017.jsonl#L588) | DataManagerAssetRE / ["fieldInfos", 1034, "title"] | 게이시르 숲 | Geysir Forest |
 | [R7733](../../localization/en-US/korean-batch-017.jsonl#L589) | DataManagerAssetRE / ["fieldInfos", 1036, "title"] | 카라카스 숲 | Caracas Forest |
 | [R7734](../../localization/en-US/korean-batch-017.jsonl#L590) | DataManagerAssetRE / ["fieldInfos", 1037, "title"] | 카라카스 숲 | Caracas Forest |
 | [R7735](../../localization/en-US/korean-batch-017.jsonl#L591) | DataManagerAssetRE / ["fieldInfos", 1038, "title"] | 카라카스 숲 | Caracas Forest |
@@ -735,10 +735,10 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R7871](../../localization/en-US/korean-batch-017.jsonl#L727) | DataManagerAssetRE / ["fieldInfos", 1203, "title"] | 수중도시 3층 | Underwater City, 3F |
 | [R7872](../../localization/en-US/korean-batch-017.jsonl#L728) | DataManagerAssetRE / ["fieldInfos", 1204, "title"] | 수중도시 4층 | Underwater City, 4F |
 | [R7873](../../localization/en-US/korean-batch-017.jsonl#L729) | DataManagerAssetRE / ["fieldInfos", 1206, "title"] | 수중도시 5층 | Underwater City, 5F |
-| [R7874](../../localization/en-US/korean-batch-017.jsonl#L730) | DataManagerAssetRE / ["fieldInfos", 1208, "title"] | 게이시르 대성당 내부 | Inside Geyshir Cathedral |
+| [R7874](../../localization/en-US/korean-batch-017.jsonl#L730) | DataManagerAssetRE / ["fieldInfos", 1208, "title"] | 게이시르 대성당 내부 | Inside Geysir Cathedral |
 | [R7875](../../localization/en-US/korean-batch-017.jsonl#L731) | DataManagerAssetRE / ["fieldInfos", 1209, "title"] | 악마재판장 | Inquisition |
-| [R7876](../../localization/en-US/korean-batch-017.jsonl#L732) | DataManagerAssetRE / ["fieldInfos", 1210, "title"] | 게이시르 대성당 내부 | Inside Geyshir Cathedral |
-| [R7877](../../localization/en-US/korean-batch-017.jsonl#L733) | DataManagerAssetRE / ["fieldInfos", 1211, "title"] | 게이시르 대성당 내부 | Inside Geyshir Cathedral |
+| [R7876](../../localization/en-US/korean-batch-017.jsonl#L732) | DataManagerAssetRE / ["fieldInfos", 1210, "title"] | 게이시르 대성당 내부 | Inside Geysir Cathedral |
+| [R7877](../../localization/en-US/korean-batch-017.jsonl#L733) | DataManagerAssetRE / ["fieldInfos", 1211, "title"] | 게이시르 대성당 내부 | Inside Geysir Cathedral |
 | [R7878](../../localization/en-US/korean-batch-017.jsonl#L734) | DataManagerAssetRE / ["fieldInfos", 1212, "title"] | 추기경 집무실 | Cardinal's Office |
-| [R7879](../../localization/en-US/korean-batch-017.jsonl#L735) | DataManagerAssetRE / ["fieldInfos", 1213, "title"] | 게이시르 대성당 지하 | Geyshir Cathedral, Basement |
-| [R7880](../../localization/en-US/korean-batch-017.jsonl#L736) | DataManagerAssetRE / ["fieldInfos", 1214, "title"] | 게이시르 대성당 지하 | Geyshir Cathedral, Basement |
+| [R7879](../../localization/en-US/korean-batch-017.jsonl#L735) | DataManagerAssetRE / ["fieldInfos", 1213, "title"] | 게이시르 대성당 지하 | Geysir Cathedral, Basement |
+| [R7880](../../localization/en-US/korean-batch-017.jsonl#L736) | DataManagerAssetRE / ["fieldInfos", 1214, "title"] | 게이시르 대성당 지하 | Geysir Cathedral, Basement |

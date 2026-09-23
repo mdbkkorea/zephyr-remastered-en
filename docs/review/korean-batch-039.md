@@ -10,7 +10,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R11165](../../localization/en-US/korean-batch-039.jsonl#L2) | art_ko_fl09_s01 / ["TextList", 1, "Text"] | 자네도 열심히만 하면 나처럼 될 수 있다구. | Work hard, and you can be like me someday. |
 | [R11166](../../localization/en-US/korean-batch-039.jsonl#L3) | art_ko_fl09_s01 / ["TextList", 2, "Text"] | 니코시아 지방으로 가셔서 전황을 살펴주시기 바랍니다. | Please go to the Nicosia region and assess the situation there. |
 | [R11167](../../localization/en-US/korean-batch-039.jsonl#L4) | art_ko_fl09_s01 / ["TextList", 3, "Text"] | 이곳은 제피르팰컨의 작전회의실 입니다. | This is Zephyr Falcon's war room. |
-| [R11168](../../localization/en-US/korean-batch-039.jsonl#L5) | art_ko_fl09_s01 / ["TextList", 4, "Text"] | 니코시아는 게이시르 남쪽의 조그만 도시입니다. | Nicosia is a small city south of Geyshir. |
+| [R11168](../../localization/en-US/korean-batch-039.jsonl#L5) | art_ko_fl09_s01 / ["TextList", 4, "Text"] | 니코시아는 게이시르 남쪽의 조그만 도시입니다. | Nicosia is a small city south of Geysir. |
 | [R11169](../../localization/en-US/korean-batch-039.jsonl#L6) | art_ko_fl09_s01 / ["TextList", 5, "Text"] | 으..요즘 통 출격을 못해서 몸이 근질거려. | Ugh... I haven't been on a mission lately. I'm itching for action. |
 | [R11170](../../localization/en-US/korean-batch-039.jsonl#L7) | art_ko_fl09_s01 / ["TextList", 6, "Text"] | 당신이 니코시아로 떠난다며? | I hear you're going to Nicosia? |
 | [R11171](../../localization/en-US/korean-batch-039.jsonl#L8) | art_ko_fl09_s01 / ["TextList", 7, "Text"] | 당신과 함께라면 왠지 마음이 든든한걸요? 신참씨. | Somehow, I feel safer with you along, rookie. |
@@ -26,9 +26,9 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R11181](../../localization/en-US/korean-batch-039.jsonl#L18) | art_ko_fl09_s01 / ["TextList", 17, "Text"] | 니코시아 지방에 요새를 세우고 뭔가 일을 꾸미는 것 같다는 정보입니다. | Our intelligence suggests he's built a fortress in Nicosia and is planning something. |
 | [R11182](../../localization/en-US/korean-batch-039.jsonl#L19) | art_ko_fl09_s01 / ["TextList", 18, "Text"] | 하지만, 경비가 삼엄해서 우리 정보원들을 안으로 들여보내는 데에는 실패하였습니다. | But security is so tight that we've been unable to get our agents inside. |
 | [R11183](../../localization/en-US/korean-batch-039.jsonl#L20) | art_ko_fl09_s01 / ["TextList", 19, "Text"] | 저와 함께 그곳으로 가서 무슨일을 벌이고 있나 살펴보는 임무에요. | Your mission is to go there with me and find out what they're doing. |
-| [R11184](../../localization/en-US/korean-batch-039.jsonl#L21) | art_ko_fl09_s01 / ["TextList", 20, "Text"] | 니코시아 지방이라면 게이시르 시티 남쪽에 있는 조그만 지방입니다. | Nicosia is a small region south of Geyshir City. |
-| [R11185](../../localization/en-US/korean-batch-039.jsonl#L22) | art_ko_fl09_s01 / ["TextList", 21, "Text"] | 그렇다면 남쪽으로 게이시르 시티를 지나야 할겁니다. /15d/n상당히 먼 거리인걸요. | Then we'll have to pass through Geyshir City and head south. /15d/nIt's quite a journey. |
-| [R11186](../../localization/en-US/korean-batch-039.jsonl#L23) | art_ko_fl09_s01 / ["TextList", 22, "Text"] | 게이시르 시티라... | Geyshir City... |
+| [R11184](../../localization/en-US/korean-batch-039.jsonl#L21) | art_ko_fl09_s01 / ["TextList", 20, "Text"] | 니코시아 지방이라면 게이시르 시티 남쪽에 있는 조그만 지방입니다. | Nicosia is a small region south of Geysir City. |
+| [R11185](../../localization/en-US/korean-batch-039.jsonl#L22) | art_ko_fl09_s01 / ["TextList", 21, "Text"] | 그렇다면 남쪽으로 게이시르 시티를 지나야 할겁니다. /15d/n상당히 먼 거리인걸요. | Then we'll have to pass through Geysir City and head south. /15d/nIt's quite a journey. |
+| [R11186](../../localization/en-US/korean-batch-039.jsonl#L23) | art_ko_fl09_s01 / ["TextList", 22, "Text"] | 게이시르 시티라... | Geysir City... |
 | [R11187](../../localization/en-US/korean-batch-039.jsonl#L24) | art_ko_fl09_s01 / ["TextList", 23, "Text"] | 가본적이 있나? /15d/n옛 제국시절의 수도였지. 지금도 제국 제일의 도시이고, | Have you been there? /15d/nIt was the old Empire's capital. It's still the Empire's greatest city... |
 | [R11188](../../localization/en-US/korean-batch-039.jsonl#L25) | art_ko_fl09_s01 / ["TextList", 24, "Text"] | 최근엔 프레데릭 공의 로우엔이 더 활기찬것 같던데요. | Lately, though, Duke Frederick's Lowen seems more lively. |
 | [R11189](../../localization/en-US/korean-batch-039.jsonl#L26) | art_ko_fl09_s01 / ["TextList", 25, "Text"] | 현 제국 최강의 프레데릭 공의 영지이니까요. | It is the domain of Duke Frederick, the most powerful lord in the Empire today. |
@@ -39,14 +39,14 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R11194](../../localization/en-US/korean-batch-039.jsonl#L31) | art_ko_fl09_s01 / ["TextList", 31, "Text"] | 그 서랍은../15d/n여시면 안됩니다. | That drawer.../15d/nYou mustn't open it. |
 | [R11195](../../localization/en-US/korean-batch-039.jsonl#L32) | art_ko_fl09_s01 / ["TextList", 32, "Text"] | 왜 그러지....? | Why...? |
 | [R11196](../../localization/en-US/korean-batch-039.jsonl#L33) | art_ko_fl09_s01 / ["TextList", 33, "Text"] | 아뭏든...그..그 서랍만은..../120d/n여시면 안됩니다! | Anyway... Th-that drawer.../120d/nYou mustn't open it! |
-| [R11197](../../localization/en-US/korean-batch-039.jsonl#L34) | art_ko_fl09_s01 / ["TextList", 36, "Text"] | 게이시르 시티.../10d /n15년만인가... | Geyshir City.../10d /nHas it been fifteen years...? |
+| [R11197](../../localization/en-US/korean-batch-039.jsonl#L34) | art_ko_fl09_s01 / ["TextList", 36, "Text"] | 게이시르 시티.../10d /n15년만인가... | Geysir City.../10d /nHas it been fifteen years...? |
 | [R11198](../../localization/en-US/korean-batch-039.jsonl#L35) | art_ko_fl09_s01 / ["TextList", 37, "Text"] | 아앗! | Ah! |
 | [R11199](../../localization/en-US/korean-batch-039.jsonl#L36) | art_ko_fl09_s01 / ["TextList", 38, "Text"] | 나만 떼어놓고... /n같이가요~ | Leaving me behind... /nWait for me! |
 | [R11200](../../localization/en-US/korean-batch-039.jsonl#L37) | art_fl09_s01 / ["TextList", 0, "Text"] | [카나]/n빨리 떠나자구요! | [Kana]/nLet's get going! |
 | [R11201](../../localization/en-US/korean-batch-039.jsonl#L38) | art_fl09_s01 / ["TextList", 1, "Text"] | [메디치]/n당신처럼 실력있는 동료를 맞이할 수 있어서 기쁘군. | [Medici]/nI'm glad to welcome someone of your skill into our ranks. |
 | [R11202](../../localization/en-US/korean-batch-039.jsonl#L39) | art_fl09_s01 / ["TextList", 2, "Text"] | [클라우제비츠]/n우리 제피르 팰컨에 참여를 진심으로 환영합니다./50d/n여러분의 활약을 기대합니다. | [Clausewitz]/nA sincere welcome to Zephyr Falcon./50d/nWe look forward to your achievements. |
 | [R11203](../../localization/en-US/korean-batch-039.jsonl#L40) | art_fl09_s01 / ["TextList", 3, "Text"] | [보르스]/n여기는 제피르 팰컨의 작전 회의실입니다. | [Bors]/nThis is Zephyr Falcon's war room. |
-| [R11204](../../localization/en-US/korean-batch-039.jsonl#L41) | art_fl09_s01 / ["TextList", 4, "Text"] | [루이]/n니코시아는 게이시르 남쪽의 작은 마을입니다. | [Louis]/nNicosia is a small village south of Geyshir. |
+| [R11204](../../localization/en-US/korean-batch-039.jsonl#L41) | art_fl09_s01 / ["TextList", 4, "Text"] | [루이]/n니코시아는 게이시르 남쪽의 작은 마을입니다. | [Louis]/nNicosia is a small village south of Geysir. |
 | [R11205](../../localization/en-US/korean-batch-039.jsonl#L42) | art_fl09_s01 / ["TextList", 5, "Text"] | [리델]/n도와준 건 고맙지만,/20d/n공을 세웠다고 잘난 척할 생각은 말라구. | [Rhidel]/nThanks for helping,/20d/nbut don't think one achievement gives you the right to show off. |
 | [R11206](../../localization/en-US/korean-batch-039.jsonl#L43) | art_fl09_s01 / ["TextList", 6, "Text"] | [리델]/n뭐,/20d 그래도 니코시아 임무는 잘 마치기를 바라주지. | [Rhidel]/nWell,/20d I still hope the Nicosia mission goes well. |
 | [R11207](../../localization/en-US/korean-batch-039.jsonl#L44) | art_fl09_s01 / ["TextList", 7, "Text"] | [카나]/n당신과 함께라면/25d 왠지 마음이 든든한걸요?/20d 신참씨! | [Kana]/nSomehow, I feel safer/25d with you along,/20d rookie! |
@@ -63,8 +63,8 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R11218](../../localization/en-US/korean-batch-039.jsonl#L55) | art_fl09_s01 / ["TextList", 18, "Text"] | 하지만 경비가 삼엄해서,/35d/n우리 정보원들을 들여보내는 데는 실패했습니다. | But security is tight,/35d/nand we've been unable to get our agents inside. |
 | [R11219](../../localization/en-US/korean-batch-039.jsonl#L56) | art_fl09_s01 / ["TextList", 19, "Text"] | 나와 함께 그곳에 가서/25d/n무슨 일을 벌이는지 조사하는 임무예요! | Your mission is to go there with me/25d/nand find out what they're doing! |
 | [R11220](../../localization/en-US/korean-batch-039.jsonl#L57) | art_fl09_s01 / ["TextList", 20, "Text"] | 니코시아 지방은 알고 계십니까? | Are you familiar with the Nicosia region? |
-| [R11221](../../localization/en-US/korean-batch-039.jsonl#L58) | art_fl09_s01 / ["TextList", 21, "Text"] | 니코시아 지방은/15d 게이시르 시티를 지나 남쪽이죠./45d/n꽤 먼 길이 되겠네요. | Nicosia/15d lies to the south, beyond Geyshir City./45d/nIt will be quite a journey. |
-| [R11222](../../localization/en-US/korean-batch-039.jsonl#L59) | art_fl09_s01 / ["TextList", 22, "Text"] | 게이시르 시티라… | Geyshir City... |
+| [R11221](../../localization/en-US/korean-batch-039.jsonl#L58) | art_fl09_s01 / ["TextList", 21, "Text"] | 니코시아 지방은/15d 게이시르 시티를 지나 남쪽이죠./45d/n꽤 먼 길이 되겠네요. | Nicosia/15d lies to the south, beyond Geysir City./45d/nIt will be quite a journey. |
+| [R11222](../../localization/en-US/korean-batch-039.jsonl#L59) | art_fl09_s01 / ["TextList", 22, "Text"] | 게이시르 시티라… | Geysir City... |
 | [R11223](../../localization/en-US/korean-batch-039.jsonl#L60) | art_fl09_s01 / ["TextList", 23, "Text"] | 가본 적은 있소?/30d 옛 제국 시절의 수도였지. | Have you been there?/30d It was the old Empire's capital. |
 | [R11224](../../localization/en-US/korean-batch-039.jsonl#L61) | art_fl09_s01 / ["TextList", 24, "Text"] | 지금도 여전히 제국 제일의 도시지만,/40d/n최근에는 프레데릭 공의 로우엔이 더 활기찬 것 같던데요? | It's still the Empire's greatest city,/40d/nbut lately, Duke Frederick's Lowen seems more lively. |
 | [R11225](../../localization/en-US/korean-batch-039.jsonl#L62) | art_fl09_s01 / ["TextList", 25, "Text"] | 로우엔 지방은/20d 현 제국 최강인/25d 프레데릭 공의 영지니까요. | Lowen/20d is the domain of Duke Frederick,/25d the Empire's most powerful lord today. |
@@ -76,7 +76,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R11231](../../localization/en-US/korean-batch-039.jsonl#L68) | art_fl09_s01 / ["TextList", 32, "Text"] | 왜지? | Why? |
 | [R11232](../../localization/en-US/korean-batch-039.jsonl#L69) | art_fl09_s01 / ["TextList", 33, "Text"] | 아무튼!/35d 그 서랍만은…/20d 여시면 안 됩니다! | Anyway!/35d That drawer.../20d You mustn't open it! |
 | [R11233](../../localization/en-US/korean-batch-039.jsonl#L70) | art_fl09_s01 / ["TextList", 35, "Text"] | [이자벨]/n…… | [Isabele]/n... |
-| [R11234](../../localization/en-US/korean-batch-039.jsonl#L71) | art_fl09_s01 / ["TextList", 36, "Text"] | 게이시르 시티…/65d 15년 만인가… | Geyshir City.../65d Has it been fifteen years...? |
+| [R11234](../../localization/en-US/korean-batch-039.jsonl#L71) | art_fl09_s01 / ["TextList", 36, "Text"] | 게이시르 시티…/65d 15년 만인가… | Geysir City.../65d Has it been fifteen years...? |
 | [R11235](../../localization/en-US/korean-batch-039.jsonl#L72) | art_fl09_s01 / ["TextList", 37, "Text"] | 아~/15d 진짜! | Oh,/15d come on! |
 | [R11236](../../localization/en-US/korean-batch-039.jsonl#L73) | art_fl09_s01 / ["TextList", 38, "Text"] | 혼자서 말도 없이…/30d 같이 가요~ | Walking off without a word.../30d Wait for me! |
 | [R11237](../../localization/en-US/korean-batch-039.jsonl#L74) | art_fl09_s01 / ["TextList", 39, "Text"] | [카나]/n이자벨 언니와 리델은/20d 시라노에게 조금 감정이/n좋지 않은 것 같지만…/50d 신경 쓰지 마요! | [Kana]/nIsabele and Rhidel/20d don't seem very fond/nof you, Cyrano.../50d But don't worry about it! |

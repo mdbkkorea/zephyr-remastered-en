@@ -7,7 +7,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | Review | Resource / path | Korean | English |
 | --- | --- | --- | --- |
 | [R8449](../../localization/en-US/korean-batch-025.jsonl#L1) | art_ko_flwri00 / ["TextList", 0, "Text"] | 리브레빌 지방 | Libreville Region |
-| [R8450](../../localization/en-US/korean-batch-025.jsonl#L2) | art_ko_fltga02b / ["TextList", 0, "Text"] | 게이시르 대성당 | Geyshir Cathedral |
+| [R8450](../../localization/en-US/korean-batch-025.jsonl#L2) | art_ko_fltga02b / ["TextList", 0, "Text"] | 게이시르 대성당 | Geysir Cathedral |
 | [R8451](../../localization/en-US/korean-batch-025.jsonl#L3) | art_ko_flmpx01 / ["TextList", 0, "Text"] | 프리토리아 지방 | Pretoria Region |
 | [R8452](../../localization/en-US/korean-batch-025.jsonl#L4) | art_ko_flwri11 / ["TextList", 0, "Text"] | 리브레빌 지방 | Libreville Region |
 | [R8453](../../localization/en-US/korean-batch-025.jsonl#L5) | art_ko_fltro01 / ["TextList", 25, "Text"] | 로우엔 시티 | Lowen City |
@@ -29,7 +29,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8469](../../localization/en-US/korean-batch-025.jsonl#L21) | art_ko_fltfa01_ / ["TextList", 0, "Text"] | 파로 마을 | Paro Village |
 | [R8470](../../localization/en-US/korean-batch-025.jsonl#L22) | art_ko_flwka15a / ["TextList", 0, "Text"] | 카라카스 숲 | Caracas Forest |
 | [R8471](../../localization/en-US/korean-batch-025.jsonl#L23) | art_ko_flwro01 / ["TextList", 0, "Text"] | 로우엔 숲 | Lowen Forest |
-| [R8472](../../localization/en-US/korean-batch-025.jsonl#L24) | art_ko_fltga01b / ["TextList", 0, "Text"] | 게이시르 시티 | Geyshir City |
+| [R8472](../../localization/en-US/korean-batch-025.jsonl#L24) | art_ko_fltga01b / ["TextList", 0, "Text"] | 게이시르 시티 | Geysir City |
 | [R8473](../../localization/en-US/korean-batch-025.jsonl#L25) | art_ko_flwka12e / ["TextList", 0, "Text"] | 카라카스 숲 | Caracas Forest |
 | [R8474](../../localization/en-US/korean-batch-025.jsonl#L26) | art_ko_fl23_s02 / ["TextList", 54, "Text"] | 으음... | Ugh... |
 | [R8475](../../localization/en-US/korean-batch-025.jsonl#L27) | art_ko_fl23_s02 / ["TextList", 108, "Text"] | 으음... | Ugh... |
@@ -45,12 +45,12 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8485](../../localization/en-US/korean-batch-025.jsonl#L37) | art_fldin01a / ["TextList", 2, "Text"] | 인페르노 유황 동굴 | Inferno Sulfur Cave |
 | [R8486](../../localization/en-US/korean-batch-025.jsonl#L38) | art_fl09_s01 / ["TextList", 58, "Text"] | 소년 | The Boy |
 | [R8487](../../localization/en-US/korean-batch-025.jsonl#L39) | art_flmzy09 / ["TextList", 0, "Text"] | 프리토리아 지방 | Pretoria Region |
-| [R8488](../../localization/en-US/korean-batch-025.jsonl#L40) | art_fltga02 / ["TextList", 25, "Text"] | 게이시르 시티 서부 | Western Geyshir City |
+| [R8488](../../localization/en-US/korean-batch-025.jsonl#L40) | art_fltga02 / ["TextList", 25, "Text"] | 게이시르 시티 서부 | Western Geysir City |
 | [R8489](../../localization/en-US/korean-batch-025.jsonl#L41) | art_flmi41 / ["TextList", 0, "Text"] | 비프로스트군 병참기지 | Bifrost Army Supply Base |
 | [R8490](../../localization/en-US/korean-batch-025.jsonl#L42) | art_flwro00 / ["TextList", 0, "Text"] | 로우엔 숲 | Lowen Forest |
 | [R8491](../../localization/en-US/korean-batch-025.jsonl#L43) | art_flwka12e / ["TextList", 0, "Text"] | 카라카스 숲 | Caracas Forest |
 | [R8492](../../localization/en-US/korean-batch-025.jsonl#L44) | art_flwka17a / ["TextList", 1, "Text"] | 카라카스 숲 | Caracas Forest |
-| [R8493](../../localization/en-US/korean-batch-025.jsonl#L45) | art_fltga02b / ["TextList", 0, "Text"] | 게이시르 대성당 | Geyshir Cathedral |
+| [R8493](../../localization/en-US/korean-batch-025.jsonl#L45) | art_fltga02b / ["TextList", 0, "Text"] | 게이시르 대성당 | Geysir Cathedral |
 | [R8494](../../localization/en-US/korean-batch-025.jsonl#L46) | art_fl06_s03 / ["TextList", 11, "Text"] | 어떻게 하겠습니까? | What will you do? |
 | [R8495](../../localization/en-US/korean-batch-025.jsonl#L47) | art_flwsw01 / ["TextList", 0, "Text"] | 마검의 숲 | Forest of the Demonic Sword |
 | [R8496](../../localization/en-US/korean-batch-025.jsonl#L48) | art_fl13_s01 / ["TextList", 18, "Text"] | 어제의 적, 오늘의 동지 | Yesterday's Enemy, Today's Ally |
@@ -83,7 +83,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8523](../../localization/en-US/korean-batch-025.jsonl#L75) | art_flwka01a / ["TextList", 0, "Text"] | 카라카스 숲 | Caracas Forest |
 | [R8524](../../localization/en-US/korean-batch-025.jsonl#L76) | art_fl15_s02 / ["TextList", 25, "Text"] | 메르세데스… | Mercedes... |
 | [R8525](../../localization/en-US/korean-batch-025.jsonl#L77) | art_fltro01b / ["TextList", 0, "Text"] | 로우엔 시티 | Lowen City |
-| [R8526](../../localization/en-US/korean-batch-025.jsonl#L78) | art_fltga01b / ["TextList", 0, "Text"] | 게이시르 시티 | Geyshir City |
+| [R8526](../../localization/en-US/korean-batch-025.jsonl#L78) | art_fltga01b / ["TextList", 0, "Text"] | 게이시르 시티 | Geysir City |
 | [R8527](../../localization/en-US/korean-batch-025.jsonl#L79) | art_flwro01 / ["TextList", 0, "Text"] | 로우엔 숲 | Lowen Forest |
 | [R8528](../../localization/en-US/korean-batch-025.jsonl#L80) | art_flmiss41 / ["TextList", 0, "Text"] | 비프로스트군 병참기지 | Bifrost Army Supply Base |
 | [R8529](../../localization/en-US/korean-batch-025.jsonl#L81) | art_flmpx01 / ["TextList", 0, "Text"] | 프리토리아 지방 | Pretoria Region |

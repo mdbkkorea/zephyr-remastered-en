@@ -7,7 +7,7 @@ User decisions, 2026-09-22. Apply to existing drafts and future translations. Ko
 | 주신교 | High Church | 主神敎 / 主神教; the religious organization |
 | 주신 | High God | 主神; only when referring to the deity |
 | 주신들 | High Gods | Plural deity reference; Korean determines plurality even when Chinese does not mark it |
-| 게이시르 | Geyshir | 盖西尔 in the checked references; user-approved spelling |
+| 게이시르 | Geysir | 盖西尔 in the checked references; user-approved spelling |
 | 사이럽스 | Cyrups | User correction of Syrups |
 | 루벤 | Ruben | User correction of Reuben |
 | 학술원 | Academy | User approved at R421 |
@@ -36,15 +36,15 @@ The user recommends [Namu Wiki](https://namu.wiki/) for English character, city,
 
 The runtime screenshot shows only the last word of the previous multiword attack names. Keep these compact suffixes as one token so attack distinctions survive that observed behavior. The exact renderer implementation has not been traced. Character prefixes remain in the source-derived full data labels.
 
-Latest user correction: **게이시르 → Geyshir**, superseding the earlier project spellings Gaysir and Geysir; **게이시르 제국 → Geyshir Empire**. Keep this spelling consistent in locations and dialogue.
+Latest user correction: **게이시르 → Geysir**, superseding the earlier project spellings Gaysir and Geysir; **게이시르 제국 → Geysir Empire**. Keep this spelling consistent in locations and dialogue.
 
 ## Normal-attack selector labels
 
 Use full names with U+00A0 nonbreaking spaces inside the attack suffix, and an ordinary space between the character prefix and suffix. For example, `Cyrano Weak Slash` displays **Weak Slash**. The user confirmed Cyrano's full labels in CrossOver on 2026-09-23 and approved extending this to all normal battle commands. This supersedes compact labels such as W.Slash, S.Slash, P.Shot and K.Blade. Keep numbered variants within the nonbreaking suffix. Do not insert nonbreaking spaces into prose descriptions or alter the already-full Type 1 special-move names. See [battle label mapping](BATTLE_LABELS.md). The user subsequently confirmed the full battle-command Mac test works; exhaustive per-command/resolution testing is not claimed.
 
-## Geyshir naming-history remark
+## Geysir naming-history remark
 
-User-provided naming history: the original games used Gayshir officially; the company later changed it to Geyshir because the original spelling could be misleading. Historical rationale has not been independently verified. The project adopts **Geyshir** and **Geyshir Empire** by user instruction.
+User-provided naming history: the original games used Gaysir officially; the company later changed it to Geysir because the original spelling could be misleading. Historical rationale has not been independently verified. The project adopts **Geysir** and **Geysir Empire** by user instruction.
 
 ## Stab / 찌르기
 

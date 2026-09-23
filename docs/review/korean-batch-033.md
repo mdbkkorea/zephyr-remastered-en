@@ -104,7 +104,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R10379](../../localization/en-US/korean-batch-033.jsonl#L96) | art_fl06_s03 / ["TextList", 28, "Text"] | 선수를 놓쳤군./40d/n뭐,/10d 좋아./25d 간다! | She beat us to it./40d/nWell,/10d fine./25d Let's go! |
 | [R10380](../../localization/en-US/korean-batch-033.jsonl#L97) | art_fl06_s03 / ["TextList", 29, "Text"] | 다음날, 화형식장 | The Next Day, Execution Ground |
 | [R10381](../../localization/en-US/korean-batch-033.jsonl#L98) | art_fl06_s01 / ["TextList", 0, "Text"] | 드디어 제국령에 도착했군. | At last, imperial territory. |
-| [R10382](../../localization/en-US/korean-batch-033.jsonl#L99) | art_fl06_s01 / ["TextList", 1, "Text"] | 게이시르 시티로/15d 바로 가실 생각이신가요? | Are you going straight/15d to Geyshir City? |
+| [R10382](../../localization/en-US/korean-batch-033.jsonl#L99) | art_fl06_s01 / ["TextList", 1, "Text"] | 게이시르 시티로/15d 바로 가실 생각이신가요? | Are you going straight/15d to Geysir City? |
 | [R10383](../../localization/en-US/korean-batch-033.jsonl#L100) | art_fl06_s01 / ["TextList", 2, "Text"] | 우선은/25d 내가 제국을 떠나있던 동안 무슨 일이 있었는지 알아봐야겠지. | First,/25d I should learn what happened while I was away from the Empire. |
 | [R10384](../../localization/en-US/korean-batch-033.jsonl#L101) | art_fl06_s01 / ["TextList", 3, "Text"] | 기억으로는/25d 이곳은 카라카스 지방이었을 텐데… | If I remember correctly,/25d this should be the Caracas region... |
 | [R10385](../../localization/en-US/korean-batch-033.jsonl#L102) | art_fl06_s01 / ["TextList", 4, "Text"] | 엇,/10d 저기…! | Oh,/10d over there...! |

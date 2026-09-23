@@ -1,4 +1,8 @@
 # The Rhapsody of Zephyr Remastered — English Translation
+
+**Building on Windows?** Use a prepared **Steam or PURPLE build-kit ZIP**, not GitHub **Code → Download ZIP**. Source ZIPs omit the generated translation payload. [Beta.2 build-kit instructions and checksums](docs/BUILD_KITS_1.0.0-beta.2.md). New beta.2 Windows executables still require user testing.
+
+**Windows에서 직접 빌드하나요?** GitHub **Code → Download ZIP** 대신 게임에 맞는 **Steam 또는 PURPLE 빌드 키트 ZIP**을 사용하세요. 소스 ZIP에는 생성된 번역 패치 데이터가 없습니다. [beta.2 빌드 방법 및 체크섬](docs/BUILD_KITS_1.0.0-beta.2.md). 새 beta.2 Windows 실행 파일은 사용자 빌드·테스트가 필요합니다.
 # 서풍의 광시곡 리마스터 — 영어 번역
 
 [English](#english) · [한국어](#한국어)

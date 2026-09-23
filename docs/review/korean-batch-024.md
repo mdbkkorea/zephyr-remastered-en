@@ -59,8 +59,8 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8421](../../localization/en-US/korean-batch-024.jsonl#L51) | DataManagerAssetRE / ["worldmapAreas", 6, "Name"] | 프리토리아산 | Mount Pretoria |
 | [R8422](../../localization/en-US/korean-batch-024.jsonl#L52) | DataManagerAssetRE / ["worldmapAreas", 7, "Name"] | 프리토리아마을 | Pretoria Village |
 | [R8423](../../localization/en-US/korean-batch-024.jsonl#L53) | DataManagerAssetRE / ["worldmapAreas", 8, "Name"] | 불사조의동굴 | Phoenix Cave |
-| [R8424](../../localization/en-US/korean-batch-024.jsonl#L54) | DataManagerAssetRE / ["worldmapAreas", 9, "Name"] | 게이시르마을 | Geyshir Village |
-| [R8425](../../localization/en-US/korean-batch-024.jsonl#L55) | DataManagerAssetRE / ["worldmapAreas", 10, "Name"] | 게이시르숲 | Geyshir Forest |
+| [R8424](../../localization/en-US/korean-batch-024.jsonl#L54) | DataManagerAssetRE / ["worldmapAreas", 9, "Name"] | 게이시르마을 | Geysir Village |
+| [R8425](../../localization/en-US/korean-batch-024.jsonl#L55) | DataManagerAssetRE / ["worldmapAreas", 10, "Name"] | 게이시르숲 | Geysir Forest |
 | [R8426](../../localization/en-US/korean-batch-024.jsonl#L56) | DataManagerAssetRE / ["worldmapAreas", 11, "Name"] | 니코시아 | Nicosia |
 | [R8427](../../localization/en-US/korean-batch-024.jsonl#L57) | DataManagerAssetRE / ["worldmapAreas", 12, "Name"] | 멤피스 | Memphis |
 | [R8428](../../localization/en-US/korean-batch-024.jsonl#L58) | DataManagerAssetRE / ["worldmapAreas", 13, "Name"] | 화룡굴 | Fire Dragon Cave |

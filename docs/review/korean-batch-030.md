@@ -37,7 +37,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8847](../../localization/en-US/korean-batch-030.jsonl#L29) | art_ko_fl05_s04 / ["TextList", 0, "Text"] | 태워줘서 고맙군. | Thank you for the passage. |
 | [R8848](../../localization/en-US/korean-batch-030.jsonl#L30) | art_ko_fl05_s04 / ["TextList", 1, "Text"] | /2c사이럽스 시티. | /2cCyrups City. |
 | [R8849](../../localization/en-US/korean-batch-030.jsonl#L31) | art_ko_fl05_s04 / ["TextList", 2, "Text"] | 여기서 구 제국령쪽으로 가실 건가요? | Will you head into the old imperial territories from here? |
-| [R8850](../../localization/en-US/korean-batch-030.jsonl#L32) | art_ko_fl05_s04 / ["TextList", 3, "Text"] | 게이시르./15d 그러니 배는 더 이상 필요 없어. | Geyshir./15d So I won't need a ship anymore. |
+| [R8850](../../localization/en-US/korean-batch-030.jsonl#L32) | art_ko_fl05_s04 / ["TextList", 3, "Text"] | 게이시르./15d 그러니 배는 더 이상 필요 없어. | Geysir./15d So I won't need a ship anymore. |
 | [R8851](../../localization/en-US/korean-batch-030.jsonl#L33) | art_ko_fl05_s04 / ["TextList", 4, "Text"] | 모두 들었겠지! 배는 더 이상 필요 없으시단다. | You all heard him! He won't need a ship anymore. |
 | [R8852](../../localization/en-US/korean-batch-030.jsonl#L34) | art_ko_fl05_s04 / ["TextList", 5, "Text"] | 그럼 우리는 다시 해적질을... | Then we can go back to piracy... |
 | [R8853](../../localization/en-US/korean-batch-030.jsonl#L35) | art_ko_fl05_s04 / ["TextList", 6, "Text"] | 이후로는 너희들 마음대로 해도 좋아./20d 지금까지 처럼 해적질을 하던,/10d 그동안 번 밑천을 갖고 장사를 하던,/10d 농가로 가 농사를 짓던... | From now on, do as you please./20d Keep being pirates,/10d use the money you've made to start a business,/10d or settle down on a farm... |
@@ -54,7 +54,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8864](../../localization/en-US/korean-batch-030.jsonl#L46) | art_ko_fl05_s04 / ["TextList", 17, "Text"] | 내키지 않는다면 무리해서 따라올 필요는 없어. 사이럽스에 데려다 준것만으로도 애초의 약속은 지킨 것이니. | You needn't force yourself to come if you don't want to. Bringing me to Cyrups was enough to honor our agreement. |
 | [R8865](../../localization/en-US/korean-batch-030.jsonl#L47) | art_ko_fl05_s04 / ["TextList", 18, "Text"] | 그런가.../30d /n그럼, 앞으로 잘 부탁하겠다. | I see.../30d /nThen I look forward to having you with me. |
 | [R8866](../../localization/en-US/korean-batch-030.jsonl#L48) | art_ko_fl05_s04 / ["TextList", 19, "Text"] | 예, 시라노! | Yes, Cyrano! |
-| [R8867](../../localization/en-US/korean-batch-030.jsonl#L49) | art_ko_fl05_s04 / ["TextList", 20, "Text"] | 트리시스 사막을 건너 일단 게이시르 시티 근처로 가자. | Let's cross the Trisis Desert and make for the outskirts of Geyshir City. |
+| [R8867](../../localization/en-US/korean-batch-030.jsonl#L49) | art_ko_fl05_s04 / ["TextList", 20, "Text"] | 트리시스 사막을 건너 일단 게이시르 시티 근처로 가자. | Let's cross the Trisis Desert and make for the outskirts of Geysir City. |
 | [R8868](../../localization/en-US/korean-batch-030.jsonl#L50) | art_ko_fl05_s04 / ["TextList", 21, "Text"] | 두목이 기다리던 사람이 바로 저 사람이란 말인가... | So that's the man the boss was waiting for... |
 | [R8869](../../localization/en-US/korean-batch-030.jsonl#L51) | art_ko_fl05_s04 / ["TextList", 22, "Text"] | 평소부터 자신을 꺾어줄 사람을 기다리더니만, 결국은 찾아냈군. | He always said he was waiting for someone who could beat him. He's finally found one. |
 | [R8870](../../localization/en-US/korean-batch-030.jsonl#L52) | art_ko_fl05_s04 / ["TextList", 23, "Text"] | 휴... 두목 실력이면 평생 가도 못찾을 줄 알았는데... | Whew... With the boss's skill, I thought he'd spend his whole life looking... |
@@ -75,7 +75,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8885](../../localization/en-US/korean-batch-030.jsonl#L67) | art_fl05_s2b / ["TextList", 0, "Text"] | 갑판으로 올라가서 상황을 한번 살펴보는 게 좋겠는걸. | I'd better go up on deck and see what's happening. |
 | [R8886](../../localization/en-US/korean-batch-030.jsonl#L68) | art_fl05_s04 / ["TextList", 0, "Text"] | 태워줘서 고맙군. | Thank you for the passage. |
 | [R8887](../../localization/en-US/korean-batch-030.jsonl#L69) | art_fl05_s04 / ["TextList", 2, "Text"] | 여기서/10d 구 제국령 쪽으로 가실 건가요? | Will you head into/10d the old imperial territories from here? |
-| [R8888](../../localization/en-US/korean-batch-030.jsonl#L70) | art_fl05_s04 / ["TextList", 3, "Text"] | 게이시르./50d/n그러니/20d 배는 더 이상 필요 없어.  | Geyshir./50d/nSo/20d I won't need a ship anymore.  |
+| [R8888](../../localization/en-US/korean-batch-030.jsonl#L70) | art_fl05_s04 / ["TextList", 3, "Text"] | 게이시르./50d/n그러니/20d 배는 더 이상 필요 없어.  | Geysir./50d/nSo/20d I won't need a ship anymore.  |
 | [R8889](../../localization/en-US/korean-batch-030.jsonl#L71) | art_fl05_s04 / ["TextList", 4, "Text"] | 모두 들었지?/35d 이제 배는 필요 없으시단다. | You all heard him?/35d He won't need a ship anymore. |
 | [R8890](../../localization/en-US/korean-batch-030.jsonl#L72) | art_fl05_s04 / ["TextList", 5, "Text"] | 그럼/35d 우리는 다시/15d 바다로 돌아가도 되는 거야? | Then/35d we can/15d go back to sea? |
 | [R8891](../../localization/en-US/korean-batch-030.jsonl#L73) | art_fl05_s04 / ["TextList", 6, "Text"] | 앞으로는 너희들 마음대로 해도 좋아./50d/n지금처럼 해적질을 하든,/30d 그동안 번 밑천으로 장사를 하든,/40d 시골로 가서 농사를 짓든…/40d/n좋을 대로 해. | From now on, do as you please./50d/nKeep being pirates,/30d use the money you've made to start a business,/40d or settle down on a farm.../40d/nIt's up to you. |
@@ -92,7 +92,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R8902](../../localization/en-US/korean-batch-030.jsonl#L84) | art_fl05_s04 / ["TextList", 17, "Text"] | 나를 따라올 필요는 없어./45d/n사이럽스에 데려다 준 것 만으로도 충분하다. | You don't need to follow me./45d/nBringing me to Cyrups was enough. |
 | [R8903](../../localization/en-US/korean-batch-030.jsonl#L85) | art_fl05_s04 / ["TextList", 18, "Text"] | …/50d그런가./50d/n그럼,/20d 앞으로 잘 부탁하지. | .../50dI see./50d/nThen,/20d I look forward to having you with me. |
 | [R8904](../../localization/en-US/korean-batch-030.jsonl#L86) | art_fl05_s04 / ["TextList", 19, "Text"] | 잘 부탁드립니다,/25d 시라노! | Likewise,/25d Cyrano! |
-| [R8905](../../localization/en-US/korean-batch-030.jsonl#L87) | art_fl05_s04 / ["TextList", 20, "Text"] | 일단/20d 트리시스 사막을 건너/30d 게이시르 시티로 간다. | First,/20d we cross the Trisis Desert/30d and head to Geyshir City. |
+| [R8905](../../localization/en-US/korean-batch-030.jsonl#L87) | art_fl05_s04 / ["TextList", 20, "Text"] | 일단/20d 트리시스 사막을 건너/30d 게이시르 시티로 간다. | First,/20d we cross the Trisis Desert/30d and head to Geysir City. |
 | [R8906](../../localization/en-US/korean-batch-030.jsonl#L88) | art_fl05_s04 / ["TextList", 21, "Text"] | 두목이 기다리던 사람이/35d 바로 저 남자란 말인가… | So that man/35d is the one the boss was waiting for... |
 | [R8907](../../localization/en-US/korean-batch-030.jsonl#L89) | art_fl05_s04 / ["TextList", 22, "Text"] | 자신을 꺾어줄 사람을 기다린다더니만,/40d 결국엔 만났네. | He said he was waiting for someone who could beat him./40d He's finally found one. |
 | [R8908](../../localization/en-US/korean-batch-030.jsonl#L90) | art_fl05_s04 / ["TextList", 23, "Text"] | 두목 실력이면/20d 평생 못 찾을 줄 알았는데… | With the boss's skill,/20d I thought he'd spend his whole life looking... |

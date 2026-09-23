@@ -16,7 +16,7 @@ def main():
  profile=json.loads((ROOT/'localization/mods/zephyr-passives-2.4.3.json').read_text())
  dep=profile['dependency']
  before=a.fullmap.read_bytes();after=a.translated_fullmap.read_bytes()
- if digest(before)!='9c891825ed28212df42a97512c2e6b522304009e2e7dca669a7615f30b199334' or digest(after)!='bf0e14e14f0f6eeef14ca1210e781c00cef65e2ce96502e6b89ea5521cb54fc4':raise ValueError('Unverified Fullmap input')
+ if digest(before)!='9c891825ed28212df42a97512c2e6b522304009e2e7dca669a7615f30b199334' or digest(after)!='a5f8fc34dcdcb00294d631a88b751292b9bc9b928a28f552b646b38a7f3a2400':raise ValueError('Unverified Fullmap input')
  blob=zlib.compress(bytes(x^y for x,y in zip(before[:len(after)].ljust(len(after),b'\0'),after)),9);(payload/'fullmap.delta').write_bytes(blob)
  path='BepInEx/plugins/ZephyrFullmap/ZephyrFullmap.dll'
  base['automatic_mods']=[dict(name='ZephyrPassives',version='2.4.3',path=dep['path'],sha256=dep['sha256'],files=mod['files']),dict(name='ZephyrFullmap',version='1.8.0',path=path,sha256=digest(before),translation=dict(path=path,before_sha256=digest(before),after_sha256=digest(after),after_size=len(after),delta='fullmap.delta',delta_sha256=digest(blob)))]

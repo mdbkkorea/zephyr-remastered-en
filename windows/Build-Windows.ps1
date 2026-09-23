@@ -1,6 +1,6 @@
 $ErrorActionPreference = 'Stop'
 Set-Location $PSScriptRoot
-if (-not (Test-Path 'payload/manifest.json')) { throw 'Extract the complete build ZIP first. Payload is missing.' }
+if (-not (Test-Path 'payload/manifest.json')) { throw 'Translation payload is missing. GitHub Code > Download ZIP contains source only and cannot build the patcher directly. Download the prepared Windows build-kit ZIP for your edition (Steam or PURPLE), extract the entire ZIP, and run its Build-Windows.cmd. The payload folder must be beside this script.' }
 py -3.12 -c "import struct; assert struct.calcsize('P') == 8, 'Install 64-bit Python'"
 if ($LASTEXITCODE -ne 0) { throw 'Install Python 3.12 (64-bit) with the Python launcher, then retry.' }
 if (-not (Test-Path '.build-venv/Scripts/python.exe')) {

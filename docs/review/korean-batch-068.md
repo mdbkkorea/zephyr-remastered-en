@@ -197,7 +197,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R17652](../../localization/en-US/korean-batch-068.jsonl#L189) | art_fltcy03 / ["TextList", 78, "Text"] | 지금은 탐정 일을 하고 있답니다. | We work as detectives now. |
 | [R17653](../../localization/en-US/korean-batch-068.jsonl#L190) | art_fltcy03 / ["TextList", 97, "Text"] | 당신이 이곳 사이럽스의 시장입니까? | Are you the mayor of Cyrups? |
 | [R17654](../../localization/en-US/korean-batch-068.jsonl#L191) | art_fltcy03 / ["TextList", 101, "Text"] | 항로를 폐쇄하기라도 할 생각입니까? | Are you planning to close the sea route entirely? |
-| [R17655](../../localization/en-US/korean-batch-068.jsonl#L192) | art_fltcy03 / ["TextList", 104, "Text"] | [루스]/n게이시르 제국의 부흥을 위해! | [Ruth]/nTo the revival of the Geyshir Empire! |
+| [R17655](../../localization/en-US/korean-batch-068.jsonl#L192) | art_fltcy03 / ["TextList", 104, "Text"] | [루스]/n게이시르 제국의 부흥을 위해! | [Ruth]/nTo the revival of the Geysir Empire! |
 | [R17656](../../localization/en-US/korean-batch-068.jsonl#L193) | art_fltcy03 / ["TextList", 105, "Text"] | 실례지만/30d 루스라는 분을 아십니까? | Excuse me,/30d do you know someone named Ruth? |
 | [R17657](../../localization/en-US/korean-batch-068.jsonl#L194) | art_fltcy03 / ["TextList", 107, "Text"] | 음?/35d 당신이 루스…? | Hmm?/35d You're Ruth...? |
 | [R17658](../../localization/en-US/korean-batch-068.jsonl#L195) | art_fltcy03 / ["TextList", 114, "Text"] | 그것은… | That is... |

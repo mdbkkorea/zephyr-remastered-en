@@ -143,7 +143,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R15559](../../localization/en-US/korean-batch-062.jsonl#L135) | art_ko_fltga02 / ["TextList", 16, "Text"] | 저는 비밀 임무 수행중입니다. | I'm on a secret mission. |
 | [R15560](../../localization/en-US/korean-batch-062.jsonl#L136) | art_ko_fltga02 / ["TextList", 21, "Text"] | 안녕하세요! | Hello! |
 | [R15561](../../localization/en-US/korean-batch-062.jsonl#L137) | art_ko_fltga02 / ["TextList", 22, "Text"] | 이곳은 리브레빌 시티입니다. | This is Libreville City. |
-| [R15562](../../localization/en-US/korean-batch-062.jsonl#L138) | art_ko_fltga02 / ["TextList", 25, "Text"] | 게이시르시티 서부 | West Geyshir City |
+| [R15562](../../localization/en-US/korean-batch-062.jsonl#L138) | art_ko_fltga02 / ["TextList", 25, "Text"] | 게이시르시티 서부 | West Geysir City |
 | [R15563](../../localization/en-US/korean-batch-062.jsonl#L139) | art_ko_fltga02 / ["TextList", 26, "Text"] | 저는 얼마전에 파혼당했어요.  | My engagement was broken off recently.  |
 | [R15564](../../localization/en-US/korean-batch-062.jsonl#L140) | art_ko_fltga02 / ["TextList", 28, "Text"] | 저는 교회가 정말 싫어요. | I really hate the Church. |
 | [R15565](../../localization/en-US/korean-batch-062.jsonl#L141) | art_ko_fltga02 / ["TextList", 36, "Text"] | 샤론이라는 가수는 상당히 인기가 있는 모양이더군 | That singer Sharon seems quite popular. |
@@ -153,8 +153,8 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R15569](../../localization/en-US/korean-batch-062.jsonl#L145) | art_ko_fltga02 / ["TextList", 45, "Text"] | 억울한 죽음을 당했다고 하는 것 같은데... | It seems they say the death was unjust... |
 | [R15570](../../localization/en-US/korean-batch-062.jsonl#L146) | art_ko_fltga02 / ["TextList", 48, "Text"] | 난 분명히 누군가를 죽이라는 지령을 받았소. | I definitely received orders to kill someone. |
 | [R15571](../../localization/en-US/korean-batch-062.jsonl#L147) | art_ko_fltga02 / ["TextList", 50, "Text"] | 누구지! 혹시 당신인가! | Who is it?! Could it be you?! |
-| [R15572](../../localization/en-US/korean-batch-062.jsonl#L148) | art_ko_fltga02 / ["TextList", 51, "Text"] | 어서오게나 이곳은 게이시르 최고의 주점이지. | Welcome. This is the finest tavern in Geyshir. |
-| [R15573](../../localization/en-US/korean-batch-062.jsonl#L149) | art_ko_fltga02 / ["TextList", 53, "Text"] | 게이시르 발전의 영광을 위해! | To the glory of Geyshir's prosperity! |
+| [R15572](../../localization/en-US/korean-batch-062.jsonl#L148) | art_ko_fltga02 / ["TextList", 51, "Text"] | 어서오게나 이곳은 게이시르 최고의 주점이지. | Welcome. This is the finest tavern in Geysir. |
+| [R15573](../../localization/en-US/korean-batch-062.jsonl#L149) | art_ko_fltga02 / ["TextList", 53, "Text"] | 게이시르 발전의 영광을 위해! | To the glory of Geysir's prosperity! |
 | [R15574](../../localization/en-US/korean-batch-062.jsonl#L150) | art_ko_fltga02 / ["TextList", 57, "Text"] | 복수하겠어. 결단코... | I will have revenge. I swear it... |
 | [R15575](../../localization/en-US/korean-batch-062.jsonl#L151) | art_ko_fltga02 / ["TextList", 62, "Text"] | 이 집은 문이 잠긴 것 같다. | The door to this house seems locked. |
 | [R15576](../../localization/en-US/korean-batch-062.jsonl#L152) | art_ko_flmsd18 / ["TextList", 2, "Text"] | 역시 클라우제비츠가 말한대로군.  | Just as Clausewitz said.  |
@@ -261,7 +261,7 @@ Controls are displayed literally. Exact whitespace and full notes are in the lin
 | [R15677](../../localization/en-US/korean-batch-062.jsonl#L253) | art_fltga02 / ["TextList", 38, "Text"] | 샤론, 샤론. 아 샤론은 나의 우상!  | Sharon, Sharon. Ah, Sharon is my idol!  |
 | [R15678](../../localization/en-US/korean-batch-062.jsonl#L254) | art_fltga02 / ["TextList", 48, "Text"] | 난 분명히 누군가를 죽이라는 지령을 받았소. | I definitely received orders to kill someone. |
 | [R15679](../../localization/en-US/korean-batch-062.jsonl#L255) | art_fltga02 / ["TextList", 50, "Text"] | 누구지! 혹시 당신인가! | Who is it?! Could it be you?! |
-| [R15680](../../localization/en-US/korean-batch-062.jsonl#L256) | art_fltga02 / ["TextList", 53, "Text"] | 게이시르 발전의 영광을 위해! | To the glory of Geyshir's prosperity! |
+| [R15680](../../localization/en-US/korean-batch-062.jsonl#L256) | art_fltga02 / ["TextList", 53, "Text"] | 게이시르 발전의 영광을 위해! | To the glory of Geysir's prosperity! |
 | [R15681](../../localization/en-US/korean-batch-062.jsonl#L257) | art_fltga02 / ["TextList", 62, "Text"] | 이 집은 문이 잠긴 것 같다. | The door to this house seems locked. |
 | [R15682](../../localization/en-US/korean-batch-062.jsonl#L258) | art_fltka01b / ["TextList", 5, "Text"] | 카라카스 마을 공격작전 | Operation: Attack Caracas Village |
 | [R15683](../../localization/en-US/korean-batch-062.jsonl#L259) | art_flwga10a / ["TextList", 0, "Text"] | 동 - 니코시아 마을/n남 - 멤피스 마을 | East - Nicosia Village/nSouth - Memphis Village |
