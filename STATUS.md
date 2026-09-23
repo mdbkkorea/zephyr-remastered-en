@@ -13,3 +13,9 @@ Pending: native Fedora 44/Proton gameplay, wider story coverage and translated m
 Centralized version reporting and manifest version. Translation payload is unchanged from build 016. Source suite: 54 tests passed in 0.899 s. Platform rebuild validation is recorded in the release notes. Windows is the only fully tested release; macOS/Linux are experimental.
 
 Windows beta.1 rebuild and direct GUI install/restore passed. All three beta.1 packages are ready, with Windows the only fully tested installer release and macOS/Linux experimental. Automatic export now refreshes packaged tests when combining older resource kits.
+
+### Safari review suggestions - 2026-09-23
+
+Added per-entry translation suggestions and explanations with separate pending Markdown records. A loopback-only Mac service saves into the mounted review folder. Browser drafts survive navigation; saved entries reload; revisions preserve previous Markdown files. Source/revision checks, idempotent retry and explicit save-failure states prevent silent data loss. No translation or game files are changed automatically. Private suggestion records and deployed service data are excluded from Git.
+
+Validation: six persistence tests; JavaScript search/navigation, draft retention, successful saves/reload and offline failure tests; actual HTTP-to-mounted-storage Markdown save/readback with Unicode, idempotency and origin/token/source rejection. Safari rendering inspected; native Safari typing/save interaction was not established by automation. API and JavaScript paths were independently tested. No compiled release changes.

@@ -59,6 +59,10 @@ After a failed installation, select the same game folder and click **Check Files
 
 The default PURPLE folder is `C:\Program Files (x86)\NC\Rhapsody of Zephyr Remastered`. PURPLE requires a separate experimental package; the linked Steam release does not support it.
 
+### Saving translation suggestions on Mac
+
+The Safari review provides **Translation suggestion**, **Explanation**, and **Save suggestion** for each entry. A local-only service saves separate Markdown files to the mounted review folder. Suggestions stay pending until implementation is requested. See [setup and usage](docs/REVIEW_SUGGESTIONS.md).
+
 ### Feedback and credits
 
 When reporting a translation issue, include the Korean text or a screenshot, the scene/menu, and your suggested English wording. If you have a review sheet, include its review number.
@@ -126,6 +130,10 @@ C:\Program Files (x86)\Steam\steamapps\common\The Rhapsody of Zephyr Remastered
 설치에 실패했다면 같은 게임 폴더를 선택하고 **Check Files**를 누르세요. 중단된 작업이 있다고 표시되면 **Recover → Check Files** 순서로 진행한 뒤, 지원되는 원본 파일이라고 확인될 때 설치를 다시 진행하세요. 복원을 위해 패치 프로그램과 백업을 보관하세요.
 
 PURPLE 기본 설치 경로는 `C:\Program Files (x86)\NC\Rhapsody of Zephyr Remastered`입니다. PURPLE은 별도의 실험용 패키지가 필요하며, 위에 링크된 Steam 배포판으로는 패치할 수 없습니다.
+
+### Mac에서 번역 수정 제안 저장
+
+Safari 검토 화면에서 항목별 **Translation suggestion(번역 제안)**과 **Explanation(설명)**을 입력하고 **Save suggestion**을 누르면, 로컬 전용 서비스가 연결된 검토 폴더에 별도의 Markdown 파일을 저장합니다. 사용자가 반영을 요청하기 전까지 제안은 대기 상태로 유지됩니다. [설정 및 사용법](docs/REVIEW_SUGGESTIONS.md)을 참고하세요.
 
 ### 의견 보내기 및 크레딧
 

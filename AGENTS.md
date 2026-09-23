@@ -12,3 +12,5 @@ Read STATUS.md and TEST_LOG.md at the start of each session.
 - Keep original game assets and extracted full source catalogs in ignored private/; do not commit binaries, credentials, or full game dumps.
 - Record exact validation results and distinguish a draft catalog from an installable, runtime-tested English patch.
 - Update STATUS.md and TEST_LOG.md when completing work. Do not publish or push unless requested.
+
+- Safari review suggestions are pending Markdown files in the review folder’s Suggestions subfolder. Read/apply them only when the user asks; saving is not authorization to change translations. Report grammar issues or better wording for user-proposed replacements. Ignore ReviewService/TestArchives as test-only data.

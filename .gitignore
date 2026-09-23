@@ -23,3 +23,7 @@ work/
 localization/en-US/catalog.jsonl
 
 .DS_Store
+
+# Private review suggestions and deployed service data
+Suggestions/
+ReviewService/
