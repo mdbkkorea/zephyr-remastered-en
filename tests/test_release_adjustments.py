@@ -1,3 +1,4 @@
+import copy
 import hashlib
 import json
 import struct
@@ -22,6 +23,23 @@ class ReleaseAdjustmentTests(unittest.TestCase):
         self.assertEqual(tree['m_fontSize'],16.0)
         with self.assertRaises(ValueError):apply_layout(tree,r['file'],(r['serialized_file'],r['object_id']))
         self.assertEqual(apply_layout(tree,'other',('other',0)),0)
+    def test_quest_layout_validates_before_mutating(self):
+        changes=json.loads(Path('localization/quest-layout.json').read_text())['changes']
+        ref=changes[0]['reference']
+        same=[c for c in changes if all(c['reference'][f]==ref[f] for f in ('file','serialized_file','object_id'))]
+        tree={c['reference']['path'][0]:c['expected'] for c in same}
+        tree.update(m_text=same[0]['expected_text'], m_fontSize=24.0, unrelated='keep')
+        key=(ref['serialized_file'],ref['object_id'])
+        broken=copy.deepcopy(tree); broken[same[-1]['reference']['path'][0]]='unexpected'
+        before=copy.deepcopy(broken)
+        with self.assertRaises(ValueError):apply_layout(broken,ref['file'],key)
+        self.assertEqual(broken,before)
+        wrong=copy.deepcopy(tree); wrong['m_text']='Unknown label'
+        with self.assertRaises(ValueError):apply_layout(wrong,ref['file'],key)
+        self.assertEqual(apply_layout(tree,ref['file'],key),len(same))
+        self.assertEqual(tree['m_TextWrappingMode'],0)
+        self.assertEqual(tree['m_fontSize'],24.0)
+        self.assertEqual(tree['unrelated'],'keep')
     def test_linebreak_approval_does_not_allow_changed_pause_or_wording(self):
         approved=json.loads(Path('localization/en-US/linebreak-review.json').read_text())[0]
         rows=[json.loads(l) for p in Path('localization/en-US').glob('korean-batch-*.jsonl') for l in p.read_text().splitlines()]

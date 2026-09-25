@@ -185,7 +185,7 @@ def stage(game, output, source, drafts, patch, report, metadata_drafts=None):
         'No runtime validation. '
         'Do not copy over the Steam installation.\n', encoding='utf-8')
     outputs = []
-    from scripts.release_adjustments import apply_layout, patch_reveal
+    from scripts.release_adjustments import apply_layout, patch_reveal, expected_layout_count, layout_changes
     layout_count = 0
     for relative, rows in grouped.items():
         env = UnityPy.load(str(beneath(game, relative)))
@@ -195,13 +195,19 @@ def stage(game, output, source, drafts, patch, report, metadata_drafts=None):
         by_object = defaultdict(list)
         for r in rows:
             by_object[(r['reference']['serialized_file'], r['reference']['object_id'])].append(r)
+        for change, _ in layout_changes():
+            ref = change['reference']
+            if ref['file'] == relative:
+                by_object.setdefault((ref['serialized_file'], ref['object_id']), [])
         expected_trees = {}
         nodes = {}
         for key, object_rows in by_object.items():
-            obj, edit = objects[key], edits[key]
-            if raw_before[key] != edit['before_raw_sha256']:
+            obj, edit = objects[key], edits.get(key)
+            if edit and raw_before[key] != edit['before_raw_sha256']:
                 raise ValueError('Original object hash mismatch')
-            node = schema(edit)
+            # Layout-only chapter headings have native type trees. Their bundle
+            # has already passed the exact original-file hash check above.
+            node = schema(edit) if edit else None
             tree = obj.read_typetree(nodes=node)
             for r in object_rows:
                 path = r['reference']['path']
@@ -275,8 +281,8 @@ def stage(game, output, source, drafts, patch, report, metadata_drafts=None):
     for relative, original_digest in checked.items():
         if digest(beneath(game, relative).read_bytes()) != original_digest:
             raise ValueError('Original changed during build')
-    if layout_count != 12:
-        raise ValueError('Expected twelve verified Auto-Advance font fields')
+    if layout_count != expected_layout_count(patch_files) or layout_count != 97:
+        raise ValueError('Not all verified Auto-Advance and quest layout fields were applied')
     binary = 'GameAssembly.dll'
     before = beneath(game, binary).read_bytes()
     rebuilt = patch_reveal(before)

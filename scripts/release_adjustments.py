@@ -1,4 +1,4 @@
-"""Hash-locked reveal speed and reviewed Auto-Advance layout adjustments."""
+"""Hash-locked reveal speed and verified UI layout adjustments."""
 import hashlib
 import json
 import struct
@@ -23,16 +23,31 @@ def patch_reveal(original):
     return bytes(result)
 
 
+def layout_changes():
+    for filename, default_text in (
+        ('auto-advance-layout.json', '<sprite=20> Auto-Advance'),
+        ('quest-layout.json', None),
+    ):
+        profile = json.loads((ROOT/'localization'/filename).read_text())
+        for change in profile['changes']:
+            yield change, change.get('expected_text', default_text)
+
+
+def expected_layout_count(files):
+    return sum(1 for change, _ in layout_changes() if change["reference"]["file"] in files)
+
+
 def apply_layout(tree, relative, key):
-    profile = json.loads((ROOT/'localization/auto-advance-layout.json').read_text())
-    count = 0
-    for change in profile['changes']:
+    matched = []
+    for change, expected_text in layout_changes():
         ref = change['reference']
         if (ref['file'], ref['serialized_file'], ref['object_id']) != (relative, *key):
             continue
         field, = ref['path']
-        if tree[field] != change['expected'] or tree.get('m_text') != '<sprite=20> Auto-Advance':
-            raise ValueError('Unexpected Auto-Advance label/font')
+        if tree.get(field) != change['expected'] or expected_text is None or tree.get('m_text') != expected_text:
+            raise ValueError('Unexpected UI layout field or label: ' + str(key) + ' / ' + field)
+        matched.append((field, change))
+    # Validate all fields before changing the object.
+    for field, change in matched:
         tree[field] = change['value']
-        count += 1
-    return count
+    return len(matched)

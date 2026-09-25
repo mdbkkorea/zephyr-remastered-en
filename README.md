@@ -19,6 +19,10 @@ Translation review and gameplay screenshots have led to corrections to character
 
 Long labels have also been shortened where the game interface clips or overlaps text. The latest working translation uses full battle labels such as **Weak Slash**, **Strong Slash**, **Blade Shot** (탄검), and **Killing Blade** (살검). Existing release packages may retain earlier wording. Names and wording that have not been confirmed remain provisional, and review is ongoing.
 
+### Quest text sizing (next build)
+
+Long quest titles and objectives will automatically shrink to fit their rows in the tracker and journal. The shared rules also cover later quests; long journal descriptions can shrink within the page. This is integrated for the next build, **not included in the existing beta.5 downloads**. In-game visual verification is still pending. [Layout details](docs/QUEST_TEXT_LAYOUT.md).
+
 ### Faster dialogue reveal
 
 The beta.3 patch includes **2.5× faster letter-by-letter dialogue reveal** (28 ms per character instead of 70 ms). This reduces the wait caused by longer English text after the spoken audio finishes. Voice playback speed and scripted pauses are unchanged.
@@ -107,6 +111,9 @@ The upstream license and contributor credits remain in place. The tool license d
 ---
 
 ## 한국어
+
+다음 빌드에는 퀘스트 추적기와 일지의 긴 제목·목표를 한 줄에 맞추는 자동 글자 크기 조절이 포함됩니다. 이후 퀘스트에도 공통 적용되며 긴 일지 설명도 페이지 안에 맞춰 축소됩니다. **현재 beta.5 다운로드에는 아직 포함되지 않았으며**, 게임 내 화면 확인은 대기 중입니다.
+
 
 **서풍의 광시곡 리마스터의 한국어 원문을 기준으로 진행하는 비공식 영어 번역 프로젝트**입니다.
 

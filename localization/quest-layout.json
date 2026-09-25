@@ -1,0 +1,2445 @@
+{
+  "description": "Quest tracker and journal fit: shared auto-sizing covers current and future labels. Single-line labels; long journal descriptions shrink within the page. Mac playtest pending.",
+  "changes": [
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -7064119172572695964,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -7064119172572695964,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -7019617347361099164,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -7019617347361099164,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -5146455070214245788,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -5146455070214245788,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1794668228321725852,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1794668228321725852,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1794668228321725852,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 28.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1794668228321725852,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1407273366302281116,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1407273366302281116,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_margin"
+        ]
+      },
+      "expected": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 80.0,
+        "w": 0.0
+      },
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 4212927723643941476,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 4212927723643941476,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 4212927723643941476,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 24.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 4212927723643941476,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 5321007206282375780,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 5321007206282375780,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 5321007206282375780,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 30.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_55f4b7f163169d179e2cf8d46e5e2d2e.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 5321007206282375780,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -9204753870520783476,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -9204753870520783476,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_margin"
+        ]
+      },
+      "expected": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 80.0,
+        "w": 0.0
+      },
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8019668469825796423,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8019668469825796423,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -7078422500546705735,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -7078422500546705735,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6639272637160582884,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6639272637160582884,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6510863648965422820,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6510863648965422820,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6510863648965422820,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 30.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6510863648965422820,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_margin"
+        ]
+      },
+      "expected": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 80.0,
+        "w": 0.0
+      },
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6357058390854430436,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6357058390854430436,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -5576509090074530420,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -5576509090074530420,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -4153439372648518260,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -4153439372648518260,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -4153439372648518260,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 24.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -4153439372648518260,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3827947960165260229,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3827947960165260229,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3827947960165260229,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 28.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3827947960165260229,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3807403126347127749,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3807403126347127749,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3807403126347127749,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 30.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3807403126347127749,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3794058708191964900,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3794058708191964900,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3011304181837134151,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3011304181837134151,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -2339132984749644741,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -2339132984749644741,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1868292722175152412,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1868292722175152412,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1868292722175152412,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 28.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1868292722175152412,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 2303395835362536844,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 2303395835362536844,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 6405372963150628537,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 6405372963150628537,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 6405372963150628537,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 24.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 6405372963150628537,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 8805501313608290588,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 8805501313608290588,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 8805501313608290588,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 24.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 8805501313608290588,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 9092569403059966236,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_0065e584cb89b0c78d0e9248322b75cc.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 9092569403059966236,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -7064119172572695964,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -7064119172572695964,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -7019617347361099164,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -7019617347361099164,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -5146455070214245788,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -5146455070214245788,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1794668228321725852,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1794668228321725852,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1794668228321725852,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 28.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1794668228321725852,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1407273366302281116,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": -1407273366302281116,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 1065885335724175972,
+        "path": [
+          "m_margin"
+        ]
+      },
+      "expected": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 80.0,
+        "w": 0.0
+      },
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 4212927723643941476,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 4212927723643941476,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 4212927723643941476,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 24.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 4212927723643941476,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 5321007206282375780,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 5321007206282375780,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 5321007206282375780,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 30.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_076689a787646698e65b9c4e31fc7716.bundle",
+        "serialized_file": "CAB-4ea450ab56ee4a3a65bd0209cf102830",
+        "object_id": 5321007206282375780,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -9204753870520783476,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -9204753870520783476,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8198766584071614180,
+        "path": [
+          "m_margin"
+        ]
+      },
+      "expected": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 80.0,
+        "w": 0.0
+      },
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8019668469825796423,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -8019668469825796423,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -7078422500546705735,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -7078422500546705735,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6639272637160582884,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6639272637160582884,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6510863648965422820,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6510863648965422820,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6510863648965422820,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 30.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6510863648965422820,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6483982907774065605,
+        "path": [
+          "m_margin"
+        ]
+      },
+      "expected": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 80.0,
+        "w": 0.0
+      },
+      "role": "journal-parent",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6357058390854430436,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -6357058390854430436,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -5576509090074530420,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -5576509090074530420,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -4153439372648518260,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -4153439372648518260,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -4153439372648518260,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 24.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -4153439372648518260,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3827947960165260229,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3827947960165260229,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3827947960165260229,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 28.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3827947960165260229,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3807403126347127749,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3807403126347127749,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3807403126347127749,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 30.0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3807403126347127749,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-child",
+      "expected_text": "QuestNameQuestName"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3794058708191964900,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3794058708191964900,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3011304181837134151,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -3011304181837134151,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -2339132984749644741,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": -2339132984749644741,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 32.0,
+      "role": "journal-details",
+      "expected_text": "Rescue the comrades imprisoned in Inferno's dungeon."
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1868292722175152412,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1868292722175152412,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 16.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1868292722175152412,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 28.0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 1868292722175152412,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "journal-chapter",
+      "expected_text": "Chapter"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 2303395835362536844,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 2303395835362536844,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 6405372963150628537,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 6405372963150628537,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 6405372963150628537,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 24.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 6405372963150628537,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 8805501313608290588,
+        "path": [
+          "m_enableAutoSizing"
+        ]
+      },
+      "expected": 0,
+      "value": 1,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 8805501313608290588,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 8805501313608290588,
+        "path": [
+          "m_fontSizeMax"
+        ]
+      },
+      "expected": 72.0,
+      "value": 24.0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 8805501313608290588,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "SideQuestSideQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 9092569403059966236,
+        "path": [
+          "m_fontSizeMin"
+        ]
+      },
+      "expected": 18.0,
+      "value": 10.0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    },
+    {
+      "reference": {
+        "file": "ZephyrRemastered_Data/StreamingAssets/aa/StandaloneWindows64/ui_re_assets_all_b7e49be022525b871167af5513f06764.bundle",
+        "serialized_file": "CAB-6e95fc792d1aaac95002ff7ab0e84b0c",
+        "object_id": 9092569403059966236,
+        "path": [
+          "m_TextWrappingMode"
+        ]
+      },
+      "expected": 1,
+      "value": 0,
+      "role": "tracker",
+      "expected_text": "MainQuestMainQuest"
+    }
+  ]
+}
